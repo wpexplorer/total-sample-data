@@ -2,5 +2,5 @@ This is the sample data files for the <a href="http://themeforest.net/item/total
 
 If you have any questions, feel free to <a href="http://wpexplorer-themes.com/total/support/">contact us</a> for support.
 
-#### Not Valid Error?
+##### Not Valid Error?
 Apparently some people may have issues when using the files because of how they are stored on Github if they are using a UNIX server. If you are having this problem send me a private message and I will email you a zip version directly from my work computer.
