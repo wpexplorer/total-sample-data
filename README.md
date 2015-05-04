@@ -16,4 +16,4 @@ Slimmed down version of the base demo that will import quickly - http://totalthe
 Should import very quickly and doesn't include demo-only pages and bbPress forums
 
 ### Demos
-Custom demos - http://totaltheme.wpengine.com/base-essential/
+Custom demos - http://wpexplorer-themes.com/total/demos/
