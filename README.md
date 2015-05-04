@@ -5,7 +5,7 @@
 
 
 ## Important
-<p>You must extract the zip after downloading and select only the .xml file you want to import via WordPress at Tools > Import > WordPress
+<p>You must extract the zip after downloading and select only the file you wish to import, which will depend if you are importing main sample data, templatera templates sliders or theme options.
 
 ### Base
 The MASSIVE sample data from the base demo - http://totaltheme.wpengine.com/base/
