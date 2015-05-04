@@ -6,3 +6,14 @@
 
 ## Important
 <p>You must extract the zip after downloading and select only the .xml file you want to import via WordPress at Tools > Import > WordPress
+
+### Base
+The MASSIVE sample data from the base demo - http://totaltheme.wpengine.com/base/
+Takes a long time to upload and some servers may not be able to handle it
+
+### Base Essential
+Slimmed down version of the base demo that will import quickly - http://totaltheme.wpengine.com/base-essential/
+Should import very quickly and doesn't include demo-only pages and bbPress forums
+
+### Demos
+Custom demos - http://totaltheme.wpengine.com/base-essential/
