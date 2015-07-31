@@ -19,7 +19,6 @@
 		"demo_slug": "samus"
 	},
 
-
 	"agent":{
 		"name":"Agent",
 		"demo_slug": "agent"
@@ -65,10 +64,12 @@
 		"demo_slug": "blogdotnom"
 	},
 
-
 	"married":{
 		"name":"Married",
-		"demo_slug": "married"
+		"demo_slug": "married",
+		"nav_menu_locations" : {
+			"main": "menu"
+		}
 	}
 
 }
