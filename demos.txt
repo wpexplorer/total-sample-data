@@ -1,14 +1,74 @@
 {
-	"base":"Base",
-	"base_essential":"Base Essential",
-	"samus":"Samus",
-	"agent":"Agent",
-	"appy":"Appy",
-	"construct":"Construct",
-	"freelancer":"Freelancer",
-	"graphix":"Graphix",
-	"nouveau":"Nouveau",
-	"healthcare":"Healthcare",
-	"blogdotnom":"Blogdotnom",
-	"married":"Married"
+	"base":{
+		"name":"Base",
+		"demo_slug": "base"
+	},
+
+	"base":{
+		"name":"Base Essential",
+		"demo_slug": "base-essential"
+	},
+
+	"samus":{
+		"name":"Samus",
+		"demo_slug": "samus"
+	},
+
+	"samus":{
+		"name":"Samus",
+		"demo_slug": "samus"
+	},
+
+
+	"agent":{
+		"name":"Agent",
+		"demo_slug": "agent"
+	},
+
+	"appy":{
+		"name":"Appy",
+		"demo_slug": "appy"
+	},
+
+	"construct":{
+		"name":"Construct",
+		"demo_slug": "construct"
+	},
+
+	"freelancer":{
+		"name":"Freelancer",
+		"demo_slug": "freelancer"
+	},
+
+	"graphix":{
+		"name":"Graphix",
+		"demo_slug": "graphix"
+	},
+
+	"graphix":{
+		"name":"Graphix",
+		"demo_slug": "graphix"
+	},
+
+	"nouveau":{
+		"name":"Nouveau",
+		"demo_slug": "nouveau"
+	},
+
+	"healthcare":{
+		"name":"Healthcare",
+		"demo_slug": "healthcare"
+	},
+
+	"blogdotnom":{
+		"name":"Blogdotnom",
+		"demo_slug": "blogdotnom"
+	},
+
+
+	"married":{
+		"name":"Married",
+		"demo_slug": "married"
+	}
+
 }
