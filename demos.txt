@@ -3,7 +3,7 @@
 	"base":{
 		"name":"Base",
 		"demo_slug": "base",
-		"sliders": {
+		"sliders": [
 			"slider_1",
 			"slider_2",
 			"slider_3",
@@ -15,24 +15,24 @@
 			"slider_9",
 			"slider_10",
 			"slider_11"
-		},
+		],
 		"nav_menu_locations": {
 			"main_menu": "menu",
 			"footer_menu": "footer"
 		},
-		"plugins": {
+		"plugins": [
 			"Visual Composer",
 			"WooCommerce",
 			"Revolution Slider",
 			"Contact Form 7",
 			"bbPress"
-		}
+		]
 	},
 
 	"base_essential":{
 		"name":"Base-Essential",
 		"demo_slug": "base-essential",
-		"sliders": {
+		"sliders": [
 			"slider_1",
 			"slider_2",
 			"slider_3",
@@ -44,18 +44,18 @@
 			"slider_9",
 			"slider_10",
 			"slider_11"
-		},
+		],
 		"nav_menu_locations": {
 			"main_menu": "menu",
 			"footer_menu": "footer"
 		},
-		"plugins": {
+		"plugins": [
 			"Visual Composer",
 			"WooCommerce",
 			"Revolution Slider",
 			"Contact Form 7",
 			"bbPress"
-		}
+		]
 	},
 
 	"samus":{
@@ -65,9 +65,9 @@
 			"main_menu": "menu",
 			"footer_menu": "footer"
 		},
-		"plugins": {
+		"plugins": [
 			"Visual Composer"
-		}
+		]
 	},
 
 	"classy":{
@@ -77,14 +77,14 @@
 			"main_menu": "menu",
 			"footer_menu": "footer"
 		},
-		"sliders": {
+		"sliders": [
 			"classicslider1"
-		},
-		"plugins": {
+		],
+		"plugins": [
 			"Visual Composer",
 			"Revolution Slider",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"agent":{
@@ -93,24 +93,24 @@
 		"nav_menu_locations": {
 			"main_menu": "menu"
 		},
-		"sliders": {
+		"sliders": [
 			"home",
 			"shop"
-		},
-		"plugins": {
+		],
+		"plugins": [
 			"Visual Composer",
 			"WooCommerce",
 			"Revolution Slider",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"appy":{
 		"name":"Appy",
 		"demo_slug": "appy",
-		"plugins": {
+		"plugins": [
 			"Visual Composer"
-		}
+		]
 	},
 
 	"flat":{
@@ -119,15 +119,15 @@
 		"nav_menu_locations": {
 			"main_menu": "menu"
 		},
-		"sliders": {
+		"sliders": [
 			"flat_home"
-		},
-		"plugins": {
+		],
+		"plugins": [
 			"Visual Composer",
 			"WooCommerce",
 			"Revolution Slider",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"construct":{
@@ -137,14 +137,14 @@
 			"main_menu": "menu",
 			"footer_menu": "footer"
 		},
-		"sliders": {
+		"sliders": [
 			"services"
-		},
-		"plugins": {
+		],
+		"plugins": [
 			"Visual Composer",
 			"Revolution Slider",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"freelancer":{
@@ -153,10 +153,10 @@
 		"nav_menu_locations": {
 			"main_menu": "menu"
 		},
-		"plugins": {
+		"plugins": [
 			"Visual Composer",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"modern_agency":{
@@ -167,14 +167,14 @@
 	"graphix":{
 		"name":"Graphix",
 		"demo_slug": "graphix",
-		"sliders": {
+		"sliders": [
 			"home"
-		},
-		"plugins": {
+		],
+		"plugins": [
 			"Visual Composer",
 			"Revolution Slider",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"nouveau":{
@@ -183,14 +183,14 @@
 		"nav_menu_locations": {
 			"main_menu": "menu"
 		},
-		"sliders": {
+		"sliders": [
 			"slider_1"
-		},
-		"plugins": {
+		],
+		"plugins": [
 			"Visual Composer",
 			"Revolution Slider",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"healthcare":{
@@ -200,15 +200,15 @@
 			"main_menu": "menu",
 			"footer_menu": "footer"
 		},
-		"sliders": {
+		"sliders": [
 			"home",
 			"shop"
-		},
-		"plugins": {
+		],
+		"plugins": [
 			"Visual Composer",
 			"Revolution Slider",
 			"Contact Form 7"
-		}
+		]
 	},
 
 	"blogdotnom":{
@@ -216,7 +216,7 @@
 		"demo_slug": "blogdotnom",
 		"nav_menu_locations": {
 			"main_menu": "menu"
-		},
+		}
 	},
 
 	"married":{
@@ -225,10 +225,10 @@
 		"nav_menu_locations": {
 			"main_menu": "menu"
 		},
-		"plugins": {
+		"plugins": [
 			"Visual Composer",
 			"Contact Form 7"
-		}
+		]
 	}
 
 }
