@@ -113,6 +113,14 @@
 		]
 	},
 
+	"awareness":{
+		"name":"Awareness",
+		"demo_slug": "awareness",
+		"plugins": [
+			"Visual Composer"
+		]
+	},
+
 	"flat":{
 		"name":"Flat",
 		"demo_slug": "flat",
