@@ -70,6 +70,19 @@
 		]
 	},
 
+	"corporate":{
+		"name":"Corporate",
+		"demo_slug": "corporate",
+		"nav_menu_locations": {
+			"main_menu": "main"
+		},
+		"plugins": [
+			"Visual Composer",
+			"Revolution Slider",
+			"Contact Form 7"
+		]
+	},
+
 	"classy":{
 		"name":"Classy",
 		"demo_slug": "classy",
