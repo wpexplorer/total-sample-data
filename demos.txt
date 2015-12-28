@@ -250,6 +250,18 @@
 			"Visual Composer",
 			"Contact Form 7"
 		]
+	},
+
+	"lawfirm":{
+		"name":"Law Firm",
+		"demo_slug": "law-firm",
+		"nav_menu_locations": {
+			"main_menu": "menu"
+		},
+		"plugins": [
+			"Visual Composer",
+			"Contact Form 7"
+		]
 	}
 
 }
