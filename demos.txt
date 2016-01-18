@@ -1,7 +1,7 @@
 {
 
-	"base":{
-		"name":"Base",
+	"base": {
+		"name": "Base",
 		"demo_slug": "base",
 		"sliders": [
 			"slider_1",
@@ -29,8 +29,8 @@
 		]
 	},
 
-	"base_essential":{
-		"name":"Base-Essential",
+	"base_essential": {
+		"name": "Base-Essential",
 		"demo_slug": "base-essential",
 		"sliders": [
 			"slider_1",
@@ -58,8 +58,8 @@
 		]
 	},
 
-	"samus":{
-		"name":"Samus",
+	"samus": {
+		"name": "Samus",
 		"demo_slug": "samus",
 		"nav_menu_locations": {
 			"main_menu": "menu",
@@ -70,8 +70,8 @@
 		]
 	},
 
-	"corporate":{
-		"name":"Corporate",
+	"corporate": {
+		"name": "Corporate",
 		"demo_slug": "corporate",
 		"nav_menu_locations": {
 			"main_menu": "main"
@@ -83,8 +83,8 @@
 		]
 	},
 
-	"classy":{
-		"name":"Classy",
+	"classy": {
+		"name": "Classy",
 		"demo_slug": "classy",
 		"nav_menu_locations": {
 			"main_menu": "menu",
@@ -100,8 +100,8 @@
 		]
 	},
 
-	"agent":{
-		"name":"Agent",
+	"agent": {
+		"name": "Agent",
 		"demo_slug": "agent",
 		"nav_menu_locations": {
 			"main_menu": "menu"
@@ -118,24 +118,24 @@
 		]
 	},
 
-	"appy":{
-		"name":"Appy",
+	"appy": {
+		"name": "Appy",
 		"demo_slug": "appy",
 		"plugins": [
 			"Visual Composer"
 		]
 	},
 
-	"awareness":{
-		"name":"Awareness",
+	"awareness": {
+		"name": "Awareness",
 		"demo_slug": "awareness",
 		"plugins": [
 			"Visual Composer"
 		]
 	},
 
-	"flat":{
-		"name":"Flat",
+	"flat": {
+		"name": "Flat",
 		"demo_slug": "flat",
 		"nav_menu_locations": {
 			"main_menu": "menu"
@@ -151,8 +151,8 @@
 		]
 	},
 
-	"construct":{
-		"name":"Construct",
+	"construct": {
+		"name": "Construct",
 		"demo_slug": "construct",
 		"nav_menu_locations": {
 			"main_menu": "menu",
@@ -168,8 +168,8 @@
 		]
 	},
 
-	"freelancer":{
-		"name":"Freelancer",
+	"freelancer": {
+		"name": "Freelancer",
 		"demo_slug": "freelancer",
 		"nav_menu_locations": {
 			"main_menu": "menu"
@@ -180,13 +180,13 @@
 		]
 	},
 
-	"modern_agency":{
-		"name":"Modern-Agency",
+	"modern_agency": {
+		"name": "Modern-Agency",
 		"demo_slug": "modern-agency"
 	},
 
-	"graphix":{
-		"name":"Graphix",
+	"graphix": {
+		"name": "Graphix",
 		"demo_slug": "graphix",
 		"sliders": [
 			"home"
@@ -198,8 +198,8 @@
 		]
 	},
 
-	"nouveau":{
-		"name":"Nouveau",
+	"nouveau": {
+		"name": "Nouveau",
 		"demo_slug": "nouveau",
 		"nav_menu_locations": {
 			"main_menu": "menu"
@@ -214,8 +214,8 @@
 		]
 	},
 
-	"healthcare":{
-		"name":"Health-Care",
+	"healthcare": {
+		"name": "Health-Care",
 		"demo_slug": "healthcare",
 		"nav_menu_locations": {
 			"main_menu": "menu",
@@ -232,16 +232,16 @@
 		]
 	},
 
-	"blogdotnom":{
-		"name":"Blogdotnom",
+	"blogdotnom": {
+		"name": "Blogdotnom",
 		"demo_slug": "blogdotnom",
 		"nav_menu_locations": {
 			"main_menu": "menu"
 		}
 	},
 
-	"married":{
-		"name":"Married",
+	"married": {
+		"name": "Married",
 		"demo_slug": "married",
 		"nav_menu_locations": {
 			"main_menu": "menu"
@@ -252,8 +252,8 @@
 		]
 	},
 
-	"law_firm":{
-		"name":"Law-Firm",
+	"law_firm": {
+		"name": "Law-Firm",
 		"demo_slug": "law-firm",
 		"nav_menu_locations": {
 			"main_menu": "menu"
@@ -262,10 +262,10 @@
 			"Visual Composer",
 			"Contact Form 7"
 		]
-	}
+	},
 
-	"under_construction":{
-		"name":"Under-Construction",
+	"under_construction": {
+		"name": "Under-Construction",
 		"demo_slug": "under-construction",
 		"plugins": [
 			"Visual Composer"
