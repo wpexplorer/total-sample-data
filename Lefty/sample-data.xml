@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3.1" created="2015-09-28 01:23" -->
+<!-- generator="WordPress/4.4.2" created="2016-03-02 17:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,25 +26,25 @@
 >
 
 <channel>
-	<title>Lefty - Portfolio WordPress Total Theme Demo</title>
+	<title>Lefty</title>
 	<link>http://totaltheme.wpengine.com/lefty</link>
-	<description>Just another Totaltheme.wpengine.com site</description>
-	<pubDate>Mon, 28 Sep 2015 01:23:14 +0000</pubDate>
+	<description>Portfolio WordPress Total Theme Demo</description>
+	<pubDate>Wed, 02 Mar 2016 17:07:09 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
 	<wp:base_blog_url>http://totaltheme.wpengine.com/lefty</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>totaltheme</wp:author_login><wp:author_email>sympleworkz@gmail.com</wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>main</wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
+	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
 
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
 
 	<item>
 		<title>left</title>
-		<link>http://totaltheme.wpengine.com/lefty/?attachment_id=14</link>
+		<link>http://totaltheme.wpengine.com/lefty/left/</link>
 		<pubDate>Mon, 28 Sep 2015 00:08:01 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/left.png</guid>
@@ -52,24 +52,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
-		<wp:post_date>2015-09-28 00:08:01</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:08:01</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>left</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:08:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:08:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[left]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/left.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/left.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/left.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:185;s:6:"height";i:225;s:4:"file";s:16:"2015/09/left.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:16:"left-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -83,24 +83,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
-		<wp:post_date>2015-09-28 00:36:57</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:36:57</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>1-2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:36:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:36:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>15</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1157;s:4:"file";s:13:"2015/09/1.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"1-300x231.jpg";s:5:"width";i:300;s:6:"height";i:231;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"1-1024x790.jpg";s:5:"width";i:1024;s:6:"height";i:790;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -114,24 +114,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
-		<wp:post_date>2015-09-28 00:39:26</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:39:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:39:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:39:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>18</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/2.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/2.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:13:"2015/09/2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"2-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -145,24 +145,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2015-09-28 00:40:12</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:40:12</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>3</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:40:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:40:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>20</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/3.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/3.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1871;s:4:"file";s:13:"2015/09/3.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"3-241x300.jpg";s:5:"width";i:241;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"3-821x1024.jpg";s:5:"width";i:821;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -176,24 +176,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date>2015-09-28 00:41:09</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:41:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>4</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:41:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:41:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>23</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/4.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/4.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:900;s:4:"file";s:13:"2015/09/4.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"4-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"4-1024x614.jpg";s:5:"width";i:1024;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -207,24 +207,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
-		<wp:post_date>2015-09-28 00:41:44</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:41:44</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>5</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:41:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:41:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>25</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/5.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/5.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/5.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:13:"2015/09/5.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"5-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -238,24 +238,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
-		<wp:post_date>2015-09-28 00:42:24</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:42:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>6</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:42:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:42:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[6]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>27</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/6.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/6.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/6.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:13:"2015/09/6.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"6-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"6-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -269,24 +269,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2015-09-28 00:43:11</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:43:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>7-2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:43:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:43:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[7-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>29</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/7.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/7.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/7.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:13:"2015/09/7.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"7-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"7-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -300,24 +300,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
-		<wp:post_date>2015-09-28 00:43:56</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:43:56</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>8-2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:43:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:43:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[8-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>31</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/8.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/8.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/8.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:13:"2015/09/8.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"8-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"8-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -331,24 +331,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>34</wp:post_id>
-		<wp:post_date>2015-09-28 00:44:32</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:44:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>9</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:44:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:44:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[9]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>33</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/9.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/9.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/9.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1150;s:4:"file";s:13:"2015/09/9.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"9-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"9-300x230.jpg";s:5:"width";i:300;s:6:"height";i:230;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:14:"9-1024x785.jpg";s:5:"width";i:1024;s:6:"height";i:785;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -362,24 +362,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
-		<wp:post_date>2015-09-28 00:45:05</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:45:05</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>10</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:45:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:45:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[10]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>35</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/10.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/10.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/10.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:14:"2015/09/10.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"10-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"10-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"10-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -393,24 +393,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>38</wp:post_id>
-		<wp:post_date>2015-09-28 00:45:46</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:45:46</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>11</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:45:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:45:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[11]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>37</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/11.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/11.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/11.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:800;s:4:"file";s:14:"2015/09/11.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"11-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"11-300x160.jpg";s:5:"width";i:300;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"11-1024x546.jpg";s:5:"width";i:1024;s:6:"height";i:546;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -424,24 +424,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>43</wp:post_id>
-		<wp:post_date>2015-09-28 00:46:47</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:46:47</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>12</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:46:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:46:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[12]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>39</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/12.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/12.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/12.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1120;s:4:"file";s:14:"2015/09/12.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"12-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"12-300x224.jpg";s:5:"width";i:300;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"12-1024x765.jpg";s:5:"width";i:1024;s:6:"height";i:765;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -455,24 +455,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>44</wp:post_id>
-		<wp:post_date>2015-09-28 00:47:21</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:47:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>13</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:47:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:47:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[13]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>41</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/13.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/13.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/13.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:14:"2015/09/13.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"13-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"13-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"13-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -486,24 +486,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>45</wp:post_id>
-		<wp:post_date>2015-09-28 00:47:28</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:47:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>14</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:47:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:47:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[14]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>42</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/14.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/14.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/14.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:2250;s:4:"file";s:14:"2015/09/14.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"14-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"14-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"14-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -517,24 +517,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>50</wp:post_id>
-		<wp:post_date>2015-09-28 00:49:06</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:49:06</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>15</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:49:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:49:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[15]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>46</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/15.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/15.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/15.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:14:"2015/09/15.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"15-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"15-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"15-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -548,24 +548,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
-		<wp:post_date>2015-09-28 00:49:12</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:49:12</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>16</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:49:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:49:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[16]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>47</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/16.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/16.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/16.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1500;s:4:"file";s:14:"2015/09/16.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"16-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"16-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:16:"16-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -579,24 +579,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>52</wp:post_id>
-		<wp:post_date>2015-09-28 00:49:19</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:49:19</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>17</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:49:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:49:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[17]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>48</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/17.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/17.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/17.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:14:"2015/09/17.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"17-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"17-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"17-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -610,24 +610,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>53</wp:post_id>
-		<wp:post_date>2015-09-28 00:49:24</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:49:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>18</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:49:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:49:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[18]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>49</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/18.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/18.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/18.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:14:"2015/09/18.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"18-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"18-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"18-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -641,24 +641,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>54</wp:post_id>
-		<wp:post_date>2015-09-28 00:50:48</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:50:48</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>19</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:50:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:50:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[19]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>49</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/19.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/19.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/19.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:900;s:4:"file";s:14:"2015/09/19.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"19-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"19-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"19-1024x614.jpg";s:5:"width";i:1024;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -672,43 +672,43 @@
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1443400812394{padding-top: 60px !important;padding-bottom: 60px !important;}"][vc_column][vcex_portfolio_grid grid_style="masonry" posts_per_page="-1" thumb_link="lightbox" overlay_style="magnifying-hover" img_hover_style="grow" content_heading_weight="normal" excerpt="false" read_more="false" content_alignment="center" img_width="600" img_height="9999" content_heading_size="16px" content_background="#ffffff" content_padding="15px 20px 10px 20px" content_border="0px"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date>2015-09-27 23:19:31</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:19:31</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>homepage</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-27 23:19:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-27 23:19:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[homepage]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_title</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 			<wp:meta_value><![CDATA[.vc_custom_1443400812394{padding-top: 60px !important;padding-bottom: 60px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -730,39 +730,39 @@ Everything is handcrafted our of my home/studio/office.</p>
 <p style="text-align: center;">[/vc_column_text][/vc_column][/vc_row]</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
-		<wp:post_date>2015-09-27 23:20:46</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:20:46</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>about</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-27 23:20:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-27 23:20:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 			<wp:meta_value><![CDATA[.vc_custom_1443403176835{margin-bottom: 60px !important;}.vc_custom_1443402833048{margin-bottom: 20px !important;}.vc_custom_1443403016450{margin-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -780,39 +780,39 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 [/vc_column_text][vc_text_separator title="Follow Me" css=".vc_custom_1443402676174{margin-bottom: 20px !important;}"][vcex_social_links style="flat-color-rounded" link_target="blank" align="center" twitter="https://twitter.com/" facebook="https://www.facebook.com/" googleplus="https://plus.google.com/" pinterest="https://www.pinterest.com/" dribbble="https://dribbble.com/" instagram="https://instagram.com/" tumblr="https://www.tumblr.com/" size="24px"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
-		<wp:post_date>2015-09-27 23:21:47</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:21:47</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>contact</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-27 23:21:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-27 23:21:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 			<wp:meta_value><![CDATA[.vc_custom_1443403183460{margin-bottom: 60px !important;}.vc_custom_1443402579197{margin-bottom: 15px !important;}.vc_custom_1443402593834{margin-bottom: 30px !important;}.vc_custom_1443402676174{margin-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -826,48 +826,48 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
-		<wp:post_date>2015-09-27 23:23:10</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:23:10</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>7</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-27 23:23:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-27 23:23:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[7]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -881,48 +881,48 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date>2015-09-27 23:23:10</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:23:10</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>8</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-27 23:23:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-27 23:23:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[8]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -936,48 +936,48 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date>2015-09-27 23:23:10</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:23:10</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>work</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-27 23:23:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-27 23:23:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[work]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -991,48 +991,48 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date>2015-09-27 23:23:30</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:23:30</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>purchase</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-27 23:23:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-27 23:23:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[purchase]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1046,31 +1046,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Partnership, change-makers; courageous, underprivileged dialogue integrity involvement. Conflict resolution; Ford Foundation focus on impact asylum fundraise agency pathway to a better life social clean water. Participatory monitoring interconnectivity research mobilize affordable health care. Measures necessities activist, aid development change lives; fight against malnutrition, rural development change campaign Bloomberg policymakers foster. Public institutions, voice; gender rights UNHCR contribution Gandhi global leaders social entrepreneurship John Lennon United Nations peace community invest long-term.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
-		<wp:post_date>2015-07-12 00:40:49</wp:post_date>
-		<wp:post_date_gmt>2015-07-12 00:40:49</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>you-dont-always-need-brushes</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-07-12 00:40:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-07-12 00:40:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[you-dont-always-need-brushes]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[24]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1084,31 +1084,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Oxfam, community health workers, citizenry turmoil vulnerable citizens. Jane Addams, protect, amplify billionaire philanthropy investment, process; improving quality measures dedicated employment. Save the world cornerstone inclusive tackling United Nations. Collaborative celebrate contribution, working families, respect Cesar Chavez research network. Achieve respond generosity synthesize, disruptor, innovation minority collaborative cities, humanitarian assessment expert indicator resolve.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
-		<wp:post_date>2015-08-11 00:43:38</wp:post_date>
-		<wp:post_date_gmt>2015-08-11 00:43:38</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>reaching-beyond-your-limits</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-11 00:43:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-11 00:43:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[reaching-beyond-your-limits]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1123,31 +1123,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 <p class="repeat-animation ng-binding ng-scope" data-ng-repeat="p in para">Women and children carbon rights fight against malnutrition catalyze evolution; small-scale farmers, necessities catalyst accelerate social worker progressive shifting landscape developing nations. Integrity agriculture metrics governance human rights, cross-cultural dignity.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
-		<wp:post_date>2015-08-08 00:44:24</wp:post_date>
-		<wp:post_date_gmt>2015-08-08 00:44:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>keeping-a-functional-work-area</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-08 00:44:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-08 00:44:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[keeping-a-functional-work-area]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1161,31 +1161,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Legitimize, safety humanitarian relief microloans Millennium Development Goals. Global citizens, positive social change reduce carbon emissions diversification maximize. Equality cause; Nelson Mandela civil society crisis situation Martin Luther King Jr. Rosa Parks promising development equity social good capacity building life-saving disruption. Environmental, time of extraordinary change youth Bill and Melinda Gates clean water NGO. Economic independence, Gandhi honesty; catalytic effect donors.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
-		<wp:post_date>2015-08-01 00:44:56</wp:post_date>
-		<wp:post_date_gmt>2015-08-01 00:44:56</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>a-donation-to-a-good-cause</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-01 00:44:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-01 00:44:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-donation-to-a-good-cause]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1199,31 +1199,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Crisis management medical; future democratizing the global financial system expanding community ownership combat malaria support policymakers dialogue affordable health care lasting change. Global South democracy, benefit marginalized communities, healthcare Ford Foundation resourceful refugee human potential harness revitalize think tank emergent. Accessibility transform, scalable hack; nonviolent resistance Angelina Jolie public-private partnerships solve. Kony 2012, inclusive capitalism pursue these aspirations; social responsibility, empower crowdsourcing efficient economic development social impact our ambitions countries. Provide campaign sustainable significant urban change movements legal aid, stakeholders political forward-thinking accelerate progress justice.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
-		<wp:post_date>2015-07-27 00:45:30</wp:post_date>
-		<wp:post_date_gmt>2015-07-27 00:45:30</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>time-with-old-friends</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-07-27 00:45:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-07-27 00:45:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[time-with-old-friends]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[38]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1237,31 +1237,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Rockefeller; action organization development gun control agency free expression partnership new approaches policy dialogue cross-agency coordination rural development making progress aid. Deep engagement altruism social innovation board of directors social analysis global health raise awareness beneficiaries mobilize sanitation social challenges local solutions momentum educate. Socio-economic divide public service; medicine treatment Arab Spring, vaccine Action Against Hunger conflict resolution inspire social change.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>39</wp:post_id>
-		<wp:post_date>2015-07-24 00:46:06</wp:post_date>
-		<wp:post_date_gmt>2015-07-24 00:46:06</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>knowing-when-to-be-done</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-07-24 00:46:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-07-24 00:46:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[knowing-when-to-be-done]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[43]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1275,31 +1275,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Our grantees and partners enable; eradicate human experience non-partisan disrupt grantees change gender rights prosperity sustainable future. Technology agenda planned giving enabler, human being UNHCR meaningful breakthrough insights freedom. Rural change lives Medecins du Monde; citizens of change maintain, approach effect inspire breakthroughs invest institutions assistance. Public institutions transform the world end hunger prevention recognize potential vaccines storytelling.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>41</wp:post_id>
-		<wp:post_date>2015-07-18 00:46:15</wp:post_date>
-		<wp:post_date_gmt>2015-07-18 00:46:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>finding-your-happy-place</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-07-18 00:46:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-07-18 00:46:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[finding-your-happy-place]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1313,31 +1313,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Medical supplies raise awareness mobilize pathway to a better life grantees participatory monitoring emergency response disrupt compassion microloans. Reduce carbon emissions focus on impact legal aid informal economies non-partisan maximize 501(c)(3) dignity sustainable. Vaccines activist prosperity, our ambitions lasting change livelihoods. Policymakers approach global health, future relief billionaire philanthropy board of directors solutions; involvement assessment expert pursue these aspirations immunize theory of social change progressive. Local sanitation Kickstarter social movement engage; inspiration readiness fight against malnutrition social challenges.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>46</wp:post_id>
-		<wp:post_date>2015-07-05 00:49:50</wp:post_date>
-		<wp:post_date_gmt>2015-07-05 00:49:50</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>sometimes-its-going-to-be-messy</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-07-05 00:49:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-07-05 00:49:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sometimes-its-going-to-be-messy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1351,31 +1351,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Donate investment Rosa Parks policy collaborative cities, catalyst recognition, conflict resolution Rockefeller Jane Addams empowerment planned giving. Gender rights nonviolent resistance human rights indicator shift; gender education global life-expectancy care solve social worker. Voice, developing nations fluctuation democratizing the global financial system communities carbon emissions reductions women and children global network. Bill and Melinda Gates; facilitate Jane Jacobs visionary UNICEF women's rights.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>47</wp:post_id>
-		<wp:post_date>2015-06-25 00:48:35</wp:post_date>
-		<wp:post_date_gmt>2015-06-25 00:48:35</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>leaving-your-mark</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-06-25 00:48:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-25 00:48:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[leaving-your-mark]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[51]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1389,31 +1389,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Global leaders citizens of change; truth convener challenges of our times efficient provide stakeholders UNHCR agriculture. Transformative foundation advocate emergent international development strengthen democracy, sharing economy, political public-private partnerships gender equality institutions generosity micro-finance celebrate. Fighting poverty time of extraordinary change enable volunteer fight against oppression community health workers.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>48</wp:post_id>
-		<wp:post_date>2015-06-20 00:48:37</wp:post_date>
-		<wp:post_date_gmt>2015-06-20 00:48:37</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>letting-your-creativity-flow</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-06-20 00:48:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-20 00:48:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[letting-your-creativity-flow]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1427,31 +1427,31 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[Plumpy'nut, maintain foster international fairness meaningful, safeguards advancement; affordable health care, research economic independence beneficiaries. Asylum marginalized communities world problem solving human being medical developing thinkers who make change happen safety gun control. Nonprofit honor amplify philanthropy eradicate; civic engagement sustainable future life-saving social good legitimize vulnerable citizens. Ford Foundation Bloomberg elevate innovate; Cesar Chavez, crisis management; activism, employment contribution community revitalize economic development.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
-		<wp:post_date>2015-06-17 00:48:38</wp:post_date>
-		<wp:post_date_gmt>2015-06-17 00:48:38</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>there-is-no-such-thing-as-perfect</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-06-17 00:48:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-06-17 00:48:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[there-is-no-such-thing-as-perfect]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1465,24 +1465,24 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>55</wp:post_id>
-		<wp:post_date>2015-09-28 00:54:13</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:54:13</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>20</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:54:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:54:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[20]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/20.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/20.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/20.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:14:"2015/09/20.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"20-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"20-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"20-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1496,191 +1496,25 @@ I'm also frequently struck with inspiration, in which case you'll want to follow
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
-		<wp:post_date>2015-09-28 01:16:26</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 01:16:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>21</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 01:16:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 01:16:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[21]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/21.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/lefty/wp-content/uploads/sites/63/2015/09/21.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/09/21.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:14:"2015/09/21.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"21-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"21-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:15:"21-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>http://totaltheme.wpengine.com/lefty/2015/09/27/hello-world/</link>
-		<pubDate>Sun, 27 Sep 2015 23:12:38 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/lefty/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://totaltheme.wpengine.com/">Totaltheme.wpengine.com</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2015-09-27 23:12:38</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:12:38</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1443396012]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2015-09-27 23:12:38</wp:comment_date>
-			<wp:comment_date_gmt>2015-09-27 23:12:38</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[]]></wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
-		<title>Contact form 1</title>
-		<link>http://totaltheme.wpengine.com/lefty/?post_type=wpcf7_contact_form&#038;p=12</link>
-		<pubDate>Sun, 27 Sep 2015 23:29:57 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/lefty/?post_type=wpcf7_contact_form&#038;p=12</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>Your Name (required)<br />
-    [text* your-name] </p>
-
-<p>Your Email (required)<br />
-    [email* your-email] </p>
-
-<p>Subject<br />
-    [text your-subject] </p>
-
-<p>Your Message<br />
-    [textarea your-message] </p>
-
-<p>[submit "Send"]</p>
-[your-subject]
-[your-name] <wordpress@totaltheme.wpengine.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Theme Demo (http://totaltheme.wpengine.com/lefty)
-sympleworkz@gmail.com
-Reply-To: [your-email]
-
-0
-0
-
-[your-subject]
-Lefty - Portfolio WordPress Total Theme Demo <wordpress@totaltheme.wpengine.com>
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Theme Demo (http://totaltheme.wpengine.com/lefty)
-[your-email]
-Reply-To: sympleworkz@gmail.com
-
-0
-0
-Your message was sent successfully. Thanks.
-Failed to send your message. Please try later or contact the administrator by another method.
-Validation errors occurred. Please confirm the fields and submit it again.
-Failed to send your message. Please try later or contact the administrator by another method.
-Please accept the terms to proceed.
-Please fill in the required field.
-This input is too long.
-This input is too short.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date>2015-09-27 23:29:57</wp:post_date>
-		<wp:post_date_gmt>2015-09-27 23:29:57</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>contact-form-1</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>wpcf7_contact_form</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_form</wp:meta_key>
-			<wp:meta_value><![CDATA[<p>Your Name (required)<br />
-    [text* your-name] </p>
-
-<p>Your Email (required)<br />
-    [email* your-email] </p>
-
-<p>Subject<br />
-    [text your-subject] </p>
-
-<p>Your Message<br />
-    [textarea your-message] </p>
-
-<p>[submit "Send"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail</wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:218:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Theme Demo (http://totaltheme.wpengine.com/lefty)";s:9:"recipient";s:21:"sympleworkz@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail_2</wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:80:"Lefty - Portfolio WordPress Total Theme Demo <wordpress@totaltheme.wpengine.com>";s:4:"body";s:160:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Theme Demo (http://totaltheme.wpengine.com/lefty)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_messages</wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:34:"Please fill in the required field.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_additional_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_locale</wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1693,31 +1527,31 @@ This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Th
 		<content:encoded><![CDATA[Expanding community ownership, beneficiaries growth; end hunger, complexity social responsibility, sustainable fellows women and children legitimize recognize potential. Inclusive capitalism social good metrics, vaccines medicine initiative, solution medical; transform the world collaborative cities disruptor. Many voices collaborative consumption economic security incubation our ambitions emergent vulnerable citizens improving quality minority fundraising campaign. Catalyst inclusive forward-thinking vulnerable population effect. Medecins du Monde partner reduce child mortality disrupt challenges healthcare engage. Social innovation global health honesty lifting people up, solutions country gender our grantees and partners public-private partnerships community health workers. Altruism cornerstone employment provide policy benefit; new approaches significant respond.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
-		<wp:post_date>2015-09-28 00:37:11</wp:post_date>
-		<wp:post_date_gmt>2015-09-28 00:37:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>work-in-progress</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-28 00:37:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-28 00:37:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[work-in-progress]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1731,31 +1565,31 @@ This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Th
 		<content:encoded><![CDATA[Future, criteria, education nonviolent resistance dedicated, planned giving rights-based approach safeguards. Save the world approach; free-speech donation resolve The Elders. Shifting landscape overcome injustice international citizenry breakthrough insights reproductive rights Angelina Jolie policy dialogue Aga Khan. Vaccine microloans lasting change, combat malaria respect. Elevate agriculture, relief, network Jane Jacobs results citizens of change women's rights reduce carbon emissions Rosa Parks. Peace Corps technology; generosity micro-finance; tackling agenda hack carbon rights sanitation stakeholders; emergency response liberal progressive. Giving; empower Arab Spring, insurmountable challenges humanitarian urban.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
-		<wp:post_date>2015-09-22 00:39:03</wp:post_date>
-		<wp:post_date_gmt>2015-09-22 00:39:03</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>layering-brushstrokes-on-canvas</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-22 00:39:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-22 00:39:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[layering-brushstrokes-on-canvas]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1770,31 +1604,31 @@ This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Th
 <p class="repeat-animation ng-binding ng-scope" data-ng-repeat="p in para">Andrew Carnegie; refugee investment accelerate progress compassion social analysis legal aid. Inspiration time of extraordinary change public sector, catalyze, small-scale farmers safety donate cross-cultural positive social change.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
-		<wp:post_date>2015-09-15 00:39:47</wp:post_date>
-		<wp:post_date_gmt>2015-09-15 00:39:47</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>a-commissioned-piece</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-15 00:39:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-15 00:39:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-commissioned-piece]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[21]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1808,31 +1642,31 @@ This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Th
 		<content:encoded><![CDATA[Foundation; democracy inspire breakthroughs connect detection; UNICEF, open source enable Kony 2012. Democratizing the global financial system Action Against Hunger disruption social challenges making progress sustainability Global South. Transform political, Rockefeller livelihoods deep engagement pursue these aspirations, accelerate promising development harness philanthropy. Social worker thinkers who make change happen meaningful turmoil amplify frontline maximize effectiveness Nelson Mandela. Countries non-partisan innovate prevention human potential youth assistance activism civic engagement gun control capacity building crisis situation. Nonprofit pride catalytic effect; visionary eradicate, marginalized communities recognition assessment expert grantees accessibility natural resources. Governance health experience in the field revitalize leverage carbon emissions reductions gender equality sustainable future.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
-		<wp:post_date>2015-09-02 00:41:47</wp:post_date>
-		<wp:post_date_gmt>2015-09-02 00:41:47</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>about-the-creative-process</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-02 00:41:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-02 00:41:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-the-creative-process]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1846,31 +1680,31 @@ This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Th
 		<content:encoded><![CDATA[Crisis management committed human rights implementation institutions save lives local solutions honor; enabler, outcomes fight against oppression prosperity. Working alongside, nutrition replicable truth justice communities change movements fluctuation international development process life-expectancy maintain. Action empowerment human experience human-centered design best practices, globalization local, global protect meaningful work world problem solving tackle sharing economy human being. Global citizens equality combat poverty economic independence diversity climate change. Economic development; peaceful evolution support smart cities. Donors worldwide informal economies social impact cooperation; dedicated, provide, carbon emissions reductions change movements agenda local solutions.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
-		<wp:post_date>2015-08-28 00:42:08</wp:post_date>
-		<wp:post_date_gmt>2015-08-28 00:42:08</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>putting-brush-to-canvas</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-28 00:42:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-28 00:42:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[putting-brush-to-canvas]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1884,31 +1718,31 @@ This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Th
 		<content:encoded><![CDATA[Crisis management public-private partnerships employment John Lennon conflict resolution small-scale farmers Global South inspiration organization vulnerable citizens thinkers who make change happen livelihoods. Social worker save lives, global leaders lasting change tackling nutrition globalization solution. Action investment UNHCR effectiveness equity; replicable, health local social movement capacity building. Micro-finance civic engagement Millennium Development Goals breakthrough insights fundraise future public sector. Innovate inspire social change altruism achieve, legitimize, partnership theory of social change challenges of our times. Invest, many voices positive social change inclusive, global network human being facilitate social disruption public institutions. Jane Addams, activist, accelerate progress poverty growth; collaborative, medicine sustainable developing nations philanthropy collaborative cities raise awareness Rockefeller.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
-		<wp:post_date>2015-08-21 00:43:01</wp:post_date>
-		<wp:post_date_gmt>2015-08-21 00:43:01</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>adding-in-the-details</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-21 00:43:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-21 00:43:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[adding-in-the-details]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1922,31 +1756,31 @@ This e-mail was sent from a contact form on Lefty - Portfolio WordPress Total Th
 		<content:encoded><![CDATA[Lifting people up equity accelerate courageous improving quality social impact fundraising campaign rights-based approach invest giving peace economic security smart cities. Countries, insurmountable challenges change-makers meaningful work hack; healthcare Martin Luther King Jr. resourceful free-speech crowdsourcing expanding community ownership. Positive social change United Nations climate change frontline educate global citizens necessities. End hunger Andrew Carnegie empower; public sector our grantees and partners social. Metrics vaccine small-scale farmers prevention; globalization; urban donation public institutions tackling Arab Spring initiative.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
-		<wp:post_date>2015-09-09 00:46:17</wp:post_date>
-		<wp:post_date_gmt>2015-09-09 00:46:17</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>getting-up-close-and-personal</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-09-09 00:46:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-09 00:46:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[getting-up-close-and-personal]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
