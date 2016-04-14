@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.2.1" created="2015-05-06 03:48" -->
+<!-- generator="WordPress/4.5" created="2016-04-14 22:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,18 +29,18 @@
 	<title>Married</title>
 	<link>http://totaltheme.wpengine.com/married</link>
 	<description>We&#039;re Getting Married</description>
-	<pubDate>Wed, 06 May 2015 03:48:47 +0000</pubDate>
+	<pubDate>Thu, 14 Apr 2016 22:01:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
 	<wp:base_blog_url>http://totaltheme.wpengine.com/married</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>totaltheme</wp:author_login><wp:author_email>sympleworkz@gmail.com</wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu</wp:term_slug><wp:term_name><![CDATA[menu]]></wp:term_name></wp:term>
+	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[menu]]></wp:term_slug><wp:term_name><![CDATA[menu]]></wp:term_name></wp:term>
 
-	<generator>http://wordpress.org/?v=4.2.1</generator>
+	<generator>https://wordpress.org/?v=4.5</generator>
 
 	<item>
 		<title>wed1</title>
@@ -52,24 +52,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
-		<wp:post_date>2015-02-05 22:54:20</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 22:54:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>wed1</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 22:54:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 22:54:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wed1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/wed1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:16:"2015/02/wed1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -83,36 +83,36 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
-		<wp:post_date>2015-02-05 22:55:48</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 22:55:48</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>wed4</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 22:55:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 22:55:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wed4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed4-e1423177421261.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed4-e1423177421261.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/wed4-e1423177421261.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:729;s:4:"file";s:31:"2015/02/wed4-e1423177421261.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_video_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_video_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_backup_sizes</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_backup_sizes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:9:"full-orig";a:3:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:8:"wed4.jpg";}s:18:"full-1423177421261";a:3:{s:5:"width";i:1920;s:6:"height";i:849;s:4:"file";s:23:"wed4-e1423177351352.jpg";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -126,24 +126,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:12</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:12</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>coupled</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[coupled]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/coupled.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/coupled.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/coupled.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:19:"2015/02/coupled.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -157,24 +157,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:13</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:13</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dreamcatcher</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[dreamcatcher]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/dreamcatcher.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/dreamcatcher.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/dreamcatcher.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:24:"2015/02/dreamcatcher.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -188,24 +188,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:14</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>girl</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[girl]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/girl.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/girl.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:16:"2015/02/girl.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -219,24 +219,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:15</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>girl1</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[girl1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/girl1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/girl1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:17:"2015/02/girl1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -250,24 +250,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:16</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:16</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>girl2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[girl2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/girl2.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/girl2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl2.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:17:"2015/02/girl2.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -281,24 +281,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:17</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:17</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hands</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hands]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/hands.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/hands.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/hands.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:17:"2015/02/hands.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -312,24 +312,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:18</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:18</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>kiss</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[kiss]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/kiss.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/kiss.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/kiss.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:16:"2015/02/kiss.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -343,24 +343,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:19</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:19</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>wheat</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wheat]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wheat.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wheat.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/wheat.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:17:"2015/02/wheat.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -374,24 +374,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
-		<wp:post_date>2015-02-05 23:01:21</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:01:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>wildflowers</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:01:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:01:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wildflowers]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wildflowers.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wildflowers.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/wildflowers.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:23:"2015/02/wildflowers.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -405,30 +405,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
-		<wp:post_date>2015-02-05 23:04:36</wp:post_date>
-		<wp:post_date_gmt>2015-02-05 23:04:36</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>wed8</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-05 23:04:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-05 23:04:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wed8]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed8.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed8.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/wed8.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:16:"2015/02/wed8.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>high-five-clothes</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=35</link>
+		<link>http://totaltheme.wpengine.com/married/high-five-clothes/</link>
 		<pubDate>Wed, 06 May 2015 03:19:07 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/high-five-clothes.png</guid>
@@ -436,30 +436,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:07</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:07</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>high-five-clothes</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[high-five-clothes]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/high-five-clothes.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/high-five-clothes.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/high-five-clothes.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:29:"2015/05/high-five-clothes.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>cramwell-meats</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=36</link>
+		<link>http://totaltheme.wpengine.com/married/cramwell-meats/</link>
 		<pubDate>Wed, 06 May 2015 03:19:08 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/cramwell-meats.png</guid>
@@ -467,30 +467,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:08</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:08</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>cramwell-meats</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[cramwell-meats]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/cramwell-meats.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/cramwell-meats.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/cramwell-meats.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:26:"2015/05/cramwell-meats.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>harringtons</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=37</link>
+		<link>http://totaltheme.wpengine.com/married/harringtons/</link>
 		<pubDate>Wed, 06 May 2015 03:19:09 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/harringtons.png</guid>
@@ -498,30 +498,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:09</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>harringtons</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[harringtons]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/harringtons.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/harringtons.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/harringtons.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:23:"2015/05/harringtons.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>olivia-jewels</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=38</link>
+		<link>http://totaltheme.wpengine.com/married/olivia-jewels/</link>
 		<pubDate>Wed, 06 May 2015 03:19:09 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/olivia-jewels.png</guid>
@@ -529,30 +529,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>38</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:09</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>olivia-jewels</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[olivia-jewels]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/olivia-jewels.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/olivia-jewels.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/olivia-jewels.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:25:"2015/05/olivia-jewels.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>piano-rooms</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=39</link>
+		<link>http://totaltheme.wpengine.com/married/piano-rooms/</link>
 		<pubDate>Wed, 06 May 2015 03:19:10 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/piano-rooms.png</guid>
@@ -560,30 +560,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>39</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:10</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:10</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>piano-rooms</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[piano-rooms]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/piano-rooms.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/piano-rooms.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/piano-rooms.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:23:"2015/05/piano-rooms.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>birkenhead-apparel</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=40</link>
+		<link>http://totaltheme.wpengine.com/married/birkenhead-apparel/</link>
 		<pubDate>Wed, 06 May 2015 03:19:11 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/birkenhead-apparel.png</guid>
@@ -591,30 +591,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:11</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>birkenhead-apparel</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[birkenhead-apparel]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/birkenhead-apparel.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/birkenhead-apparel.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/birkenhead-apparel.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:30:"2015/05/birkenhead-apparel.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>westland-beer</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=41</link>
+		<link>http://totaltheme.wpengine.com/married/westland-beer/</link>
 		<pubDate>Wed, 06 May 2015 03:19:12 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/westland-beer.png</guid>
@@ -622,30 +622,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>41</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:12</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:12</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>westland-beer</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[westland-beer]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/westland-beer.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/westland-beer.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/westland-beer.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:25:"2015/05/westland-beer.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>elegnat-tea</title>
-		<link>http://totaltheme.wpengine.com/married/?attachment_id=42</link>
+		<link>http://totaltheme.wpengine.com/married/elegnat-tea/</link>
 		<pubDate>Wed, 06 May 2015 03:19:12 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/elegnat-tea.png</guid>
@@ -653,24 +653,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
-		<wp:post_date>2015-05-06 03:19:12</wp:post_date>
-		<wp:post_date_gmt>2015-05-06 03:19:12</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>elegnat-tea</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-05-06 03:19:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-05-06 03:19:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[elegnat-tea]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/elegnat-tea.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/05/elegnat-tea.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/05/elegnat-tea.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:251;s:4:"file";s:23:"2015/05/elegnat-tea.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -681,22 +681,22 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="stretch" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" bg_color="#413028" padding_top="250p" padding_bottom="220px" bg_image="6" style="light"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vc_custom_heading text="CHRISTINA &amp; JEFF" font_container="tag:h2|font_size:24px|text_align:center|color:%23fe8b6e" google_fonts="font_family:Oswald%3A300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_heading font_family="Oswald" tag="" font_weight="" text_align="center" link_local_scroll="" text="WE'RE GETTING MARRIED" font_size="64px" color="#ffffff"][vc_column_text css_animation=""]
+		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" typography_style="light" bg_style="stretch" css=".vc_custom_1460657864304{padding-top: 250px !important;padding-bottom: 220px !important;background: #413028 url(http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed1.jpg?id=6) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="what"][vc_column][vc_custom_heading text="CHRISTINA &amp; JEFF" font_container="tag:h2|font_size:24px|text_align:center|color:%23fe8b6e" google_fonts="font_family:Oswald%3A300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_heading text="WE'RE GETTING MARRIED" text_align="center" link_local_scroll="" font_family="Oswald" font_size="64px" color="#ffffff"][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px;">2015.Napa.California</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" id="why" padding_top="100px" padding_bottom="70px"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading font_family="Oswald" tag="" font_weight="semibold" text_align="center" link_local_scroll="" text="OUR LOVE STORY" font_size="48px" color="#413028"][vcex_heading font_family="Oswald" tag="" font_weight="" text_align="center" link_local_scroll="" text="WE WERE MEANT TO BE" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px" visibility=""][vcex_spacing size="10px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_height="yes" center_row="yes" css=".vc_custom_1460657869350{padding-top: 100px !important;padding-bottom: 70px !important;}" local_scroll_id="why"][vc_column][vcex_heading text="OUR LOVE STORY" font_weight="semibold" text_align="center" link_local_scroll="" font_family="Oswald" font_size="48px" color="#413028"][vcex_heading text="WE WERE MEANT TO BE" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px"][vcex_spacing size="10px"][vc_column_text]
 <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in tempus velit, et rutrum nisl. Vivamus sagittis purus nec libero aliquam blandit id eu justo. Phasellus egestas quam non nisi tincidunt efficitur. Donec odio urna, interdum tincidunt vehicula in, imperdiet vel erat. Integer lobortis eu lacus vel feugiat. Ut efficitur urna eget placerat pellentesque. Ut elementum sapien eget rutrum luctus. Pellentesque pharetra eros tortor, a pulvinar tortor pulvinar non. Quisque rhoncus convallis enim, at egestas nunc interdum quis. Aliquam dignissim porta arcu, ut rutrum enim dapibus vel.</p>
 <p style="text-align: center;">Quisque ut nunc purus. Sed luctus purus eget sapien finibus blandit. Aliquam fermentum erat nec dui ultrices, eget tempus felis fermentum. Ut semper malesuada turpis, in commodo est luctus vitae. Donec tempus neque a velit suscipit convallis. Cras vehicula vestibulum mi, posuere feugiat augue quis fringilla. Proin eget hendrerit purus. Etiam rhoncus a ex quis tempor. Sed faucibus libero quam, at ultrices enim tristique sed. Nullam libero leo, egestas non auctor quis, fermentum ut nulla. Morbi ut metus dignissim, dictum mi vitae, ultrices ligula. Pellentesque lobortis odio id arcu dictum, quis mattis eros blandit.</p>
 <p style="text-align: center;">Integer sagittis bibendum sapien gravida dictum. Curabitur ut lacinia nunc, eu malesuada nibh. Cras vehicula vestibulum mi, varius vestibulum elit elementum porta. Aliquam sit amet libero risus. Nullam eu consequat odio. Nullam consectetur tempor arcu ac accumsan. Etiam rhoncus a ex quis tempor. Sed ornare pellentesque sapien at varius.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="none" column_spacing="0px" tablet_fullwidth_cols="" bg_style="stretch" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" bg_color="#413028" style="light" padding_top="150px" padding_bottom="150px" bg_image="7" id="when"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vc_column_text css_animation=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_height="yes" center_row="yes" typography_style="none" column_spacing="0px" bg_style="stretch" style="light" css=".vc_custom_1460657874705{padding-top: 150px !important;padding-bottom: 150px !important;background: #413028 url(http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed4-e1423177421261.jpg?id=7) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="when"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; color: #fe8b6e;">Save The Date</span></p>
-[/vc_column_text][vcex_heading font_family="Oswald" tag="" font_weight="" text_align="center" link_local_scroll="" text="DECEMBER.19.2015" font_size="48px" color="#ffffff"][vcex_spacing size="10px" visibility=""][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="0px" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" padding_top="100px" padding_bottom="100px" id="what"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading font_family="Oswald" tag="" font_weight="semibold" text_align="center" link_local_scroll="" text="WEDDING EVENTS" font_size="48px" color="#413028"][vcex_spacing size="30px" visibility=""][vcex_heading font_family="Oswald" tag="" font_weight="normal" text_align="center" link_local_scroll="" text="REHEARSAL DINNER" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][vcex_heading text="DECEMBER.19.2015" text_align="center" link_local_scroll="" font_family="Oswald" font_size="48px" color="#ffffff"][vcex_spacing size="10px"][/vc_column][/vc_row][vc_row full_height="yes" center_row="yes" column_spacing="0px" css=".vc_custom_1460657880083{padding-top: 100px !important;padding-bottom: 100px !important;}" local_scroll_id="what"][vc_column][vcex_heading text="WEDDING EVENTS" font_weight="semibold" text_align="center" link_local_scroll="" font_family="Oswald" font_size="48px" color="#413028"][vcex_spacing][vcex_heading text="REHEARSAL DINNER" font_weight="normal" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px"][vc_column_text]
 <p style="text-align: center;">12.18.2015
 5:00pm-7:00pm
 The OAK Room
 1234 Sunrise Peak
 Napa Valley, CA
 
-[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_heading font_family="Oswald" tag="" font_weight="normal" text_align="center" link_local_scroll="" text="CEREMONY" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][vcex_spacing][vcex_heading text="CEREMONY" font_weight="normal" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px"][vc_column_text]
 
 <p style="text-align: center;">12.19.2015
 4:00pm-8:00pm
@@ -704,7 +704,7 @@ East Mountain Preserve
 6256 Vineyard Way
 Napa Valley, CA
 
-[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_heading font_family="Oswald" tag="" font_weight="normal" text_align="center" link_local_scroll="" text="AFTER PARTY" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][vcex_spacing][vcex_heading text="AFTER PARTY" font_weight="normal" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing size="10px"][vc_column_text]
 
 <p style="text-align: center;">12.19.2015
 8:00pm-11:00pm
@@ -713,80 +713,92 @@ Morena Wine Bar
 Napa Valley, CA
 *Adults Only*
 
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" bg_color="#fcefe7" padding_top="100px" padding_bottom="70px" id="where"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading font_family="Oswald" tag="" font_weight="semibold" text_align="center" link_local_scroll="" text="ACCOMODATIONS" font_size="48px" color="#413028"][vcex_heading font_family="Oswald" tag="" font_weight="normal" text_align="center" link_local_scroll="" text="STAY NEAR US" font_size="24px" color="#fe8b6e"][vcex_spacing size="20px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_height="yes" center_row="yes" css=".vc_custom_1460657886090{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #fcefe7 !important;}" local_scroll_id="where"][vc_column][vcex_heading text="ACCOMODATIONS" font_weight="semibold" text_align="center" link_local_scroll="" font_family="Oswald" font_size="48px" color="#413028"][vcex_heading text="STAY NEAR US" font_weight="normal" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing size="20px"][vc_column_text]
 
 <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget semper ex, vel blandit leo. Etiam venenatis ipsum id sapien hendrerit viverra. Donec gravida ullamcorper sapien, vitae convallis est viverra quis. Proin consequat mauris sed imperdiet tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque eu neque ullamcorper.</p>
-[/vc_column_text][vcex_spacing size="30px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][vcex_spacing][vc_column_text]
 <p style="text-align: center;"><strong><span style="font-size: 24px;">Napa Valley, California</span></strong></p>
-[/vc_column_text][vcex_spacing size="10px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][vcex_spacing size="10px"][vc_column_text]
 <p style="text-align: center;">East Mountain Hotel
 6256 Vineyard Way
 Napa Valley, CA
 
 <p style="text-align: center;">(800) 555-1234</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" bg_color="#43322b" padding_top="100px" padding_bottom="70px" style="light" id="who"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading font_family="Oswald" tag="" font_weight="" text_align="center" link_local_scroll="" text="GALLERY" font_size="48px" color="#ffffff"][vcex_heading font_family="Oswald" tag="" font_weight="normal" text_align="center" link_local_scroll="" text="OUR ENGAGEMENT PHOTOS" font_size="24px" color="#fe8b6e"][vcex_spacing size="30px" visibility=""][vc_column_text css_animation=""]
+[/vc_column_text][/vc_column][/vc_row][vc_row full_height="yes" center_row="yes" typography_style="light" css=".vc_custom_1460657891118{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #43322b !important;}" local_scroll_id="who"][vc_column][vcex_heading text="GALLERY" text_align="center" link_local_scroll="" font_family="Oswald" font_size="48px" color="#ffffff"][vcex_heading text="OUR ENGAGEMENT PHOTOS" font_weight="normal" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing][vc_column_text]
 <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget semper ex, vel blandit leo. Etiam venenatis ipsum id sapien hendrerit viverra. Donec gravida ullamcorper sapien, vitae convallis est viverra quis. Proin consequat mauris sed imperdiet tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque eu neque ullamcorper.</p>
-[/vc_column_text][vcex_spacing size="50px" visibility=""][vcex_image_grid post_gallery="" visibility="" css_animation="" hover_animation="" grid_style="default" columns="3" columns_gap="" responsive_columns="" randomize_images="" posts_per_page="-1" thumbnail_link="lightbox" lightbox_skin="" lightbox_path="" lightbox_title="" lightbox_caption="true" custom_links_target="_self" img_size="full" img_crop="center-center" rounded_image="" img_filter="" img_hover_style="grow" img_rendering="" title="" title_tag="" title_type="title" title_weight="" title_transform="" image_ids="8,9,10,11,12,13,14,15,16"][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" padding_top="100px" padding_bottom="70px" id="which"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading font_family="Oswald" tag="" font_weight="semibold" text_align="center" link_local_scroll="" text="REGISTRY" font_size="48px" color="#413028"][vcex_heading font_family="Oswald" tag="" font_weight="normal" text_align="center" link_local_scroll="" text="GET US SOMETHING NICE" font_size="24px" color="#fe8b6e"][vcex_spacing size="30px"][vcex_image_carousel arrows="false" dots="true" items="3" items_margin="15" auto_play="true" infinite_loop="true" center="false" timeout_duration="5000" tablet_items="3" mobile_landscape_items="2" mobile_portrait_items="1" caption="false" thumbnail_link="none" img_size="wpex_custom" img_crop="center-center" image_ids="40,39,41,36,37"][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" bg_color="#43322b" padding_top="100px" padding_bottom="70px" id="rsvp" el_class="light-form"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading font_family="Oswald" tag="" font_weight="" text_align="center" link_local_scroll="" text="RSVP" font_size="48px" color="#ffffff"][vcex_heading font_family="Oswald" tag="" font_weight="normal" text_align="center" link_local_scroll="" text="WE CAN'T WAIT TO SEE YOU" font_size="24px" color="#fe8b6e"][vcex_spacing size="30px" visibility=""][contact-form-7 id="4"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][vcex_spacing size="50px"][vcex_image_grid columns="3" lightbox_title="false" lightbox_caption="false" img_size="full" img_hover_style="grow" title="no" img_rendering="" image_ids="8,9,10,11,12,13,14,15,16"][/vc_column][/vc_row][vc_row full_height="yes" center_row="yes" css=".vc_custom_1460657896338{padding-top: 100px !important;padding-bottom: 70px !important;}" local_scroll_id="which"][vc_column][vcex_heading text="REGISTRY" font_weight="semibold" text_align="center" link_local_scroll="" font_family="Oswald" font_size="48px" color="#413028"][vcex_heading text="GET US SOMETHING NICE" font_weight="normal" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing][vcex_image_carousel arrows="false" dots="true" items="3" caption="false" image_ids="40,39,41,36,37"][/vc_column][/vc_row][vc_row full_height="yes" center_row="yes" el_class="light-form" css=".vc_custom_1460657902077{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #43322b !important;}" local_scroll_id="rsvp"][vc_column][vcex_heading text="RSVP" text_align="center" link_local_scroll="" font_family="Oswald" font_size="48px" color="#ffffff"][vcex_heading text="WE CAN'T WAIT TO SEE YOU" font_weight="normal" text_align="center" link_local_scroll="" font_family="Oswald" font_size="24px" color="#fe8b6e"][vcex_spacing][contact-form-7 id="4"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2015-02-02 02:01:17</wp:post_date>
-		<wp:post_date_gmt>2015-02-02 02:01:17</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>home</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-02 02:01:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-02 02:01:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_title</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_footer</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_footer]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_footer_callout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_footer_callout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>cpr_mtb_plg</wp:meta_key>
+			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1460657864304{padding-top: 250px !important;padding-bottom: 220px !important;background: #413028 url(http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed1.jpg?id=6) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460657869350{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1460657874705{padding-top: 150px !important;padding-bottom: 150px !important;background: #413028 url(http://totaltheme.wpengine.com/married/wp-content/uploads/sites/26/2015/02/wed4-e1423177421261.jpg?id=7) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460657880083{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1460657886090{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #fcefe7 !important;}.vc_custom_1460657891118{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #43322b !important;}.vc_custom_1460657896338{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1460657902077{padding-top: 100px !important;padding-bottom: 70px !important;background-color: #43322b !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -813,7 +825,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.com/married)
-sympleworkz@gmail.com
+dummy@wpexplorer.com
 Reply-To: [your-email]
 
 
@@ -856,19 +868,19 @@ This input is too long.
 This input is too short.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date>2015-02-02 02:02:32</wp:post_date>
-		<wp:post_date_gmt>2015-02-02 02:02:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>contact-form-1</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-02 02:02:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-02 02:02:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>wpcf7_contact_form</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_form</wp:meta_key>
+			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<p class="one-half first">[text* your-name "Your Name"]</p>
 
 <p class="one-half">[email* your-email "Your Email"]</p>
@@ -878,7 +890,7 @@ This input is too short.]]></content:encoded>
 <p>[submit "RSVP"]</p>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_mail</wp:meta_key>
+			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:183:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -886,10 +898,10 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.com/married)";s:9:"recipient";s:21:"sympleworkz@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.com/married)";s:9:"recipient";s:20:"dummy@wpexplorer.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_mail_2</wp:meta_key>
+			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:43:"Married <wordpress@totaltheme.wpengine.com>";s:4:"body";s:125:"Message Body:
 [your-message]
 
@@ -897,20 +909,20 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.com/married)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_messages</wp:meta_key>
+			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:31:"Please fill the required field.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_additional_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_locale</wp:meta_key>
+			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -923,53 +935,53 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
-		<wp:post_date>2015-02-06 00:10:32</wp:post_date>
-		<wp:post_date_gmt>2015-02-06 00:10:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>story</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-06 00:10:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-06 00:10:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[story]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#why]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -982,53 +994,53 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
-		<wp:post_date>2015-02-06 00:10:32</wp:post_date>
-		<wp:post_date_gmt>2015-02-06 00:10:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>when</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-06 00:10:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-06 00:10:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[when]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[28]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#when]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1041,53 +1053,53 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
-		<wp:post_date>2015-02-06 00:10:32</wp:post_date>
-		<wp:post_date_gmt>2015-02-06 00:10:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>what</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-06 00:10:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-06 00:10:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[what]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[29]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#what]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1100,53 +1112,53 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2015-02-06 00:10:32</wp:post_date>
-		<wp:post_date_gmt>2015-02-06 00:10:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>where</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-06 00:10:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-06 00:10:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[where]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#where]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1159,53 +1171,53 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
-		<wp:post_date>2015-02-06 00:11:28</wp:post_date>
-		<wp:post_date_gmt>2015-02-06 00:11:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>who</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-06 00:11:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-06 00:11:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[who]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#who]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1218,53 +1230,53 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
-		<wp:post_date>2015-02-06 00:11:28</wp:post_date>
-		<wp:post_date_gmt>2015-02-06 00:11:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>rsvp</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-06 00:11:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-06 00:11:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rsvp]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#rsvp]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1277,53 +1289,112 @@ This e-mail was sent from a contact form on Married (http://totaltheme.wpengine.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
-		<wp:post_date>2015-02-06 00:11:28</wp:post_date>
-		<wp:post_date_gmt>2015-02-06 00:11:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>which</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-06 00:11:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-06 00:11:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[which]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#which]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://totaltheme.wpengine.com/married/43/</link>
+		<pubDate>Thu, 03 Sep 2015 19:09:59 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/?p=43</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date><![CDATA[2015-09-03 19:09:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-03 19:09:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[43]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[43]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#site_top]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
