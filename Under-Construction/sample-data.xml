@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.4.1" created="2016-01-13 23:41" -->
+<!-- generator="WordPress/4.5.1" created="2016-04-29 23:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Under Construction</title>
 	<link>http://totaltheme.wpengine.com/under-construction</link>
-	<description>Just another Totaltheme.wpengine.com site</description>
-	<pubDate>Wed, 13 Jan 2016 23:41:32 +0000</pubDate>
+	<description>Total WordPress Theme Demo</description>
+	<pubDate>Fri, 29 Apr 2016 23:13:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -39,7 +39,7 @@
 
 	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
 
-	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<generator>https://wordpress.org/?v=4.5.1</generator>
 
 	<item>
 		<title>Hello world!</title>
@@ -85,11 +85,9 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/under-construction/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" css=".vc_custom_1451245920660{background: #9ecdab url(http://totaltheme.wpengine.com/under-construction/wp-content/uploads/sites/66/2015/11/bg.jpg?id=5) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_divider color="#ffffff" icon="fa fa-star-o" width="60%" icon_color="#ffffff" icon_size="28px"][vcex_heading text="UNDER CONSTRUCTION" font_family="Monoton" text_align="center" font_size="60px" color="#ffffff"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" css=".vc_custom_1451245920660{background: #9ecdab url(http://totaltheme.wpengine.com/under-construction/wp-content/uploads/sites/66/2015/11/bg.jpg?id=5) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_divider color="#ffffff" icon="fa fa-star-o" width="60%" icon_color="#ffffff" icon_size="28px"][vcex_heading text="UNDER CONSTRUCTION" responsive_text="true" text_align="center" font_family="Monoton" font_size="60px" color="#ffffff" min_font_size="24px"][vc_column_text]
 <p style="text-align: center;"><span class="white-text" style="font-size: 24px;">Something awesome this way comes. Stay tuned!</span></p>
-[/vc_column_text][vcex_spacing][vcex_newsletter_form placeholder_text="Get notified on launch" submit_text="→" submit_weight="bold" input_bg="#ffffff" input_color="#a3c9b2" input_width="40%" input_padding="0px 30px" input_border_radius="30%" input_font_size="16px" submit_bg="#ffffff" submit_hover_bg="#ffffff" submit_color="#a3c9b2" submit_hover_color="#65ad88" submit_font_size="26px" input_border="0px" input_letter_spacing="1px"][vcex_spacing][vcex_social_links style="none" align="center" twitter="https://twitter.com/WPExplorer" facebook="https://www.facebook.com/WPExplorerThemes/" googleplus="https://plus.google.com/+Wpexplorer" pinterest="https://www.pinterest.com/wpexplorer/" dribbble="https://dribbble.com/aj-clarke" size="24px" color="#ffffff" hover_color="#d8e7c6"][vcex_spacing size="20px"][vc_column_text]
-<p style="text-align: center;"><span class="white-text" style="color: #53a2b8;"><a style="color: #53a2b8;" href="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" target="_blank">© 2015 Total Theme</a></span></p>
-[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][vcex_spacing][vcex_newsletter_form mailchimp_form_action="http://wpexplorer.us1.list-manage1.com/subscribe/post?u=9b7568b7c032f9a6738a9cf4d&id=7056c37ddf" placeholder_text="Enter your email" submit_text="Submit" input_bg="#ffffff" input_color="#a3c9b2" input_border_radius="40px" input_font_size="16px" input_border="none" input_letter_spacing="1px" input_width="380px" submit_border_radius="40px" submit_bg="#a3c9b2" submit_hover_bg="#88a88f" input_padding="0px 20px" submit_position_right="20px"][vcex_spacing][vcex_social_links style="none" link_target="blank" align="center" twitter="https://twitter.com/WPExplorer" facebook="https://www.facebook.com/WPExplorerThemes/" googleplus="https://plus.google.com/+Wpexplorer" pinterest="https://www.pinterest.com/wpexplorer/" dribbble="https://dribbble.com/aj-clarke" size="24px" color="#ffffff" hover_color="#d8e7c6"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-11-05 21:07:34]]></wp:post_date>
@@ -154,6 +152,18 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_footer_callout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vcex-newsletter-form-wrap { max-width: 100%; }]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
