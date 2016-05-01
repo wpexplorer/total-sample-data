@@ -70,6 +70,17 @@
 		]
 	},
 
+	"paris": {
+		"name": "Paris",
+		"demo_slug": "paris",
+		"nav_menu_locations": {
+			"main_menu": "main"
+		},
+		"plugins": [
+			"Visual Composer"
+		]
+	},
+
 	"corporate": {
 		"name": "Corporate",
 		"demo_slug": "corporate",
