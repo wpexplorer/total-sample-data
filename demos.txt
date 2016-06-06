@@ -311,8 +311,17 @@
 	},
 
 	"simple_spaces": {
-		"name": "Simple Spaces",
+		"name": "Simple-Spaces",
 		"demo_slug": "simple-spaces",
+		"plugins": [
+			"Visual Composer",
+			"Contact Form 7"
+		]
+	},
+
+	"boxed_folio": {
+		"name": "Boxed-Folio",
+		"demo_slug": "boxed-folio",
 		"plugins": [
 			"Visual Composer",
 			"Contact Form 7"
