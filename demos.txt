@@ -342,6 +342,20 @@
 		"plugins": [
 			"Visual Composer"
 		]
+	},
+
+	"cafe": {
+		"name": "Cafe",
+		"demo_slug": "cafe",
+		"plugins": [
+			"Visual Composer",
+			"Revolution Slider"
+		]
+	},
+
+	"vlog": {
+		"name": "Vlog",
+		"demo_slug": "vlog"
 	}
 
 }
