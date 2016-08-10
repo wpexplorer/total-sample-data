@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3" created="2015-09-14 18:10" -->
+<!-- generator="WordPress/4.5.3" created="2016-08-10 01:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,22 +29,22 @@
 	<title>Modern Agency</title>
 	<link>http://totaltheme.wpengine.com/modern-agency</link>
 	<description>Just another Totaltheme.wpengine.com site</description>
-	<pubDate>Mon, 14 Sep 2015 18:10:12 +0000</pubDate>
+	<pubDate>Wed, 10 Aug 2016 01:27:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
 	<wp:base_blog_url>http://totaltheme.wpengine.com/modern-agency</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>totaltheme</wp:author_login><wp:author_email>sympleworkz@gmail.com</wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>main</wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
+	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
 
-	<generator>http://wordpress.org/?v=4.3</generator>
+	<generator>https://wordpress.org/?v=4.5.3</generator>
 
 	<item>
 		<title>modern-logo-d</title>
-		<link>http://totaltheme.wpengine.com/modern-agency/?attachment_id=6</link>
+		<link>http://totaltheme.wpengine.com/modern-agency/modern-logo-d/</link>
 		<pubDate>Thu, 13 Aug 2015 04:04:54 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/modern-logo-d.png</guid>
@@ -52,30 +52,30 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
-		<wp:post_date>2015-08-13 04:04:54</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 04:04:54</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>modern-logo-d</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 04:04:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 04:04:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[modern-logo-d]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/modern-logo-d.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/modern-logo-d.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/modern-logo-d.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:357;s:6:"height";i:57;s:4:"file";s:25:"2015/08/modern-logo-d.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"modern-logo-d-150x57.png";s:5:"width";i:150;s:6:"height";i:57;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:24:"modern-logo-d-300x48.png";s:5:"width";i:300;s:6:"height";i:48;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>modern-logo</title>
-		<link>http://totaltheme.wpengine.com/modern-agency/?attachment_id=7</link>
+		<link>http://totaltheme.wpengine.com/modern-agency/modern-logo/</link>
 		<pubDate>Thu, 13 Aug 2015 04:04:56 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/modern-logo.png</guid>
@@ -83,24 +83,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
-		<wp:post_date>2015-08-13 04:04:56</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 04:04:56</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>modern-logo</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 04:04:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 04:04:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[modern-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/modern-logo.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/modern-logo.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/modern-logo.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:357;s:6:"height";i:57;s:4:"file";s:23:"2015/08/modern-logo.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"modern-logo-150x57.png";s:5:"width";i:150;s:6:"height";i:57;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:22:"modern-logo-300x48.png";s:5:"width";i:300;s:6:"height";i:48;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -114,24 +114,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
-		<wp:post_date>2015-08-13 18:52:52</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 18:52:52</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>home2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 18:52:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 18:52:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[home2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/home2.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/home2.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/home2.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:700;s:6:"height";i:800;s:4:"file";s:17:"2015/08/home2.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"home2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:17:"home2-263x300.png";s:5:"width";i:263;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -145,24 +145,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
-		<wp:post_date>2015-08-15 21:52:49</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 21:52:49</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>nouveau</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 21:52:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 21:52:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[nouveau]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>30</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/nouveau.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/nouveau.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/nouveau.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:19:"2015/08/nouveau.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Copyright 2014";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -176,24 +176,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
-		<wp:post_date>2015-08-15 22:18:42</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 22:18:42</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>weather-app</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 22:18:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 22:18:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[weather-app]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>35</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/weather-app.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/weather-app.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/weather-app.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:23:"2015/08/weather-app.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -207,24 +207,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>38</wp:post_id>
-		<wp:post_date>2015-08-15 22:24:00</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 22:24:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>food-blog</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 22:24:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 22:24:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[food-blog]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>37</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/food-blog.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/food-blog.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/food-blog.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:21:"2015/08/food-blog.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Copyright 2014";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -238,24 +238,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
-		<wp:post_date>2015-08-15 22:34:59</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 22:34:59</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>watch-interface</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 22:34:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 22:34:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[watch-interface]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>39</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/watch-interface.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/watch-interface.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/watch-interface.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:27:"2015/08/watch-interface.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -269,24 +269,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>47</wp:post_id>
-		<wp:post_date>2015-08-15 23:05:39</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 23:05:39</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>healthcare</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 23:05:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 23:05:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[healthcare]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>46</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/healthcare.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/healthcare.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/healthcare.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:22:"2015/08/healthcare.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Copyright 2014";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -300,24 +300,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
-		<wp:post_date>2015-08-15 23:06:26</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 23:06:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>samus-portfolio</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 23:06:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 23:06:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[samus-portfolio]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>48</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/samus-portfolio.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/samus-portfolio.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/samus-portfolio.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:27:"2015/08/samus-portfolio.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -331,24 +331,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>53</wp:post_id>
-		<wp:post_date>2015-08-16 00:13:30</wp:post_date>
-		<wp:post_date_gmt>2015-08-16 00:13:30</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>agent-staffing</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-16 00:13:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-16 00:13:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[agent-staffing]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>52</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/agent-staffing.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/agent-staffing.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/agent-staffing.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:26:"2015/08/agent-staffing.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -362,24 +362,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
-		<wp:post_date>2015-08-16 00:53:32</wp:post_date>
-		<wp:post_date_gmt>2015-08-16 00:53:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>construct</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-16 00:53:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-16 00:53:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[construct]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>55</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/construct.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/construct.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/construct.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:21:"2015/08/construct.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Copyright 2014";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -393,24 +393,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>58</wp:post_id>
-		<wp:post_date>2015-08-17 00:39:15</wp:post_date>
-		<wp:post_date_gmt>2015-08-17 00:39:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>appy</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-17 00:39:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-17 00:39:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[appy]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>57</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/appy.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/appy.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/appy.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:16:"2015/08/appy.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Copyright 2014";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -424,24 +424,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>62</wp:post_id>
-		<wp:post_date>2015-08-17 00:50:30</wp:post_date>
-		<wp:post_date_gmt>2015-08-17 00:50:30</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>coffee-app</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-17 00:50:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-17 00:50:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[coffee-app]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>59</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coffee-app.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coffee-app.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/coffee-app.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:22:"2015/08/coffee-app.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -455,24 +455,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>63</wp:post_id>
-		<wp:post_date>2015-08-17 00:50:36</wp:post_date>
-		<wp:post_date_gmt>2015-08-17 00:50:36</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>flower-shop</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-17 00:50:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-17 00:50:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[flower-shop]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>60</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/flower-shop.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/flower-shop.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/flower-shop.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:23:"2015/08/flower-shop.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -486,24 +486,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>64</wp:post_id>
-		<wp:post_date>2015-08-17 00:51:01</wp:post_date>
-		<wp:post_date_gmt>2015-08-17 00:51:01</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>freelancer</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-17 00:51:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-17 00:51:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[freelancer]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>61</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/freelancer.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/freelancer.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/freelancer.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1000;s:4:"file";s:22:"2015/08/freelancer.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:14:"Copyright 2014";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -517,24 +517,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>66</wp:post_id>
-		<wp:post_date>2015-08-17 01:30:22</wp:post_date>
-		<wp:post_date_gmt>2015-08-17 01:30:22</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>guy2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-17 01:30:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-17 01:30:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[guy2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>8</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/guy2.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/guy2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/guy2.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:450;s:6:"height";i:450;s:4:"file";s:16:"2015/08/guy2.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -548,24 +548,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>67</wp:post_id>
-		<wp:post_date>2015-08-17 01:33:04</wp:post_date>
-		<wp:post_date_gmt>2015-08-17 01:33:04</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>girl1</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-17 01:33:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-17 01:33:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[girl1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>8</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/girl1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/girl1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/girl1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:450;s:6:"height";i:450;s:4:"file";s:17:"2015/08/girl1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -579,24 +579,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>68</wp:post_id>
-		<wp:post_date>2015-08-17 01:33:21</wp:post_date>
-		<wp:post_date_gmt>2015-08-17 01:33:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>guy1</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-17 01:33:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-17 01:33:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[guy1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>8</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/guy1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/guy1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/guy1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:450;s:6:"height";i:450;s:4:"file";s:16:"2015/08/guy1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -610,24 +610,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>72</wp:post_id>
-		<wp:post_date>2015-08-18 01:43:08</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:43:08</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>change</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:43:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:43:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[change]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>8</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/change.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/change.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/change.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:600;s:4:"file";s:18:"2015/08/change.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -641,24 +641,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>73</wp:post_id>
-		<wp:post_date>2015-08-18 01:43:10</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:43:10</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>play</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:43:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:43:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[play]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>8</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/play.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/play.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/play.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:600;s:4:"file";s:16:"2015/08/play.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -669,69 +669,77 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/modern-agency/?page_id=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" bg_style="stretch" css=".vc_custom_1442250634251{background: #666666 url(http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coputer-desk1.jpg?id=82) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="We create real websites and products for real businesses &amp; real people (just like you)" tag="h2" text_align="center" color="#ffffff" font_size="54px"][vcex_spacing size="60px"][vcex_button hover_animation="float-shadow" title="Let's Get Started" target="blank" style="outline" align="center" color="white" text_transform="uppercase" font_weight="normal" font_size="24px" border_radius="99px" letter_spacing="2px" font_padding="12px 30px"]Let's Get Started[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" border_style="solid" padding_top="60px" border_color="#eeeeee" border_width="0px 0px 1px"][vc_column width="1/2" margin_bottom="0px" padding_bottom="30px"][vcex_heading text="We enjoy working with others to create meaningful design experiences" tag="h2" font_size="32px"][vcex_spacing][vc_column_text css=".vc_custom_1442250777272{margin-bottom: 5px !important;}"]Design is our passion, and our goal is to share that with you. We come into work every day fired up and ready to tackle the next challenge - we just can't wait. So why shouldn't our next project be you? We're ready and willing and waiting for your call. We can do anything, from web design, to logo creation and even app development. Just contact us and we'll work out a schedule and budget that's right for you.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/modern-agency/about/" title="More About Us" style="outline" color="grey" text_transform="uppercase" letter_spacing="2px" border_radius="99px" font_padding="12px 30px" custom_color="#a0a0a0" custom_hover_color="#ffffff" font_size="12px"]More About Us[/vcex_button][/vc_column][vc_column width="1/2" margin_bottom="0px"][vc_single_image image="15" img_size="455x520" alignment="right"][/vc_column][/vc_row][vc_row center_row="yes" max_width="70" css=".vc_custom_1442250790479{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column padding_bottom="0px" margin_bottom="0px"][vcex_heading text="A sampling of what we can do" tag="h2" text_align="center" font_size="32px"][vcex_spacing][vc_column_text]
+		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" bg_style="stretch" css=".vc_custom_1462476603883{padding-top: 160px !important;padding-bottom: 160px !important;background: #666666 url(http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coputer-desk1.jpg?id=82) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="We create real websites and products for real businesses &amp; real people (just like you)" tag="h2" text_align="center" color="#ffffff" font_size="54px"][vcex_spacing size="60px"][vcex_button hover_animation="float-shadow" title="Let's Get Started" target="blank" style="outline" align="center" color="white" text_transform="uppercase" font_weight="normal" font_size="24px" border_radius="99px" letter_spacing="2px" font_padding="12px 30px"]Let's Get Started[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" border_style="solid" padding_top="60px" border_color="#eeeeee" border_width="0px 0px 1px"][vc_column width="1/2" margin_bottom="0px" padding_bottom="30px"][vcex_heading text="We enjoy working with others to create meaningful design experiences" tag="h2" font_size="32px"][vcex_spacing][vc_column_text css=".vc_custom_1442250777272{margin-bottom: 5px !important;}"]Design is our passion, and our goal is to share that with you. We come into work every day fired up and ready to tackle the next challenge - we just can't wait. So why shouldn't our next project be you? We're ready and willing and waiting for your call. We can do anything, from web design, to logo creation and even app development. Just contact us and we'll work out a schedule and budget that's right for you.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/modern-agency/about/" title="More About Us" style="outline" color="grey" text_transform="uppercase" letter_spacing="2px" border_radius="99px" font_padding="12px 30px" custom_color="#a0a0a0" custom_hover_color="#ffffff" font_size="12px"]More About Us[/vcex_button][/vc_column][vc_column width="1/2" margin_bottom="0px"][vc_single_image image="15" img_size="455x520" alignment="right"][/vc_column][/vc_row][vc_row center_row="yes" max_width="70" css=".vc_custom_1442250790479{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column padding_bottom="0px" margin_bottom="0px"][vcex_heading text="A sampling of what we can do" tag="h2" text_align="center" font_size="32px"][vcex_spacing][vc_column_text]
 <p style="text-align: center;">Our design agency focuses on being small but powerful. We may not be as big as some of our competitors, but our projects pack more punch, passion and design quality in each pixel than the other guys. Go ahead, see for yourself below.</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row center_row="" padding_top="60px" padding_bottom="30px"][vc_column padding_bottom="0px" margin_bottom="0px"][vcex_portfolio_grid grid_style="no_margins" posts_per_page="6" overlay_style="plus-hover" img_hover_style="grow" title="false" excerpt="false" read_more="false"][/vc_column][/vc_row][vc_row center_row="yes" border_style="solid" padding_top="50px" border_color="#eeeeee" border_width="0px 0px 1px" padding_bottom="30px"][vc_column][vcex_button url="http://totaltheme.wpengine.com/modern-agency/portfolio/" title="View Our Work" style="outline" align="center" color="grey" text_transform="uppercase" letter_spacing="2px" border_radius="99px" font_padding="12px 30px" custom_color="#a0a0a0" custom_hover_color="#ffffff" font_size="13px"]View Our Work[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" padding_top="60px" padding_bottom="30px"][vc_column margin_bottom="0px"][vcex_heading text="Real testimonials, from real people like you" tag="h2" text_align="center" font_size="32px"][vcex_testimonials_slider display_author_company="" loop="" height_animation="400" animation_speed="600" slideshow="" control_nav="false" direction_nav="true" count="3" control_thumbs="" excerpt=""][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
-		<wp:post_date>2015-08-13 04:05:44</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 04:05:44</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>home</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 04:05:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 04:05:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_overlay_header</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_overlay_header]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_overlay_header_logo</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_title</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_header_margin</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1442250634251{background: #666666 url(http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coputer-desk1.jpg?id=82) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1442250790479{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1442250777272{margin-bottom: 5px !important;}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1462476603883{padding-top: 160px !important;padding-bottom: 160px !important;background: #666666 url(http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coputer-desk1.jpg?id=82) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1442250790479{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1442250777272{margin-bottom: 5px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -744,51 +752,51 @@
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row" column_spacing="0px"][vc_column margin_bottom="0px"][vcex_feature_box heading="We want to change the world" equal_heights="" phone_widths="fullwidth" heading_size="28px" heading_letter_spacing="2px" image="72" content_padding="30px"]This is what we do, and yeah, we're really good at it. We work hard to make sure our clients are happy, but we also want our clients to be the best. So if we see an area for improvement, we'll tell you. Or if we run into a roadblock our clients are the first ones we call. And we're constantly growing our services list. We're here for you 100% and 24/7. That's just how we are.[/vcex_feature_box][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px"][vc_column margin_bottom="0px"][vcex_feature_box style="left-image-right-content" heading="By working really hard" equal_heights="" phone_widths="fullwidth" heading_size="28px" heading_letter_spacing="2px" image="74" content_padding="30px"]This is what we do, and yeah, we're really good at it. We work hard to make sure our clients are happy, but we also want our clients to be the best. So if we see an area for improvement, we'll tell you. Or if we run into a roadblock our clients are the first ones we call. And we're constantly growing our services list. We're here for you 100% and 24/7. That's just how we are.[/vcex_feature_box][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1442252968129{margin-bottom: 60px !important;}"][vc_column margin_bottom="0px"][vcex_feature_box heading="Oh, and playing hard too" equal_heights="" phone_widths="fullwidth" heading_size="28px" heading_letter_spacing="2px" image="73" content_padding="30px"]This is what we do, and yeah, we're really good at it. We work hard to make sure our clients are happy, but we also want our clients to be the best. So if we see an area for improvement, we'll tell you. Or if we run into a roadblock our clients are the first ones we call. And we're constantly growing our services list. We're here for you 100% and 24/7. That's just how we are.[/vcex_feature_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1442253030116{border-top-width: 1px !important;padding-top: 40px !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column][vcex_heading text="Now that you know about us, perhaps you should meet us" tag="h2" text_align="center" link_local_scroll="" font_size="28px"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="60"][vc_column width="1/3"][vcex_teaser heading="Carl Maxwell" image="66"]Carl is the one who started it all, kind of like the glue in our little team. He's also our lead developer. Someone's gotta code and Carl handles the hard stuff.[/vcex_teaser][/vc_column][vc_column width="1/3"][vcex_teaser heading="Angie Smith" image="67"]Meet Angie. She keeps the boys in line, but she's also in charge of design. Staying on top of the latest trends is the name of her game and she rocks at it.[/vcex_teaser][/vc_column][vc_column width="1/3"][vcex_teaser heading="And this is Frank" image="68"]He's our big idea guy. Not sure where to start? Frank knows. Don't know what to eat for lunch? Oh, you know Frank has got you covered. He's pretty cool.[/vcex_teaser][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date>2015-08-13 04:05:38</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 04:05:38</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>about</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 04:05:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 04:05:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a bit about who we are]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 			<wp:meta_value><![CDATA[.vc_custom_1442252968129{margin-bottom: 60px !important;}.vc_custom_1442253030116{border-top-width: 1px !important;padding-top: 40px !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -802,52 +810,52 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date>2015-08-13 04:05:59</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 04:05:59</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>9</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 04:05:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 04:05:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[9]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -861,52 +869,52 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date>2015-08-13 04:05:59</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 04:05:59</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>10</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 04:05:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 04:05:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[10]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -930,43 +938,43 @@ Las Vegas, NV 89101
 [/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
-		<wp:post_date>2015-08-13 18:56:34</wp:post_date>
-		<wp:post_date_gmt>2015-08-13 18:56:34</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>custom-footer</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-13 18:56:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-13 18:56:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[custom-footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 			<wp:meta_value><![CDATA[.vc_custom_1442251177773{padding-top: 120px !important;padding-bottom: 90px !important;background: #999999 url(http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/typing1.jpg?id=83) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1442251489185{padding-top: 30px !important;padding-bottom: 30px !important;background-color: #eeeeee !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -982,47 +990,47 @@ Las Vegas, NV 89101
 This website was a way for them to share their services, staff and portfolio with current and potential clients. A styling and color scheme help define the company and what they can do for their customers and clientele.This design offers room to grow and options for them to create a name for themselves in their industry.[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text css_animation=""]A clean multi-page layout perfect for personal or business websites.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/nouveau/" title="Nou·veau Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Nou·veau Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2015-08-01 21:52:53</wp:post_date>
-		<wp:post_date_gmt>2015-08-01 21:52:53</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>nou%c2%b7veau-business-website</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-01 21:52:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-01 21:52:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nou%c2%b7veau-business-website]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a classic web design]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1036,47 +1044,47 @@ This website was a way for them to share their services, staff and portfolio wi
 		<content:encoded><![CDATA[[vc_row center_row=""][vc_column][vcex_portfolio_grid grid_style="no_margins" posts_per_page="-1" overlay_style="plus-hover" img_hover_style="grow" title="false" excerpt="false" read_more="false"][/vc_column][/vc_row][vc_row center_row=""][vc_column][vcex_heading text="And we're ready for more work! Contact us asap!" tag="h3" text_align="center" font_size="28px"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
-		<wp:post_date>2015-08-15 21:56:23</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 21:56:23</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>portfolio</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 21:56:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 21:56:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[this is what we do]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1090,52 +1098,52 @@ This website was a way for them to share their services, staff and portfolio wi
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
-		<wp:post_date>2015-08-15 21:56:42</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 21:56:42</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>33</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 21:56:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 21:56:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[33]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1151,47 +1159,47 @@ This website was a way for them to share their services, staff and portfolio wi
 The idea behind the app was to create a watch add-on that can help you plan your schedule, travel or even your outfits by know the weather of your current and future locations. With geolocation and calendar integration the app can accurately tell your the weather you should plan for.[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A simple app to help predict the weather for your location and schedule.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://www.apple.com/watch/" title="Montreal App" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Montreal App[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
-		<wp:post_date>2015-08-02 22:18:47</wp:post_date>
-		<wp:post_date_gmt>2015-08-02 22:18:47</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>montreal-weather-app</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-02 22:18:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-02 22:18:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[montreal-weather-app]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[know your weather]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1207,47 +1215,47 @@ The idea behind the app was to create a watch add-on that can help you plan your
 We added lots of photos and images since the blog author likes to share food experiences, favorite restaurants, food travels and delicious recipes with readers. And creating the logo was a process of design choices to help the reader understand the focus of the blog.[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A simple blog to for sharing images and recipes, plus custom logo design.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/blogdotnom/" title="Blog.nom Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Blog.nom Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
-		<wp:post_date>2015-08-03 22:32:43</wp:post_date>
-		<wp:post_date_gmt>2015-08-03 22:32:43</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>blog-nom-food-blog</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-03 22:32:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-03 22:32:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog-nom-food-blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[38]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a delicious food story]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1263,47 +1271,47 @@ We added lots of photos and images since the blog author likes to share food ex
 We saw room for growth and decided to create something on our own. Our bubble idea makes it easy for users to navigate other apps with simple touch features. To use our design, users simply install, activate the UI and then enjoy the result. Best of all, this is something to improve watch use for everyone.[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]An easy to use bubble user interface (UI) for the mobile watch.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://www.apple.com/watch/" title="Watch UI" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Watch UI[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>39</wp:post_id>
-		<wp:post_date>2015-08-04 22:38:41</wp:post_date>
-		<wp:post_date_gmt>2015-08-04 22:38:41</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bubble-watch-ui</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-04 22:38:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-04 22:38:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bubble-watch-ui]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[40]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[for better navigation]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1319,47 +1327,47 @@ We saw room for growth and decided to create something on our own. Our bubble id
 We focused on creating a streamlined user experience that effortlessly flowed from the mobile website to the mobile app. This was challenging since it needed to adapt to any screen or device, but we did an excellent job if you ask us![/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A clean and minimal mobile mobile way to manage your health.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/healthcare/" title="Healthcare Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Healthcare Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>46</wp:post_id>
-		<wp:post_date>2015-08-05 23:07:02</wp:post_date>
-		<wp:post_date_gmt>2015-08-05 23:07:02</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>healthcare-mobile-website</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-05 23:07:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-05 23:07:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[healthcare-mobile-website]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[47]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a better way to manage your health]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1375,47 +1383,47 @@ We focused on creating a streamlined user experience that effortlessly flowed fr
 Single page websites are great for some people, but Samus needed a better way to sell new clients on their services. So we took their original design and expanded it to cover their services, team, portfolio, pricing, blog and a contact page. They've already seen a great return on their investment![/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A new way to share your business and examples of your work.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/samus/" title="Samus Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Samus Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>48</wp:post_id>
-		<wp:post_date>2015-08-06 23:07:24</wp:post_date>
-		<wp:post_date_gmt>2015-08-06 23:07:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>samus-business-portfolio</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-06 23:07:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-06 23:07:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[samus-business-portfolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[49]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[progressive business]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1429,24 +1437,24 @@ Single page websites are great for some people, but Samus needed a better way to
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>74</wp:post_id>
-		<wp:post_date>2015-08-18 01:43:11</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:43:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>work</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:43:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:43:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[work]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>8</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/work.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/work.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/work.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:600;s:4:"file";s:16:"2015/08/work.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1457,62 +1465,70 @@ Single page websites are great for some people, but Samus needed a better way to
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/modern-agency/?page_id=75</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes"][vc_column margin_bottom="0px"][vcex_feature_box heading="Contact us for a quote today" equal_heights="" tablet_widths="fullwidth" phone_widths="fullwidth" image="77" heading_size="28px" heading_letter_spacing="2px" content_padding="30px"]We really want to hear from you. No, seriously, we do! We love new projects and we couldn't be happier that you found our little website. Just fill out the contact form below to reach out. Or if you're feeling really frisky, drop by the office any time. Oh, but by any time we really mean 9am-5pm, Monday through Friday (but not on holidays folks - web developers need time off too, am I right?).[/vcex_feature_box][/vc_column][/vc_row][vc_row center_row="yes"][vc_column margin_bottom="0px"][vcex_feature_box style="left-image-right-content" heading="Say hi, in person or on social media" tablet_widths="fullwidth" phone_widths="fullwidth" image="78" heading_size="28px" heading_letter_spacing="2px" content_padding="30px"]This is where we're currently located... and where you can send us gifts, free food or coffee... because you love us.
+		<content:encoded><![CDATA[[vc_row][vc_column margin_bottom="0px"][vcex_feature_box heading="Contact us for a quote today" equal_heights="" tablet_widths="fullwidth" phone_widths="fullwidth" image="77" heading_size="28px" heading_letter_spacing="2px" content_padding="30px"]We really want to hear from you. No, seriously, we do! We love new projects and we couldn't be happier that you found our little website. Just fill out the contact form below to reach out. Or if you're feeling really frisky, drop by the office any time. Oh, but by any time we really mean 9am-5pm, Monday through Friday (but not on holidays folks - web developers need time off too, am I right?).[/vcex_feature_box][/vc_column][/vc_row][vc_row css=".vc_custom_1470792139129{margin-bottom: 60px !important;}"][vc_column margin_bottom="0px"][vcex_feature_box style="left-image-right-content" heading="Say hi, in person or on social media" tablet_widths="fullwidth" phone_widths="fullwidth" image="78" heading_size="28px" heading_letter_spacing="2px" content_padding="30px"]This is where we're currently located... and where you can send us gifts, free food or coffee... because you love us.
 
 <span style="font-size: 18px;">1234 Main Street #567
 Las Vegas, NV 89101</span>
 
 And these are our social accounts... but we'd really prefer food... no really, we're constantly hungry.
 
-[font_awesome link="https://twitter.com/wpexplorer/" icon="twitter" size="28px" margin_right="30px"][font_awesome link="https://www.facebook.com/wpexplorer-themes/" icon="facebook" size="28px" margin_right="30px"][font_awesome link="https://plus.google.com/108390417049649826323/posts" icon="google-plus" size="28px" margin_right="30px"][font_awesome link="https://www.pinterest.com/wpexplorer/" icon="pinterest" size="28px"][/vcex_feature_box][/vc_column][/vc_row][vc_row center_row="yes" border_style="solid" border_color="#eeeeee" border_width="1px 0px 0px" margin_top="30px" padding_top="45px"][vc_column margin_bottom="0px"][vcex_heading text="Contact Us For A Quote!" font_family="EB Garamond" text_align="center" font_size="32px" css=".vc_custom_1442253878811{margin-bottom: 30px !important;}"][contact-form-7 id="79"][/vc_column][/vc_row]]]></content:encoded>
+[font_awesome link="https://twitter.com/wpexplorer/" icon="twitter" size="28px" margin_right="30px"][font_awesome link="https://www.facebook.com/wpexplorer-themes/" icon="facebook" size="28px" margin_right="30px"][font_awesome link="https://plus.google.com/108390417049649826323/posts" icon="google-plus" size="28px" margin_right="30px"][font_awesome link="https://www.pinterest.com/wpexplorer/" icon="pinterest" size="28px"][/vcex_feature_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1470792270198{border-top-width: 1px !important;padding-top: 45px !important;padding-bottom: 20px !important;background-color: #ffffff !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column margin_bottom="0px"][vcex_heading text="Contact Us For A Quote!" text_align="center" font_family="EB Garamond" font_size="32px" css=".vc_custom_1442253878811{margin-bottom: 30px !important;}"][contact-form-7 id="79"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>75</wp:post_id>
-		<wp:post_date>2015-08-18 01:47:34</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:47:34</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>contact</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:47:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:47:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_main_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[come meet the team]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1442253878811{margin-bottom: 30px !important;}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1470792139129{margin-bottom: 60px !important;}.vc_custom_1470792270198{border-top-width: 1px !important;padding-top: 45px !important;padding-bottom: 20px !important;background-color: #ffffff !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}.vc_custom_1442253878811{margin-bottom: 30px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1525,52 +1541,52 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>76</wp:post_id>
-		<wp:post_date>2015-08-18 01:48:01</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:48:01</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>76</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:48:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:48:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[76]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[75]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 			<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1584,24 +1600,24 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>77</wp:post_id>
-		<wp:post_date>2015-08-18 01:51:46</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:51:46</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>contact-2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:51:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:51:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>75</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/contact.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/contact.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/contact.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:600;s:4:"file";s:19:"2015/08/contact.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1615,24 +1631,24 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>78</wp:post_id>
-		<wp:post_date>2015-08-18 01:58:16</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:58:16</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>mapping</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:58:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:58:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[mapping]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>75</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/mapping.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/mapping.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/mapping.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:600;s:4:"file";s:19:"2015/08/mapping.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1646,24 +1662,24 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>82</wp:post_id>
-		<wp:post_date>2015-09-14 17:09:57</wp:post_date>
-		<wp:post_date_gmt>2015-09-14 17:09:57</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>coputer-desk-2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-14 17:09:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-14 17:09:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[coputer-desk-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>5</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coputer-desk1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/coputer-desk1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/coputer-desk1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:1118;s:4:"file";s:25:"2015/08/coputer-desk1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1677,24 +1693,24 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>83</wp:post_id>
-		<wp:post_date>2015-09-14 17:19:27</wp:post_date>
-		<wp:post_date_gmt>2015-09-14 17:19:27</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>typing-2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-09-14 17:19:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-14 17:19:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[typing-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>16</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/typing1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/modern-agency/wp-content/uploads/sites/62/2015/08/typing1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/08/typing1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:538;s:4:"file";s:19:"2015/08/typing1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1708,39 +1724,39 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[I'm so glad I found Modern Agency when I did. They were able to revamp my food blog so that I can better share my epicurean experiences with my readers. I just love it - it's truly delicious!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>41</wp:post_id>
-		<wp:post_date>2015-08-15 22:40:23</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 22:40:23</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>wonderful</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 22:40:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 22:40:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wonderful]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>testimonials</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_author</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Candice Cambridge]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_company</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_company]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Blog.nom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_url</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/blogdotnom/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1754,39 +1770,39 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[Can I just say how awesome these guys are? Our construction firm recently realized they needed a website and fast. Modern Agency got it done. Great service, fast and professional.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>42</wp:post_id>
-		<wp:post_date>2015-08-15 22:50:11</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 22:50:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>awesome</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 22:50:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 22:50:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[awesome]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>testimonials</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_author</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Mike Manning]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_company</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_company]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Construct U.S.A.]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_url</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/construct/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1800,39 +1816,39 @@ And these are our social accounts... but we'd really prefer food... no really, w
 		<content:encoded><![CDATA[Modern Agency is a modern hero. We needed a new look, and a new website fast. They handled our corporate rebranding like pros, and now our business is flourishing. Great work guys!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>43</wp:post_id>
-		<wp:post_date>2015-08-15 22:57:40</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 22:57:40</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>super</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-15 22:57:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-15 22:57:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[super]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>testimonials</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_author</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Evan Ingles]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_company</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_company]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Freelancer LLC]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_testimonial_url</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_testimonial_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/freelancer/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1848,47 +1864,47 @@ And these are our social accounts... but we'd really prefer food... no really, w
 Agent's new website includes an impressive homepage slider, custom icon topped features, client testimonials and a stunning portfolio. Plus we've integrated a lovely little e-commerce store where customers can purchased branded goods from the company, because who doesn't love a good leather bound notebook?[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A custom business and agency website to make a great first impression.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/agent/" title="Agent Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Agent Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>52</wp:post_id>
-		<wp:post_date>2015-08-07 00:44:58</wp:post_date>
-		<wp:post_date_gmt>2015-08-07 00:44:58</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>agent-professional-business</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-07 00:44:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-07 00:44:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[agent-professional-business]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_subheading</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[clean, cool and classy]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1904,43 +1920,43 @@ Agent's new website includes an impressive homepage slider, custom icon topped f
 We created the Construct website to include big, bright images to really show off what the construction firm can do. Parallax backgrounds, bold galleries and of course an informative services page all serve to help convince potential clients that Construct is the way to go. Plus the contact form has been structured to include a field for budget (a crucial aspect of construction projects).[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A construction website with bold black and yellow highlights.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/construct/" title="Construct Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Construct Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>55</wp:post_id>
-		<wp:post_date>2015-08-08 00:51:24</wp:post_date>
-		<wp:post_date_gmt>2015-08-08 00:51:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>construct-builder-website</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-08 00:51:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-08 00:51:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[construct-builder-website]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -1956,43 +1972,43 @@ We created the Construct website to include big, bright images to really show of
 Landing pages are a great way to put a bunch of information on one page and sell, sell, sell! Add links to the marketplaces where your app is available for download, include a video to show how your app works, easy services or features lists with icons and more. Take a look at the demo to see it for yourself.[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A simple app landing page to promote your mobile application.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/appy/" title="Appy Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Appy Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>57</wp:post_id>
-		<wp:post_date>2015-08-09 00:38:54</wp:post_date>
-		<wp:post_date_gmt>2015-08-09 00:38:54</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>appy-mobile-app-page</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-09 00:38:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-09 00:38:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[appy-mobile-app-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[58]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -2008,43 +2024,43 @@ Landing pages are a great way to put a bunch of information on one page and sell
 We created a full integration with geolocation and Google maps so that the Coffee Time app can accurately provide store information. And we're working to include Google+ ratings and relevant menu information too. So there's a lot more on the horizon for this little app![/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A handy watch app to locate the coffee shops nearest to you.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://www.apple.com/watch/" title="Coffee Time App" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Coffee Time App[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>59</wp:post_id>
-		<wp:post_date>2015-08-10 00:47:12</wp:post_date>
-		<wp:post_date_gmt>2015-08-10 00:47:12</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>coffee-time-app</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-10 00:47:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-10 00:47:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[coffee-time-app]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[62]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -2060,43 +2076,43 @@ We created a full integration with geolocation and Google maps so that the Coffe
 We created a simple homepage that has basic contact information and a bit about the owners. But the real gem is the perfectly pink shop with every arrangement and gift they shop offers, making it easy for customers to buy gifts on the go.[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]A lovely little website for a local flower arrangements &amp; gifts shop.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://wpexplorer-themes.com/total/demos/" title="Flower Shop Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Flower Shop Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>60</wp:post_id>
-		<wp:post_date>2015-08-12 00:47:14</wp:post_date>
-		<wp:post_date_gmt>2015-08-12 00:47:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>flower-shop-webstore</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-12 00:47:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-12 00:47:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[flower-shop-webstore]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -2112,43 +2128,43 @@ We created a simple homepage that has basic contact information and a bit about 
 This website features a custom local scroll bar (since it is only one page after all), clients, projects, staff and more. It's a quick and easy way to for prospective clients to see what Freelancer has to offer at a glance. Plus the contact form at the end of the page make getting in touch easy as pie. Yup, we thought of pretty much everything.[/vc_column_text][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_heading visibility="" font_family="" tag="h2" font_weight="" text_align="" link_local_scroll="" text="View The Demo" font_size="28px"][vcex_spacing size="30px" visibility=""][vc_column_text]An impressive single page website for promoting a freelancer business.[/vc_column_text][vcex_spacing size="30px" visibility=""][vcex_button url="http://totaltheme.wpengine.com/freelancer/" title="Freelancer Demo" style="outline" color="grey" text_transform="uppercase" icon_type="fontawesome" letter_spacing="2px" border_radius="99px" font_padding="15px"]Freelancer Demo[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>61</wp:post_id>
-		<wp:post_date>2015-08-14 00:47:17</wp:post_date>
-		<wp:post_date_gmt>2015-08-14 00:47:17</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>freelancer-website</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-14 00:47:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-14 00:47:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[freelancer-website]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>portfolio</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[64]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -2170,7 +2186,7 @@ This website features a custom local scroll bar (since it is only one page after
 <p>[textarea your-message "Tell us a bit about you and what you need..."] </p>
 
 <p>[submit "Submit Form"]</p>
-[your-subject]
+[your-subject] - Modern
 [your-name] <wordpress@totaltheme.wpengine.com>
 From: [your-name] <[your-email]>
 Subject: [your-subject]
@@ -2180,7 +2196,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on Modern Agency (http://totaltheme.wpengine.com/modern-agency)
-sympleworkz@gmail.com
+dummy@wpexplorer.com
 Reply-To: [your-email]
 
 
@@ -2223,19 +2239,19 @@ This file is too large.
 Failed to upload file. Error occurred.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>79</wp:post_id>
-		<wp:post_date>2015-08-18 01:59:54</wp:post_date>
-		<wp:post_date_gmt>2015-08-18 01:59:54</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>simple_form</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-08-18 01:59:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-08-18 01:59:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[simple_form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>wpcf7_contact_form</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_form</wp:meta_key>
+			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<p class="one-half first">[text* your-name "Name"]</p>
 
 <p class="one-half">[email* your-email "Email"]</p>
@@ -2249,18 +2265,18 @@ Failed to upload file. Error occurred.]]></content:encoded>
 <p>[submit "Submit Form"]</p>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_mail</wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:195:"From: [your-name] <[your-email]>
+			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:23:"[your-subject] - Modern";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:195:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Modern Agency (http://totaltheme.wpengine.com/modern-agency)";s:9:"recipient";s:21:"sympleworkz@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Modern Agency (http://totaltheme.wpengine.com/modern-agency)";s:9:"recipient";s:20:"dummy@wpexplorer.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_mail_2</wp:meta_key>
+			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:49:"Modern Agency <wordpress@totaltheme.wpengine.com>";s:4:"body";s:137:"Message Body:
 [your-message]
 
@@ -2268,20 +2284,20 @@ This e-mail was sent from a contact form on Modern Agency (http://totaltheme.wpe
 This e-mail was sent from a contact form on Modern Agency (http://totaltheme.wpengine.com/modern-agency)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_messages</wp:meta_key>
+			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:34:"Please fill in the required field.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_additional_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_locale</wp:meta_key>
+			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
