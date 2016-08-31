@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.4.1" created="2016-01-26 20:06" -->
+<!-- generator="WordPress/4.6" created="2016-08-31 21:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Graphix</title>
 	<link>http://totaltheme.wpengine.com/graphix</link>
 	<description>Web Design Specialist</description>
-	<pubDate>Tue, 26 Jan 2016 20:06:22 +0000</pubDate>
+	<pubDate>Wed, 31 Aug 2016 21:03:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -37,9 +37,14 @@
 
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
 
-	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<generator>https://wordpress.org/?v=4.6</generator>
 
 	<item>
 		<title>Home</title>
@@ -50,11 +55,11 @@
 		<description></description>
 		<content:encoded><![CDATA[[vc_row center_row="yes" column_spacing="50" margin_top="50px" margin_bottom="15px"][vc_column width="1/3"][vcex_heading text="STANDARDS" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="20px"][vc_column_text]I am committed to providing you with the best website possible, all while adhering to the latest and greatest web coding standards and regulations.[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="QUALITY" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="20px"][vc_column_text]Every project has my full attention. I make myself available to you 24/7 until your project is complete, and you are totally happy with the result.[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="RELEVANT" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="20px"][vc_column_text]Every creation is fully responsive and designed to fit your individual needs. I creatively incorporate the modules you need into your design.[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50" bg_color="#eeeeee" padding_top="50px" padding_bottom="15px" id="about"][vc_column width="1/3"][vc_single_image image="10" alignment="none"][/vc_column][vc_column width="2/3"][vcex_heading text="ABOUT ME" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="20px"][vc_column_text]Web design is my passion. Whether I'm creating an e-commerce website for a brick and mortar store, designing a new interface for a learning management system, or re-branding a well established company I always dedicate myself 100% to my project.[/vc_column_text][vcex_spacing size="25px"][vcex_icon_box heading="Web Design" heading_type="h2" heading_transform="uppercase" icon="globe" url_target="" hover_white_text=""]I'll develop the website you've always wanted for your business.[/vcex_icon_box][vcex_spacing size="25px"][vcex_icon_box heading="REBRANDING" heading_type="h2" heading_transform="uppercase" icon="rocket" url_target="" hover_white_text=""]Create a brand that lasts, with my expert help.[/vcex_icon_box][vcex_spacing size="25px"][vcex_icon_box heading="TARGETED MARKETING" heading_type="h2" heading_transform="uppercase" icon="smile-o" url_target="" hover_white_text=""]Get more customers with my optimization techniques.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50" margin_top="50px" margin_bottom="15px"][vc_column width="1/2"][vcex_heading text="SKILLS" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="25px"][vc_column_text]No matter what project I'm working on, my solid skill set makes me capable of producing high quality work time after time. I'm very capable with Photoshop, HTML, CSS, PHP and MySQL. I'm also constantly attending conferences, camps, seminars and more to re-educate myself with current trends and tools.
 
-I'd really love to work on your next project. Send me a note and let's see if we can't work something out. I just might be the perfect designer/developer for your project.[/vc_column_text][vcex_spacing size="25px"][vcex_button url="#contact" title="Contact Me" target="local" style="outline" align="left" size="small" color="black" font_weight="bold" font_family="Lato" font_size="13px" custom_hover_color="#ffffff" letter_spacing="1.5px" font_padding="10px 20px"]CONTACT ME[/vcex_button][/vc_column][vc_column width="1/2"][vc_custom_heading text="PHOTOSHOP" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="92" box_shadow="false"][vcex_spacing size="25px"][vc_custom_heading text="HTML/CSS" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="95" show_icon="" box_shadow="false" color="#f2c43e"][vcex_spacing size="25px"][vc_custom_heading text="PHP/MYSQL" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="90" show_icon="" box_shadow="false" color="#f2c43e"][/vc_column][/vc_row][vc_row parallax="true" center_row="yes" typography_style="none" bg_color="#111111" padding_top="50px" padding_bottom="15px" bg_image="32" style="light"][vc_column][vcex_heading text="MY RESUME" text_align="center" link_local_scroll="" font_family="Lato" color="#ffffff" font_size="28px"][vcex_spacing size="20px"][vc_column_text]
+I'd really love to work on your next project. Send me a note and let's see if we can't work something out. I just might be the perfect designer/developer for your project.[/vc_column_text][vcex_spacing size="25px"][vcex_button url="#contact" title="Contact Me" target="local" style="outline" align="left" size="small" color="black" font_weight="bold" font_family="Lato" font_size="13px" custom_hover_color="#ffffff" letter_spacing="1.5px" font_padding="10px 20px"]CONTACT ME[/vcex_button][/vc_column][vc_column width="1/2"][vc_custom_heading text="PHOTOSHOP" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="92" box_shadow="false"][vcex_spacing size="25px"][vc_custom_heading text="HTML/CSS" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="95" show_icon="" box_shadow="false" color="#f2c43e"][vcex_spacing size="25px"][vc_custom_heading text="PHP/MYSQL" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="90" show_icon="" box_shadow="false" color="#f2c43e"][/vc_column][/vc_row][vc_row parallax="content-moving" parallax_image="32" parallax_speed_bg="2.5" center_row="yes" typography_style="none" style="light" css=".vc_custom_1458524096472{padding-top: 50px !important;padding-bottom: 15px !important;background: #111111 url(http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur6.jpg?id=32);background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="MY RESUME" text_align="center" link_local_scroll="" font_family="Lato" color="#ffffff" font_size="28px"][vcex_spacing size="20px"][vc_column_text]
 <p style="text-align: center;"><span class="white-text" style="font-size: 16px;">How I got here is a very long story, but my resume sums it up nicely.</span>
 <span class="white-text" style="font-size: 16px;">You can see my accomplishments listed below, or download a copy to print.</span>
 
-[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Download" target="blank" style="outline" align="center" size="small" font_weight="bold" font_family="Lato" font_size="13px" custom_hover_color="#ffffff" letter_spacing="1.5px" font_padding="10px 20px"]DOWNLOAD[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50" margin_top="50px"][vc_column width="1/2"][vcex_heading text="EDUCATION" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="25px"][vc_column_text]We all start somewhere, and for me that was school. I attended a four year college where I was a full-time student.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="BACHELORS OF COMPUTER SCIENCE" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]University of Southern California, 2006[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="MASTERS IN WEB APPLICATION DEVELOPMENT" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Boston University, 2010[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50"][vc_column width="1/2"][vcex_heading text="CERTIFICATION" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="25px"][vc_column_text]In addition to all of that school I went above and beyond to better myself by receiving many prestigious certifications.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="CERTIFIED WEB DESIGNER" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Association of Web Professionals[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="HTML DEVELOPER CERTIFICATE" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]World Wide Web Consortium[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="CERTIFIED TECHNOLOGY SPECIALIST" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Microsoft[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="GLOBAL KNOWLEDGE WEBMASTER" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Global Knowledge[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50" padding_bottom="15px"][vc_column width="1/2"][vcex_heading text="EXPERIENCE" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="25px"][vc_column_text]Where you work and what you do can say a lot about you, and since I now work for myself I certainly have a lot to say.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="WEB DESIGN &amp; DEVELOPMENT SPECIALIST" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Independent Contractor, 2010-Present[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DEVELOPMENT ASSISTANT MANAGER" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Websites-R-Us LLC, 2006-2010[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DESIGN INTERN" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]A Really Cool Company, 2004-2006[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" bg_color="#eeeeee" padding_top="50px" padding_bottom="15px"][vc_column][vcex_heading text="MY WORK" tag="h2" font_weight="bold" text_align="center" link_local_scroll="" font_size="26PX"][vcex_spacing size="20px"][vc_column_text]
+[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2016/02/resume.pdf" title="Download" target="blank" style="outline" align="center" size="small" font_weight="bold" font_family="Lato" font_size="13px" custom_hover_color="#ffffff" letter_spacing="1.5px" font_padding="10px 20px"]DOWNLOAD[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50" margin_top="50px"][vc_column width="1/2"][vcex_heading text="EDUCATION" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="25px"][vc_column_text]We all start somewhere, and for me that was school. I attended a four year college where I was a full-time student.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="BACHELORS OF COMPUTER SCIENCE" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]University of Southern California, 2006[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="MASTERS IN WEB APPLICATION DEVELOPMENT" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Boston University, 2010[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50"][vc_column width="1/2"][vcex_heading text="CERTIFICATION" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="25px"][vc_column_text]In addition to all of that school I went above and beyond to better myself by receiving many prestigious certifications.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="CERTIFIED WEB DESIGNER" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Association of Web Professionals[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="HTML DEVELOPER CERTIFICATE" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]World Wide Web Consortium[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="CERTIFIED TECHNOLOGY SPECIALIST" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Microsoft[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="GLOBAL KNOWLEDGE WEBMASTER" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Global Knowledge[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="50" padding_bottom="15px"][vc_column width="1/2"][vcex_heading text="EXPERIENCE" tag="h2" font_weight="bold" link_local_scroll=""][vcex_spacing size="25px"][vc_column_text]Where you work and what you do can say a lot about you, and since I now work for myself I certainly have a lot to say.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="WEB DESIGN &amp; DEVELOPMENT SPECIALIST" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Independent Contractor, 2010-Present[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DEVELOPMENT ASSISTANT MANAGER" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]Websites-R-Us LLC, 2006-2010[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DESIGN INTERN" tag="h2" font_weight="bold" link_local_scroll="" font_size="16px"][vc_column_text]A Really Cool Company, 2004-2006[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" bg_color="#eeeeee" padding_top="50px" padding_bottom="15px"][vc_column][vcex_heading text="MY WORK" tag="h2" font_weight="bold" text_align="center" link_local_scroll="" font_size="26PX"][vcex_spacing size="20px"][vc_column_text]
 
 <p style="text-align: center;"><span style="font-size: 16px;">These examples are just a little bit of what I can do.</span>
 <span style="font-size: 16px;"> If you want to see more, just send me an email for my full portfo</span>lio.
@@ -157,9 +162,17 @@ I'd really love to work on your next project. Send me a note and let's see if 
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[light]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1458524096472{padding-top: 50px !important;padding-bottom: 15px !important;background: #111111 url(http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur6.jpg?id=32);background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
-		<title>Contact form 1</title>
+		<title>Homepage Form</title>
 		<link>http://totaltheme.wpengine.com/graphix/?post_type=wpcf7_contact_form&#038;p=4</link>
 		<pubDate>Sun, 01 Feb 2015 21:04:35 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
@@ -176,8 +189,8 @@ I'd really love to work on your next project. Send me a note and let's see if 
 <p>[textarea your-message "Type Your Message Here..."] </p>
 
 <p>[submit "SUBMIT FORM"]</p>
-[your-subject]
-[your-name] - Website Contact Form
+[your-subject] - Graphix
+[your-name] <wordpress@totaltheme.wpengine.com>
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -256,7 +269,7 @@ This input is too short.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:34:"[your-name] - Website Contact Form";s:4:"body";s:183:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:24:"[your-subject] - Graphix";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:183:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -664,6 +677,33 @@ This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1135;s:4:"file";s:25:"2015/02/entrepreneur6.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>resume</title>
+		<link>http://totaltheme.wpengine.com/graphix/resume/</link>
+		<pubDate>Sun, 21 Feb 2016 20:51:36 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2016/02/resume.pdf</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2016-02-21 20:51:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-02-21 20:51:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[resume]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2016/02/resume.pdf]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/02/resume.pdf]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
