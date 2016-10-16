@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.6.1" created="2016-10-16 23:21" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-16 23:28" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Zoo</title>
 	<link>http://totaltheme.wpengine.com/zoo</link>
 	<description>A Total Drag &#38; Drop WordPress Theme Demo</description>
-	<pubDate>Sun, 16 Oct 2016 23:21:20 +0000</pubDate>
+	<pubDate>Sun, 16 Oct 2016 23:28:35 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -43,7 +43,7 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-zoo-menu]]></wp:term_slug><wp:term_name><![CDATA[main zoo menu]]></wp:term_name>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=4.6.1</generator>
@@ -835,7 +835,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-zoo-menu"><![CDATA[main zoo menu]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -894,7 +894,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-zoo-menu"><![CDATA[main zoo menu]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -953,7 +953,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-zoo-menu"><![CDATA[main zoo menu]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1012,7 +1012,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-zoo-menu"><![CDATA[main zoo menu]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1071,7 +1071,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-zoo-menu"><![CDATA[main zoo menu]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1130,7 +1130,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-zoo-menu"><![CDATA[main zoo menu]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1189,7 +1189,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-zoo-menu"><![CDATA[main zoo menu]]></category>
+		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
