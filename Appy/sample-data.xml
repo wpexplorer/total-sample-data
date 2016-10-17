@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.2.4" created="2015-08-26 02:54" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-17 00:58" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,17 +29,22 @@
 	<title>Appy</title>
 	<link>http://totaltheme.wpengine.com/appy</link>
 	<description>Pixel Perfect App Landing Page</description>
-	<pubDate>Wed, 26 Aug 2015 02:54:36 +0000</pubDate>
+	<pubDate>Mon, 17 Oct 2016 00:58:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
 	<wp:base_blog_url>http://totaltheme.wpengine.com/appy</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>totaltheme</wp:author_login><wp:author_email>sympleworkz@gmail.com</wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
 
-	<generator>http://wordpress.org/?v=4.2.4</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
 	<item>
 		<title>Homepage</title>
@@ -48,102 +53,114 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row bg_color="#41a8ff" border_style="solid" border_color="#2187de" border_width="0px 0px 1px 0px" center_row="yes" padding_top="90px" bg_image="7" bg_style="stretch" parallax_mobile="" video_bg="" column_spacing="30"][vc_column width="1/2"][vc_custom_heading text="Turn that frown upside-down.
-Come on, get Appy." font_container="tag:h2|font_size:36px|text_align:left|color:%23ffffff" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:300%20light%20regular%3A300%3Anormal" enqueue_font_style="false"][vcex_spacing size="15px"][vcex_divider style="solid" icon_type="fontawesome" margin_top="10px" margin_bottom="20px"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row center_row="yes" column_spacing="30" bg_color="#41a8ff" border_style="solid" border_color="#2187de" border_width="0px 0px 1px 0px" padding_top="90px" bg_image="7" bg_style="stretch"][vc_column width="1/2"][vc_custom_heading text="Turn that frown upside-down.
+Come on, get Appy." font_container="tag:h2|font_size:36px|text_align:left|color:%23ffffff" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:300%20light%20regular%3A300%3Anormal" enqueue_font_style="false"][vcex_spacing size="15px"][vcex_divider margin_top="10px" margin_bottom="20px"][vc_column_text]
 <p style="text-align: left;"><span class="white-text" style="font-size: 24px;">Our app is the perfect solution.</span>
-<span class="white-text" style="font-size: 24px;"> It can do anything.</span></p>
-[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image border_color="grey" img_link_target="_self" alignment="center" img_size="full" image="8"][/vc_column][/vc_row][vc_row padding_top="45px" center_row="yes"][vc_column width="1/1"][vc_custom_heading text="The app that does just about everything." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vc_column_text]
+<span class="white-text" style="font-size: 24px;"> It can do anything.</span>
+
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image image="8" alignment="center"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="45px"][vc_column][vc_custom_heading text="The app that does just about everything." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vc_column_text]
+
 <p style="text-align: center;">We built in tons of great features that you're sure to love.
-We're onto something here - check it out.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" el_class="textcenter" parallax_mobile="" video_bg=""][vc_column width="1/1"][vcex_button url="http://store.apple.com/us" title="App Store" custom_background="#175d99" border_radius="2px" custom_hover_background="#24bf75" icon_type="fontawesome" icon_right="fa fa-shopping-cart" target="blank"]App Store[/vcex_button][vcex_button url="https://play.google.com/store?hl=en" title="Google Play" custom_background="#175d99" border_radius="2px" custom_hover_background="#24bf75" icon_type="fontawesome" icon_right="fa fa-play" target="blank"]Google Play[/vcex_button][/vc_column][/vc_row][vc_row bg_color="#fbfbfb" border_style="solid" border_color="#f1f1f1" border_width="1px 0px 1px 0px" padding_top="45px" center_row="yes"][vc_column width="1/1"][vc_single_image border_color="grey" img_link_target="_self" alignment="center" img_size="full" image="19" lightbox_video="https://www.youtube.com/watch?v=5RwzrlaMBYA" img_link_large="" rounded_image="" lightbox_iframe_type="video_embed"][/vc_column][/vc_row][vc_row padding_top="45px" center_row="yes"][vc_column width="1/1"][vc_custom_heading text="It's as easy as 1, 2, 3, 4..." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vc_column_text]
+We're onto something here - check it out.
+
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" el_class="textcenter"][vc_column][vcex_button url="http://www.wpexplorer.com/out/total/" title="App Store" target="blank" custom_background="#175d99" custom_hover_background="#24bf75" icon_right="fa fa-shopping-cart" classes="button-margin"]App Store[/vcex_button][vcex_button url="http://www.wpexplorer.com/out/total/" title="Google Play" target="blank" custom_background="#175d99" custom_hover_background="#24bf75" icon_right="fa fa-play" classes="button-margin"]Google Play[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" bg_color="#fbfbfb" border_style="solid" border_color="#f1f1f1" border_width="1px 0px 1px 0px" padding_top="45px"][vc_column][vc_single_image image="19" alignment="center" lightbox_iframe_type="video_embed" lightbox_video="https://www.youtube.com/embed/RAx19sZy-g4"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="45px"][vc_column][vc_custom_heading text="It's as easy as 1, 2, 3, 4..." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vc_column_text]
+
 <p style="text-align: center;">Download the app. Sign up for an account.
-Do things. Then to more things.</p>
-[/vc_column_text][vcex_spacing size="45px"][vcex_image_grid grid_style="default" columns="4" title_type="title" thumbnail_link="none" lightbox_caption="true" custom_links_target="_self" img_width="9999" img_height="9999" image_ids="9,10,11,12"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="50px" parallax_mobile="" video_bg="" padding_bottom="10px" bg_color="#2496e2" bg_image="18"][vc_column width="1/3"][vcex_icon_box style="two" icon_type="linecons" icon="fa fa-info-circle" icon_linecons="vc_li vc_li-phone" icon_color="#ffffff" icon_size="60" heading="Any Device" heading_weight="normal" heading_letter_spacing="1px" css=".vc_custom_1426794415356{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Our app has been developer to work on every mobile device.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" icon_type="linecons" icon="fa fa-info-circle" icon_linecons="vc_li vc_li-location" icon_color="#ffffff" icon_size="60" heading="Any Place" heading_weight="normal" heading_letter_spacing="1px" css=".vc_custom_1426794434557{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Access your data no matter where you are in the world.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" icon_type="linecons" icon="fa fa-info-circle" icon_linecons="vc_li vc_li-calendar" icon_color="#ffffff" icon_size="60" heading="Any Time" heading_weight="normal" heading_letter_spacing="1px" css=".vc_custom_1426794803333{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]You can sign up and cancel your membership at anytime.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" padding_top="45px"][vc_column width="1/1"][vc_custom_heading text="It's as easy as 1, 2, 3, 4..." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vc_column_text]
+Do things. Then to more things.
+
+[/vc_column_text][vcex_spacing size="45px" visibility="hidden-phone"][vcex_image_grid visibility="hidden-phone" responsive_columns="false" thumbnail_link="none" title="no" img_width="226" img_height="9999" image_ids="9,10,11,12"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="50px" padding_bottom="10px" bg_color="#2496e2" bg_image="18"][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Device" heading_weight="normal" icon_type="linecons" icon_linecons="vc_li vc_li-phone" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794415356{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Our app has been developer to work on every mobile device.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Place" heading_weight="normal" icon_type="linecons" icon_linecons="vc_li vc_li-location" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794434557{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Access your data no matter where you are in the world.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Time" heading_weight="normal" icon_type="linecons" icon_linecons="vc_li vc_li-calendar" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794803333{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]You can sign up and cancel your membership at anytime.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" padding_top="45px"][vc_column][vc_custom_heading text="It's as easy as 1, 2, 3, 4..." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vc_column_text]
+
 <p style="text-align: center;">Down load the app. Sign up for an account.
-Do things. Then to more things.</p>
-[/vc_column_text][vcex_spacing size="30px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Learn More" align="center" size="small" custom_background="#24bf75" border_radius="2px" custom_hover_background="#1c945b" icon_type="fontawesome"]Learn More[/vcex_button][/vc_column][/vc_row][vc_row bg_color="#fbfbfb" border_style="solid" border_color="#f1f1f1" border_width="1px 0 0 0" padding_top="45px" center_row="yes" parallax_mobile="" video_bg=""][vc_column width="3/4"][vc_custom_heading text="Sign up to day to receive access to Appy exlusives!" font_container="tag:h2|font_size:24px|text_align:left|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vc_column_text]
+Do things. Then to more things.
+
+[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/features/" title="Learn More" align="center" size="small" custom_background="#24bf75" border_radius="2px" custom_hover_background="#1c945b"]Learn More[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="30" css=".vc_custom_1476665588934{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 30px !important;padding-bottom: 10px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}"][vc_column width="3/4"][vc_custom_heading text="Sign up to day to receive access to Appy exlusives!" font_container="tag:h2|font_size:21px|text_align:left|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vc_column_text]
+
 <p style="text-align: left;">You'll be the first to know about updates and more. You know you want to.</p>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Sign Up" style="flat" align="center" color="black" size="small" custom_background="#005ba7" border_radius="2px" custom_hover_background="#5e97c7" icon_type="fontawesome"]Sign Up[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][/vc_column][vc_column width="1/4"][vcex_spacing size="10px" visibility="visible-desktop"][vcex_button url="http://www.wpexplorer.com/out/total/" title="Sign Up" style="flat" layout="expanded" align="center" size="small" color="black" custom_background="#005ba7" custom_hover_background="#5e97c7"]Sign Up[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2015-02-10 01:11:57</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 01:11:57</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>homepage</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 01:11:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 01:11:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[homepage]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>cpr_mtb_plg</wp:meta_key>
+			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:3:{s:11:"autoptimize";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>vc_teaser</wp:meta_key>
+			<wp:meta_key><![CDATA[vc_teaser]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_footer_callout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_title</wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>wpex_disable_footer</wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_oembed_4d57edb5aa4a8755aca3e862409823a2</wp:meta_key>
+			<wp:meta_key><![CDATA[_oembed_4d57edb5aa4a8755aca3e862409823a2]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<iframe src="//player.vimeo.com/video/92033601" width="980" height="551" frameborder="0" title="Create your own webpage in less then 10 minutes with Visual Composer page builder for WordPress" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_oembed_time_4d57edb5aa4a8755aca3e862409823a2</wp:meta_key>
+			<wp:meta_key><![CDATA[_oembed_time_4d57edb5aa4a8755aca3e862409823a2]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1423534498]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_header</wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_oembed_6eebd6c09b167d6ba2f4bf8e2acf0866</wp:meta_key>
+			<wp:meta_key><![CDATA[_oembed_6eebd6c09b167d6ba2f4bf8e2acf0866]]></wp:meta_key>
 			<wp:meta_value><![CDATA[<iframe width="980" height="551" src="https://www.youtube.com/embed/uEszGV8R_74?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_oembed_time_6eebd6c09b167d6ba2f4bf8e2acf0866</wp:meta_key>
+			<wp:meta_key><![CDATA[_oembed_time_6eebd6c09b167d6ba2f4bf8e2acf0866]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1423537391]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1426794415356{margin-bottom: 0px !important;}.vc_custom_1426794434557{margin-bottom: 0px !important;}.vc_custom_1426794803333{margin-bottom: 0px !important;}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1476665588934{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 30px !important;padding-bottom: 10px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1426794415356{margin-bottom: 0px !important;}.vc_custom_1426794434557{margin-bottom: 0px !important;}.vc_custom_1426794803333{margin-bottom: 0px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.button-margin { margin: 0 5px; }]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -156,24 +173,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
-		<wp:post_date>2015-02-10 02:13:04</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 02:13:04</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>girl</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 02:13:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 02:13:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[girl]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/girl.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/girl.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/girl.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:16:"2015/02/girl.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -187,24 +204,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
-		<wp:post_date>2015-02-10 02:13:22</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 02:13:22</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>guy</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 02:13:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 02:13:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[guy]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/guy.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/guy.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/guy.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:15:"2015/02/guy.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -218,24 +235,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
-		<wp:post_date>2015-02-10 02:45:16</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 02:45:16</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>phone1</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 02:45:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 02:45:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[phone1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phone1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phone1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/phone1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:18:"2015/02/phone1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -249,24 +266,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date>2015-02-10 02:47:26</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 02:47:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>phones</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 02:47:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 02:47:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[phones]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phones.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phones.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/phones.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:917;s:4:"file";s:18:"2015/02/phones.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -280,24 +297,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date>2015-02-10 03:00:33</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 03:00:33</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>step1</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 03:00:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[step1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step1.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step1.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/step1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -311,24 +328,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date>2015-02-10 03:00:34</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 03:00:34</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>step2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 03:00:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[step2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step2.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step2.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/step2.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step2.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -342,24 +359,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date>2015-02-10 03:00:35</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 03:00:35</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>step3</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 03:00:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[step3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step3.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step3.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/step3.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step3.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -373,24 +390,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date>2015-02-10 03:00:36</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 03:00:36</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>step4</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 03:00:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[step4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step4.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step4.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/step4.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step4.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -404,24 +421,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
-		<wp:post_date>2015-02-10 03:28:39</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 03:28:39</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>team</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 03:28:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 03:28:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[team]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/team.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/team.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/team.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:1150;s:4:"file";s:16:"2015/02/team.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -435,24 +452,24 @@ Do things. Then to more things.</p>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
-		<wp:post_date>2015-02-10 03:32:53</wp:post_date>
-		<wp:post_date_gmt>2015-02-10 03:32:53</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>play</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-02-10 03:32:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-02-10 03:32:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[play]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/play.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/play.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/play.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:350;s:4:"file";s:16:"2015/02/play.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
