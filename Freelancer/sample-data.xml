@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.4.2" created="2016-02-21 20:33" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-17 02:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Freelancer</title>
 	<link>http://totaltheme.wpengine.com/freelancer</link>
-	<description>Handcrafted Websites</description>
-	<pubDate>Sun, 21 Feb 2016 20:33:34 +0000</pubDate>
+	<description>Total WordPress Theme Demo</description>
+	<pubDate>Mon, 17 Oct 2016 02:49:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -37,42 +37,17 @@
 
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+</wp:term>
 
-	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
-	<item>
-		<title>services-video</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/services-video/</link>
-		<pubDate>Thu, 22 Jan 2015 00:00:25 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/services-video.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 00:00:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 00:00:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[services-video]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/services-video.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/services-video.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2500;s:6:"height";i:1201;s:4:"file";s:26:"2015/01/services-video.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
 	<item>
 		<title>dude</title>
 		<link>http://totaltheme.wpengine.com/freelancer/homepage/dude/</link>
@@ -101,7 +76,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/dude.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/dude.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -132,7 +107,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/girl.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/girl.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -163,7 +138,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:15:"2015/01/guy.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:15:"2015/01/guy.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -194,7 +169,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/envato-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/envato-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -225,7 +200,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/jquery-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/jquery-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -256,7 +231,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:31:"2015/01/woocommerce-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:31:"2015/01/woocommerce-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -287,7 +262,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:27:"2015/01/bbpress-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:27:"2015/01/bbpress-500x150.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -318,7 +293,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/design.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/design.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -349,7 +324,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:19:"2015/01/website.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:19:"2015/01/website.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -380,7 +355,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:20:"2015/01/commerce.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:20:"2015/01/commerce.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -411,7 +386,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo1-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -442,7 +417,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo2.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo2.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo2-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -473,7 +448,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo3.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo3.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo3-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -504,7 +479,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo4.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo4.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo4-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -535,7 +510,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo5.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo5.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo5-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -566,7 +541,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo6.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo6.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo6-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -597,7 +572,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo7.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo7.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo7-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -628,7 +603,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo8.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo8.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo8-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -659,7 +634,38 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:17:"2015/01/desk1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:17:"2015/01/desk1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:17:"desk1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>play-w</title>
+		<link>http://totaltheme.wpengine.com/freelancer/homepage/play-w/</link>
+		<pubDate>Thu, 22 Jan 2015 02:27:23 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play-w.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-22 02:27:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-22 02:27:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[play-w]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play-w.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2015/01/play-w.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/play-w.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -669,21 +675,19 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" typography_style="white" bg_style="stretch" style="light" css=".vc_custom_1444181465454{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-d.jpg?id=37) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="WE ARE AWESOME" responsive_text="true" text_align="center" font_size="62px" min_font_size="42px" color="#ffffff"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_bottom="25px"][vcex_heading text="BECAUSE WE'RE THE BEST AT WHAT WE DO" text_align="center" font_size="18px" color="#ffffff"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444181632261{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-about"][vc_column][vc_custom_heading text="About Us" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" bg_style="stretch" style="light" css=".vc_custom_1476670503906{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg?id=48) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="WE ARE AWESOME" responsive_text="true" text_align="center" font_size="62px" min_font_size="42px" color="#ffffff"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_bottom="25px"][vcex_heading text="BECAUSE WE'RE THE BEST AT WHAT WE DO" text_align="center" font_size="18px" color="#ffffff"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444181632261{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-about"][vc_column][vc_custom_heading text="About Us" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
 <p style="text-align: center;">Carrot cake cupcake tart cotton candy gingerbread. Fruitcake dragée ice cream jelly beans. Danish cookie toffee. Cotton candy icing unerdwear.com chocolate bear claw danish. Gummi bears carrot cake macaroon gummies. Powder jelly cheesecake sweet roll tiramisu. Dragée oat cake halvah gummies jelly beans jujubes. Bear claw gummies pastry jujubes halvah fruitcake donut. Caramels donut candy bonbon carrot cake toffee caramels dessert oat cake.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="" bg_style="stretch" bg_image="34" padding_top="200px" padding_bottom="200px"][vc_column][vc_single_image image="32" alignment="center" lightbox_iframe_type="video_embed" lightbox_video="//player.vimeo.com/video/87701971"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182003655{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-services"][vc_column][vc_custom_heading text="Services" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row bg_style="stretch" css=".vc_custom_1476146483807{padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1d.jpg?id=34) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_single_image image="32" alignment="center" lightbox_iframe_type="video_embed" lightbox_video="https://www.youtube.com/embed/RAx19sZy-g4"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182003655{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-services"][vc_column][vc_custom_heading text="Services" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text width="850px"]
 <p style="text-align: center;">Muffin tiramisu gummi bears chupa chups sweet roll muffin oat cake lollipop sweet. Icing marshmallow muffin. Marshmallow dragée pudding sesame snaps muffin. Marshmallow chocolate cake pastry jelly-o macaroon. Chocolate bar donut powder wafer powder chocolate bar soufflé bear claw. Powder jujubes sweet bear claw brownie gummies pudding halvah liquorice. Marzipan fruitcake bonbon jelly-o cheesecake.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="30" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box style="four" heading="DESIGN" heading_type="h2" url_target="" hover_white_text="" image="19" border_color="#dddddd" heading_letter_spacing="1px"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly halvah wafer topping sugar plum. Chocolate cake lemon drops jujubes chocolate bar tootsie roll. Cherry pie bear claw cupcake.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="DEVELOPMENT" heading_type="h2" url_target="" hover_white_text="" image="20" border_color="#dddddd" heading_letter_spacing="1px"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah crumb soufflé cupcake marzipan. Chocolate apple pie soufflé danish tootsie roll. Candy canes gummi bears marshmallow. Tart cake carrot cake pudding.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="E-COMMERCE" heading_type="h2" url_target="" hover_white_text="" image="21" border_color="#dddddd" heading_letter_spacing="1px"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon gummies gummi bears cookie gummies brownie. Jelly beans bonbon chocolate. Topping cupcake sugar plum jujubes chupa chups pastry bonbon topping.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" typography_style="none" style="light" bg_color="#ef5c32" padding_top="100px" padding_bottom="50px"][vc_column][vcex_button url="#home-contact" title="Contact Us For A Quote" target="local" style="outline" align="center" size="small" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px"]CONTACT US FOR A QUOTE[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182009583{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-projects"][vc_column][vc_custom_heading text="Projects" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="30" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box style="four" heading="DESIGN" heading_type="h2" image="19" border_color="#dddddd" heading_letter_spacing="1px"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly halvah wafer topping sugar plum. Chocolate cake lemon drops jujubes chocolate bar tootsie roll.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="DEVELOPMENT" heading_type="h2" url_target="" hover_white_text="" image="20" border_color="#dddddd" heading_letter_spacing="1px"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah crumb soufflé cupcake marzipan. Chocolate apple pie soufflé danish tootsie roll. Candy canes gummi bears marshmallow. Tart cake carrot cake pudding.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="E-COMMERCE" heading_type="h2" image="21" border_color="#dddddd" heading_letter_spacing="1px"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon gummies gummi bears cookie gummies brownie. Jelly beans bonbon chocolate. Topping cupcake sugar plum jujubes chupa chups pastry bonbon.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" typography_style="none" style="light" bg_color="#ef5c32" padding_top="100px" padding_bottom="50px"][vc_column][vcex_button url="#home-contact" title="Contact Us For A Quote" target="local" style="outline" align="center" size="small" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px"]CONTACT US FOR A QUOTE[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182009583{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-projects"][vc_column][vc_custom_heading text="Projects" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
 <p style="text-align: center;">Icing ice cream bonbon wafer brownie powder chocolate bar. Icing jujubes pie cupcake chocolate sweet roll soufflé liquorice liquorice. Topping chocolate bar macaroon sugar plum pie cheesecake pastry sweet. Sweet roll toffee candy canes unerdwear.com sugar plum sweet jelly-o icing fruitcake. Chocolate liquorice soufflé liquorice wafer lemon drops. Pastry cupcake donut chocolate bar gummies cake cheesecake tart jelly gummi bears pudding candy topping.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row=""][vc_column][vcex_image_carousel style="no-margins" arrows="false" dots="true" items="5" items_margin="0" auto_play="false" img_filter="grayscale" thumbnail_link="lightbox" caption="false" img_width="500" img_height="400" image_ids="22,23,24,25,26,27,28,29"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="50px" padding_bottom="50px"][vc_column][vcex_button url="https://dribbble.com/aj-clarke" title="More On Dribbble" target="blank" rel="nofollow" style="outline" align="center" size="small" font_weight="normal" font_size="16px" letter_spacing="1.5px"]MORE ON DRIBBBLE[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" typography_style="white" bg_style="stretch" style="light" bg_color="#777777" padding_top="75px" padding_bottom="25px" bg_image="35"][vc_column][vc_custom_heading text="Clientele" font_container="tag:h2|font_size:32px|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="40px"][vcex_image_grid post_gallery="" thumbnail_link="none" img_rendering="" img_width="175" img_height="53" image_ids="10,11,12,13"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182072304{margin-bottom: 20px !important;padding-top: 60px !important;}" local_scroll_id="home-team"][vc_column][vc_custom_heading text="The Team" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row=""][vc_column css=".vc_custom_1476670533960{background-color: #222222 !important;}"][vcex_image_carousel style="no-margins" items="5" items_margin="0" img_filter="grayscale" thumbnail_link="lightbox" img_width="340" img_height="270" image_ids="22,23,24,25,26,27,28,29"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="50px" padding_bottom="50px"][vc_column][vcex_button url="https://dribbble.com/aj-clarke" title="More On Dribbble" target="blank" rel="nofollow" style="outline" align="center" size="small" font_weight="normal" font_size="16px" letter_spacing="1.5px"]MORE ON DRIBBBLE[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" bg_style="stretch" style="light" css=".vc_custom_1476670543043{padding-top: 75px !important;padding-bottom: 25px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk2d.jpg?id=35) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_custom_heading text="Clientele" font_container="tag:h2|font_size:32px|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="40px"][vcex_image_grid post_gallery="" thumbnail_link="none" img_rendering="" img_width="175" img_height="53" image_ids="10,11,12,13"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182072304{margin-bottom: 20px !important;padding-top: 60px !important;}" local_scroll_id="home-team"][vc_column][vc_custom_heading text="The Team" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
 <p style="text-align: center;">Sesame snaps caramels cheesecake jelly-o. Gummies bonbon cookie apple pie caramels. Carrot cake applicake candy lollipop chupa chups sweet roll muffin macaroon. Unerdwear.com ice cream chocolate jelly jelly gummies bear claw. Tootsie roll liquorice cupcake bonbon soufflé brownie applicake candy canes candy. Sesame snaps cotton candy candy gummies candy croissant fruitcake tootsie roll. Liquorice dragée gummi bears marshmallow liquorice.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="30" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box style="four" heading="BRADLEY/founder" heading_type="h2" heading_weight="400" icon="star" url_target="" hover_white_text="" image="7" border_color="#dddddd" image_width="150px"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly topping.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="LISA/marketing" heading_type="h2" icon="star" url_target="" hover_white_text="" image="8" border_color="#dddddd" image_width="150px"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah candy canes cupcake marzipan apple pie soufflé.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="ADAM/developer" heading_type="h2" icon="star" url_target="" hover_white_text="" image="9" border_color="#dddddd" image_width="150px"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon sour gummi bears cookie caramel brownies.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" typography_style="white" style="light" css=".vc_custom_1444182103005{padding-top: 75px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="home-testimonials"][vc_column][vc_custom_heading text="Testimonials" font_container="tag:h2|font_size:32px|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="20px"][vcex_testimonials_slider display_author_company="" animation="slide" loop="" height_animation="400" animation_speed="600" slideshow="" control_nav="" direction_nav="" count="3" order="DESC" orderby="date" control_thumbs="" excerpt="" skin="light" img_width="70" img_height="70" img_border_radius="50%" custom_excerpt_trim="true" background_style="stretch" padding_top="25px"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182016569{padding-top: 60px !important;padding-bottom: 20px !important;}" local_scroll_id="home-contact"][vc_column][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="30" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box style="four" heading="BRADLEY/founder" heading_type="h2" heading_weight="400" icon="star" image="7" border_color="#dddddd" image_width="150" image_height="150"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly topping.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="LISA/marketing" heading_type="h2" icon="star" image="8" border_color="#dddddd" image_width="150" image_height="150"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah candy canes cupcake marzipan apple pie soufflé.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="ADAM/developer" heading_type="h2" icon="star" image="9" border_color="#dddddd" image_width="150" image_height="150"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon sour gummi bears cookie caramel brownies.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" typography_style="white" wpex_bg_overlay="color" style="light" css=".vc_custom_1466371086642{padding-top: 75px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="home-testimonials" wpex_bg_overlay_opacity="0.45"][vc_column][vc_custom_heading text="Testimonials" font_container="tag:h2|font_size:32px|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="20px"][vcex_testimonials_slider display_author_name="no" rating="false" animation="slide" height_animation="400" animation_speed="600" slideshow_speed="5000" control_nav="false" direction_nav="true" count="3" order="DESC" orderby="date" skin="light" img_width="70" img_height="70" img_border_radius="50%" custom_excerpt_trim="true" background_style="stretch" padding_top="25px"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1444182016569{padding-top: 60px !important;padding-bottom: 20px !important;}" local_scroll_id="home-contact"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px;">CONTACT US</span></p>
-[/vc_column_text][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1441587485851{padding-bottom: 25px !important;}"][vc_column width="1/4"][vc_column_text]<span style="font-size: 18px;">WHERE TO FIND US</span>
-
-<em>555 West Main Street</em>
-<em> Anytown, USA 12345</em>[/vc_column_text][vcex_spacing size="25px"][vcex_list_item icon="phone" url_target="self" color="#ef5c32"](800) 555-5555[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="fax" url_target="self" color="#ef5c32"](800) 444-4444[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="envelope" url_target="self" color="#ef5c32"]example@example.com[/vcex_list_item][vcex_spacing size="25px"][vcex_social_links twitter="https://twitter.com/WPExplorer" pinterest="https://dribbble.com/aj-clarke" size="13px" github="https://github.com/wpexplorer/" email="mailto:email@site.com"][/vc_column][vc_column width="3/4"][contact-form-7 id="4"][/vc_column][/vc_row][vc_row center_row="yes" typography_style="none" style="light" bg_color="#333333" padding_top="100px" padding_bottom="50px"][vc_column][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Buy Total Today" target="blank" rel="nofollow" style="outline" align="center" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px" custom_hover_background="#ef5c32" custom_hover_color="#ffffff"]BUILD YOUR OWN FREELANCER WEBSITE TODAY[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" typography_style="white" style="light" bg_color="#222222" padding_top="25px" padding_bottom="25px"][vc_column margin_bottom="0px"][vc_column_text]
-<p style="text-align: center;"><span style="font-size: 14px;">A <a title="Total WordPress Theme" href="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" target="_blank">Total WordPress Theme</a> Creation © 2015</span></p>
+[/vc_column_text][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1441587485851{padding-bottom: 25px !important;}"][vc_column width="1/4"][vcex_heading text="ADDRESS" font_size="18px" font_family="Roboto"][vcex_spacing size="10px"][vc_column_text]<em>555 West Main Street</em>
+<em> Anytown, USA 12345</em>[/vc_column_text][vcex_spacing size="25px"][vcex_list_item icon="phone" url_target="self" color="#ef5c32"](800) 555-5555[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="fax" url_target="self" color="#ef5c32"](800) 444-4444[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="envelope" url_target="self" color="#ef5c32"]example@example.com[/vcex_list_item][vcex_spacing size="25px"][vcex_heading text="FOLLOW US" font_size="18px" font_family="Roboto"][vcex_spacing size="10px"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2FWPExplorer%22%7D%2C%7B%22site%22%3A%22pinterest%22%2C%22link%22%3A%22https%3A%2F%2Fdribbble.com%2Faj-clarke%22%7D%2C%7B%22site%22%3A%22github%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22email%22%2C%22link%22%3A%22mailto%3Aemail%40site.com%22%7D%5D" style="black-rounded" twitter="https://twitter.com/WPExplorer" pinterest="https://dribbble.com/aj-clarke" size="13px" github="https://github.com/wpexplorer/" email="mailto:email@site.com"][/vc_column][vc_column width="3/4"][vcex_form_shortcode full_width="true"][contact-form-7 id="4" title="Contact form 1"][/vcex_form_shortcode][/vc_column][/vc_row][vc_row center_row="yes" typography_style="none" style="light" bg_color="#333333" padding_top="100px" padding_bottom="50px"][vc_column][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Buy Total Today" target="blank" rel="nofollow" style="outline" align="center" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px" custom_hover_background="#ef5c32" custom_hover_color="#ffffff"]BUILD YOUR OWN FREELANCER WEBSITE TODAY[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" typography_style="white" style="light" bg_color="#222222" padding_top="25px" padding_bottom="25px"][vc_column margin_bottom="0px"][vc_column_text font_size="14px"]
+<p style="text-align: center;">A <a title="Total WordPress Theme" href="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" target="_blank">Total WordPress Theme</a> Creation © [current_year]</p>
 [/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
@@ -752,7 +756,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1444181465454{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-d.jpg?id=37) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1444181632261{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1444182003655{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1444182009583{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1444182072304{margin-bottom: 20px !important;padding-top: 60px !important;}.vc_custom_1444182103005{padding-top: 75px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1444182016569{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1441587485851{padding-bottom: 25px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1476670503906{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg?id=48) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1444181632261{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1476146483807{padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1d.jpg?id=34) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1444182003655{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1444182009583{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1476670543043{padding-top: 75px !important;padding-bottom: 25px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk2d.jpg?id=35) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1444182072304{margin-bottom: 20px !important;padding-top: 60px !important;}.vc_custom_1466371086642{padding-top: 75px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1444182016569{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1441587485851{padding-bottom: 25px !important;}.vc_custom_1476670533960{background-color: #222222 !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1024,68 +1036,6 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>play</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/play/</link>
-		<pubDate>Thu, 22 Jan 2015 02:26:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 02:26:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 02:26:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[play]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/play.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:16:"2015/01/play.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>play-w</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/play-w/</link>
-		<pubDate>Thu, 22 Jan 2015 02:27:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play-w.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 02:27:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 02:27:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[play-w]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play-w.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/play-w.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/play-w.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>desk-d</title>
 		<link>http://totaltheme.wpengine.com/freelancer/homepage/desk-d/</link>
 		<pubDate>Thu, 22 Jan 2015 02:32:38 +0000</pubDate>
@@ -1113,7 +1063,7 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:18:"2015/01/desk-d.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:18:"2015/01/desk-d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk-d-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1144,7 +1094,7 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk1d.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk1d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk1d-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1175,7 +1125,7 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk2d.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk2d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk2d-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1206,38 +1156,7 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:20:"2015/01/coffee-d.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>chair-d</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/chair-d/</link>
-		<pubDate>Thu, 22 Jan 2015 02:47:39 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-d.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 02:47:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 02:47:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[chair-d]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-d.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/chair-d.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1200;s:4:"file";s:19:"2015/01/chair-d.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:20:"2015/01/coffee-d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:20:"coffee-d-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1592,6 +1511,37 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>chair-n</title>
+		<link>http://totaltheme.wpengine.com/freelancer/homepage/chair-n/</link>
+		<pubDate>Tue, 11 Oct 2016 00:40:23 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-11 00:40:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-11 00:40:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chair-n]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2015/01/chair-n.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1200;s:4:"file";s:19:"2015/01/chair-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:19:"chair-n-768x461.jpg";s:5:"width";i:768;s:6:"height";i:461;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
