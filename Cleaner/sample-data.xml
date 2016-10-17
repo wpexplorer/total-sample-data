@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.4.1" created="2016-02-01 04:24" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-17 18:22" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,24 +28,45 @@
 <channel>
 	<title>Cleaner</title>
 	<link>http://totaltheme.wpengine.com/cleaner</link>
-	<description>Just another Totaltheme.wpengine.com site</description>
-	<pubDate>Mon, 01 Feb 2016 04:24:32 +0000</pubDate>
+	<description>Total WordPress Theme Demo</description>
+	<pubDate>Mon, 17 Oct 2016 18:22:09 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
 	<wp:base_blog_url>http://totaltheme.wpengine.com/cleaner</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpengine]]></wp:author_login><wp:author_email><![CDATA[bitbucket@wpengine.com]]></wp:author_email><wp:author_display_name><![CDATA[wpengine]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename><![CDATA[nature]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Nature]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>4</wp:term_id><wp:category_nicename><![CDATA[photography]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Photography]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>5</wp:term_id><wp:category_nicename><![CDATA[scenery]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Scenery]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
+	<wp:category>
+		<wp:term_id>3</wp:term_id>
+		<wp:category_nicename><![CDATA[nature]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Nature]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>4</wp:term_id>
+		<wp:category_nicename><![CDATA[photography]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Photography]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>5</wp:term_id>
+		<wp:category_nicename><![CDATA[scenery]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Scenery]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+</wp:term>
 
-	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
 	<item>
 		<title>object-5</title>
@@ -773,96 +794,62 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>blurflake4.png</title>
-		<link>http://totaltheme.wpengine.com/cleaner/blurflake4-png/</link>
-		<pubDate>Sun, 10 Jan 2016 23:30:43 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/revslider/image-hero/blurflake4.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-10 23:30:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-10 23:30:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blurflake4-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/revslider/image-hero/blurflake4.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/image-hero/blurflake4.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:240;s:6:"height";i:240;s:4:"file";s:35:"revslider/image-hero/blurflake4.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>blurflake1.png</title>
-		<link>http://totaltheme.wpengine.com/cleaner/blurflake1-png/</link>
-		<pubDate>Sun, 10 Jan 2016 23:30:43 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/revslider/image-hero/blurflake1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>54</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-10 23:30:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-10 23:30:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blurflake1-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/revslider/image-hero/blurflake1.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/image-hero/blurflake1.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:120;s:6:"height";i:120;s:4:"file";s:35:"revslider/image-hero/blurflake1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Man Smiling</title>
-		<link>http://totaltheme.wpengine.com/cleaner/home/man-smiling/</link>
-		<pubDate>Mon, 11 Jan 2016 00:30:41 +0000</pubDate>
+		<title></title>
+		<link>http://totaltheme.wpengine.com/cleaner/48/</link>
+		<pubDate>Sun, 10 Jan 2016 22:50:22 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/06/man-smiling.png</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/?p=48</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-11 00:30:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-11 00:30:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2016-01-10 22:50:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-01-10 22:50:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[man-smiling]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_name><![CDATA[48]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/06/man-smiling.png]]></wp:attachment_url>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/06/man-smiling.png]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:375;s:4:"file";s:23:"2015/06/man-smiling.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1243,68 +1230,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>walking</title>
-		<link>http://totaltheme.wpengine.com/cleaner/take-the-total-journey/walking/</link>
-		<pubDate>Sun, 31 Jan 2016 21:32:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/walking.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>97</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-31 21:32:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-31 21:32:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[walking]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>96</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/walking.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/05/walking.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1550;s:6:"height";i:1225;s:4:"file";s:19:"2015/05/walking.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:19:"walking-768x607.jpg";s:5:"width";i:768;s:6:"height";i:607;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>hug</title>
-		<link>http://totaltheme.wpengine.com/cleaner/hugs-are-always-welcome-at-cleaner/hug/</link>
-		<pubDate>Sun, 31 Jan 2016 21:35:00 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/hug.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>100</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-31 21:35:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-31 21:35:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hug]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>95</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/hug.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/05/hug.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1525;s:6:"height";i:1225;s:4:"file";s:15:"2015/05/hug.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"hug-768x617.jpg";s:5:"width";i:768;s:6:"height";i:617;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>food</title>
 		<link>http://totaltheme.wpengine.com/cleaner/a-delicious-cookie-photo-shoot/food/</link>
 		<pubDate>Sun, 31 Jan 2016 21:36:28 +0000</pubDate>
@@ -1336,13 +1261,137 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>sleep-driver</title>
+		<link>http://totaltheme.wpengine.com/cleaner/sleep-drive/sleep-driver/</link>
+		<pubDate>Sun, 31 Jan 2016 21:39:26 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/sleep-driver.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>102</wp:post_id>
+		<wp:post_date><![CDATA[2016-01-31 21:39:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-01-31 21:39:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sleep-driver]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>93</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/sleep-driver.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2015/05/sleep-driver.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:608;s:4:"file";s:24:"2015/05/sleep-driver.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:24:"sleep-driver-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>monitor-home</title>
+		<link>http://totaltheme.wpengine.com/cleaner/home/monitor-home/</link>
+		<pubDate>Sun, 31 Jan 2016 22:43:19 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/06/monitor-home.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>107</wp:post_id>
+		<wp:post_date><![CDATA[2016-01-31 22:43:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-01-31 22:43:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[monitor-home]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/06/monitor-home.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2015/06/monitor-home.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1621;s:6:"height";i:771;s:4:"file";s:24:"2015/06/monitor-home.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:24:"monitor-home-768x365.jpg";s:5:"width";i:768;s:6:"height";i:365;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>hug-1</title>
+		<link>http://totaltheme.wpengine.com/cleaner/hugs-are-always-welcome-at-cleaner/hug-1/</link>
+		<pubDate>Sat, 15 Oct 2016 00:22:02 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/hug-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>110</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-15 00:22:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-15 00:22:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hug-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>95</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/hug-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2015/05/hug-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1525;s:6:"height";i:1225;s:4:"file";s:17:"2015/05/hug-1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:17:"hug-1-768x617.jpg";s:5:"width";i:768;s:6:"height";i:617;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>walking-1</title>
+		<link>http://totaltheme.wpengine.com/cleaner/take-the-total-journey/walking-1/</link>
+		<pubDate>Sat, 15 Oct 2016 00:22:13 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/walking-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>111</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-15 00:22:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-15 00:22:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[walking-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/walking-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2015/05/walking-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1550;s:6:"height";i:1225;s:4:"file";s:21:"2015/05/walking-1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:21:"walking-1-768x607.jpg";s:5:"width";i:768;s:6:"height";i:607;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Home</title>
 		<link>http://totaltheme.wpengine.com/cleaner/</link>
 		<pubDate>Tue, 30 Jun 2015 16:04:08 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1454282131367{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f2f2f2 !important;}"][vc_column width="2/3" offset="vc_col-xs-12"][vcex_heading text="Create A Website Today With Total" font_size="28px" color="#222222"][vcex_spacing size="10px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus maximus nulla dolor, eleifend laoreet nisi sodales convallis. Nam laoreet, erat a volutpat interdum, neque lorem pellentesque tellus, at cursus mi purus vel arcu. Mauris eu tortor et risus tristique faucibus. Aliquam pulvinar dui ac dolor consectetur feugiat. Donec lorem velit, ultrices id laoreet id, tincidunt sed nisl.[/vc_column_text][vcex_spacing size="40px"][vcex_button url="totaltheme.wpengine.com/" title="View Demos" target="blank" font_weight="bold" custom_background="#1787e5" font_padding="12px 20px" margin="0 10px 5px 0" custom_hover_background="#3397eb" font_size="14px" icon_left="fa fa-eye"]View Demos[/vcex_button][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Get Started" target="blank" font_weight="bold" custom_background="#92bc26" font_padding="12px 20px" margin="0 0 5px" custom_hover_background="#a7d52f" font_size="14px" icon_right="fa fa-arrow-circle-right"]Get Started[/vcex_button][/vc_column][vc_column width="1/3" offset="vc_hidden-xs"][vc_single_image image="69" alignment="center"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="60" css=".vc_custom_1454278462710{padding-top: 80px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Easily Build Pages" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-settings" heading_color="#222222"]Easily build your pages with over 50 awesome page builder modules and the Total WordPress theme.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Save Money" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-banknote" heading_color="#222222"]Save money on awesome premium plugins such as the Visual Composer and Slider Revolution with Total.[/vcex_icon_box][vcex_spacing][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Customizer Settings" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-params" heading_color="#222222"]Tweak your website using the live WordPress Customizer. Change your layout widths, colors and much more![/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="60" css=".vc_custom_1454278470786{padding-bottom: 20px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Sell Your Products" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-t-shirt" heading_color="#222222"]Harness the power of WooCommerce to start selling your products online with Total.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Event Calendar Support" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-calendar" heading_color="#222222"]The Total theme has been tested and works well with the popular Events Calendar plugin.[/vcex_icon_box][vcex_spacing][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Trash Your Old theme" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-trash" heading_color="#222222"]It's time to throw away that useless theme you've been using and step your game up with the awesome Total WordPress theme.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="60" css=".vc_custom_1454282095550{padding-top: 100px !important;padding-bottom: 40px !important;background-color: #efefef !important;}"][vc_column width="1/2"][vc_video link="https://www.youtube.com/watch?v=1xdJJoe7G_0&index=17&list=PLMGCosyDx4aqiPFpdRKROLW9XnT_J4-y4" css=".vc_custom_1454277942104{padding: 10px !important;background-color: #ffffff !important;border: 1px solid #dddddd !important;}"][/vc_column][vc_column width="1/2"][vcex_heading text="Build Your Own Website with WordPress" font_size="20px" color="#222222"][vcex_spacing size="10px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras augue elit, pellentesque et iaculis non, fermentum vel ligula. Sed quis egestas enim, placerat venenatis nunc. Ut tincidunt consequat arcu, vitae placerat arcu rhoncus eu.[/vc_column_text][vcex_spacing size="40px"][vcex_heading text="Don't let your theme hold you back!" font_size="20px" color="#222222"][vcex_spacing size="10px"][vc_column_text]In risus sem, malesuada in nulla sit amet, faucibus tempor dolor. Ut at velit gravida, dapibus augue nec, aliquet felis. Vivamus vestibulum nisl odio, sit amet eleifend diam laoreet non.[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1454280131699{padding-top: 100px !important;}"][vc_column css=".vc_custom_1454280058513{margin-bottom: 0px !important;}"][vcex_heading text="An Better Way To Control Your Theme Functions" text_align="center" font_size="28px" color="#3291e5"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1454282131367{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f2f2f2 !important;}"][vc_column width="2/3" offset="vc_col-xs-12"][vcex_heading text="Create A Website Today With Total" font_size="28px" color="#222222"][vcex_spacing size="10px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus maximus nulla dolor, eleifend laoreet nisi sodales convallis. Nam laoreet, erat a volutpat interdum, neque lorem pellentesque tellus, at cursus mi purus vel arcu. Mauris eu tortor et risus tristique faucibus. Aliquam pulvinar dui ac dolor consectetur feugiat. Donec lorem velit, ultrices id laoreet id, tincidunt sed nisl.[/vc_column_text][vcex_spacing size="40px"][vcex_button url="totaltheme.wpengine.com/" title="View Demos" target="blank" font_weight="bold" custom_background="#1787e5" font_padding="12px 20px" margin="0 10px 5px 0" custom_hover_background="#3397eb" font_size="14px" icon_left="fa fa-eye"]View Demos[/vcex_button][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Get Started" target="blank" font_weight="bold" custom_background="#92bc26" font_padding="12px 20px" margin="0 0 5px" custom_hover_background="#a7d52f" font_size="14px" icon_right="fa fa-arrow-circle-right"]Get Started[/vcex_button][/vc_column][vc_column width="1/3" offset="vc_hidden-xs"][vc_single_image image="69" alignment="center"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="60" css=".vc_custom_1454278462710{padding-top: 80px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Easily Build Pages" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-settings" heading_color="#222222"]Easily build your pages with over 50 awesome page builder modules and the Total WordPress theme.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Save Money" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-banknote" heading_color="#222222"]Save money on awesome premium plugins such as the Visual Composer and Slider Revolution with Total.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Customizer Settings" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-params" heading_color="#222222"]Tweak your website using the live WordPress Customizer. Change your layout widths, colors and much more![/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="60" css=".vc_custom_1454278470786{padding-bottom: 20px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Sell Your Products" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-t-shirt" heading_color="#222222"]Harness the power of WooCommerce to start selling your products online with Total.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Event Calendar Support" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-calendar" heading_color="#222222"]The Total theme has been tested and works well with the popular Events Calendar plugin.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Trash Your Old theme" heading_weight="500" icon_type="linecons" heading_size="18px" icon_linecons="vc_li vc_li-trash" heading_color="#222222"]It's time to throw away that useless theme you've been using and step your game up with the awesome Total WordPress theme.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="60" css=".vc_custom_1454282095550{padding-top: 100px !important;padding-bottom: 40px !important;background-color: #efefef !important;}"][vc_column width="1/2"][vc_video link="https://www.youtube.com/watch?v=RAx19sZy-g4" align="center" css=".vc_custom_1476728127156{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;background-color: #ffffff !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"][/vc_column][vc_column width="1/2"][vcex_heading text="Build Your Own Website with WordPress" font_size="20px" color="#222222"][vcex_spacing size="10px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras augue elit, pellentesque et iaculis non, fermentum vel ligula. Sed quis egestas enim, placerat venenatis nunc. Ut tincidunt consequat arcu, vitae placerat arcu rhoncus eu.[/vc_column_text][vcex_spacing size="40px"][vcex_heading text="Don't let your theme hold you back!" font_size="20px" color="#222222"][vcex_spacing size="10px"][vc_column_text]In risus sem, malesuada in nulla sit amet, faucibus tempor dolor. Ut at velit gravida, dapibus augue nec, aliquet felis. Vivamus vestibulum nisl odio, sit amet eleifend diam laoreet non.[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1454280131699{padding-top: 100px !important;}"][vc_column css=".vc_custom_1454280058513{margin-bottom: 0px !important;}"][vcex_heading text="An Better Way To Control Your Theme Functions" text_align="center" font_size="28px" color="#3291e5"][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 16px;">Say goodbye to useless WP themes and hello to Total.</span></p>
 [/vc_column_text][vcex_spacing][vcex_button hover_animation="shadow" url="http://totaltheme.wpengine.com/cleaner/portfolio/" title="Portfolio Example" align="center" font_weight="bold" custom_background="#fda93b" font_padding="12px 20px" margin="0 0 5px" custom_hover_background="#fd9a19" font_size="14px"]Portfolio Example[/vcex_button][vcex_spacing size="60px"][vc_single_image image="107" alignment="center"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1454278802422{padding-top: 40px !important;background-color: #3291e5 !important;}"][vc_column width="2/3"][vcex_heading text="Read to Create Awesome Looking Websites with Total for WordPress?" font_size="21px" color="#ffffff"][/vc_column][vc_column width="1/3"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Start Your Project" layout="expanded" custom_background="#9dca29" font_padding="12px 20px" margin="0 0 5px" custom_hover_background="#b3db4b" font_size="18px" border_radius="40px"]Start Your Project[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1396,7 +1445,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1454282131367{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f2f2f2 !important;}.vc_custom_1454278462710{padding-top: 80px !important;}.vc_custom_1454278470786{padding-bottom: 20px !important;}.vc_custom_1454282095550{padding-top: 100px !important;padding-bottom: 40px !important;background-color: #efefef !important;}.vc_custom_1454280131699{padding-top: 100px !important;}.vc_custom_1454278802422{padding-top: 40px !important;background-color: #3291e5 !important;}.vc_custom_1454277942104{padding: 10px !important;background-color: #ffffff !important;border: 1px solid #dddddd !important;}.vc_custom_1454280058513{margin-bottom: 0px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1454282131367{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f2f2f2 !important;}.vc_custom_1454278462710{padding-top: 80px !important;}.vc_custom_1454278470786{padding-bottom: 20px !important;}.vc_custom_1454282095550{padding-top: 100px !important;padding-bottom: 40px !important;background-color: #efefef !important;}.vc_custom_1454280131699{padding-top: 100px !important;}.vc_custom_1454278802422{padding-top: 40px !important;background-color: #3291e5 !important;}.vc_custom_1476728127156{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 10px !important;padding-right: 10px !important;padding-bottom: 10px !important;padding-left: 10px !important;background-color: #ffffff !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}.vc_custom_1454280058513{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_4d57edb5aa4a8755aca3e862409823a2]]></wp:meta_key>
@@ -1409,6 +1458,22 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_time_e9f5544c2c0a02a5a78e859c3433620a]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1454277491]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_46d296270eede44154da195dd20e1bcc]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="980" height="551" src="https://www.youtube.com/embed/RAx19sZy-g4?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_46d296270eede44154da195dd20e1bcc]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1476728119]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1555,65 +1620,6 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam lacinia iac
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://totaltheme.wpengine.com/cleaner/48/</link>
-		<pubDate>Sun, 10 Jan 2016 22:50:22 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/?p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-10 22:50:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-10 22:50:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[48]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2020,7 +2026,7 @@ Anytown, United States[/vc_column_text][vcex_spacing size="40px"][vcex_heading t
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/features/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2040,7 +2046,7 @@ Anytown, United States[/vc_column_text][vcex_spacing size="40px"][vcex_heading t
 		<wp:post_name><![CDATA[buy-now]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2185,37 +2191,6 @@ Anytown, United States[/vc_column_text][vcex_spacing size="40px"][vcex_heading t
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>sleep-driver</title>
-		<link>http://totaltheme.wpengine.com/cleaner/sleep-drive/sleep-driver/</link>
-		<pubDate>Sun, 31 Jan 2016 21:39:26 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/sleep-driver.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>102</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-31 21:39:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-31 21:39:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sleep-driver]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>93</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/05/sleep-driver.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/05/sleep-driver.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:608;s:4:"file";s:24:"2015/05/sleep-driver.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:24:"sleep-driver-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2396,34 +2371,180 @@ Anytown, United States[/vc_column_text][vcex_spacing size="40px"][vcex_heading t
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>monitor-home</title>
-		<link>http://totaltheme.wpengine.com/cleaner/home/monitor-home/</link>
-		<pubDate>Sun, 31 Jan 2016 22:43:19 +0000</pubDate>
+		<title>All Features</title>
+		<link>http://totaltheme.wpengine.com/cleaner/all-features/</link>
+		<pubDate>Mon, 17 Oct 2016 18:05:42 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/06/monitor-home.jpg</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/all-features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>107</wp:post_id>
-		<wp:post_date><![CDATA[2016-01-31 22:43:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-01-31 22:43:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-17 18:05:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-17 18:05:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monitor-home]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_name><![CDATA[all-features]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cleaner/wp-content/uploads/sites/60/2015/06/monitor-home.jpg]]></wp:attachment_url>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/06/monitor-home.jpg]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1621;s:6:"height";i:771;s:4:"file";s:24:"2015/06/monitor-home.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:24:"monitor-home-768x365.jpg";s:5:"width";i:768;s:6:"height";i:365;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[86]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[112]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/features/theme-features/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>All Demos</title>
+		<link>http://totaltheme.wpengine.com/cleaner/all-demos/</link>
+		<pubDate>Mon, 17 Oct 2016 18:05:42 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/all-demos/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>113</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-17 18:05:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-17 18:05:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[86]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[113]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Builder Modules</title>
+		<link>http://totaltheme.wpengine.com/cleaner/builder-modules/</link>
+		<pubDate>Mon, 17 Oct 2016 18:05:42 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cleaner/builder-modules/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-17 18:05:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-17 18:05:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[builder-modules]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[86]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[114]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/features/builder-modules/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2453,7 +2574,7 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on Cleaner (http://totaltheme.wpengine.com/cleaner)
-sympleworkz@gmail.com
+dummy@wpexplorer.com
 Reply-To: [your-email]
 
 
@@ -2529,7 +2650,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Cleaner (http://totaltheme.wpengine.com/cleaner)";s:9:"recipient";s:21:"sympleworkz@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Cleaner (http://totaltheme.wpengine.com/cleaner)";s:9:"recipient";s:20:"dummy@wpexplorer.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
@@ -3413,10 +3534,6 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[100]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -3435,6 +3552,22 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[110]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
@@ -3498,9 +3631,9 @@ Vivamus eget eros ac magna elementum maximus vel id quam. Pellentesque pellentes
 
 Nam accumsan in enim vulputate volutpat. Aliquam erat volutpat. Aliquam dignissim sapien at lorem lobortis, eget commodo nisi tempor. Proin arcu lectus, suscipit in tempor in, molestie ac risus. Curabitur sed rhoncus erat, a ultrices tellus. Sed fringilla neque ut consequat vestibulum. Quisque aliquet velit nibh, in pulvinar diam viverra sed. Vestibulum porta laoreet neque in tincidunt.
 <ul class="check-list">
-	<li>This is a pretty list</li>
-	<li>Oh wow, lists are so pretty</li>
-	<li>I love these lists..they look so good, thank you!</li>
+ 	<li>This is a pretty list</li>
+ 	<li>Oh wow, lists are so pretty</li>
+ 	<li>I love these lists..they look so good, thank you!</li>
 </ul>
 Fusce egestas pulvinar nulla quis euismod. Vestibulum blandit libero non erat porta, vitae faucibus neque posuere. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla magna urna, auctor a turpis at, consequat placerat sapien. Cras euismod arcu non ante pharetra lacinia. Fusce sagittis mi mauris, et dapibus velit dapibus in. Sed sagittis, tortor vitae pharetra rutrum, diam quam vestibulum velit, sed suscipit purus orci sit amet odio. Donec eu ligula at tellus dictum tincidunt ac eu lectus. Integer interdum ac urna non laoreet. Duis molestie elit sapien, sit amet pretium sem tincidunt semper. Phasellus dignissim nec ipsum vel mattis. Maecenas congue, enim quis mattis viverra, ipsum purus luctus augue, dapibus aliquam leo libero vel magna. Proin condimentum nisl ex, id bibendum lorem rutrum ac. Nulla posuere pharetra purus, vitae venenatis massa. Aenean hendrerit ex in neque finibus commodo.
 
@@ -3530,10 +3663,6 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[97]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -3544,6 +3673,22 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[111]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
