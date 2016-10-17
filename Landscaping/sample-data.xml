@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.3" created="2016-08-11 18:20" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-17 16:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Total Landscaping</title>
 	<link>http://totaltheme.wpengine.com/landscaping</link>
 	<description>Best Gardening &#38; Landscaping WordPress Theme</description>
-	<pubDate>Thu, 11 Aug 2016 18:20:07 +0000</pubDate>
+	<pubDate>Mon, 17 Oct 2016 16:23:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -37,11 +37,20 @@
 
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[sidebar]]></wp:term_slug><wp:term_name><![CDATA[Sidebar]]></wp:term_name></wp:term>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mobile]]></wp:term_slug><wp:term_name><![CDATA[Mobile]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[sidebar]]></wp:term_slug><wp:term_name><![CDATA[Sidebar]]></wp:term_name>
+</wp:term>
 
-	<generator>https://wordpress.org/?v=4.5.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
 	<item>
 		<title>rake</title>
@@ -560,37 +569,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>family-yard</title>
-		<link>http://totaltheme.wpengine.com/landscaping/about/family-yard/</link>
-		<pubDate>Tue, 19 Jul 2016 21:47:54 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/family-yard.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2016-07-19 21:47:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-07-19 21:47:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[family-yard]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>30</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/family-yard.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/07/family-yard.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:700;s:4:"file";s:23:"2016/07/family-yard.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"7.1";s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 60D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1434293520";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"35";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>family-main</title>
 		<link>http://totaltheme.wpengine.com/landscaping/about/family-main/</link>
 		<pubDate>Tue, 19 Jul 2016 21:49:31 +0000</pubDate>
@@ -681,6 +659,37 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:520;s:4:"file";s:20:"2016/07/brothers.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>services</title>
+		<link>http://totaltheme.wpengine.com/landscaping/services/services-2/</link>
+		<pubDate>Tue, 19 Jul 2016 22:52:04 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/services.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2016-07-19 22:52:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-07-19 22:52:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[services-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>31</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/services.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/07/services.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:700;s:4:"file";s:20:"2016/07/services.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1035,37 +1044,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>services</title>
-		<link>http://totaltheme.wpengine.com/landscaping/services/services-2/</link>
-		<pubDate>Tue, 19 Jul 2016 22:52:04 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/services.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2016-07-19 22:52:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-07-19 22:52:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[services-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>31</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/services.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/07/services.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:700;s:4:"file";s:20:"2016/07/services.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1696,6 +1674,65 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title></title>
+		<link>http://totaltheme.wpengine.com/landscaping/67/</link>
+		<pubDate>Thu, 11 Aug 2016 18:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/?p=67</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-11 18:22:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-11 18:22:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[67]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="mobile"><![CDATA[Mobile]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Home</title>
 		<link>http://totaltheme.wpengine.com/landscaping/</link>
 		<pubDate>Tue, 19 Jul 2016 02:05:18 +0000</pubDate>
@@ -1710,7 +1747,7 @@ Let us do the hard work for you.</span>
 
 Since then, TOTAL has grown to encompass a huge network of top notch gardeners and landscapers across the city. Services range from simple grass cutting to full-scale landscape and water feature design and implementation. Hopefully after seeing our work you’ll let us take TOTAL care of your yard too![/vc_column_text][/vc_column][/vc_row][vc_row visibility="hidden-desktop" center_row="yes" css=".vc_custom_1468972161619{padding-top: 120px !important;padding-bottom: 105px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="About T·O·T·A·L Landscaping" font_weight="bold" font_size="24px" color="#000000"][vcex_spacing size="10px"][vc_column_text]Started in 2005 by a father &amp; son team, Total Landscaping was originally a small business created to help aging neighbors maintain their homes and gardens.
 
-Since then, TOTAL has grown to encompass a huge network of top notch gardeners and landscapers across the city. Services range from simple grass cutting to full-scale landscape and water feature design and implementation. Hopefully after seeing our work you’ll let us take TOTAL care of your yard too![/vc_column_text][/vc_column][/vc_row][vc_row column_spacing="0px" css=".vc_custom_1470930312165{background-color: #1b3a01 !important;}"][vc_column css=".vc_custom_1468898492030{margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;}"][vcex_image_grid grid_style="masonry" columns="3" columns_gap="none" lightbox_title="false" img_size="full" overlay_style="title-center" title="no" image_ids="11,12,13,14,15,16"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1468900014291{padding-top: 120px !important;padding-bottom: 55px !important;}"][vc_column][vcex_icon icon="fa fa-comments-o" float="center" color="#6da716" custom_size="100px"][vcex_heading text="Meet Our Happy Clients" font_weight="bold" text_align="center" font_size="28px" color="#0a0a0a"][vcex_testimonials_slider display_author_name="no" rating="false" height_animation="400" animation_speed="600" slideshow_speed="5000" count="3" display_author_avatar="no" font_size="18px"][/vc_column][/vc_row][vc_row center_row="yes" wpex_bg_overlay="dark" css=".vc_custom_1470930480090{padding-top: 120px !important;padding-bottom: 105px !important;background: #333333 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/custom.jpg?id=9) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_opacity="0.25"][vc_column width="1/2"][vcex_heading text="Completely Custom Work" font_weight="bold" font_size="26px" color="#ffffff"][vcex_divider_dots align="left" margin_bottom="15px" color="#ffffff"][vc_column_text]<span class="white-text">Have a dream? We’d love to make it come true. We’ve created tons of one of a kind yards including Hobbit holes, play grounds, hedge mazes, rose gardens, water parks, sustainable landscaping, tulip fields and so much more. And we’d love your ideas to become our next custom project.</span>
+Since then, TOTAL has grown to encompass a huge network of top notch gardeners and landscapers across the city. Services range from simple grass cutting to full-scale landscape and water feature design and implementation. Hopefully after seeing our work you’ll let us take TOTAL care of your yard too![/vc_column_text][/vc_column][/vc_row][vc_row column_spacing="0px" css=".vc_custom_1470930312165{background-color: #1b3a01 !important;}"][vc_column css=".vc_custom_1468898492030{margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;}"][vcex_image_grid grid_style="masonry" columns="3" columns_gap="none" lightbox_title="false" img_size="full" overlay_style="title-center" title="no" image_ids="11,12,13,14,15,16"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1476718910979{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column][vcex_icon icon="fa fa-comments-o" float="center" color="#6da716" custom_size="100px"][vcex_heading text="Meet Our Happy Clients" font_weight="bold" text_align="center" font_size="28px" color="#0a0a0a"][vcex_testimonials_slider display_author_name="no" rating="false" height_animation="400" animation_speed="600" slideshow_speed="5000" count="3" display_author_avatar="no" font_size="18px"][/vc_column][/vc_row][vc_row center_row="yes" wpex_bg_overlay="dark" css=".vc_custom_1470930480090{padding-top: 120px !important;padding-bottom: 105px !important;background: #333333 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/custom.jpg?id=9) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_opacity="0.25"][vc_column width="1/2"][vcex_heading text="Completely Custom Work" font_weight="bold" font_size="26px" color="#ffffff"][vcex_divider_dots align="left" margin_bottom="15px" color="#ffffff"][vc_column_text]<span class="white-text">Have a dream? We’d love to make it come true. We’ve created tons of one of a kind yards including Hobbit holes, play grounds, hedge mazes, rose gardens, water parks, sustainable landscaping, tulip fields and so much more. And we’d love your ideas to become our next custom project.</span>
 
 <span class="white-text">To schedule a custom landscaping appointment simply contact us at our office via telephone or use the contact form below. We can do anything - so don’t hesitate to ask!</span>[/vc_column_text][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1468899542426{padding-top: 120px !important;}"][vc_column][vcex_icon icon="fa fa-diamond" float="center" color="#6da716" custom_size="100px"][vcex_heading text="Standard Rates" font_weight="bold" text_align="center" font_size="28px" color="#0a0a0a"][vcex_divider_dots margin_bottom="15px"][vc_column_text]
 
@@ -1748,7 +1785,7 @@ Lawn Reseeding
 <span class="white-text">Save some water with beautiful succulents, grasses and low water shrubs.</span>
 <span class="white-text">Your wallet and the environment will thank you.</span>
 
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1468899054227{padding-top: 120px !important;padding-bottom: 105px !important;background-color: #275304 !important;}"][vc_column width="1/2"][vcex_heading text="Contact Us" font_weight="bold" icon="fa fa-paper-plane-o" font_size="26px" color="#ffffff" icon_color="#ffffff"][vcex_spacing size="15px"][vc_column_text]<span class="white-text">We’d love to hear from you. We’re on social media, if you have a quick question or if you just want to say hi. For business inquiries feel free to call, email or use the contact form to the right. We can’t wait to hear from you soon! </span>[/vc_column_text][vcex_spacing][vcex_list_item icon="fa fa-phone" color="#ffffff" font_color="#ffffff"]1-800-225-5555[/vcex_list_item][vcex_spacing size="10px"][vcex_list_item icon="fa fa-envelope" color="#ffffff" font_color="#ffffff"]landscaping@wpexplorer.com[/vcex_list_item][vcex_spacing size="10px"][vcex_list_item icon="fa fa-home" color="#ffffff" font_color="#ffffff"]1234 Main Street</br><span style="padding-left:25px;">Suite 2100</span></br><span style="padding-left:25px;">Anytown, USA</span></br><span style="padding-left:25px;">10005-2100</span>[/vcex_list_item][/vc_column][vc_column width="1/2"][contact-form-7 id="27"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1468899054227{padding-top: 120px !important;padding-bottom: 105px !important;background-color: #275304 !important;}"][vc_column width="1/2"][vcex_heading text="Contact Us" font_weight="bold" icon="fa fa-paper-plane-o" font_size="26px" color="#ffffff" icon_color="#ffffff"][vcex_spacing size="15px"][vc_column_text]<span class="white-text">We’d love to hear from you. We’re on social media, if you have a quick question or if you just want to say hi. For business inquiries feel free to call, email or use the contact form to the right. We can’t wait to hear from you soon! </span>[/vc_column_text][vcex_spacing][vcex_list_item icon="fa fa-phone" color="#ffffff" font_color="#ffffff"]1-800-225-5555[/vcex_list_item][vcex_spacing size="10px"][vcex_list_item icon="fa fa-envelope" color="#ffffff" font_color="#ffffff"]landscaping@wpexplorer.com[/vcex_list_item][vcex_spacing size="10px"][vcex_list_item icon="fa fa-home" color="#ffffff" font_color="#ffffff"]1234 Main Street</br><span style="padding-left:25px;">Suite 2100</span></br><span style="padding-left:25px;">Anytown, USA</span></br><span style="padding-left:25px;">10005-2100</span>[/vcex_list_item][/vc_column][vc_column width="1/2"][vcex_form_shortcode style="white" full_width="true"][contact-form-7 id="27" title="Landscaping Contact Form"][/vcex_form_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-07-19 02:05:18]]></wp:post_date>
@@ -1800,7 +1837,7 @@ Lawn Reseeding
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1468897428243{padding-top: 130px !important;padding-bottom: 105px !important;background: #275304 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/rake.jpg?id=8) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468972109250{padding-top: 120px !important;padding-bottom: 105px !important;background-image: url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/family.jpg?id=21) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468972161619{padding-top: 120px !important;padding-bottom: 105px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1470930312165{background-color: #1b3a01 !important;}.vc_custom_1468900014291{padding-top: 120px !important;padding-bottom: 55px !important;}.vc_custom_1470930480090{padding-top: 120px !important;padding-bottom: 105px !important;background: #333333 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/custom.jpg?id=9) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468899542426{padding-top: 120px !important;}.vc_custom_1468958363002{padding-bottom: 105px !important;}.vc_custom_1470930551721{padding-top: 120px !important;padding-bottom: 105px !important;background: #333333 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/cactus.jpg?id=10) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468899054227{padding-top: 120px !important;padding-bottom: 105px !important;background-color: #275304 !important;}.vc_custom_1468898492030{margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;}.vc_custom_1468958092207{border: 3px solid #6da716 !important;border-radius: 10px !important;}.vc_custom_1468958081317{border: 3px solid #6da716 !important;border-radius: 10px !important;}.vc_custom_1468957766190{border-top-width: 3px !important;border-right-width: 3px !important;border-bottom-width: 3px !important;border-left-width: 3px !important;border-left-color: #6da716 !important;border-left-style: solid !important;border-right-color: #6da716 !important;border-right-style: solid !important;border-top-color: #6da716 !important;border-top-style: solid !important;border-bottom-color: #6da716 !important;border-bottom-style: solid !important;border-radius: 10px !important;}.vc_custom_1468957903962{background-color: #6da716 !important;}.vc_custom_1468954956585{padding-top: 10px !important;padding-bottom: 10px !important;background-color: #6da716 !important;}.vc_custom_1468955027910{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1468958125926{background-color: #6da716 !important;}.vc_custom_1468958153051{padding-top: 10px !important;padding-bottom: 10px !important;background-color: #6da716 !important;}.vc_custom_1468958183674{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1468958141849{background-color: #6da716 !important;}.vc_custom_1468958160588{padding-top: 10px !important;padding-bottom: 10px !important;background-color: #6da716 !important;}.vc_custom_1468958223174{padding-top: 20px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1468897428243{padding-top: 130px !important;padding-bottom: 105px !important;background: #275304 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/rake.jpg?id=8) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468972109250{padding-top: 120px !important;padding-bottom: 105px !important;background-image: url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/family.jpg?id=21) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468972161619{padding-top: 120px !important;padding-bottom: 105px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1470930312165{background-color: #1b3a01 !important;}.vc_custom_1476718910979{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1470930480090{padding-top: 120px !important;padding-bottom: 105px !important;background: #333333 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/custom.jpg?id=9) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468899542426{padding-top: 120px !important;}.vc_custom_1468958363002{padding-bottom: 105px !important;}.vc_custom_1470930551721{padding-top: 120px !important;padding-bottom: 105px !important;background: #333333 url(http://totaltheme.wpengine.com/landscaping/wp-content/uploads/sites/87/2016/07/cactus.jpg?id=10) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468899054227{padding-top: 120px !important;padding-bottom: 105px !important;background-color: #275304 !important;}.vc_custom_1468898492030{margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;}.vc_custom_1468958092207{border: 3px solid #6da716 !important;border-radius: 10px !important;}.vc_custom_1468958081317{border: 3px solid #6da716 !important;border-radius: 10px !important;}.vc_custom_1468957766190{border-top-width: 3px !important;border-right-width: 3px !important;border-bottom-width: 3px !important;border-left-width: 3px !important;border-left-color: #6da716 !important;border-left-style: solid !important;border-right-color: #6da716 !important;border-right-style: solid !important;border-top-color: #6da716 !important;border-top-style: solid !important;border-bottom-color: #6da716 !important;border-bottom-style: solid !important;border-radius: 10px !important;}.vc_custom_1468957903962{background-color: #6da716 !important;}.vc_custom_1468954956585{padding-top: 10px !important;padding-bottom: 10px !important;background-color: #6da716 !important;}.vc_custom_1468955027910{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1468958125926{background-color: #6da716 !important;}.vc_custom_1468958153051{padding-top: 10px !important;padding-bottom: 10px !important;background-color: #6da716 !important;}.vc_custom_1468958183674{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1468958141849{background-color: #6da716 !important;}.vc_custom_1468958160588{padding-top: 10px !important;padding-bottom: 10px !important;background-color: #6da716 !important;}.vc_custom_1468958223174{padding-top: 20px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
@@ -1977,11 +2014,11 @@ Lawn Reseeding
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/?post_type=wpcf7_contact_form&#038;p=27</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="full-width-input"><p>[text* your-name "Your Name"] </p>
+		<content:encoded><![CDATA[<p>[text* your-name "Your Name"] </p>
 
 <p>[email* your-email "Your Email"] </p>
 
-<p>[textarea your-message "Say something..."]</p></div>
+<p>[textarea your-message "Say something..."]</p>
 
 <p>[submit "Send Message"]</p>
 Total Landscaping "[your-subject]"
@@ -2054,11 +2091,11 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="full-width-input"><p>[text* your-name "Your Name"] </p>
+			<wp:meta_value><![CDATA[<p>[text* your-name "Your Name"] </p>
 
 <p>[email* your-email "Your Email"] </p>
 
-<p>[textarea your-message "Say something..."]</p></div>
+<p>[textarea your-message "Say something..."]</p>
 
 <p>[submit "Send Message"]</p>]]></wp:meta_value>
 		</wp:postmeta>
@@ -2588,6 +2625,242 @@ Click the button below to get started.[/vc_cta][/vc_column][/vc_row]]]></content
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_rating]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://totaltheme.wpengine.com/landscaping/68/</link>
+		<pubDate>Thu, 11 Aug 2016 18:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/?p=68</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>68</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-11 18:22:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-11 18:22:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[68]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="mobile"><![CDATA[Mobile]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://totaltheme.wpengine.com/landscaping/69/</link>
+		<pubDate>Thu, 11 Aug 2016 18:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/?p=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-11 18:22:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-11 18:22:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[69]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="mobile"><![CDATA[Mobile]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://totaltheme.wpengine.com/landscaping/70/</link>
+		<pubDate>Thu, 11 Aug 2016 18:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/?p=70</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-11 18:22:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-11 18:22:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[70]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="mobile"><![CDATA[Mobile]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://totaltheme.wpengine.com/landscaping/71/</link>
+		<pubDate>Thu, 11 Aug 2016 18:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/landscaping/?p=71</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-11 18:22:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-11 18:22:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[71]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="mobile"><![CDATA[Mobile]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
