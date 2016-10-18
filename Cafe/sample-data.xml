@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.3" created="2016-08-09 00:15" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-18 16:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Delicious Cafe</title>
 	<link>http://totaltheme.wpengine.com/cafe</link>
 	<description>Just another Total Theme Demo site</description>
-	<pubDate>Tue, 09 Aug 2016 00:15:32 +0000</pubDate>
+	<pubDate>Tue, 18 Oct 2016 16:56:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -38,9 +38,14 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpengine]]></wp:author_login><wp:author_email><![CDATA[bitbucket@wpengine.com]]></wp:author_email><wp:author_display_name><![CDATA[wpengine]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
 
-	<generator>https://wordpress.org/?v=4.5.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
 	<item>
 		<title>restaurant_bg_1.jpg</title>
@@ -105,64 +110,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>drink_cover.jpg</title>
-		<link>http://totaltheme.wpengine.com/cafe/drink-cover-jpg/</link>
-		<pubDate>Thu, 23 Jun 2016 01:35:19 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/drink_cover.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-23 01:35:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-23 01:35:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drink-cover-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/drink_cover.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/levanorestaurantbar/drink_cover.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:45:"revslider/levanorestaurantbar/drink_cover.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>drink.mp4</title>
-		<link>http://totaltheme.wpengine.com/cafe/drink-mp4/</link>
-		<pubDate>Thu, 23 Jun 2016 01:35:19 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/drink.mp4</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-23 01:35:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-23 01:35:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[drink-mp4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/drink.mp4]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/levanorestaurantbar/drink.mp4]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>restaurant_bg_3.jpg</title>
 		<link>http://totaltheme.wpengine.com/cafe/restaurant-bg-3-jpg/</link>
 		<pubDate>Thu, 23 Jun 2016 01:35:19 +0000</pubDate>
@@ -191,68 +138,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:49:"revslider/levanorestaurantbar/restaurant_bg_3.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>board.jpg</title>
-		<link>http://totaltheme.wpengine.com/cafe/board-jpg/</link>
-		<pubDate>Thu, 23 Jun 2016 01:35:19 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/board.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-23 01:35:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-23 01:35:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[board-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/board.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/levanorestaurantbar/board.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1285;s:4:"file";s:39:"revslider/levanorestaurantbar/board.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>restaurant_logo1.png</title>
-		<link>http://totaltheme.wpengine.com/cafe/restaurant-logo1-png/</link>
-		<pubDate>Thu, 23 Jun 2016 01:35:19 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/restaurant_logo1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-23 01:35:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-23 01:35:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[restaurant-logo1-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/revslider/levanorestaurantbar/restaurant_logo1.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/levanorestaurantbar/restaurant_logo1.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:120;s:6:"height";i:120;s:4:"file";s:50:"revslider/levanorestaurantbar/restaurant_logo1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -659,90 +544,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/cafe/</link>
-		<pubDate>Thu, 23 Jun 2016 00:58:00 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/cafe/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row column_spacing="0px" css=".vc_custom_1470009114996{background-color: #222222 !important;}"][vc_column offset="vc_hidden-xs"][rev_slider_vc alias="restaurant-slider"][/vc_column][/vc_row][vc_row column_spacing="0px" css=".vc_custom_1470009122950{background-color: #222222 !important;}"][vc_column offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_single_image image="32"][/vc_column][/vc_row][vc_row match_column_height="yes" column_spacing="0px" css=".vc_custom_1466711007715{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" css=".vc_custom_1466725727165{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/chef.jpg?id=25) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-xs"][/vc_column][vc_column width="1/2" css=".vc_custom_1466711198095{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;background-color: #ffffff !important;}"][vcex_heading text="A Bite About Us" font_size="1.556em" css=".vc_custom_1466732775722{padding-bottom: 30px !important;}"][vc_column_text]We opened our doors in 2014 with the goal of providing fresh, organic, seasonal foods to our neighborhood.
-
-Since our opening we’ve been able to expand our menu, turn visitors into loyal customers, and give back to the community via food drives and fundraisers.
-
-We’ve also participated in many events and been given some awards along the way. Here are a few:
-<ul>
- 	<li>Restaurant Week 2015 Best New Classical</li>
- 	<li>Top 10 New Local Joints</li>
- 	<li>Best Happy Hour on Main St</li>
- 	<li>Top 25 Hot Wings In The City</li>
- 	<li>Best Sundaes for Sunday</li>
-</ul>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1466710166628{padding-top: 60px !important;padding-bottom: 30px !important;background: #bb9d6c url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/food.png?id=24) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_single_image image="27" img_size="80x80" alignment="center"][vcex_spacing][vcex_heading text="What We Create" text_align="center" font_size="1.556em" css=".vc_custom_1466732767116{padding-bottom: 30px !important;}" color="#ffffff"][vc_column_text]
-<p style="text-align: center;"><span class="white-text">We make superbly delicious food for all of your eating needs. Come visit us for lunch or dinner any night of the week (we’re open Monday through Sunday, and even on holidays). We also have take away and catering menus for any time you might need something to nosh on away from our little cafe.</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row match_column_height="yes" column_spacing="0px" css=".vc_custom_1466711125826{background-color: #e4d4bc !important;}"][vc_column width="1/2" css=".vc_custom_1466711203552{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;}"][vcex_heading text="The Menu" font_size="1.556em" css=".vc_custom_1466732788188{padding-bottom: 30px !important;}"][vcex_leader leaders="%5B%7B%22label%22%3A%22Hot%20Wings%22%2C%22value%22%3A%22%2410%22%7D%2C%7B%22label%22%3A%22Hummus%20%26%20Pita%22%2C%22value%22%3A%22%2412%22%7D%2C%7B%22label%22%3A%22Egg%20Rolls%22%2C%22value%22%3A%22%2414%22%7D%2C%7B%22label%22%3A%22Fresh%20Seafood%20Platter%22%2C%22value%22%3A%22%2422%22%7D%5D" background="#e4d4bc"][vcex_spacing][vcex_leader leaders="%5B%7B%22label%22%3A%22Chicken%20%26%20Waffles%22%2C%22value%22%3A%22%2420%22%7D%2C%7B%22label%22%3A%22BBQ%20Bacon%20Burger%22%2C%22value%22%3A%22%2418%22%7D%2C%7B%22label%22%3A%22Cedar%20Plank%20Salmon%22%2C%22value%22%3A%22%2428%22%7D%2C%7B%22label%22%3A%22Vegan%20Tagine%22%2C%22value%22%3A%22%2425%22%7D%2C%7B%22label%22%3A%22Build-Your-Own%20Pizza%22%2C%22value%22%3A%22%2418%22%7D%2C%7B%22label%22%3A%22Mediterranean%20Pasta%22%2C%22value%22%3A%22%2424%22%7D%2C%7B%22label%22%3A%22Eggplant%20Parmesan%22%2C%22value%22%3A%22%2422%22%7D%2C%7B%22label%22%3A%22Grandma's%20Mac%20%26%20Cheese%22%2C%22value%22%3A%22%2415%22%7D%5D" background="#e4d4bc"][vcex_spacing][vcex_leader leaders="%5B%7B%22label%22%3A%22Seasonal%20Fruit%20Bowl%22%2C%22value%22%3A%22%2410%22%7D%2C%7B%22label%22%3A%22Donut%20Trio%22%2C%22value%22%3A%22%2415%22%7D%2C%7B%22label%22%3A%22Homemade%20Ice%20Cream%22%2C%22value%22%3A%22%248%22%7D%5D" background="#e4d4bc"][vcex_spacing][vcex_leader leaders="%5B%7B%22label%22%3A%22Aperitif%22%2C%22value%22%3A%22%2410%22%7D%2C%7B%22label%22%3A%22Coffee%22%2C%22value%22%3A%22%245%22%7D%5D" background="#e4d4bc"][/vc_column][vc_column width="1/2" css=".vc_custom_1466725744681{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/burgers.jpg?id=26) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-xs"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1466710187002{padding-top: 60px !important;padding-bottom: 30px !important;background-color: #222222 !important;}"][vc_column][vcex_heading text="Look At What's Good" text_align="center" font_size="1.556em" color="#ffffff"][/vc_column][/vc_row][vc_row column_spacing="0px" css=".vc_custom_1466710193990{background-color: #222222 !important;}"][vc_column][vcex_image_grid columns_gap="none" pagination="false" lightbox_title="false" lightbox_caption="false" img_size="full" img_hover_style="fade-in" title="no" image_ids="12,19,14,15,13,17,18,16"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1466710206456{padding-top: 60px !important;padding-bottom: 30px !important;background: #c21706 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/stars10.png?id=22) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column][vcex_heading text="We'd love it if you could take a minute to review us!" text_align="center" font_size="1.556em" css=".vc_custom_1466732801497{padding-bottom: 30px !important;}" color="#ffffff"][vcex_button url="https://www.yelp.com/biz/eat-las-vegas-2" title="Yelp Reviews" target="blank" style="outline" align="center" size="large" color="white" icon_left="fa fa-yelp" letter_spacing="1px" custom_background="#b31404" custom_hover_background="#ffffff" custom_color="#ffffff" custom_hover_color="#b31404"]Yelp Reviews[/vcex_button][/vc_column][/vc_row][vc_row wpex_bg_overlay="dark" css=".vc_custom_1466725235636{background: #444444 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/location.jpg?id=21) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_color="#000000" wpex_bg_overlay_opacity=".5" min_height="300px"][vc_column][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-23 00:58:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-23 00:58:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1470009114996{background-color: #222222 !important;}.vc_custom_1470009122950{background-color: #222222 !important;}.vc_custom_1466711007715{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466710166628{padding-top: 60px !important;padding-bottom: 30px !important;background: #bb9d6c url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/food.png?id=24) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466711125826{background-color: #e4d4bc !important;}.vc_custom_1466710187002{padding-top: 60px !important;padding-bottom: 30px !important;background-color: #222222 !important;}.vc_custom_1466710193990{background-color: #222222 !important;}.vc_custom_1466710206456{padding-top: 60px !important;padding-bottom: 30px !important;background: #c21706 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/stars10.png?id=22) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1466725235636{background: #444444 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/location.jpg?id=21) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466725727165{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/chef.jpg?id=25) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466711198095{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;background-color: #ffffff !important;}.vc_custom_1466732775722{padding-bottom: 30px !important;}.vc_custom_1466732767116{padding-bottom: 30px !important;}.vc_custom_1466711203552{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;}.vc_custom_1466725744681{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/burgers.jpg?id=26) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466732788188{padding-bottom: 30px !important;}.vc_custom_1466732801497{padding-bottom: 30px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>utensils</title>
 		<link>http://totaltheme.wpengine.com/cafe/home/utensils/</link>
 		<pubDate>Thu, 23 Jun 2016 21:29:15 +0000</pubDate>
@@ -864,6 +665,90 @@ We’ve also participated in many events and been given some awards along the wa
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:975;s:4:"file";s:22:"2016/06/slider-alt.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home</title>
+		<link>http://totaltheme.wpengine.com/cafe/</link>
+		<pubDate>Thu, 23 Jun 2016 00:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/cafe/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row column_spacing="0px" css=".vc_custom_1470009114996{background-color: #222222 !important;}"][vc_column offset="vc_hidden-xs"][rev_slider alias="cafe-home"][/vc_column][/vc_row][vc_row column_spacing="0px" css=".vc_custom_1470009122950{background-color: #222222 !important;}"][vc_column offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][vc_single_image image="32"][/vc_column][/vc_row][vc_row match_column_height="yes" column_spacing="0px" css=".vc_custom_1466711007715{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" css=".vc_custom_1466725727165{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/chef.jpg?id=25) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-xs"][/vc_column][vc_column width="1/2" css=".vc_custom_1466711198095{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;background-color: #ffffff !important;}"][vcex_heading text="A Bite About Us" font_size="1.556em" css=".vc_custom_1466732775722{padding-bottom: 30px !important;}"][vc_column_text]We opened our doors in 2014 with the goal of providing fresh, organic, seasonal foods to our neighborhood.
+
+Since our opening we’ve been able to expand our menu, turn visitors into loyal customers, and give back to the community via food drives and fundraisers.
+
+We’ve also participated in many events and been given some awards along the way. Here are a few:
+<ul>
+ 	<li>Restaurant Week 2015 Best New Classical</li>
+ 	<li>Top 10 New Local Joints</li>
+ 	<li>Best Happy Hour on Main St</li>
+ 	<li>Top 25 Hot Wings In The City</li>
+ 	<li>Best Sundaes for Sunday</li>
+</ul>
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1466710166628{padding-top: 60px !important;padding-bottom: 30px !important;background: #bb9d6c url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/food.png?id=24) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_single_image image="27" img_size="80x80" alignment="center"][vcex_spacing][vcex_heading text="What We Create" text_align="center" font_size="1.556em" css=".vc_custom_1466732767116{padding-bottom: 30px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]
+<p style="text-align: center;">We make superbly delicious food for all of your eating needs. Come visit us for lunch or dinner any night of the week (we’re open Monday through Sunday, and even on holidays). We also have take away and catering menus for any time you might need something to nosh on away from our little cafe.</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row match_column_height="yes" column_spacing="0px" css=".vc_custom_1466711125826{background-color: #e4d4bc !important;}"][vc_column width="1/2" css=".vc_custom_1466711203552{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;}"][vcex_heading text="The Menu" font_size="1.556em" css=".vc_custom_1466732788188{padding-bottom: 30px !important;}"][vcex_leader leaders="%5B%7B%22label%22%3A%22Hot%20Wings%22%2C%22value%22%3A%22%2410%22%7D%2C%7B%22label%22%3A%22Hummus%20%26%20Pita%22%2C%22value%22%3A%22%2412%22%7D%2C%7B%22label%22%3A%22Egg%20Rolls%22%2C%22value%22%3A%22%2414%22%7D%2C%7B%22label%22%3A%22Fresh%20Seafood%20Platter%22%2C%22value%22%3A%22%2422%22%7D%5D" background="#e4d4bc"][vcex_spacing][vcex_leader leaders="%5B%7B%22label%22%3A%22Chicken%20%26%20Waffles%22%2C%22value%22%3A%22%2420%22%7D%2C%7B%22label%22%3A%22BBQ%20Bacon%20Burger%22%2C%22value%22%3A%22%2418%22%7D%2C%7B%22label%22%3A%22Cedar%20Plank%20Salmon%22%2C%22value%22%3A%22%2428%22%7D%2C%7B%22label%22%3A%22Vegan%20Tagine%22%2C%22value%22%3A%22%2425%22%7D%2C%7B%22label%22%3A%22Build-Your-Own%20Pizza%22%2C%22value%22%3A%22%2418%22%7D%2C%7B%22label%22%3A%22Mediterranean%20Pasta%22%2C%22value%22%3A%22%2424%22%7D%2C%7B%22label%22%3A%22Eggplant%20Parmesan%22%2C%22value%22%3A%22%2422%22%7D%2C%7B%22label%22%3A%22Grandma's%20Mac%20%26%20Cheese%22%2C%22value%22%3A%22%2415%22%7D%5D" background="#e4d4bc"][vcex_spacing][vcex_leader leaders="%5B%7B%22label%22%3A%22Seasonal%20Fruit%20Bowl%22%2C%22value%22%3A%22%2410%22%7D%2C%7B%22label%22%3A%22Donut%20Trio%22%2C%22value%22%3A%22%2415%22%7D%2C%7B%22label%22%3A%22Homemade%20Ice%20Cream%22%2C%22value%22%3A%22%248%22%7D%5D" background="#e4d4bc"][vcex_spacing][vcex_leader leaders="%5B%7B%22label%22%3A%22Aperitif%22%2C%22value%22%3A%22%2410%22%7D%2C%7B%22label%22%3A%22Coffee%22%2C%22value%22%3A%22%245%22%7D%5D" background="#e4d4bc"][/vc_column][vc_column width="1/2" css=".vc_custom_1466725744681{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/burgers.jpg?id=26) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" offset="vc_hidden-xs"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1466710187002{padding-top: 60px !important;padding-bottom: 30px !important;background-color: #222222 !important;}"][vc_column][vcex_heading text="Look At What's Good" text_align="center" font_size="1.556em" color="#ffffff"][/vc_column][/vc_row][vc_row column_spacing="0px" css=".vc_custom_1466710193990{background-color: #222222 !important;}"][vc_column][vcex_image_grid columns_gap="none" pagination="false" lightbox_title="false" lightbox_caption="false" img_size="full" img_hover_style="fade-in" title="no" image_ids="12,19,14,15,13,17,18,16"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1466710206456{padding-top: 60px !important;padding-bottom: 30px !important;background: #c21706 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/stars10.png?id=22) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column][vcex_heading text="We'd love it if you could take a minute to review us!" text_align="center" font_size="1.556em" css=".vc_custom_1466732801497{padding-bottom: 30px !important;}" color="#ffffff"][vcex_button url="https://www.yelp.com/biz/eat-las-vegas-2" title="Yelp Reviews" target="blank" style="outline" align="center" size="large" color="white" icon_left="fa fa-yelp" letter_spacing="1px" custom_background="#b31404" custom_hover_background="#ffffff" custom_color="#ffffff" custom_hover_color="#b31404"]Yelp Reviews[/vcex_button][/vc_column][/vc_row][vc_row wpex_bg_overlay="dark" css=".vc_custom_1466725235636{background: #444444 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/location.jpg?id=21) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_color="#000000" wpex_bg_overlay_opacity=".5" min_height="300px"][vc_column][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-23 00:58:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-23 00:58:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1470009114996{background-color: #222222 !important;}.vc_custom_1470009122950{background-color: #222222 !important;}.vc_custom_1466711007715{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466710166628{padding-top: 60px !important;padding-bottom: 30px !important;background: #bb9d6c url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/food.png?id=24) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466711125826{background-color: #e4d4bc !important;}.vc_custom_1466710187002{padding-top: 60px !important;padding-bottom: 30px !important;background-color: #222222 !important;}.vc_custom_1466710193990{background-color: #222222 !important;}.vc_custom_1466710206456{padding-top: 60px !important;padding-bottom: 30px !important;background: #c21706 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/stars10.png?id=22) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1466725235636{background: #444444 url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/location.jpg?id=21) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466725727165{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/chef.jpg?id=25) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466711198095{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;background-color: #ffffff !important;}.vc_custom_1466732775722{padding-bottom: 30px !important;}.vc_custom_1466732767116{padding-bottom: 30px !important;}.vc_custom_1466711203552{padding-top: 60px !important;padding-right: 60px !important;padding-bottom: 60px !important;padding-left: 60px !important;}.vc_custom_1466725744681{background-image: url(http://totaltheme.wpengine.com/cafe/wp-content/uploads/sites/83/2016/06/burgers.jpg?id=26) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1466732788188{padding-bottom: 30px !important;}.vc_custom_1466732801497{padding-bottom: 30px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
