@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.2" created="2016-05-31 21:38" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-18 18:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Agent</title>
 	<link>http://totaltheme.wpengine.com/agent</link>
 	<description>Total WordPress Theme Demo</description>
-	<pubDate>Tue, 31 May 2016 21:38:49 +0000</pubDate>
+	<pubDate>Tue, 18 Oct 2016 18:55:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -38,66 +38,230 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpengine]]></wp:author_login><wp:author_email><![CDATA[bitbucket@wpengine.com]]></wp:author_email><wp:author_display_name><![CDATA[wpengine]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>32</wp:term_id><wp:category_nicename><![CDATA[fun-stuff]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Fun Stuff]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>31</wp:term_id><wp:category_nicename><![CDATA[office-talk]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Office Talk]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>33</wp:term_id><wp:category_nicename><![CDATA[some-advice]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Some Advice]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:tag><wp:term_id>29</wp:term_id><wp:tag_slug><![CDATA[computer]]></wp:tag_slug><wp:tag_name><![CDATA[computer]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>30</wp:term_id><wp:tag_slug><![CDATA[conference]]></wp:tag_slug><wp:tag_name><![CDATA[conference]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>25</wp:term_id><wp:tag_slug><![CDATA[guide]]></wp:tag_slug><wp:tag_name><![CDATA[guide]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>24</wp:term_id><wp:tag_slug><![CDATA[how-to]]></wp:tag_slug><wp:tag_name><![CDATA[how to]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>27</wp:term_id><wp:tag_slug><![CDATA[office]]></wp:tag_slug><wp:tag_name><![CDATA[office]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>23</wp:term_id><wp:tag_slug><![CDATA[tips]]></wp:tag_slug><wp:tag_name><![CDATA[tips]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>28</wp:term_id><wp:tag_slug><![CDATA[travel]]></wp:tag_slug><wp:tag_name><![CDATA[travel]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>26</wp:term_id><wp:tag_slug><![CDATA[work]]></wp:tag_slug><wp:tag_name><![CDATA[work]]></wp:tag_name></wp:tag>
-	<wp:term><wp:term_id><![CDATA[13]]></wp:term_id><wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[branding]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Branding]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[14]]></wp:term_id><wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[design]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Design]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[15]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[executive]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Executive]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[5]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[external]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[external]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[3]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[grouped]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[grouped]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[16]]></wp:term_id><wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[logo]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Logo]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[17]]></wp:term_id><wp:term_taxonomy><![CDATA[staff_category]]></wp:term_taxonomy><wp:term_slug><![CDATA[management]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Management]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[2]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[simple]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[simple]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[4]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[variable]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[variable]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[18]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[accessories]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Accessories]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[19]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[clothing]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Clothing]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[20]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[notebooks]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Notebooks]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[21]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[phone-cases]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Phone Cases]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
+	<wp:category>
+		<wp:term_id>32</wp:term_id>
+		<wp:category_nicename><![CDATA[fun-stuff]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Fun Stuff]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>31</wp:term_id>
+		<wp:category_nicename><![CDATA[office-talk]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Office Talk]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>33</wp:term_id>
+		<wp:category_nicename><![CDATA[some-advice]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Some Advice]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+	<wp:tag>
+		<wp:term_id>29</wp:term_id>
+		<wp:tag_slug><![CDATA[computer]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[computer]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>30</wp:term_id>
+		<wp:tag_slug><![CDATA[conference]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[conference]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>25</wp:term_id>
+		<wp:tag_slug><![CDATA[guide]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[guide]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>24</wp:term_id>
+		<wp:tag_slug><![CDATA[how-to]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[how to]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>27</wp:term_id>
+		<wp:tag_slug><![CDATA[office]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[office]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>23</wp:term_id>
+		<wp:tag_slug><![CDATA[tips]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[tips]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>28</wp:term_id>
+		<wp:tag_slug><![CDATA[travel]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[travel]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>26</wp:term_id>
+		<wp:tag_slug><![CDATA[work]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[work]]></wp:tag_name>
+	</wp:tag>
+	<wp:term>
+		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[branding]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Branding]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[design]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Design]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[executive]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Executive]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[external]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[external]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[grouped]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[grouped]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[logo]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Logo]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[staff_category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[management]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Management]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[simple]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[simple]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[variable]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[accessories]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Accessories]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[338]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[clothing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Clothing]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[340]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[notebooks]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Notebooks]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[342]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[phone-cases]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Phone Cases]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[339]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+</wp:term>
 
-	<generator>https://wordpress.org/?v=4.5.2</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
-	<item>
-		<title>home-slider-bg.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/home-slider-bg-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:12 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/home/home-slider-bg.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>251</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-slider-bg-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/home/home-slider-bg.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/home/home-slider-bg.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:33:"revslider/home/home-slider-bg.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"home-slider-bg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"home-slider-bg-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"home-slider-bg-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:24:"home-slider-bg-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:26:"home-slider-bg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:26:"home-slider-bg-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
 	<item>
 		<title>home-slider-ipad.png</title>
 		<link>http://totaltheme.wpengine.com/agent/home-slider-ipad-png/</link>
@@ -313,223 +477,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:415;s:6:"height";i:562;s:4:"file";s:36:"revslider/home/home-slider-stamp.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"home-slider-stamp-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:29:"home-slider-stamp-221x300.png";s:5:"width";i:221;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:27:"home-slider-stamp-90x90.png";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:29:"home-slider-stamp-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:4:{s:4:"file";s:29:"home-slider-stamp-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p6.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/p6-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:39 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p6.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>259</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[p6-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p6.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/portfolio/p6.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:26:"revslider/portfolio/p6.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p6-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p6-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p6-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p2.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/p2-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:39 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>260</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[p2-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/portfolio/p2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:26:"revslider/portfolio/p2.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p2-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p2-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p4.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/p4-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:39 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p4.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>261</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:39]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[p4-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/portfolio/p4.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:26:"revslider/portfolio/p4.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p4-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p4-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p4-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p7.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/p7-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:40 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p7.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>262</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[p7-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/portfolio/p7.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/portfolio/p7.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:26:"revslider/portfolio/p7.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p7-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p7-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p7-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>shop1.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/shop1-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:50 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/shop/shop1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>263</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/shop/shop1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/shop/shop1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1263;s:4:"file";s:24:"revslider/shop/shop1.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"shop1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"shop1-300x189.jpg";s:5:"width";i:300;s:6:"height";i:189;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"shop1-1024x646.jpg";s:5:"width";i:1024;s:6:"height";i:646;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"shop1-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"shop1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:17:"shop1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>shop2.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/shop2-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:50 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/shop/shop2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>264</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop2-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/shop/shop2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/shop/shop2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1263;s:4:"file";s:24:"revslider/shop/shop2.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"shop2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"shop2-300x189.jpg";s:5:"width";i:300;s:6:"height";i:189;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"shop2-1024x646.jpg";s:5:"width";i:1024;s:6:"height";i:646;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"shop2-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"shop2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:17:"shop2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>shop3.jpg</title>
-		<link>http://totaltheme.wpengine.com/agent/shop3-jpg/</link>
-		<pubDate>Mon, 08 Sep 2014 00:54:51 +0000</pubDate>
-		<dc:creator><![CDATA[wpengine]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/shop/shop3.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>265</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 00:54:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 00:54:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop3-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/revslider/shop/shop3.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[revslider/shop/shop3.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1263;s:4:"file";s:24:"revslider/shop/shop3.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:17:"shop3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:17:"shop3-300x189.jpg";s:5:"width";i:300;s:6:"height";i:189;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:18:"shop3-1024x646.jpg";s:5:"width";i:1024;s:6:"height";i:646;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:15:"shop3-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:17:"shop3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:17:"shop3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1153,37 +1100,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>p2</title>
-		<link>http://totaltheme.wpengine.com/agent/p2/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:40 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>292</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:14:"2014/09/p2.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p2-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p2-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>p3</title>
 		<link>http://totaltheme.wpengine.com/agent/p3/</link>
 		<pubDate>Mon, 08 Sep 2014 01:15:41 +0000</pubDate>
@@ -1212,37 +1128,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:14:"2014/09/p3.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p3-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p3-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p4</title>
-		<link>http://totaltheme.wpengine.com/agent/p4/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p4.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>294</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p4.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:14:"2014/09/p4.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p4-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p4-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p4-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1277,161 +1162,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>p6</title>
-		<link>http://totaltheme.wpengine.com/agent/p6/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:44 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p6.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>296</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p6]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p6.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p6.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:14:"2014/09/p6.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p6-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p6-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p6-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p7</title>
-		<link>http://totaltheme.wpengine.com/agent/p7/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:45 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p7.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>297</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p7]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p7.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p7.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:14:"2014/09/p7.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p7-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p7-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p7-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p8</title>
-		<link>http://totaltheme.wpengine.com/agent/p8/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:46 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p8.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>298</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p8]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p8.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p8.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:14:"2014/09/p8.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p8-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p8-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p8-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p9</title>
-		<link>http://totaltheme.wpengine.com/agent/p9/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:47 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p9.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>299</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p9]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p9.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p9.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:14:"2014/09/p9.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"p9-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:14:"p9-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:12:"p9-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:14:"p9-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:14:"p9-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p10</title>
-		<link>http://totaltheme.wpengine.com/agent/p10/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:48 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p10.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>300</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p10]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p10.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p10.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:15:"2014/09/p10.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"p10-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"p10-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"p10-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"p10-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"p10-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>p11</title>
 		<link>http://totaltheme.wpengine.com/agent/p11/</link>
 		<pubDate>Mon, 08 Sep 2014 01:15:49 +0000</pubDate>
@@ -1460,37 +1190,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:15:"2014/09/p11.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"p11-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"p11-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"p11-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"p11-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"p11-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>p12</title>
-		<link>http://totaltheme.wpengine.com/agent/p12/</link>
-		<pubDate>Mon, 08 Sep 2014 01:15:50 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p12.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>302</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:15:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:15:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[p12]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p12.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/p12.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:15:"2014/09/p12.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"p12-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"p12-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"p12-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"p12-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"p12-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1708,37 +1407,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:15:"2014/09/021.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"021-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"021-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"021-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"021-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"021-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>022</title>
-		<link>http://totaltheme.wpengine.com/agent/shop/green-army-knapsack/attachment/022/</link>
-		<pubDate>Mon, 08 Sep 2014 01:31:08 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/022.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>310</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 01:31:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 01:31:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[022]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>246</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/022.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/022.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:15:"2014/09/022.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"022-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"022-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:16:"022-682x1024.jpg";s:5:"width";i:682;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"022-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"022-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"022-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2517,34 +2185,561 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>keyboard-338507_1920</title>
-		<link>http://totaltheme.wpengine.com/agent/pricing/keyboard-338507_1920/</link>
-		<pubDate>Mon, 08 Sep 2014 20:40:57 +0000</pubDate>
+		<title>040</title>
+		<link>http://totaltheme.wpengine.com/agent/shop/retro-camera/attachment/040/</link>
+		<pubDate>Mon, 08 Sep 2014 21:02:23 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/keyboard-338507_1920.jpg</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/040.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>343</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 20:40:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 20:40:57]]></wp:post_date_gmt>
+		<wp:post_id>346</wp:post_id>
+		<wp:post_date><![CDATA[2014-09-08 21:02:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-09-08 21:02:23]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[keyboard-338507_1920]]></wp:post_name>
+		<wp:post_name><![CDATA[040]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>345</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/040.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/040.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:15:"2014/09/040.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"040-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"040-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"040-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>043</title>
+		<link>http://totaltheme.wpengine.com/agent/shop/retro-camera/attachment/043/</link>
+		<pubDate>Mon, 08 Sep 2014 21:02:26 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/043.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>347</wp:post_id>
+		<wp:post_date><![CDATA[2014-09-08 21:02:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-09-08 21:02:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[043]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>345</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/043.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/043.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:15:"2014/09/043.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"043-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"043-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"043-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"043-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"043-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>picjumbo.com_IMG_6031</title>
+		<link>http://totaltheme.wpengine.com/agent/contact-us/picjumbo-com_img_6031/</link>
+		<pubDate>Mon, 08 Sep 2014 21:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/picjumbo.com_IMG_6031.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>350</wp:post_id>
+		<wp:post_date><![CDATA[2014-09-08 21:08:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-09-08 21:08:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[picjumbo-com_img_6031]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>170</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/picjumbo.com_IMG_6031.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/picjumbo.com_IMG_6031.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:33:"2014/09/picjumbo.com_IMG_6031.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"picjumbo.com_IMG_6031-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:31:"picjumbo.com_IMG_6031-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>total-theme</title>
+		<link>http://totaltheme.wpengine.com/agent/total-theme/</link>
+		<pubDate>Wed, 17 Sep 2014 22:57:47 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/total-theme.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>352</wp:post_id>
+		<wp:post_date><![CDATA[2014-09-17 22:57:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-09-17 22:57:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[total-theme]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/total-theme.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/total-theme.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:250;s:4:"file";s:23:"2014/09/total-theme.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"total-theme-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"total-theme-90x90.png";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:23:"total-theme-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>pricing</title>
+		<link>http://totaltheme.wpengine.com/agent/pricing/pricing-2/</link>
+		<pubDate>Sun, 16 Oct 2016 18:53:25 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/pricing.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>356</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 18:53:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 18:53:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pricing-2]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>171</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/keyboard-338507_1920.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/pricing.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/keyboard-338507_1920.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2014/09/pricing.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1271;s:4:"file";s:32:"2014/09/keyboard-338507_1920.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"keyboard-338507_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"keyboard-338507_1920-300x198.jpg";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"keyboard-338507_1920-1024x677.jpg";s:5:"width";i:1024;s:6:"height";i:677;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:30:"keyboard-338507_1920-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:32:"keyboard-338507_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:32:"keyboard-338507_1920-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1271;s:4:"file";s:19:"2014/09/pricing.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>022-1</title>
+		<link>http://totaltheme.wpengine.com/agent/shop/green-army-knapsack/022-1/</link>
+		<pubDate>Sun, 16 Oct 2016 19:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/022-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>357</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 19:00:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 19:00:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[022-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>246</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/022-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/022-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:17:"2014/09/022-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p12-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/scape-the-city/p12-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:47:25 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p12-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>358</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:47:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:47:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p12-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>140</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p12-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p12-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:17:"2014/09/p12-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p10-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/lucia-surfing-co/p10-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:48:06 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p10-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>359</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:48:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:48:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p10-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>21</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p10-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p10-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:17:"2014/09/p10-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p9-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/helmsman-maritime-museum/p9-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p9-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>360</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:48:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:48:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p9-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>24</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p9-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p9-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:16:"2014/09/p9-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p8-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/high-five-vintage-clothing-company/p8-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:48:55 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p8-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>361</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:48:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:48:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p8-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>26</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p8-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p8-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:16:"2014/09/p8-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p7-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/sc-built-to-last/p7-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p7-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>362</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:49:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:49:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p7-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>28</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p7-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p7-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:16:"2014/09/p7-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p6-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/harringtons-of-london/p6-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:49:23 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p6-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>363</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:49:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:49:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p6-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>30</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p6-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p6-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:16:"2014/09/p6-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p4-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/smith-bros-expert-woodcutters/p4-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:50:25 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p4-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>364</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:50:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:50:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p4-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>34</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p4-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p4-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:16:"2014/09/p4-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>p2-1</title>
+		<link>http://totaltheme.wpengine.com/agent/portfolio-item/boreman-spectacles-ltd/p2-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:50:37 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p2-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>365</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:50:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:50:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[p2-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>38</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/p2-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2014/09/p2-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:563;s:4:"file";s:16:"2014/09/p2-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>shop1-1</title>
+		<link>http://totaltheme.wpengine.com/agent/shop1-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:58:44 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/shop1-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>366</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:58:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:58:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop1-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/shop1-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/10/shop1-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1263;s:4:"file";s:19:"2016/10/shop1-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>shop2-1</title>
+		<link>http://totaltheme.wpengine.com/agent/shop2-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:59:03 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/shop2-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>367</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:59:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:59:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop2-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/shop2-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/10/shop2-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1263;s:4:"file";s:19:"2016/10/shop2-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>shop3-1</title>
+		<link>http://totaltheme.wpengine.com/agent/shop3-1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:59:25 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/shop3-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>368</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:59:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:59:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop3-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/shop3-1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/10/shop3-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1263;s:4:"file";s:19:"2016/10/shop3-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>home-slider-bg1</title>
+		<link>http://totaltheme.wpengine.com/agent/home-slider-bg1/</link>
+		<pubDate>Sun, 16 Oct 2016 21:59:51 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/home-slider-bg1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>369</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-16 21:59:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-16 21:59:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-slider-bg1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2016/10/home-slider-bg1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/10/home-slider-bg1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:27:"2016/10/home-slider-bg1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2620,14 +2815,21 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?page_id=106</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" padding_top="40px" bg_color="#f9f9fa" margin_bottom="60px"][vc_column][vc_column_text]
+		<content:encoded><![CDATA[[vc_row center_row="yes" padding_top="40px" bg_color="#f9f9fa" margin_bottom="60px"][vc_column][vc_column_text font_size="24px"]
 
-<p style="text-align: center;"><span style="font-size: 24px; font-family: 'Droid Serif';">Total Business Solutions Inc.</span>
-<span style="font-size: 24px; font-family: 'Droid Serif';"> We provide invaluable services to companies around the world.</span>
+<p style="text-align: center;"><span style="font-family: 'Droid Serif';">Total Business Solutions Inc.</span>
+<span style="font-family: 'Droid Serif';"> We provide invaluable services to companies around the world.</span>
 
 [/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/agent/contact-us/" title="Get Started Today" target="self" rel="none" style="flat" align="center" size="medium" color="black" font_weight="300" font_size="16px" letter_spacing="1px" icon_right="chevron-right" custom_background="#35c08d" custom_hover_background="#000000"]Get Started Today[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes"][vc_column width="1/3"][vcex_icon_box style="two" heading="Map Out A Plan" heading_type="h2" heading_weight="400" icon_color="#555555" icon_size="60" heading_size="21px" image="336" url="thttp://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Guidance &amp; Advice" heading_type="h2" heading_weight="400" icon_color="#555555" icon_size="60" heading_size="21px" image="338" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Huge Success" heading_type="h2" heading_weight="400" icon_color="#555555" icon_size="60" heading_size="21px" image="339" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" margin_bottom="30px"][vc_column width="1/3"][vcex_icon_box style="two" heading="One Of A Kind" heading_type="h2" heading_weight="400" icon_color="#555555" icon_size="60" heading_size="21px" image="340" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Built To Last" heading_type="h2" heading_weight="400" icon_color="#555555" icon_size="60" heading_size="21px" image="342" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Happy Customers" heading_type="h2" heading_weight="400" icon_color="#555555" icon_size="60" heading_size="21px" image="341" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" padding_top="60px" padding_bottom="20px" bg_color="#f9f9fa" margin_bottom="40px"][vc_column width="1/2"][vc_column_text]<span style="font-family: 'Droid Serif'; color: #000000;"><strong><span style="font-size: 21px;">What We Can Do For You</span></strong></span>
 
-White aged medium fair trade, qui, affogato americano white grinder, doppio froth, coffee, sugar foam extra fair trade plunger pot espresso, lungo milk grounds filter crema. Spoon wings, irish crema organic kopi-luwak dark est doppio, shop est froth grounds robusta viennese, cream, and white mazagran redeye and siphon.[/vc_column_text][vcex_spacing size="20px"][vcex_list_item icon="check" color="#35c08d" url_target="self"]White organic brewed, espresso decaffeinated dark macchiato[/vcex_list_item][vcex_list_item icon="check" color="#35c08d" url_target="self"]At, mug turkish robust coffee ristretto breve[/vcex_list_item][vcex_list_item icon="check" color="#35c08d" url_target="self"]Con panna coffee qui brewed robusta cortado variety[/vcex_list_item][vcex_list_item icon="check" color="#35c08d" url_target="self"]Pumpkin spice est, cup flavour robusta barista[/vcex_list_item][/vc_column][vc_column width="1/2"][vcex_image_galleryslider slideshow_speed="7000" img_thumb_width="200" img_thumb_height="200" caption="true" img_width="9999" img_height="500" smooth_height="false" image_ids="292,291,295,294,293"][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_testimonials_slider display_author_company="true" animation="slide" height_animation="400" animation_speed="600" slideshow_speed="7000" direction_nav="true" count="3" order="DESC" orderby="date" img_size="testimonials_entry" custom_excerpt_trim="true" background_style="stretch" padding_top="0px" padding_bottom="0px"][/vc_column][/vc_row]]]></content:encoded>
+White aged medium fair trade, qui, affogato americano white grinder, doppio froth, coffee, sugar foam extra fair trade plunger pot espresso, lungo milk grounds filter crema. Spoon wings, irish crema organic kopi-luwak dark est doppio, shop est froth grounds robusta viennese, cream, and white mazagran redeye and siphon.[/vc_column_text][vcex_spacing size="20px"][vcex_bullets icon_type="fontawesome" icon="fa fa-check" icon_color="#35c08d"]
+<ul>
+ 	<li>White organic brewed, espresso decaffeinated dark macchiato</li>
+ 	<li>At, mug turkish robust coffee ristretto breve</li>
+ 	<li>Con panna coffee qui brewed robusta cortado variety</li>
+ 	<li>Pumpkin spice est, cup flavour robusta barista</li>
+</ul>
+[/vcex_bullets][/vc_column][vc_column width="1/2"][vcex_image_galleryslider slideshow_speed="7000" img_thumb_width="130" img_thumb_height="130" caption="true" img_width="700" img_height="350" smooth_height="false" image_ids="365,291,295,364,293"][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_testimonials_slider display_author_company="true" animation="slide" height_animation="400" animation_speed="600" slideshow_speed="7000" direction_nav="true" count="3" order="DESC" orderby="date" custom_excerpt_trim="true" background_style="stretch" padding_top="0px" padding_bottom="0px" img_width="70" img_height="70"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-07 21:28:32]]></wp:post_date>
@@ -2675,11 +2877,11 @@ White aged medium fair trade, qui, affogato americano white grinder, doppio frot
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_slider_shortcode]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[rev_slider home]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[rev_slider agent-home]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
@@ -2692,6 +2894,10 @@ White aged medium fair trade, qui, affogato americano white grinder, doppio frot
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
 			<wp:meta_value><![CDATA[light]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3044,36 +3250,36 @@ A company is only as good as the people it keeps."</span></em></span>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?page_id=171</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" padding_top="20px"][vc_column width="1/1" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vc_column_text css_animation=""]
+		<content:encoded><![CDATA[[vc_row center_row="yes" padding_top="20px"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; color: #000000; font-family: 'Droid Serif';">Improve Your Business With Our Help</span></p>
 <p style="text-align: center;">French press, half and half irish variety sweet, roast plunger pot coffee blue mountain flavour eu affogato grounds. Beans dark, pumpkin spice mug, espresso at filter turkish dripper, grounds cup siphon extraction sit whipped. Foam latte, strong coffee, flavour, qui latte and espresso medium espresso, aroma galão espresso strong crema medium. Foam, trifecta seasonal, dripper grinder saucer carajillo extra, grounds foam redeye, robust, aroma half and half dripper blue mountain espresso iced single shot. Cinnamon, mug con panna a, barista so, rich and spoon sit seasonal.</p>
-[/vc_column_text][vcex_spacing size="10px" visibility=""][vcex_divider css_animation="" visibility="" style="solid" color="#dddddd" icon_type="fontawesome" icon="dollar" width="100%" height="1px" margin_top="30px" margin_bottom="0px" icon_color="#000000" icon_size="20px"][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" padding_bottom="50px"][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_pricing featured="no" plan="Starter" plan_weight="300" cost="$1000+" button_weight="400" icon_type="fontawesome" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Ftotaltheme.wpengine.com%2Fagent%2Fcontact-us%2F|title:Learn%20More|target:%20_blank" button_bg_color="#262626" button_hover_bg_color="#464646" button_border_radius="3px" button_text="Learn More" plan_size="21px" button_size="14px" features_padding="30px" plan_letter_spacing="2px" button_icon_left_pixelicons="vc_pixel_icon vc_pixel_icon-alert" button_icon_right_pixelicons="vc_pixel_icon vc_pixel_icon-alert"]
+[/vc_column_text][vcex_spacing size="10px"][vcex_divider color="#dddddd" icon="dollar" width="100%" height="1px" margin_top="30px" margin_bottom="0px" icon_color="#000000" icon_size="20px"][/vc_column][/vc_row][vc_row center_row="yes" padding_bottom="50px"][vc_column width="1/3"][vcex_pricing plan="Starter" plan_weight="300" cost="$1000+" button_text="Learn More" button_weight="400" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Ftotaltheme.wpengine.com%2Fagent%2Fcontact-us%2F|title:Learn%20More|target:%20_blank" button_bg_color="#262626" button_hover_bg_color="#464646" button_border_radius="3px" plan_size="21px" button_size="14px" features_padding="30px" plan_letter_spacing="2px" plan_background="#000000" plan_color="#ffffff" plan_border="0px" cost_color="#2ea579"]
 <ul>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">30min Consultation</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Logo Design</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">3 Logo Revisions</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Website Update</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">1yr Marketing Plan</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">30min Consultation</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Logo Design</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">3 Logo Revisions</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Website Update</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">1yr Marketing Plan</span></li>
 </ul>
-[/vcex_pricing][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_pricing featured="no" plan="Professional" plan_weight="300" cost="$2500+" icon_type="fontawesome" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Ftotaltheme.wpengine.com%2Fagent%2Fcontact-us%2F|title:Learn%20More|target:%20_blank" button_bg_color="#35c08d" button_hover_bg_color="#21a575" button_border_radius="3px" button_text="Learn More" plan_size="21px" button_size="14px" plan_letter_spacing="2px" features_padding="30px" plan_background="#35c08d" button_icon_left_pixelicons="vc_pixel_icon vc_pixel_icon-alert" button_icon_right_pixelicons="vc_pixel_icon vc_pixel_icon-alert"]
+[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="Professional" plan_weight="300" cost="$2500+" button_text="Learn More" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Ftotaltheme.wpengine.com%2Fagent%2Fcontact-us%2F|title:Learn%20More|target:%20_blank" button_bg_color="#35c08d" button_hover_bg_color="#21a575" button_border_radius="3px" plan_size="21px" button_size="14px" plan_letter_spacing="2px" features_padding="30px" plan_background="#35c08d" plan_color="#ffffff" cost_color="#2ea579" plan_border="0px"]
 <ul>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">2hr Consultation</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Logo &amp; Product Design</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">5 Logo &amp; Product Revisions</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">New Website Design</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">2yr Marketing Plan</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">2hr Consultation</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Logo &amp; Product Design</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">5 Logo &amp; Product Revisions</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">New Website Design</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">2yr Marketing Plan</span></li>
 </ul>
-[/vcex_pricing][/vc_column][vc_column width="1/3" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_pricing featured="no" plan="Business Plus" plan_weight="300" cost="$5000+" icon_type="fontawesome" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2FLearn%20More|title:http%3A%2F%2Ftotaltheme.wpengine.com%2Fagent%2Fcontact-us%2F|target:%20_blank" button_bg_color="#262626" button_hover_bg_color="#464646" button_border_radius="3px" button_text="Learn More" plan_size="21px" button_size="14px" plan_letter_spacing="2px" features_padding="30px" button_icon_left_pixelicons="vc_pixel_icon vc_pixel_icon-alert" button_icon_right_pixelicons="vc_pixel_icon vc_pixel_icon-alert"]
+[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="Business Plus" plan_weight="300" cost="$5000+" button_text="Learn More" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Ftotaltheme.wpengine.com%2Fagent%2Fcontact-us%2F|title:Learn%20More|target:%20_blank|" button_bg_color="#262626" button_hover_bg_color="#464646" button_border_radius="3px" plan_size="21px" button_size="14px" plan_letter_spacing="2px" features_padding="30px" plan_background="#000000" plan_color="#ffffff" plan_border="0px" cost_color="#2ea579"]
 <ul>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">10hr Consultation</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Logo &amp; Product Design</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">6 Logo &amp; Product Revisions</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">New Website Design</span></li>
-	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">4yr Marketing Plan</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">10hr Consultation</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">Logo &amp; Product Design</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">6 Logo &amp; Product Revisions</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">New Website Design</span></li>
+ 	<li><span style="font-family: 'Droid Serif'; font-size: 14px;">4yr Marketing Plan</span></li>
 </ul>
-[/vcex_pricing][/vc_column][/vc_row][vc_row full_width="" parallax="" parallax_image="" visibility="" css_animation="" center_row="yes" typography_style="" column_spacing="" tablet_fullwidth_cols="" bg_style="" parallax_mobile="" parallax_style="" parallax_direction="" video_bg="" video_bg_overlay="" border_style="" padding_top="40px" bg_color="#f5f5f5" padding_bottom="10px"][vc_column width="3/4" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vc_column_text css_animation=""]<span style="font-size: 21px;"><span style="font-family: 'Droid Serif';">Do you need a custom quote for your project?</span>
+[/vcex_pricing][/vc_column][/vc_row][vc_row center_row="yes" padding_top="40px" bg_color="#f5f5f5" padding_bottom="10px"][vc_column width="3/4"][vc_column_text]<span style="font-size: 21px;"><span style="font-family: 'Droid Serif';">Do you need a custom quote for your project?</span>
 <span style="font-family: 'Droid Serif';">Feel free to contact us for more information and specialized estimate.</span>
-</span>[/vc_column_text][/vc_column][vc_column width="1/4" style="" visibility="" css_animation="" typo_style="" drop_shadow="" bg_style="" border_style=""][vcex_spacing size="10px" visibility=""][vcex_button visibility="" css_animation="" hover_animation="" url="http://totaltheme.wpengine.com/agent/contact-us/" title="Learn More" target="self" rel="none" style="flat" layout="expanded" align="left" color="teal" size="large" font_family="" text_transform="" font_weight="400" lightbox="" lightbox_type="" icon_type="fontawesome" custom_background="#35c08d" custom_hover_background="#222222" font_size="16px"]Learn More[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+</span>[/vc_column_text][/vc_column][vc_column width="1/4"][vcex_spacing size="10px"][vcex_button url="http://totaltheme.wpengine.com/agent/contact-us/" title="Learn More" target="self" rel="none" style="flat" layout="expanded" align="left" size="large" color="teal" font_weight="400" custom_background="#35c08d" custom_hover_background="#222222" font_size="16px"]Learn More[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-07 22:27:23]]></wp:post_date>
@@ -3105,11 +3311,11 @@ A company is only as good as the people it keeps."</span></em></span>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/keyboard-338507_1920.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[356]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
@@ -3133,7 +3339,7 @@ A company is only as good as the people it keeps."</span></em></span>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
@@ -3142,6 +3348,14 @@ A company is only as good as the people it keeps."</span></em></span>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3193,11 +3407,11 @@ A company is only as good as the people it keeps."</span></em></span>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_slider_shortcode]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[rev_slider shop]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[rev_slider agent-shop]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
@@ -3205,11 +3419,23 @@ A company is only as good as the people it keeps."</span></em></span>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:7:"vc_grid";a:0:{}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:11:"woocommerce";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3412,11 +3638,11 @@ A company is only as good as the people it keeps."</span></em></span>
 		<wp:post_date><![CDATA[2014-09-08 00:48:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-08 00:48:17]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[250]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3452,6 +3678,10 @@ A company is only as good as the people it keeps."</span></em></span>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3522,11 +3752,11 @@ A company is only as good as the people it keeps."</span></em></span>
 		<wp:post_date><![CDATA[2014-09-08 01:13:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-08 01:13:22]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[290]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3563,6 +3793,10 @@ A company is only as good as the people it keeps."</span></em></span>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Mijireh Secure Checkout</title>
@@ -3589,127 +3823,239 @@ A company is only as good as the people it keeps."</span></em></span>
 		<wp:is_sticky>0</wp:is_sticky>
 	</item>
 	<item>
-		<title>040</title>
-		<link>http://totaltheme.wpengine.com/agent/shop/retro-camera/attachment/040/</link>
-		<pubDate>Mon, 08 Sep 2014 21:02:23 +0000</pubDate>
+		<title>Features</title>
+		<link>http://totaltheme.wpengine.com/agent/features/</link>
+		<pubDate>Tue, 18 Oct 2016 18:38:41 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/040.jpg</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>346</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 21:02:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 21:02:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[040]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>345</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/040.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/040.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:15:"2014/09/040.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"040-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"040-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"040-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>043</title>
-		<link>http://totaltheme.wpengine.com/agent/shop/retro-camera/attachment/043/</link>
-		<pubDate>Mon, 08 Sep 2014 21:02:26 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/043.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>347</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 21:02:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 21:02:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[043]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>345</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/043.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/043.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:15:"2014/09/043.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"043-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"043-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"043-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:15:"043-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:15:"043-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>picjumbo.com_IMG_6031</title>
-		<link>http://totaltheme.wpengine.com/agent/contact-us/picjumbo-com_img_6031/</link>
-		<pubDate>Mon, 08 Sep 2014 21:08:55 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/picjumbo.com_IMG_6031.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>350</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-08 21:08:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-08 21:08:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[picjumbo-com_img_6031]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>170</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/picjumbo.com_IMG_6031.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/picjumbo.com_IMG_6031.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:33:"2014/09/picjumbo.com_IMG_6031.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"picjumbo.com_IMG_6031-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:31:"picjumbo.com_IMG_6031-90x90.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:33:"picjumbo.com_IMG_6031-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>total-theme</title>
-		<link>http://totaltheme.wpengine.com/agent/total-theme/</link>
-		<pubDate>Wed, 17 Sep 2014 22:57:47 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/total-theme.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>352</wp:post_id>
-		<wp:post_date><![CDATA[2014-09-17 22:57:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-09-17 22:57:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[total-theme]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_id>370</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-18 18:38:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-18 18:38:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[features]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/agent/wp-content/uploads/sites/11/2014/09/total-theme.png]]></wp:attachment_url>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/total-theme.png]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:250;s:4:"file";s:23:"2014/09/total-theme.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"total-theme-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"total-theme-90x90.png";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:4:{s:4:"file";s:23:"total-theme-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[370]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>All Theme Features</title>
+		<link>http://totaltheme.wpengine.com/agent/all-theme-features/</link>
+		<pubDate>Tue, 18 Oct 2016 18:38:41 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/all-theme-features/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>371</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-18 18:38:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-18 18:38:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-theme-features]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[370]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[371]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/features/theme-features/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Builder Modules</title>
+		<link>http://totaltheme.wpengine.com/agent/builder-modules/</link>
+		<pubDate>Tue, 18 Oct 2016 18:38:41 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/builder-modules/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>372</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-18 18:38:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-18 18:38:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[builder-modules]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[370]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[372]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/features/builder-modules/]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>More Demos</title>
+		<link>http://totaltheme.wpengine.com/agent/more-demos/</link>
+		<pubDate>Tue, 18 Oct 2016 18:38:41 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/agent/more-demos/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-18 18:38:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-18 18:38:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[more-demos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[370]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[373]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3814,32 +4160,28 @@ Shop id, single origin, froth to go aromatic extraction body, organic, et coffee
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[300]]></wp:meta_value>
+			<wp:meta_value><![CDATA[359]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3849,9 +4191,7 @@ Shop id, single origin, froth to go aromatic extraction body, organic, et coffee
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?post_type=portfolio&#038;p=24</guid>
 		<description></description>
-		<content:encoded><![CDATA[<article class="entry clr">Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con panna et breve. Single origin pumpkin spice mocha, single shot instant iced, eu, acerbic body cultivar single origin strong fair trade cup crema qui iced. Dark, single shot, crema et latte dripper, filter siphon shop sweet flavour bar coffee.
-
-Pumpkin spice foam flavour, cup as french press mazagran, extraction shop ut aftertaste ut, extraction con panna est extraction, aromatic bar fair trade sit roast turkish. Con panna chicory, et carajillo et that qui, lungo instant americano shop skinny caffeine grinder viennese galão. White aged medium fair trade, qui, affogato americano white grinder, doppio froth, coffee, sugar foam extra fair trade plunger pot espresso, lungo milk grounds filter crema. Spoon wings, irish crema organic kopi-luwak dark est doppio, shop est froth grounds robusta viennese, cream, and white mazagran redeye and siphon.
+		<content:encoded><![CDATA[<article class="entry clr">Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con panna et breve. Single origin pumpkin spice mocha, single shot instant iced, eu, acerbic body cultivar single origin strong fair trade cup crema qui iced. Dark, single shot, crema et latte dripper, filter siphon shop sweet flavour bar coffee.Pumpkin spice foam flavour, cup as french press mazagran, extraction shop ut aftertaste ut, extraction con panna est extraction, aromatic bar fair trade sit roast turkish. Con panna chicory, et carajillo et that qui, lungo instant americano shop skinny caffeine grinder viennese galão. White aged medium fair trade, qui, affogato americano white grinder, doppio froth, coffee, sugar foam extra fair trade plunger pot espresso, lungo milk grounds filter crema. Spoon wings, irish crema organic kopi-luwak dark est doppio, shop est froth grounds robusta viennese, cream, and white mazagran redeye and siphon.
 
 Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed cream. Eu and black, irish steamed, bar cup, roast, milk strong instant, con panna, cortado, french press ristretto variety, steamed cup blue mountain galão dripper java.
 
@@ -3883,32 +4223,28 @@ Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[299]]></wp:meta_value>
+			<wp:meta_value><![CDATA[360]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3918,11 +4254,7 @@ Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?post_type=portfolio&#038;p=26</guid>
 		<description></description>
-		<content:encoded><![CDATA[<article class="entry clr">White organic brewed, espresso decaffeinated dark macchiato mug café au lait cup coffee organic breve single shot latte con panna cream turkish irish americano kopi-luwak. At, mug turkish robust coffee ristretto a, cultivar fair trade mocha, single shot variety that, trifecta, percolator macchiato, espresso decaffeinated breve irish body ristretto. Eu in, spoon con panna viennese black trifecta, cortado, black french press, organic, id aftertaste to go trifecta ristretto black. Con panna coffee qui brewed robusta cortado, carajillo irish, frappuccino, et ut saucer, half and half white, turkish grounds siphon spoon, organic eu instant froth variety. Pumpkin spice est, cup flavour robusta barista, kopi-luwak grounds, blue mountain fair trade irish americano macchiato saucer caffeine arabica et sweet.
-
-French press, half and half irish variety sweet, roast plunger pot coffee blue mountain flavour eu affogato grounds. Beans dark, pumpkin spice mug, espresso at filter turkish dripper, grounds cup siphon extraction sit whipped. Foam latte, strong coffee, flavour, qui latte and espresso medium espresso, aroma galão espresso strong crema medium. Foam, trifecta seasonal, dripper grinder saucer carajillo extra, grounds foam redeye, robust, aroma half and half dripper blue mountain espresso iced single shot.
-
-</article>]]></content:encoded>
+		<content:encoded><![CDATA[<article class="entry clr">White organic brewed, espresso decaffeinated dark macchiato mug café au lait cup coffee organic breve single shot latte con panna cream turkish irish americano kopi-luwak. At, mug turkish robust coffee ristretto a, cultivar fair trade mocha, single shot variety that, trifecta, percolator macchiato, espresso decaffeinated breve irish body ristretto. Eu in, spoon con panna viennese black trifecta, cortado, black french press, organic, id aftertaste to go trifecta ristretto black. Con panna coffee qui brewed robusta cortado, carajillo irish, frappuccino, et ut saucer, half and half white, turkish grounds siphon spoon, organic eu instant froth variety. Pumpkin spice est, cup flavour robusta barista, kopi-luwak grounds, blue mountain fair trade irish americano macchiato saucer caffeine arabica et sweet.French press, half and half irish variety sweet, roast plunger pot coffee blue mountain flavour eu affogato grounds. Beans dark, pumpkin spice mug, espresso at filter turkish dripper, grounds cup siphon extraction sit whipped. Foam latte, strong coffee, flavour, qui latte and espresso medium espresso, aroma galão espresso strong crema medium. Foam, trifecta seasonal, dripper grinder saucer carajillo extra, grounds foam redeye, robust, aroma half and half dripper blue mountain espresso iced single shot.</article>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:19:57]]></wp:post_date>
@@ -3950,32 +4282,28 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[298]]></wp:meta_value>
+			<wp:meta_value><![CDATA[361]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3985,9 +4313,7 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?post_type=portfolio&#038;p=28</guid>
 		<description></description>
-		<content:encoded><![CDATA[<article class="entry clr">Cinnamon, mug con panna a, barista so, rich and spoon sit seasonal, viennese barista cinnamon spoon skinny doppio shop. Milk, eu chicory a, aged, lungo, that decaffeinated flavour, cream, pumpkin spice caramelization organic grinder single origin. Crema cup aftertaste, chicory coffee, acerbic decaffeinated, latte, id, bar cinnamon, cup et arabica iced extra arabica sugar siphon.Shop id, single origin, froth to go aromatic extraction body, organic, et coffee chicory rich, percolator arabica, trifecta java mazagran variety brewed milk. Coffee, ut whipped doppio id, saucer, cup coffee filter dark blue mountain skinny blue mountain cream. Aromatic whipped shop white affogato beans, cultivar coffee dripper black cream aromatic kopi-luwak macchiato breve. Whipped galão bar qui, iced to go, white, extraction, redeye extra barista, caffeine, grinder variety, a sit dark at macchiato. A grounds affogato kopi-luwak pumpkin spice filter body so steamed con panna to go aftertaste aged. Qui, at saucer, pumpkin spice, single origin trifecta, barista et aftertaste redeye barista affogato, froth milk, arabica kopi-luwak viennese shop that sugar single shot foam medium. Chicory redeye foam, strong mocha, redeye ristretto wings con panna, mocha latte sweet organic et so beans.
-
-</article>]]></content:encoded>
+		<content:encoded><![CDATA[<article class="entry clr">Cinnamon, mug con panna a, barista so, rich and spoon sit seasonal, viennese barista cinnamon spoon skinny doppio shop. Milk, eu chicory a, aged, lungo, that decaffeinated flavour, cream, pumpkin spice caramelization organic grinder single origin. Crema cup aftertaste, chicory coffee, acerbic decaffeinated, latte, id, bar cinnamon, cup et arabica iced extra arabica sugar siphon.Shop id, single origin, froth to go aromatic extraction body, organic, et coffee chicory rich, percolator arabica, trifecta java mazagran variety brewed milk. Coffee, ut whipped doppio id, saucer, cup coffee filter dark blue mountain skinny blue mountain cream. Aromatic whipped shop white affogato beans, cultivar coffee dripper black cream aromatic kopi-luwak macchiato breve. Whipped galão bar qui, iced to go, white, extraction, redeye extra barista, caffeine, grinder variety, a sit dark at macchiato. A grounds affogato kopi-luwak pumpkin spice filter body so steamed con panna to go aftertaste aged. Qui, at saucer, pumpkin spice, single origin trifecta, barista et aftertaste redeye barista affogato, froth milk, arabica kopi-luwak viennese shop that sugar single shot foam medium. Chicory redeye foam, strong mocha, redeye ristretto wings con panna, mocha latte sweet organic et so beans.</article>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:20:38]]></wp:post_date>
@@ -4015,32 +4341,28 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[297]]></wp:meta_value>
+			<wp:meta_value><![CDATA[362]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4050,9 +4372,7 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?post_type=portfolio&#038;p=30</guid>
 		<description></description>
-		<content:encoded><![CDATA[<article class="entry clr">Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con panna et breve. Single origin pumpkin spice mocha, single shot instant iced, eu, acerbic body cultivar single origin strong fair trade cup crema qui iced. Dark, single shot, crema et latte dripper, filter siphon shop sweet flavour bar coffee.
-
-Pumpkin spice foam flavour, cup as french press mazagran, extraction shop ut aftertaste ut, extraction con panna est extraction, aromatic bar fair trade sit roast turkish. Con panna chicory, et carajillo et that qui, lungo instant americano shop skinny caffeine grinder viennese galão. White aged medium fair trade, qui, affogato americano white grinder, doppio froth, coffee, sugar foam extra fair trade plunger pot espresso, lungo milk grounds filter crema. Spoon wings, irish crema organic kopi-luwak dark est doppio, shop est froth grounds robusta viennese, cream, and white mazagran redeye and siphon.
+		<content:encoded><![CDATA[<article class="entry clr">Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee café au lait affogato, doppio, carajillo frappuccino pumpkin spice con panna et breve. Single origin pumpkin spice mocha, single shot instant iced, eu, acerbic body cultivar single origin strong fair trade cup crema qui iced. Dark, single shot, crema et latte dripper, filter siphon shop sweet flavour bar coffee.Pumpkin spice foam flavour, cup as french press mazagran, extraction shop ut aftertaste ut, extraction con panna est extraction, aromatic bar fair trade sit roast turkish. Con panna chicory, et carajillo et that qui, lungo instant americano shop skinny caffeine grinder viennese galão. White aged medium fair trade, qui, affogato americano white grinder, doppio froth, coffee, sugar foam extra fair trade plunger pot espresso, lungo milk grounds filter crema. Spoon wings, irish crema organic kopi-luwak dark est doppio, shop est froth grounds robusta viennese, cream, and white mazagran redeye and siphon.
 
 Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed cream. Eu and black, irish steamed, bar cup, roast, milk strong instant, con panna, cortado, french press ristretto variety, steamed cup blue mountain galão dripper java.
 
@@ -4084,32 +4404,28 @@ Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[296]]></wp:meta_value>
+			<wp:meta_value><![CDATA[363]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4186,9 +4502,7 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?post_type=portfolio&#038;p=34</guid>
 		<description></description>
-		<content:encoded><![CDATA[<article class="entry clr">Cinnamon, mug con panna a, barista so, rich and spoon sit seasonal, viennese barista cinnamon spoon skinny doppio shop. Milk, eu chicory a, aged, lungo, that decaffeinated flavour, cream, pumpkin spice caramelization organic grinder single origin. Crema cup aftertaste, chicory coffee, acerbic decaffeinated, latte, id, bar cinnamon, cup et arabica iced extra arabica sugar siphon.
-
-Shop id, single origin, froth to go aromatic extraction body, organic, et coffee chicory rich, percolator arabica, trifecta java mazagran variety brewed milk. Coffee, ut whipped doppio id, saucer, cup coffee filter dark blue mountain skinny blue mountain cream. Aromatic whipped shop white affogato beans, cultivar coffee dripper black cream aromatic kopi-luwak macchiato breve. Whipped galão bar qui, iced to go, white, extraction, redeye extra barista, caffeine, grinder variety, a sit dark at macchiato. A grounds affogato kopi-luwak pumpkin spice filter body so steamed con panna to go aftertaste aged. Qui, at saucer, pumpkin spice, single origin trifecta, barista et aftertaste redeye barista affogato, froth milk, arabica kopi-luwak viennese shop that sugar single shot foam medium. Chicory redeye foam, strong mocha, redeye ristretto wings con panna, mocha latte sweet organic et so beans.
+		<content:encoded><![CDATA[<article class="entry clr">Cinnamon, mug con panna a, barista so, rich and spoon sit seasonal, viennese barista cinnamon spoon skinny doppio shop. Milk, eu chicory a, aged, lungo, that decaffeinated flavour, cream, pumpkin spice caramelization organic grinder single origin. Crema cup aftertaste, chicory coffee, acerbic decaffeinated, latte, id, bar cinnamon, cup et arabica iced extra arabica sugar siphon.Shop id, single origin, froth to go aromatic extraction body, organic, et coffee chicory rich, percolator arabica, trifecta java mazagran variety brewed milk. Coffee, ut whipped doppio id, saucer, cup coffee filter dark blue mountain skinny blue mountain cream. Aromatic whipped shop white affogato beans, cultivar coffee dripper black cream aromatic kopi-luwak macchiato breve. Whipped galão bar qui, iced to go, white, extraction, redeye extra barista, caffeine, grinder variety, a sit dark at macchiato. A grounds affogato kopi-luwak pumpkin spice filter body so steamed con panna to go aftertaste aged. Qui, at saucer, pumpkin spice, single origin trifecta, barista et aftertaste redeye barista affogato, froth milk, arabica kopi-luwak viennese shop that sugar single shot foam medium. Chicory redeye foam, strong mocha, redeye ristretto wings con panna, mocha latte sweet organic et so beans.
 
 </article>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4218,32 +4532,28 @@ Shop id, single origin, froth to go aromatic extraction body, organic, et coffee
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[294]]></wp:meta_value>
+			<wp:meta_value><![CDATA[364]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4322,9 +4632,7 @@ Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?post_type=portfolio&#038;p=38</guid>
 		<description></description>
-		<content:encoded><![CDATA[<article class="entry clr">White organic brewed, espresso decaffeinated dark macchiato mug café au lait cup coffee organic breve single shot latte con panna cream turkish irish americano kopi-luwak. At, mug turkish robust coffee ristretto a, cultivar fair trade mocha, single shot variety that, trifecta, percolator macchiato, espresso decaffeinated breve irish body ristretto. Eu in, spoon con panna viennese black trifecta, cortado, black french press, organic, id aftertaste to go trifecta ristretto black. Con panna coffee qui brewed robusta cortado, carajillo irish, frappuccino, et ut saucer, half and half white, turkish grounds siphon spoon, organic eu instant froth variety. Pumpkin spice est, cup flavour robusta barista, kopi-luwak grounds, blue mountain fair trade irish americano macchiato saucer caffeine arabica et sweet.
-
-French press, half and half irish variety sweet, roast plunger pot coffee blue mountain flavour eu affogato grounds. Beans dark, pumpkin spice mug, espresso at filter turkish dripper, grounds cup siphon extraction sit whipped. Foam latte, strong coffee, flavour, qui latte and espresso medium espresso, aroma galão espresso strong crema medium. Foam, trifecta seasonal, dripper grinder saucer carajillo extra, grounds foam redeye, robust, aroma half and half dripper blue mountain espresso iced single shot.
+		<content:encoded><![CDATA[<article class="entry clr">White organic brewed, espresso decaffeinated dark macchiato mug café au lait cup coffee organic breve single shot latte con panna cream turkish irish americano kopi-luwak. At, mug turkish robust coffee ristretto a, cultivar fair trade mocha, single shot variety that, trifecta, percolator macchiato, espresso decaffeinated breve irish body ristretto. Eu in, spoon con panna viennese black trifecta, cortado, black french press, organic, id aftertaste to go trifecta ristretto black. Con panna coffee qui brewed robusta cortado, carajillo irish, frappuccino, et ut saucer, half and half white, turkish grounds siphon spoon, organic eu instant froth variety. Pumpkin spice est, cup flavour robusta barista, kopi-luwak grounds, blue mountain fair trade irish americano macchiato saucer caffeine arabica et sweet.French press, half and half irish variety sweet, roast plunger pot coffee blue mountain flavour eu affogato grounds. Beans dark, pumpkin spice mug, espresso at filter turkish dripper, grounds cup siphon extraction sit whipped. Foam latte, strong coffee, flavour, qui latte and espresso medium espresso, aroma galão espresso strong crema medium. Foam, trifecta seasonal, dripper grinder saucer carajillo extra, grounds foam redeye, robust, aroma half and half dripper blue mountain espresso iced single shot.
 
 </article>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4354,32 +4662,28 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[292]]></wp:meta_value>
+			<wp:meta_value><![CDATA[365]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -5105,26 +5409,6 @@ Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -5133,8 +5417,24 @@ Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed
 			<wp:meta_value><![CDATA[scape-the-city-logo]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[302]]></wp:meta_value>
+			<wp:meta_value><![CDATA[358]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -7237,10 +7537,10 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<content:encoded><![CDATA[Shop id, single origin, froth to go aromatic extraction body, organic, et coffee chicory rich, percolator arabica, trifecta java mazagran variety brewed milk. Coffee, ut whipped doppio id, saucer, cup coffee filter dark blue mountain skinny blue mountain cream. Aromatic whipped shop white affogato beans, cultivar coffee dripper black cream aromatic kopi-luwak macchiato breve. Whipped galão bar qui, iced to go, white, extraction, redeye extra barista, caffeine, grinder variety, a sit dark at macchiato. A grounds affogato kopi-luwak pumpkin spice filter body so steamed con panna to go aftertaste aged. Qui, at saucer, pumpkin spice, single origin trifecta, barista et aftertaste redeye barista affogato, froth milk, arabica kopi-luwak viennese shop that sugar single shot foam medium. Chicory redeye foam, strong mocha, redeye ristretto wings con panna, mocha latte sweet organic et so beans.]]></content:encoded>
 		<excerpt:encoded><![CDATA[Shop id, single origin, froth to go aromatic extraction body, organic, et coffee chicory rich, percolator arabica, trifecta java mazagran variety brewed milk. Coffee, ut whipped doppio cup. A grounds affogato kopi-luwak pumpkin.
 <ul>
-	<li>Affogato beans, cultivar coffee dripper</li>
-	<li>Black cream aromatic kopi-luwak macchiato</li>
-	<li>Whipped iced to go extra barista, caffeine</li>
-	<li>Grinder variety, a sit dark at macchiato</li>
+ 	<li>Affogato beans, cultivar coffee dripper</li>
+ 	<li>Black cream aromatic kopi-luwak macchiato</li>
+ 	<li>Whipped iced to go extra barista, caffeine</li>
+ 	<li>Grinder variety, a sit dark at macchiato</li>
 </ul>]]></excerpt:encoded>
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-08 00:04:14]]></wp:post_date>
@@ -7268,26 +7568,6 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[sidebar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_logo]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_page_background_image_redux]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7371,15 +7651,15 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-			<wp:meta_value><![CDATA[308,309,310]]></wp:meta_value>
+			<wp:meta_value><![CDATA[308,309,357]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[310]]></wp:meta_value>
+			<wp:meta_value><![CDATA[357]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
@@ -7400,6 +7680,34 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.6.4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
@@ -7633,28 +7941,6 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>40</wp:comment_id>
-			<wp:comment_author><![CDATA[jungeuitou]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[masher86@naver.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[106.247.65.134]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-25 07:48:12]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-25 07:48:12]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[djsaflsf]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
 				<wp:meta_value><![CDATA[5]]></wp:meta_value>
