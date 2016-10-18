@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.4.2" created="2016-03-15 20:49" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-18 03:50" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>SEO</title>
 	<link>http://totaltheme.wpengine.com/seo</link>
 	<description>Just another Totaltheme.wpengine.com site</description>
-	<pubDate>Tue, 15 Mar 2016 20:49:26 +0000</pubDate>
+	<pubDate>Tue, 18 Oct 2016 03:50:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -37,54 +37,80 @@
 
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>2</wp:term_id><wp:category_nicename><![CDATA[blog]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[blog]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:tag><wp:term_id>15</wp:term_id><wp:tag_slug><![CDATA[analytics]]></wp:tag_slug><wp:tag_name><![CDATA[analytics]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>12</wp:term_id><wp:tag_slug><![CDATA[black-hat]]></wp:tag_slug><wp:tag_name><![CDATA[black hat]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>8</wp:term_id><wp:tag_slug><![CDATA[google]]></wp:tag_slug><wp:tag_name><![CDATA[Google]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>6</wp:term_id><wp:tag_slug><![CDATA[keywords]]></wp:tag_slug><wp:tag_name><![CDATA[keywords]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>11</wp:term_id><wp:tag_slug><![CDATA[linkbait]]></wp:tag_slug><wp:tag_name><![CDATA[linkbait]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>13</wp:term_id><wp:tag_slug><![CDATA[optimization]]></wp:tag_slug><wp:tag_name><![CDATA[optimization]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>7</wp:term_id><wp:tag_slug><![CDATA[ranking]]></wp:tag_slug><wp:tag_name><![CDATA[ranking]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>14</wp:term_id><wp:tag_slug><![CDATA[tracking]]></wp:tag_slug><wp:tag_name><![CDATA[tracking]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>9</wp:term_id><wp:tag_slug><![CDATA[traffic]]></wp:tag_slug><wp:tag_name><![CDATA[traffic]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>10</wp:term_id><wp:tag_slug><![CDATA[white-hat]]></wp:tag_slug><wp:tag_name><![CDATA[white hat]]></wp:tag_name></wp:tag>
-	<wp:term><wp:term_id><![CDATA[16]]></wp:term_id><wp:term_taxonomy><![CDATA[post_series]]></wp:term_taxonomy><wp:term_slug><![CDATA[wordpress-seo-guide]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[WordPress SEO Guide]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name></wp:term>
+	<wp:category>
+		<wp:term_id>2</wp:term_id>
+		<wp:category_nicename><![CDATA[blog]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Blog]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+	<wp:tag>
+		<wp:term_id>15</wp:term_id>
+		<wp:tag_slug><![CDATA[analytics]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[analytics]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>12</wp:term_id>
+		<wp:tag_slug><![CDATA[black-hat]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[black hat]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>8</wp:term_id>
+		<wp:tag_slug><![CDATA[google]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Google]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>6</wp:term_id>
+		<wp:tag_slug><![CDATA[keywords]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[keywords]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>11</wp:term_id>
+		<wp:tag_slug><![CDATA[linkbait]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[linkbait]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>13</wp:term_id>
+		<wp:tag_slug><![CDATA[optimization]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[optimization]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>7</wp:term_id>
+		<wp:tag_slug><![CDATA[ranking]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[ranking]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>14</wp:term_id>
+		<wp:tag_slug><![CDATA[tracking]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[tracking]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>9</wp:term_id>
+		<wp:tag_slug><![CDATA[traffic]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[traffic]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>10</wp:term_id>
+		<wp:tag_slug><![CDATA[white-hat]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[white hat]]></wp:tag_name>
+	</wp:tag>
+	<wp:term>
+		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_series]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wordpress-seo-guide]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[WordPress SEO Guide]]></wp:term_name>
+	</wp:term>
+	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+</wp:term>
 
-	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
-	<item>
-		<title>app_block</title>
-		<link>http://totaltheme.wpengine.com/seo/home/app_block/</link>
-		<pubDate>Sun, 06 Mar 2016 23:22:28 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/wp-content/uploads/sites/69/2016/03/app_block.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>71</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 23:22:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 23:22:28]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[app_block]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>58</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/app_block.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/03/app_block.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1211;s:6:"height";i:526;s:4:"file";s:21:"2016/03/app_block.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"app_block-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:21:"app_block-300x130.png";s:5:"width";i:300;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:21:"app_block-768x334.png";s:5:"width";i:768;s:6:"height";i:334;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:22:"app_block-1024x445.png";s:5:"width";i:1024;s:6:"height";i:445;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
 	<item>
 		<title>Competitive-Keyword-Icon</title>
 		<link>http://totaltheme.wpengine.com/seo/home/competitive-keyword-icon/</link>
@@ -335,7 +361,7 @@
 	</item>
 	<item>
 		<title>wordpress-sitemaps</title>
-		<link>http://totaltheme.wpengine.com/seo/sitemaps-guide/wordpress-sitemaps/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/sitemaps-guide/wordpress-sitemaps/</link>
 		<pubDate>Mon, 07 Mar 2016 00:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/wp-content/uploads/sites/69/2016/01/wordpress-sitemaps.jpg</guid>
@@ -366,7 +392,7 @@
 	</item>
 	<item>
 		<title>website-titles-taglines</title>
-		<link>http://totaltheme.wpengine.com/seo/seo-optimized-titles-taglines/website-titles-taglines/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/seo-optimized-titles-taglines/website-titles-taglines/</link>
 		<pubDate>Mon, 07 Mar 2016 01:00:27 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/wp-content/uploads/sites/69/2016/02/website-titles-taglines.jpg</guid>
@@ -396,70 +422,8 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Hipster Writing SEO Concepts on his Note</title>
-		<link>http://totaltheme.wpengine.com/seo/seo-plan/hipster-writing-seo-concepts-on-his-note/</link>
-		<pubDate>Mon, 07 Mar 2016 01:01:27 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/wp-content/uploads/sites/69/2016/02/wordpress-seo-yoast-important-functions.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Hipster Writing SEO Concepts on his Note]]></excerpt:encoded>
-		<wp:post_id>84</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-07 01:01:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-07 01:01:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hipster-writing-seo-concepts-on-his-note]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>28</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/02/wordpress-seo-yoast-important-functions.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/02/wordpress-seo-yoast-important-functions.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:924;s:6:"height";i:550;s:4:"file";s:51:"2016/02/wordpress-seo-yoast-important-functions.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:51:"wordpress-seo-yoast-important-functions-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:51:"wordpress-seo-yoast-important-functions-300x179.jpg";s:5:"width";i:300;s:6:"height";i:179;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:51:"wordpress-seo-yoast-important-functions-768x457.jpg";s:5:"width";i:768;s:6:"height";i:457;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"2.8";s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D3X";s:7:"caption";s:40:"Hipster Writing SEO Concepts on his Note";s:17:"created_timestamp";s:10:"1386290327";s:9:"copyright";s:22:"PHOTOMORPHIC PTE. LTD.";s:12:"focal_length";s:2:"44";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:40:"Hipster Writing SEO Concepts on his Note";s:11:"orientation";s:1:"1";s:8:"keywords";a:49:{i:0;s:8:"business";i:1;s:11:"businessman";i:2;s:6:"coffee";i:3;s:12:"coffee break";i:4;s:11:"coffee shop";i:5;s:8:"concepts";i:6;s:10:"connection";i:7;s:7:"content";i:8;s:6:"design";i:9;s:4:"desk";i:10;s:6:"engine";i:11;s:11:"handwriting";i:12;s:7:"hipster";i:13;s:10:"human hand";i:14;s:5:"ideas";i:15;s:18:"information medium";i:16;s:10:"innovation";i:17;s:8:"internet";i:18;s:3:"man";i:19;s:9:"marketing";i:20;s:7:"network";i:21;s:10:"networking";i:22;s:4:"note";i:23;s:8:"notebook";i:24;s:6:"office";i:25;s:11:"opportunity";i:26;s:12:"optimization";i:27;s:6:"pencil";i:28;s:6:"people";i:29;s:18:"personal organizer";i:30;s:4:"plan";i:31;s:8:"planning";i:32;s:5:"plant";i:33;s:7:"project";i:34;s:4:"rank";i:35;s:7:"ranking";i:36;s:6:"search";i:37;s:3:"seo";i:38;s:6:"social";i:39;s:12:"social media";i:40;s:14:"social network";i:41;s:17:"social networking";i:42;s:8:"strategy";i:43;s:5:"table";i:44;s:10:"technology";i:45;s:8:"thinking";i:46;s:6:"vision";i:47;s:8:"web page";i:48;s:7:"writing";}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>wordpress-seo-guide-keywords</title>
-		<link>http://totaltheme.wpengine.com/seo/wordpress-seo-keywords/wordpress-seo-guide-keywords/</link>
-		<pubDate>Mon, 07 Mar 2016 01:02:55 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/wp-content/uploads/sites/69/2016/02/wordpress-seo-guide-keywords.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>85</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-07 01:02:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-07 01:02:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wordpress-seo-guide-keywords]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>26</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/02/wordpress-seo-guide-keywords.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/02/wordpress-seo-guide-keywords.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1100;s:6:"height";i:600;s:4:"file";s:40:"2016/02/wordpress-seo-guide-keywords.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"wordpress-seo-guide-keywords-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"wordpress-seo-guide-keywords-300x164.jpg";s:5:"width";i:300;s:6:"height";i:164;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"wordpress-seo-guide-keywords-768x419.jpg";s:5:"width";i:768;s:6:"height";i:419;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"wordpress-seo-guide-keywords-1024x559.jpg";s:5:"width";i:1024;s:6:"height";i:559;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>wordpress-seo-guide-introduction</title>
-		<link>http://totaltheme.wpengine.com/seo/wordpress-seo-intro/wordpress-seo-guide-introduction/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/wordpress-seo-intro/wordpress-seo-guide-introduction/</link>
 		<pubDate>Mon, 07 Mar 2016 01:05:36 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/wp-content/uploads/sites/69/2016/01/wordpress-seo-guide-introduction.jpg</guid>
@@ -675,301 +639,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Case Studies</title>
-		<link>http://totaltheme.wpengine.com/seo/64/</link>
-		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=64</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[64]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[63]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Blog</title>
-		<link>http://totaltheme.wpengine.com/seo/65/</link>
-		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=65</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[65]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[62]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact</title>
-		<link>http://totaltheme.wpengine.com/seo/66/</link>
-		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=66</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[66]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[61]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Services</title>
-		<link>http://totaltheme.wpengine.com/seo/68/</link>
-		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=68</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>68</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[68]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[59]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/seo/69/</link>
-		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=69</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>69</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[69]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[58]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Construct Total Theme Case Study</title>
 		<link>http://totaltheme.wpengine.com/seo/case-studies/website-construction-line-style-illustration/</link>
 		<pubDate>Thu, 10 Mar 2016 01:24:14 +0000</pubDate>
@@ -1002,41 +671,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Construct Total Theme Case Study]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Modern Agency Total Theme Case Study</title>
-		<link>http://totaltheme.wpengine.com/seo/case-studies/designer-workspace-line-style-illustration/</link>
-		<pubDate>Thu, 10 Mar 2016 01:31:05 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/case-2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>102</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-10 01:31:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-10 01:31:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[designer-workspace-line-style-illustration]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>63</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/case-2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/03/case-2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:550;s:4:"file";s:18:"2016/03/case-2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"case-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"case-2-300x206.jpg";s:5:"width";i:300;s:6:"height";i:206;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:18:"case-2-768x528.jpg";s:5:"width";i:768;s:6:"height";i:528;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:195:"Thin line flat design of modern designer workspace with desktop computer developer work place artist equipment in office interior. Modern vector illustration concept isolated on white background.";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:8:"Bigstock";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:42:"Designer Workspace Line Style Illustration";s:11:"orientation";s:1:"1";s:8:"keywords";a:89:{i:0;s:8:"armchair";i:1;s:6:"artist";i:2;s:10:"background";i:3;s:8:"business";i:4;s:20:"business development";i:5;s:7:"cabinet";i:6;s:5:"clock";i:7;s:8:"computer";i:8;s:13:"computer desk";i:9;s:14:"computer icons";i:10;s:7:"concept";i:11;s:14:"concept design";i:12;s:8:"creative";i:13;s:19:"creative background";i:14;s:15:"creative office";i:15;s:5:"daily";i:16;s:10:"decoration";i:17;s:6:"design";i:18;s:8:"designer";i:19;s:13:"design studio";i:20;s:4:"desk";i:21;s:7:"desktop";i:22;s:16:"desktop computer";i:23;s:9:"developer";i:24;s:7:"digital";i:25;s:18:"digital background";i:26;s:7:"display";i:27;s:7:"element";i:28;s:9:"equipment";i:29;s:4:"flat";i:30;s:11:"flat design";i:31;s:10:"freelancer";i:32;s:7:"graphic";i:33;s:16:"graphic designer";i:34;s:21:"graphic design studio";i:35;s:12:"how it works";i:36;s:4:"icon";i:37;s:12:"illustration";i:38;s:8:"interior";i:39;s:19:"interior decoration";i:40;s:15:"interior design";i:41;s:5:"items";i:42;s:3:"job";i:43;s:4:"lamp";i:44;s:9:"lifestyle";i:45;s:4:"line";i:46;s:16:"lines background";i:47;s:6:"modern";i:48;s:15:"modern interior";i:49;s:13:"modern office";i:50;s:7:"monitor";i:51;s:6:"object";i:52;s:6:"office";i:53;s:11:"office desk";i:54;s:12:"office icons";i:55;s:15:"office interior";i:56;s:11:"office room";i:57;s:7:"picture";i:58;s:5:"place";i:59;s:8:"planning";i:60;s:6:"poster";i:61;s:17:"poster background";i:62;s:7:"process";i:63;s:10:"production";i:64;s:15:"production line";i:65;s:10:"profession";i:66;s:12:"professional";i:67;s:24:"professional development";i:68;s:7:"project";i:69;s:4:"room";i:70;s:5:"space";i:71;s:6:"studio";i:72;s:17:"studio background";i:73;s:7:"stylish";i:74;s:5:"table";i:75;s:5:"tools";i:76;s:6:"vector";i:77;s:12:"vector lines";i:78;s:3:"web";i:79;s:13:"web developer";i:80;s:15:"web development";i:81;s:10:"white room";i:82;s:4:"work";i:83;s:8:"workflow";i:84;s:7:"working";i:85;s:19:"working on computer";i:86;s:8:"work out";i:87;s:9:"workplace";i:88;s:9:"workspace";}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Modern Agency Total Theme Case Study]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1107,6 +741,455 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Modern Agency Total Theme Case Study]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home</title>
+		<link>http://totaltheme.wpengine.com/seo/</link>
+		<pubDate>Sun, 06 Mar 2016 22:26:38 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?page_id=58</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row center_row="yes" column_spacing="0px" css=".vc_custom_1457306786793{padding-top: 80px !important;background-color: #2995dc !important;}"][vc_column][vcex_heading text="Improve Your Rankings by 400%" tag="h1" font_weight="normal" text_align="center" font_size="36px" color="#ffffff"][vc_column_text color="#ffffff"]
+<p style="text-align: center;">Together with our team of experts we can help increase your search engine rankings by up to 400%.</p>
+[/vc_column_text][vcex_spacing size="20px"][vcex_button url="#services" title="Learn More" target="local" align="center" custom_background="#a1c627" custom_hover_background="#aec65f" font_size="16px" icon_right="fa fa-arrow-circle-down"]Learn More[/vcex_button][vcex_spacing size="50px"][vc_single_image image="116"][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457307179986{padding-top: 80px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Website Optimization" heading_size="18px" image="74"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Competitive Keyword Analysis" heading_size="18px" image="72"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Increased Online Presence" heading_size="18px" image="73"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1476761448126{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Weekly Adjustments" heading_size="18px" image="75"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Page Rank Checker" heading_size="18px" image="76"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Pay-Per-Click Services" heading_size="18px" image="77"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457308937123{padding-top: 40px !important;}"][vc_column][vcex_divider][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_heading text="Service Packages" tag="h2" font_weight="normal" text_align="center" font_size="34px" color="#333333"][vc_column_text]
+<p style="text-align: center;">Choose the service package that best fits your needs.</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457312269076{padding-bottom: 20px !important;}"][vc_column width="1/3"][vcex_pricing plan="Starter" cost_weight="bold" button_text="Get Started" plan_background="#44a2db" plan_color="#ffffff" plan_border="0px" cost_background="#56aee3" cost_color="#ffffff" cost_border="0px" features_bg="#f9f9f9" features_padding="30px" features_border="0px" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Get%20Started|target:%20_blank" button_wrap_bg="#eeeeee" button_wrap_border="0px" button_wrap_padding="20px"]
+<ul class="check-list">
+ 	<li>Daily analysis and optimization</li>
+ 	<li>Comprehensive Website Audit</li>
+ 	<li>Top 3 Listing Guarantee</li>
+ 	<li>Traffic Source Analysis</li>
+ 	<li>Google Analytics Setup &amp; Monitoring</li>
+ 	<li>Meta Description Optimization</li>
+</ul>
+[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing cost_weight="bold" button_text="Get Started" plan_background="#204e80" plan_color="#ffffff" plan_border="0px" cost_background="#215a94" cost_color="#ffffff" cost_border="0px" features_bg="#f9f9f9" features_padding="30px" features_border="0px" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Get%20Started|" button_wrap_bg="#eeeeee" button_wrap_border="0px" button_wrap_padding="20px"]
+<ul class="check-list">
+ 	<li>Daily analysis and optimization</li>
+ 	<li>Comprehensive Website Audit</li>
+ 	<li>Top 3 Listing Guarantee</li>
+ 	<li>Traffic Source Analysis</li>
+ 	<li>Google Analytics Setup &amp; Monitoring</li>
+ 	<li>Meta Description Optimization</li>
+</ul>
+[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="Advanced" cost="$60" cost_weight="bold" button_text="Get Started" plan_background="#90b636" plan_color="#ffffff" plan_border="0px" cost_background="#a1c627" cost_color="#ffffff" cost_border="0px" features_bg="#f9f9f9" features_padding="30px" features_border="0px" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Get%20Started|" button_wrap_bg="#eeeeee" button_wrap_border="0px" button_wrap_padding="20px"]
+<ul class="check-list">
+ 	<li>Daily analysis and optimization</li>
+ 	<li>Comprehensive Website Audit</li>
+ 	<li>Top 3 Listing Guarantee</li>
+ 	<li>Traffic Source Analysis</li>
+ 	<li>Google Analytics Setup &amp; Monitoring</li>
+ 	<li>Meta Description Optimization</li>
+</ul>
+[/vcex_pricing][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457308937123{padding-top: 40px !important;}"][vc_column][vcex_divider][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457312865614{padding-bottom: 40px !important;}"][vc_column][vcex_heading text="From The Blog" tag="h2" font_weight="normal" text_align="center" font_size="34px" color="#333333"][vc_column_text]
+<p style="text-align: center;">Our Latest SEO Related Articles</p>
+[/vc_column_text][vcex_spacing][vcex_blog_carousel arrows="false" dots="true" items_margin="30" excerpt_length="10" img_width="247" img_height="135" content_css=".vc_custom_1476761366538{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 10px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2016-03-06 22:26:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-03-06 22:26:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1457306786793{padding-top: 80px !important;background-color: #2995dc !important;}.vc_custom_1457307179986{padding-top: 80px !important;}.vc_custom_1476761448126{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1457308937123{padding-top: 40px !important;}.vc_custom_1457312269076{padding-bottom: 20px !important;}.vc_custom_1457308937123{padding-top: 40px !important;}.vc_custom_1457312865614{padding-bottom: 40px !important;}.vc_custom_1476761366538{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 10px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Case Studies</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/64/</link>
+		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=64</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[64]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Blog</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/65/</link>
+		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=65</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[65]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[62]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Contact</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/66/</link>
+		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=66</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[66]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[61]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Services</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/68/</link>
+		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=68</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>68</wp:post_id>
+		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[68]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/69/</link>
+		<pubDate>Sun, 06 Mar 2016 22:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2016-03-06 22:29:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-03-06 22:29:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[69]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Staff</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/staff/</link>
+		<pubDate>Mon, 07 Mar 2016 00:25:58 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=80</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2016-03-07 00:25:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-03-07 00:25:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[staff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1432,39 +1515,101 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>icon-pattern</title>
-		<link>http://totaltheme.wpengine.com/seo/services/icon-pattern/</link>
-		<pubDate>Thu, 10 Mar 2016 05:29:31 +0000</pubDate>
+		<title>wordpress-seo-yoast-functions</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/seo-plan/wordpress-seo-yoast-functions/</link>
+		<pubDate>Fri, 14 Oct 2016 23:48:50 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.png</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/02/wordpress-seo-yoast-functions.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>117</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-10 05:29:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-10 05:29:31]]></wp:post_date_gmt>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-14 23:48:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-14 23:48:50]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[icon-pattern]]></wp:post_name>
+		<wp:post_name><![CDATA[wordpress-seo-yoast-functions]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>28</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/02/wordpress-seo-yoast-functions.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/02/wordpress-seo-yoast-functions.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:924;s:6:"height";i:550;s:4:"file";s:41:"2016/02/wordpress-seo-yoast-functions.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:41:"wordpress-seo-yoast-functions-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:41:"wordpress-seo-yoast-functions-300x179.jpg";s:5:"width";i:300;s:6:"height";i:179;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:41:"wordpress-seo-yoast-functions-768x457.jpg";s:5:"width";i:768;s:6:"height";i:457;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>icon-pattern</title>
+		<link>http://totaltheme.wpengine.com/seo/services/icon-pattern-2/</link>
+		<pubDate>Fri, 14 Oct 2016 23:49:11 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>121</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-14 23:49:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-14 23:49:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[icon-pattern-2]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>59</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/03/icon-pattern.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2016/03/icon-pattern.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:500;s:4:"file";s:24:"2016/03/icon-pattern.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"icon-pattern-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:23:"icon-pattern-300x75.png";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:24:"icon-pattern-768x192.png";s:5:"width";i:768;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:25:"icon-pattern-1024x256.png";s:5:"width";i:1024;s:6:"height";i:256;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:500;s:4:"file";s:24:"2016/03/icon-pattern.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"icon-pattern-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"icon-pattern-300x75.jpg";s:5:"width";i:300;s:6:"height";i:75;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"icon-pattern-768x192.jpg";s:5:"width";i:768;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"icon-pattern-1024x256.jpg";s:5:"width";i:1024;s:6:"height";i:256;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>multi-autho-blog-wordpress-plugins</title>
+		<link>http://totaltheme.wpengine.com/seo/blog/wordpress-seo-keywords/multi-autho-blog-wordpress-plugins/</link>
+		<pubDate>Fri, 14 Oct 2016 23:53:57 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/02/multi-autho-blog-wordpress-plugins.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>122</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-14 23:53:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-14 23:53:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[multi-autho-blog-wordpress-plugins]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>26</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/02/multi-autho-blog-wordpress-plugins.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/02/multi-autho-blog-wordpress-plugins.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:948;s:6:"height";i:550;s:4:"file";s:46:"2016/02/multi-autho-blog-wordpress-plugins.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:46:"multi-autho-blog-wordpress-plugins-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:46:"multi-autho-blog-wordpress-plugins-300x174.jpg";s:5:"width";i:300;s:6:"height";i:174;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"multi-autho-blog-wordpress-plugins-768x446.jpg";s:5:"width";i:768;s:6:"height";i:446;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Better SEO Optimized Titles &amp; Taglines</title>
-		<link>http://totaltheme.wpengine.com/seo/seo-optimized-titles-taglines/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/seo-optimized-titles-taglines/</link>
 		<pubDate>Thu, 04 Feb 2016 01:53:55 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/sustainable/?p=24</guid>
@@ -1498,7 +1643,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="analytics"><![CDATA[analytics]]></category>
 		<category domain="post_tag" nicename="black-hat"><![CDATA[black hat]]></category>
-		<category domain="category" nicename="blog"><![CDATA[blog]]></category>
+		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="google"><![CDATA[Google]]></category>
 		<category domain="post_tag" nicename="keywords"><![CDATA[keywords]]></category>
 		<category domain="post_tag" nicename="linkbait"><![CDATA[linkbait]]></category>
@@ -1576,7 +1721,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 	</item>
 	<item>
 		<title>Beginner’s Guide To WordPress SEO: Keywords</title>
-		<link>http://totaltheme.wpengine.com/seo/wordpress-seo-keywords/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/wordpress-seo-keywords/</link>
 		<pubDate>Wed, 17 Feb 2016 18:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/sustainable/?p=26</guid>
@@ -1607,7 +1752,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="analytics"><![CDATA[analytics]]></category>
 		<category domain="post_tag" nicename="black-hat"><![CDATA[black hat]]></category>
-		<category domain="category" nicename="blog"><![CDATA[blog]]></category>
+		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="google"><![CDATA[Google]]></category>
 		<category domain="post_tag" nicename="keywords"><![CDATA[keywords]]></category>
 		<category domain="post_tag" nicename="linkbait"><![CDATA[linkbait]]></category>
@@ -1626,10 +1771,6 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[85]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
@@ -1644,6 +1785,22 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[seo-guide]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[122]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -1690,7 +1847,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 	</item>
 	<item>
 		<title>Developing A Good SEO Plan</title>
-		<link>http://totaltheme.wpengine.com/seo/seo-plan/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/seo-plan/</link>
 		<pubDate>Mon, 22 Feb 2016 18:42:03 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/sustainable/?p=28</guid>
@@ -1698,8 +1855,6 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" target="_blank">Vivamus mattis</a> orci et tellus varius, sit amet pretium mi aliquam. Sed facilisis, arcu eget luctus tincidunt, velit metus consectetur ipsum, id facilisis eros quam a ante. Vestibulum dui arcu, porta in arcu ut, porta ullamcorper justo. Donec dapibus tincidunt iaculis. Nam pellentesque nec enim bibendum gravida. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In congue vestibulum imperdiet.
 <h2>Hello, I am an h2 heading.</h2>
 In ex mauris, convallis faucibus risus quis, tempus faucibus sapien. Nunc ultrices mi sed bibendum eleifend. Vivamus a finibus dui. Nam volutpat libero ac tempus mollis. Cras ullamcorper venenatis enim a sollicitudin. In hendrerit sem nisi, quis hendrerit libero varius facilisis. Donec quis urna in quam suscipit malesuada eget ac elit. Maecenas dapibus at mauris non consectetur. Nam sit amet lacus in nisl faucibus sagittis sed in neque. Morbi in aliquet mauris. Praesent sed gravida leo, ut vulputate purus.
-
-&nbsp;
 
 Vestibulum viverra congue tortor vel porta. In quis congue massa, sed rutrum eros. Aliquam erat volutpat. Integer et congue felis. Vivamus feugiat ultrices ultricies. Quisque in congue elit. Suspendisse gravida quam sit amet odio posuere, at pharetra leo ultricies. Sed ac nibh turpis. Proin tempor quam vel dolor pellentesque, eu scelerisque ligula egestas.
 <h3>Hi, I am an h3 heading.</h3>
@@ -1721,7 +1876,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="analytics"><![CDATA[analytics]]></category>
 		<category domain="post_tag" nicename="black-hat"><![CDATA[black hat]]></category>
-		<category domain="category" nicename="blog"><![CDATA[blog]]></category>
+		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="google"><![CDATA[Google]]></category>
 		<category domain="post_tag" nicename="keywords"><![CDATA[keywords]]></category>
 		<category domain="post_tag" nicename="linkbait"><![CDATA[linkbait]]></category>
@@ -1739,10 +1894,6 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[84]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
@@ -1757,6 +1908,22 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[optimized-wordpress-theme]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[120]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
@@ -1831,7 +1998,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 	</item>
 	<item>
 		<title>A Guide To Using Sitemaps</title>
-		<link>http://totaltheme.wpengine.com/seo/sitemaps-guide/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/sitemaps-guide/</link>
 		<pubDate>Fri, 29 Jan 2016 18:42:49 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/sustainable/?p=30</guid>
@@ -1860,7 +2027,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="analytics"><![CDATA[analytics]]></category>
 		<category domain="post_tag" nicename="black-hat"><![CDATA[black hat]]></category>
-		<category domain="category" nicename="blog"><![CDATA[blog]]></category>
+		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="google"><![CDATA[Google]]></category>
 		<category domain="post_tag" nicename="keywords"><![CDATA[keywords]]></category>
 		<category domain="post_tag" nicename="linkbait"><![CDATA[linkbait]]></category>
@@ -1956,7 +2123,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 	</item>
 	<item>
 		<title>Beginner’s Guide To WordPress SEO: Introduction</title>
-		<link>http://totaltheme.wpengine.com/seo/wordpress-seo-intro/</link>
+		<link>http://totaltheme.wpengine.com/seo/blog/wordpress-seo-intro/</link>
 		<pubDate>Fri, 15 Jan 2016 21:30:42 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/sustainable/?p=43</guid>
@@ -1987,7 +2154,7 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="post_tag" nicename="analytics"><![CDATA[analytics]]></category>
 		<category domain="post_tag" nicename="black-hat"><![CDATA[black hat]]></category>
-		<category domain="category" nicename="blog"><![CDATA[blog]]></category>
+		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="google"><![CDATA[Google]]></category>
 		<category domain="post_tag" nicename="keywords"><![CDATA[keywords]]></category>
 		<category domain="post_tag" nicename="linkbait"><![CDATA[linkbait]]></category>
@@ -2083,103 +2250,16 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		</wp:comment>
 	</item>
 	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/seo/</link>
-		<pubDate>Sun, 06 Mar 2016 22:26:38 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?page_id=58</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" column_spacing="0px" css=".vc_custom_1457306786793{padding-top: 80px !important;background-color: #2995dc !important;}"][vc_column][vcex_heading text="Improve Your Rankings by 400%" text_align="center" font_size="34px" color="#ffffff"][vc_column_text]
-<p style="text-align: center;"><span class="white-text">Together with our team of experts we can help increase your search engine rankings by up to 400%.</span></p>
-[/vc_column_text][vcex_spacing size="20px"][vcex_button url="#services" title="Learn More" target="local" align="center" custom_background="#a1c627" custom_hover_background="#aec65f" font_size="16px" icon_right="fa fa-arrow-circle-down"]Learn More[/vcex_button][vcex_spacing size="50px"][vc_single_image image="116"][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457307179986{padding-top: 80px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Website Optimization" heading_size="18px" image="74"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Competitive Keyword Analysis" heading_size="18px" image="72"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Increased Online Precense" heading_size="18px" image="73"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457307191877{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Weekly Adjustments" heading_size="18px" image="75"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Page Rank Checker" heading_size="18px" image="76"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Pay-Per-Click Services" heading_size="18px" image="77"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457308937123{padding-top: 40px !important;}"][vc_column][vcex_divider][/vc_column][/vc_row][vc_row center_row="yes"][vc_column][vcex_heading text="Service Packages" text_align="center" font_size="34px" color="#333333"][vc_column_text]
-<p style="text-align: center;">Choose the service package that best fits your needs.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457312269076{padding-bottom: 20px !important;}"][vc_column width="1/3"][vcex_pricing plan="Starter" cost_weight="bold" button_text="Get Started" plan_background="#44a2db" plan_color="#ffffff" plan_border="0px" cost_background="#56aee3" cost_color="#ffffff" cost_border="0px" features_bg="#f9f9f9" features_padding="30px" features_border="0px" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Get%20Started|target:%20_blank" button_wrap_bg="#eeeeee" button_wrap_border="0px" button_wrap_padding="20px"]
-<ul class="check-list">
-	<li>Daily analysis and optimization</li>
-	<li>Comprehensive Website Audit</li>
-	<li>Top 3 Listing Guarantee</li>
-	<li>Traffic Source Analysis</li>
-	<li>Google Analytics Setup &amp; Monitoring</li>
-	<li>Meta Description Optimization</li>
-</ul>
-[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing cost_weight="bold" button_text="Get Started" plan_background="#204e80" plan_color="#ffffff" plan_border="0px" cost_background="#215a94" cost_color="#ffffff" cost_border="0px" features_bg="#f9f9f9" features_padding="30px" features_border="0px" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Get%20Started|" button_wrap_bg="#eeeeee" button_wrap_border="0px" button_wrap_padding="20px"]
-<ul class="check-list">
-	<li>Daily analysis and optimization</li>
-	<li>Comprehensive Website Audit</li>
-	<li>Top 3 Listing Guarantee</li>
-	<li>Traffic Source Analysis</li>
-	<li>Google Analytics Setup &amp; Monitoring</li>
-	<li>Meta Description Optimization</li>
-</ul>
-[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="Advanced" cost="$60" cost_weight="bold" button_text="Get Started" plan_background="#90b636" plan_color="#ffffff" plan_border="0px" cost_background="#a1c627" cost_color="#ffffff" cost_border="0px" features_bg="#f9f9f9" features_padding="30px" features_border="0px" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Get%20Started|" button_wrap_bg="#eeeeee" button_wrap_border="0px" button_wrap_padding="20px"]
-<ul class="check-list">
-	<li>Daily analysis and optimization</li>
-	<li>Comprehensive Website Audit</li>
-	<li>Top 3 Listing Guarantee</li>
-	<li>Traffic Source Analysis</li>
-	<li>Google Analytics Setup &amp; Monitoring</li>
-	<li>Meta Description Optimization</li>
-</ul>
-[/vcex_pricing][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457308937123{padding-top: 40px !important;}"][vc_column][vcex_divider][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457312865614{padding-bottom: 40px !important;}"][vc_column][vcex_heading text="From The Blog" text_align="center" font_size="34px" color="#333333"][vc_column_text]
-<p style="text-align: center;">Our Latest SEO Related Articles</p>
-[/vc_column_text][vcex_spacing][vcex_blog_carousel arrows="false" dots="true" excerpt_length="10" img_width="247" img_height="135" content_background="#ffffff" content_padding="20px 0px 0px" content_border="0px"][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>58</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 22:26:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 22:26:38]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1457306786793{padding-top: 80px !important;background-color: #2995dc !important;}.vc_custom_1457307179986{padding-top: 80px !important;}.vc_custom_1457307191877{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1457308937123{padding-top: 40px !important;}.vc_custom_1457312269076{padding-bottom: 20px !important;}.vc_custom_1457308937123{padding-top: 40px !important;}.vc_custom_1457312865614{padding-bottom: 40px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Services</title>
 		<link>http://totaltheme.wpengine.com/seo/services/</link>
 		<pubDate>Sun, 06 Mar 2016 22:27:11 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?page_id=59</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" local_scroll_id="services"][vc_column][vcex_heading text="Improve Your SEO" text_align="center" font_size="34px" color="#333333"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row center_row="yes" local_scroll_id="services"][vc_column][vcex_heading text="Improve Your SEO" tag="h2" font_weight="normal" text_align="center" font_size="34px" color="#333333"][vc_column_text]
 <p style="text-align: center;">We offer a range of services to help you improve your onsite SEO</p>
-[/vc_column_text][vcex_divider color="#dddddd" width="40px" height="2px" margin_top="15px"][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457583617914{padding-top: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Website Optimization" heading_size="18px" image="74"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Competitive Keyword Analysis" heading_size="18px" image="72"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Increased Online Precense" heading_size="18px" image="73"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Weekly Adjustments" heading_size="18px" image="75"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Page Rank Checker" heading_size="18px" image="76"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Pay-Per-Click Services" heading_size="18px" image="77"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457588120351{padding-top: 80px !important;padding-bottom: 40px !important;background: #0c2444 url(http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.png?id=117) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="Custom SEO Service Packages" text_align="center" color="#ffffff"][vcex_divider color="#ffffff" width="40px" height="2px" margin_top="15px"][vcex_spacing][vc_column_text]
-<p style="text-align: center;"><span class="white-text">And this is just our standard services list. We can and will help you with anything and everything SEO related for you and your business. If you don't see a service you need listed here just head over to our contact page and send us a message. We'd love to work out a custom package for you!</span></p>
+[/vc_column_text][vcex_divider color="#dddddd" width="40px" height="2px" margin_top="15px"][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457583617914{padding-top: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Website Optimization" heading_size="18px" image="74"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Competitive Keyword Analysis" heading_size="18px" image="72"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Increased Online Precense" heading_size="18px" image="73"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Weekly Adjustments" heading_size="18px" image="75"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Page Rank Checker" heading_size="18px" image="76"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Pay-Per-Click Services" heading_size="18px" image="77"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1476488960531{padding-top: 80px !important;padding-bottom: 40px !important;background: #0c2444 url(http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.jpg?id=121) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="Custom SEO Service Packages" tag="h2" font_weight="normal" text_align="center" color="#ffffff"][vcex_divider color="#ffffff" width="40px" height="2px" margin_top="15px"][vcex_spacing][vc_column_text color="#ffffff"]
+<p style="text-align: center;">And this is just our standard services list. We can and will help you with anything and everything SEO related for you and your business. If you don't see a service you need listed here just head over to our contact page and send us a message. We'd love to work out a custom package for you!</p>
 [/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/seo/contact/" title="Send Us A Message" target="blank" align="center" size="medium" custom_background="#ff6000" custom_hover_background="#fc9300"]Send Us A Message[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Email Marketing" heading_size="18px" image="109"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Market Analysis" heading_size="18px" image="110"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="SEO Friendly Tags" heading_size="18px" image="111"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="services" css=".vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Target Audience" heading_size="18px" image="112"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Increased Page Speed" heading_size="18px" image="113"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Link Building" heading_size="18px" image="114"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>59</wp:post_id>
@@ -2220,11 +2300,19 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1457583617914{padding-top: 40px !important;}.vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1457588120351{padding-top: 80px !important;padding-bottom: 40px !important;background: #0c2444 url(http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.png?id=117) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1457583617914{padding-top: 40px !important;}.vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1476488960531{padding-top: 80px !important;padding-bottom: 40px !important;background: #0c2444 url(http://totaltheme.wpengine.com/seo/wp-content/uploads/sites/69/2016/03/icon-pattern.jpg?id=121) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1457581804382{padding-top: 40px !important;padding-bottom: 40px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[SEO service offerings]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2234,9 +2322,9 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?page_id=60</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][vcex_heading text="We Are SEO Experts" text_align="center" font_size="34px" color="#333333"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row][vc_column][vcex_heading text="We Are SEO Experts" tag="h2" font_weight="normal" text_align="center" font_size="34px" color="#333333"][vc_column_text]
 <p style="text-align: center;">When it comes to optimizing your site we are the ones you'll want to call.</p>
-[/vc_column_text][vcex_divider color="#dddddd" width="40px" height="2px" margin_top="15px"][/vc_column][/vc_row][vc_row][vc_column][vcex_staff_grid columns_gap="30" thumb_link="nowhere" img_size="full" title_link="nowhere" position="true" social_links="true" read_more="false" content_heading_size="18px" position_color="#f29a02" position_size="14px" excerpt_length="20px"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][vcex_divider color="#dddddd" width="40px" height="2px" margin_top="15px"][/vc_column][/vc_row][vc_row][vc_column][vcex_staff_grid columns_gap="30" thumb_link="nowhere" img_size="full" title_tag="h3" title_link="nowhere" position="true" social_links="true" social_links_style="flat-color-round" read_more="false" content_heading_size="18px" position_color="#f29a02" position_size="14px" excerpt_length="20px"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2016-03-06 22:27:26]]></wp:post_date>
@@ -2277,6 +2365,14 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 			<wp:meta_value><![CDATA[The amazing people that make up our company]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2370,10 +2466,9 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?page_id=63</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1457581619783{padding-bottom: 20px !important;}"][vc_column][vcex_heading text="Our Work In The Wild" text_align="center" font_size="34px" color="#333333"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1457581619783{padding-bottom: 20px !important;}"][vc_column][vcex_heading text="Our Work In The Wild" tag="h2" font_weight="normal" text_align="center" font_size="34px" color="#333333"][vc_column_text]
 <p style="text-align: center;">Here are some examples of our work for our clients. Check them out!</p>
-
-[/vc_column_text][vcex_divider color="#dddddd" width="40px" height="3px" margin_top="15px"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581739931{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vcex_heading text="Modern Agency Total Theme" tag="h2" font_weight="normal" color="#333333"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="10px"][vcex_spacing size="20px"][vc_column_text]Anchor text webmaster blogroll mike king browser link love url cache webmaster search directory adsense marketing martin macdonald bing bot flash links strategy google blog redirect strategy aaron wall internal link link-worthy, adsense blog cms roi robot blogroll. Dmoz directories conversion blog url volume filter social networking directory serps spider vanessa fox sitemap duplicate canonical vanessa fox content duplicate sitemap links wil reynolds search dave naylor validation panda speed shortail crawl. Rich snippet dmoz social sharing serps redirect backlink domain slurp distilled serps.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/modern-agency/" title="Visit Modern Agency" target="blank" size="medium"]Visit Modern Agency[/vcex_button][/vc_column][vc_column width="1/2"][vc_single_image image="105"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581636524{padding-top: 60px !important;}"][vc_column width="1/2"][vc_single_image image="101"][/vc_column][vc_column width="1/2"][vcex_heading text="Construct Total Theme Case Study" tag="h2"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="15px"][vcex_spacing size="15px"][vc_column_text]Strategy pagerank rss social sharing redirect htaccess volume 200 density open site explorer, bing bot speed 302 blogroll authority links marketing will critchlow iframes open site explorer roi blog backlink cookie adsense http slurp shortail roi page rank dave naylor directories jane copland copyright jonathon colman redirect wil reynolds keyword. Traffic open site explorer rank rss copyright title tag copyright seomoz slurp google bot keyword roi directories canonicalization linkscape authority. Density feed seo panda off page panda link-worthy url xenu external link optimization slurp validation.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/construct/" title="Visit Construct" target="blank" size="medium"]Visit Construct[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581668499{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vcex_heading text="Samus Total Theme Case Study" tag="h2" font_weight="normal" color="#333333"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="10px"][vcex_spacing size="20px"][vc_column_text]Anchor text webmaster blogroll mike king browser link love url cache webmaster search directory adsense marketing martin macdonald bing bot flash links strategy google blog redirect strategy aaron wall internal link link-worthy, adsense blog cms roi robot blogroll. Dmoz directories conversion blog url volume filter social networking directory serps spider vanessa fox sitemap duplicate canonical vanessa fox content duplicate sitemap links wil reynolds search dave naylor validation panda speed shortail crawl. Rich snippet dmoz social sharing serps redirect backlink domain slurp distilled serps.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/samus/" title="Visit Samus" target="blank" size="medium"]Visit Samus[/vcex_button][/vc_column][vc_column width="1/2"][vc_single_image image="106"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581683515{padding-top: 60px !important;}"][vc_column width="1/2"][vc_single_image image="103"][/vc_column][vc_column width="1/2"][vcex_heading text="Sustainable Total Theme Case Study" tag="h2"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="15px"][vcex_spacing size="15px"][vc_column_text]Strategy pagerank rss social sharing redirect htaccess volume 200 density open site explorer, bing bot speed 302 blogroll authority links marketing will critchlow iframes open site explorer roi blog backlink cookie adsense http slurp shortail roi page rank dave naylor directories jane copland copyright jonathon colman redirect wil reynolds keyword. Traffic open site explorer rank rss copyright title tag copyright seomoz slurp google bot keyword roi directories canonicalization linkscape authority. Density feed seo panda off page panda link-worthy url xenu external link optimization slurp validation.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/sustainable/" title="Visit Sustainable" target="blank" size="medium"]Visit Sustainable[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581690616{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vcex_heading text="Classy Total Theme Case Study" tag="h2" font_weight="normal" color="#333333"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="10px"][vcex_spacing size="20px"][vc_column_text]Anchor text webmaster blogroll mike king browser link love url cache webmaster search directory adsense marketing martin macdonald bing bot flash links strategy google blog redirect strategy aaron wall internal link link-worthy, adsense blog cms roi robot blogroll. Dmoz directories conversion blog url volume filter social networking directory serps spider vanessa fox sitemap duplicate canonical vanessa fox content duplicate sitemap links wil reynolds search dave naylor validation panda speed shortail crawl. Rich snippet dmoz social sharing serps redirect backlink domain slurp distilled serps.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/classy/" title="Visit Classy" target="blank" size="medium"]Visit Classy[/vcex_button][/vc_column][vc_column width="1/2"][vc_single_image image="107"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581703933{padding-top: 60px !important;}"][vc_column width="1/2"][vc_single_image image="108"][/vc_column][vc_column width="1/2"][vcex_heading text="Nouveau Total Theme Case Study" tag="h2"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="15px"][vcex_spacing size="15px"][vc_column_text]Strategy pagerank rss social sharing redirect htaccess volume 200 density open site explorer, bing bot speed 302 blogroll authority links marketing will critchlow iframes open site explorer roi blog backlink cookie adsense http slurp shortail roi page rank dave naylor directories jane copland copyright jonathon colman redirect wil reynolds keyword. Traffic open site explorer rank rss copyright title tag copyright seomoz slurp google bot keyword roi directories canonicalization linkscape authority. Density feed seo panda off page panda link-worthy url xenu external link optimization slurp validation.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/nouveau/" title="Visit Nouveau" target="blank" size="medium"]Visit Nouveau[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][vcex_divider color="#dddddd" width="40px" height="3px" margin_top="15px"][/vc_column][/vc_row][vc_row center_row="yes" columns_right="yes" css=".vc_custom_1475531285823{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vc_single_image image="105"][/vc_column][vc_column width="1/2"][vcex_heading text="Modern Agency Total Theme" tag="h3" font_weight="normal" color="#333333"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="10px"][vcex_spacing size="20px"][vc_column_text]Anchor text webmaster blogroll mike king browser link love url cache webmaster search directory adsense marketing martin macdonald bing bot flash links strategy google blog redirect strategy aaron wall internal link link-worthy, adsense blog cms roi robot blogroll. Dmoz directories conversion blog url volume filter social networking directory serps spider vanessa fox sitemap duplicate canonical vanessa fox content duplicate sitemap links wil reynolds search dave naylor validation panda speed shortail crawl. Rich snippet dmoz social sharing serps redirect backlink domain slurp distilled serps.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/modern-agency/" title="Visit Modern Agency" target="blank" size="medium"]Visit Modern Agency[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581636524{padding-top: 60px !important;}"][vc_column width="1/2"][vc_single_image image="101"][/vc_column][vc_column width="1/2"][vcex_heading text="Construct Total Theme Case Study" tag="h3" font_weight="normal"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="15px"][vcex_spacing size="15px"][vc_column_text]Strategy pagerank rss social sharing redirect htaccess volume 200 density open site explorer, bing bot speed 302 blogroll authority links marketing will critchlow iframes open site explorer roi blog backlink cookie adsense http slurp shortail roi page rank dave naylor directories jane copland copyright jonathon colman redirect wil reynolds keyword. Traffic open site explorer rank rss copyright title tag copyright seomoz slurp google bot keyword roi directories canonicalization linkscape authority. Density feed seo panda off page panda link-worthy url xenu external link optimization slurp validation.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/construct/" title="Visit Construct" target="blank" size="medium"]Visit Construct[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" columns_right="yes" css=".vc_custom_1475531298131{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vc_single_image image="106"][/vc_column][vc_column width="1/2"][vcex_heading text="Samus Total Theme Case Study" tag="h3" font_weight="normal" color="#333333"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="10px"][vcex_spacing size="20px"][vc_column_text]Anchor text webmaster blogroll mike king browser link love url cache webmaster search directory adsense marketing martin macdonald bing bot flash links strategy google blog redirect strategy aaron wall internal link link-worthy, adsense blog cms roi robot blogroll. Dmoz directories conversion blog url volume filter social networking directory serps spider vanessa fox sitemap duplicate canonical vanessa fox content duplicate sitemap links wil reynolds search dave naylor validation panda speed shortail crawl. Rich snippet dmoz social sharing serps redirect backlink domain slurp distilled serps.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/samus/" title="Visit Samus" target="blank" size="medium"]Visit Samus[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581683515{padding-top: 60px !important;}"][vc_column width="1/2"][vc_single_image image="103"][/vc_column][vc_column width="1/2"][vcex_heading text="Sustainable Total Theme Case Study" tag="h3" font_weight="normal"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="15px"][vcex_spacing size="15px"][vc_column_text]Strategy pagerank rss social sharing redirect htaccess volume 200 density open site explorer, bing bot speed 302 blogroll authority links marketing will critchlow iframes open site explorer roi blog backlink cookie adsense http slurp shortail roi page rank dave naylor directories jane copland copyright jonathon colman redirect wil reynolds keyword. Traffic open site explorer rank rss copyright title tag copyright seomoz slurp google bot keyword roi directories canonicalization linkscape authority. Density feed seo panda off page panda link-worthy url xenu external link optimization slurp validation.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/sustainable/" title="Visit Sustainable" target="blank" size="medium"]Visit Sustainable[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" columns_right="yes" css=".vc_custom_1475531310078{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vc_single_image image="107"][/vc_column][vc_column width="1/2"][vcex_heading text="Classy Total Theme Case Study" tag="h3" font_weight="normal" color="#333333"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="10px"][vcex_spacing size="20px"][vc_column_text]Anchor text webmaster blogroll mike king browser link love url cache webmaster search directory adsense marketing martin macdonald bing bot flash links strategy google blog redirect strategy aaron wall internal link link-worthy, adsense blog cms roi robot blogroll. Dmoz directories conversion blog url volume filter social networking directory serps spider vanessa fox sitemap duplicate canonical vanessa fox content duplicate sitemap links wil reynolds search dave naylor validation panda speed shortail crawl. Rich snippet dmoz social sharing serps redirect backlink domain slurp distilled serps.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/classy/" title="Visit Classy" target="blank" size="medium"]Visit Classy[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1457581703933{padding-top: 60px !important;}"][vc_column width="1/2"][vc_single_image image="108"][/vc_column][vc_column width="1/2"][vcex_heading text="Nouveau Total Theme Case Study" tag="h3" font_weight="normal"][vcex_divider align="left" color="#dddddd" width="20px" height="3px" margin_top="15px"][vcex_spacing size="15px"][vc_column_text]Strategy pagerank rss social sharing redirect htaccess volume 200 density open site explorer, bing bot speed 302 blogroll authority links marketing will critchlow iframes open site explorer roi blog backlink cookie adsense http slurp shortail roi page rank dave naylor directories jane copland copyright jonathon colman redirect wil reynolds keyword. Traffic open site explorer rank rss copyright title tag copyright seomoz slurp google bot keyword roi directories canonicalization linkscape authority. Density feed seo panda off page panda link-worthy url xenu external link optimization slurp validation.[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/nouveau/" title="Visit Nouveau" target="blank" size="medium"]Visit Nouveau[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2016-03-06 22:28:10]]></wp:post_date>
@@ -2417,112 +2512,15 @@ Vivamus erat diam, tempor vitae sodales at, venenatis sed sem. Fusce ullamcorper
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1457581619783{padding-bottom: 20px !important;}.vc_custom_1457581739931{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1457581636524{padding-top: 60px !important;}.vc_custom_1457581668499{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1457581683515{padding-top: 60px !important;}.vc_custom_1457581690616{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1457581703933{padding-top: 60px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Footer Layout</title>
-		<link>http://totaltheme.wpengine.com/seo/footer-layout/</link>
-		<pubDate>Sun, 06 Mar 2016 22:57:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?page_id=70</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" column_spacing="50" css=".vc_custom_1457309722315{border-top-width: 1px !important;padding-top: 50px !important;padding-bottom: 30px !important;background-color: #f9f9f9 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column width="2/3"][vcex_heading text="Get started today!" icon="fa fa-arrow-circle-o-right" font_size="21px" color="#333333"][vcex_spacing size="10px"][vc_column_text]This demo uses the Total theme "Footer Builder" function to create a custom footer area using the Visual Composer page builder. How awesome is that? Add anything you want to your footer![/vc_column_text][vcex_spacing size="20px"][vcex_button title="Contact Us" custom_background="#9bbf2d" custom_hover_background="#a4bf56" font_size="14px"]Contact Us[/vcex_button][/vc_column][vc_column width="1/3"][vcex_heading text="Lets be friends" icon="fa fa-share-alt" font_size="18px" color="#333333" icon_color="#fd6120"][vcex_spacing size="10px"][vcex_social_links style="flat-color-rounded" twitter="#" facebook="#" googleplus="#" linkedin="#" yelp="#" size="13px"][vcex_spacing][vcex_heading text="Get A Quote" icon="fa fa-usd" font_size="18px" color="#333333" icon_color="#fd6120"][vcex_spacing size="5px"][vc_column_text]Call for a quote at <strong>1-800-123-4567</strong>[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>70</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-06 22:57:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-06 22:57:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer-layout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1457581619783{padding-bottom: 20px !important;}.vc_custom_1475531285823{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1457581636524{padding-top: 60px !important;}.vc_custom_1475531298131{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1457581683515{padding-top: 60px !important;}.vc_custom_1475531310078{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 60px !important;background-color: #f9f9f9 !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1457581703933{padding-top: 60px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1457309722315{border-top-width: 1px !important;padding-top: 50px !important;padding-bottom: 30px !important;background-color: #f9f9f9 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Staff</title>
-		<link>http://totaltheme.wpengine.com/seo/staff/</link>
-		<pubDate>Mon, 07 Mar 2016 00:25:58 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/seo-boxed/?p=80</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>80</wp:post_id>
-		<wp:post_date><![CDATA[2016-03-07 00:25:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-03-07 00:25:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[staff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
