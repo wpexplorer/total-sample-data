@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.6.1" created="2016-10-18 04:14" -->
+<!-- generator="WordPress/4.6.1" created="2016-10-18 04:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tiny Folio</title>
 	<link>http://totaltheme.wpengine.com/tinyfolio</link>
 	<description>Total WordPress Theme Demo</description>
-	<pubDate>Tue, 18 Oct 2016 04:14:13 +0000</pubDate>
+	<pubDate>Tue, 18 Oct 2016 04:20:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -74,7 +74,10 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][vcex_portfolio_grid columns="4" posts_per_page="-1" order="DESC" orderby="date" img_size="portfolio_entry" overlay_style="slideup-title-white" title="false" excerpt="false" read_more="false" custom_excerpt_trim="false"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row][vc_column][vcex_portfolio_grid columns="4" posts_per_page="-1" order="DESC" orderby="date" img_size="portfolio_entry" overlay_style="slideup-title-white" title="false" excerpt="false" read_more="false" custom_excerpt_trim="false"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+<p style="text-align: center;">Copyright [current_year] <a href="https://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" target="_blank">Total WordPress Theme</a> by WPExplorer</p>
+
+[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-03 00:46:29]]></wp:post_date>
