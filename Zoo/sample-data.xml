@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.6.1" created="2016-10-16 23:28" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-15 01:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Zoo</title>
 	<link>http://totaltheme.wpengine.com/zoo</link>
 	<description>A Total Drag &#38; Drop WordPress Theme Demo</description>
-	<pubDate>Sun, 16 Oct 2016 23:28:35 +0000</pubDate>
+	<pubDate>Wed, 15 Mar 2017 01:38:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -46,7 +46,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 	<item>
 		<title>zoo-logo</title>
@@ -107,7 +107,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:24:"2016/06/african-lion.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:24:"2016/06/african-lion.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:24:"african-lion-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -138,7 +138,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:16:"2016/06/bear.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:16:"2016/06/bear.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:16:"bear-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -169,7 +169,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/flamingo.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/flamingo.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"flamingo-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -200,7 +200,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/giraffe.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/giraffe.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:19:"giraffe-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -231,7 +231,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/lemur.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/lemur.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:17:"lemur-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -262,7 +262,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/leopard.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/leopard.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:19:"leopard-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -293,7 +293,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/mandrill.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/mandrill.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"mandrill-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -324,7 +324,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:18:"2016/06/parrot.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:18:"2016/06/parrot.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:18:"parrot-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -355,7 +355,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/sea-lion.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/sea-lion.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"sea-lion-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -386,7 +386,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/snake.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/snake.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:17:"snake-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -669,50 +669,13 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Hello world!</title>
-		<link>http://totaltheme.wpengine.com/zoo/hello-world/</link>
-		<pubDate>Sun, 05 Jun 2016 18:05:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://totaltheme.wpengine.com/">Total Theme Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-05 18:05:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-05 18:05:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-06-05 18:05:32]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-06-05 18:05:32]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
 		<title>Home</title>
 		<link>http://totaltheme.wpengine.com/zoo/</link>
 		<pubDate>Sun, 05 Jun 2016 18:05:32 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1465179252721{background-image: url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}" el_class="textcenter" local_scroll_id="welcome"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Welcome to the all NEW Local Zoo!" text_align="center" font_size="28px" css=".vc_custom_1465236437721{margin-bottom: 20px !important;}"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" css=".vc_custom_1489541652853{background-image: url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}" el_class="textcenter" local_scroll_id="welcome" wpex_bg_position="center bottom"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Welcome to the all NEW Local Zoo!" text_align="center" font_size="28px" css=".vc_custom_1465236437721{margin-bottom: 20px !important;}"][vc_column_text]
 <p style="text-align: center;">Do you love animals?
 Want to learn more about them?
 Would you like to meet some in person?
@@ -721,22 +684,22 @@ And (most importantly) do you want to help save them?
 <p style="text-align: center;">Come to the all NEW Local Zoo. We've made a lot of changes you'll love!
 New enclosures. New research programs. New conservation.
 
-[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="What's New" target="blank" size="medium" custom_background="#f78f1e" custom_hover_background="#e5761b" letter_spacing="1px" classes="margin-right-10px"]What's New[/vcex_button][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Learn More" target="blank" size="medium" custom_background="#009bc9" custom_hover_background="#0081a8" letter_spacing="1px"]Learn More[/vcex_button][vcex_spacing size="60px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row][vc_column css=".vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_grid columns="5" columns_gap="none" pagination="false" lightbox_title="false" lightbox_caption="false" overlay_style="magnifying-hover" img_hover_style="grow" title="no" image_ids="10,11,12,13,14,15,16,17,18,19" img_width="490" img_height="340"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="40" css=".vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}" local_scroll_id="visit"][vc_column width="1/3"][vcex_heading text="Now Open" style="bottom-border-w-color" icon="fa fa-clock-o" inner_bottom_border_color="#f78f1e" font_size="24px" css=".vc_custom_1465153265141{margin-bottom: 20px !important;}"][vc_column_text]Yes - we're officially open for business! Come by any day of the week:
+[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="What's New" target="blank" size="medium" custom_background="#f78f1e" custom_hover_background="#e5761b" letter_spacing="1px" classes="margin-right-10px"]What's New[/vcex_button][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Learn More" target="blank" size="medium" custom_background="#009bc9" custom_hover_background="#0081a8" letter_spacing="1px"]Learn More[/vcex_button][vcex_spacing size="60px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column css=".vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_grid columns="5" pagination="false" lightbox_title="false" lightbox_caption="false" overlay_style="magnifying-hover" columns_gap="none" img_hover_style="grow" image_ids="10,11,12,13,14,15,16,17,18,19" img_width="490" img_height="340"][/vc_column][/vc_row][vc_row column_spacing="40" center_row="yes" css=".vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}" local_scroll_id="visit"][vc_column width="1/3"][vcex_heading text="Now Open" icon="fa fa-clock-o" style="bottom-border-w-color" inner_bottom_border_color="#f78f1e" font_size="24px" css=".vc_custom_1465153265141{margin-bottom: 20px !important;}"][vc_column_text]Yes - we're officially open for business! Come by any day of the week:
 <ul>
  	<li>M-F 9am-7pm</li>
  	<li>Sat 9am-10pm</li>
  	<li>Sun 10am-7pm</li>
 </ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="We're Close" style="bottom-border-w-color" icon="fa fa-map-marker" inner_bottom_border_color="#009bc9" font_size="24px" css=".vc_custom_1465153231461{margin-bottom: 20px !important;}"][vc_column_text]We're conveniently located off of the main highway right here in town:
+[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="We're Close" icon="fa fa-map-marker" style="bottom-border-w-color" inner_bottom_border_color="#009bc9" font_size="24px" css=".vc_custom_1465153231461{margin-bottom: 20px !important;}"][vc_column_text]We're conveniently located off of the main highway right here in town:
 
 <p style="padding-left: 30px;"><strong>Local Zoo</strong>
 1234 Zoo Way
 Anytown, USA
 
-[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="Come Visit" style="bottom-border-w-color" icon="fa fa-ticket" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1465153284312{margin-bottom: 20px !important;}"][vc_column_text]We'd love to see you! Tickets are available at the gate as well as right here online. Or call us for discounted group rates![/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Get Zoo Tickets" target="blank" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Get Zoo Tickets[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1476657414130{background-color: #009bc9 !important;}" local_scroll_id="animals"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Get a close look at Animal Encounters" text_align="center" font_size="28px" css=".vc_custom_1465236069084{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]
+[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="Come Visit" icon="fa fa-ticket" style="bottom-border-w-color" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1465153284312{margin-bottom: 20px !important;}"][vc_column_text]We'd love to see you! Tickets are available at the gate as well as right here online. Or call us for discounted group rates![/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Get Zoo Tickets" target="blank" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Get Zoo Tickets[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541455763{background-color: #009bc9 !important;}" local_scroll_id="animals"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Get a close look at Animal Encounters" text_align="center" font_size="28px" css=".vc_custom_1465236069084{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]
 
 <p style="text-align: center;">Now you can meet some of our feathered and furry friends up close and personal. You and your kids can shake hands with a kangaroo, give a crowned crane a snack or even go on a scavenger hunt with a lemur. It's a great way to learn about our animal ambassadors and to see some of their natural behaviors in action. Encounters change daily, so check your park map to see which friends are out today!</p>
-[/vc_column_text][vcex_spacing size="45px"][vc_single_image image="30"][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1465236205819{padding-top: 40px !important;padding-bottom: 40px !important;}" local_scroll_id="membership"][vc_column width="1/2"][vc_single_image image="35"][/vc_column][vc_column width="1/2"][vcex_spacing][vcex_heading text="Become A Member" style="bottom-border-w-color" icon="fa fa-user-plus" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1465175789912{margin-bottom: 20px !important;}"][vc_column_text]Want to come to our zoo all year long? We'd love to see you! So sign up for a membership. With a Local Zoo membership you'll receive all of the following
+[/vc_column_text][vcex_spacing size="45px"][vc_single_image image="30"][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row content_placement="middle" center_row="yes" css=".vc_custom_1489541757535{padding-top: 40px !important;padding-bottom: 40px !important;}" local_scroll_id="membership"][vc_column width="1/2"][vc_single_image image="35"][/vc_column][vc_column width="1/2"][vcex_heading text="Become A Member" icon="fa fa-user-plus" style="bottom-border-w-color" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1465175789912{margin-bottom: 20px !important;}"][vc_column_text]Want to come to our zoo all year long? We'd love to see you! So sign up for a membership. With a Local Zoo membership you'll receive all of the following
 <ul>
  	<li>Yearly Membership</li>
  	<li>5% Discount on Tours</li>
@@ -746,16 +709,16 @@ Anytown, USA
  	<li>Early Notification of Events</li>
  	<li>Upgrade to Sponsor an Animal!</li>
 </ul>
-[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Join Today" target="blank" size="medium" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Join Today[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1476657423434{background-color: #f0672f !important;}" local_scroll_id="sponsorship"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Support your favorite animal with a Sponsorship" text_align="center" font_size="28px" css=".vc_custom_1465236310289{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]
+[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Join Today" target="blank" size="medium" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Join Today[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541474365{background-color: #f0672f !important;}" local_scroll_id="sponsorship"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Support your favorite animal with a Sponsorship" text_align="center" font_size="28px" css=".vc_custom_1465236310289{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]
 <p style="text-align: center;">We have many residents here at our zoo and we appreciate your support via tickets, food sales and gift shop purchases. But if you want to really help your favorite animal you can become one of their Sponsors! Contact our donations department to make your gift and we'll put your name on the enclosure plaque as well as invite you to exclusive behind the scenes animal encounters.</p>
-[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Become an Animal Sponsor" target="blank" style="outline" align="center" size="medium" color="white" letter_spacing="1px" custom_hover_color="#f0672f"]Become an Animal Sponsor[/vcex_button][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="tours"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Learn more about our animals Behind The Scenes" text_align="center" font_size="28px" css=".vc_custom_1465236316893{margin-bottom: 20px !important;}"][vc_column_text]
+[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Become an Animal Sponsor" target="blank" size="medium" style="outline" align="center" color="white" letter_spacing="1px" custom_hover_color="#f0672f"]Become an Animal Sponsor[/vcex_button][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="tours"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Learn more about our animals Behind The Scenes" text_align="center" font_size="28px" css=".vc_custom_1465236316893{margin-bottom: 20px !important;}"][vc_column_text]
 <p style="text-align: center;">Want to know what we feed our residents each day? Or maybe you want to help pick out the toys for one of our more active animal guests? With our "Behind The Scenes" tours you'll be guided by one of our talent zookeepers as they teach you about animal nutrition, enrichment or habitats. Space is limited so be sure to call at least 24 hours in advance to make your reservation.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1465161510829{margin-top: 30px !important;margin-bottom: 30px !important;}"][vc_column width="1/3"][vc_single_image image="33" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="32" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="34" alignment="center"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1476657437147{background-color: #a5c645 !important;}" local_scroll_id="contact"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Join the Flock" text_align="center" font_size="28px" color="#ffffff"][vcex_heading text="Connect with us via Social Media!" text_align="center" font_size="24px" css=".vc_custom_1466554626213{margin-bottom: 20px !important;}" color="#f9ca26"][vc_column_text color="#ffffff"]
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1489541548333{margin-top: 30px !important;margin-bottom: 50px !important;}"][vc_column width="1/3"][vc_single_image image="33" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="32" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="34" alignment="center"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541489993{background-color: #a5c645 !important;}" local_scroll_id="contact"][vc_column css=".vc_custom_1489541718736{margin-bottom: 0px !important;}"][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Join the Flock" text_align="center" font_size="28px" color="#ffffff"][vcex_heading text="Connect with us via Social Media!" text_align="center" font_size="24px" css=".vc_custom_1466554626213{margin-bottom: 20px !important;}" color="#f9ca26"][vc_column_text color="#ffffff"]
 
 <p style="text-align: center;">We're on social media - so feel free follow us and send us a tweet, message or just a good ole' thumbs up!
 Share photos from your experience visiting our Zoom and stay in the loop for any upcoming events.
 
-[/vc_column_text][vcex_spacing][vcex_social_links style="flat-color-rounded" align="center" twitter="https://twitter.com/wpexplorer/" facebook="https://www.facebook.com/wpexplorer-themes/" googleplus="https://plus.google.com/108390417049649826323/posts" pinterest="https://www.pinterest.com/wpexplorer/" youtube="https://www.youtube.com/user/wpexplorertv" rss="http://feeds.feedburner.com/wpexplorer-feed" size="24px" css=".vc_custom_1465178794489{margin-right: 5px !important;}"][vcex_spacing size="54px"][vc_single_image image="50"][vcex_spacing visibility="hidden-phone"][vcex_spacing][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1476657521177{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="sponsorship"][vc_column][vcex_heading text="We can't wait to see you!" text_align="center" font_size="28px" color="#ffffff"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][vcex_spacing][vcex_social_links style="flat-color-rounded" align="center" twitter="https://twitter.com/wpexplorer/" facebook="https://www.facebook.com/wpexplorer-themes/" googleplus="https://plus.google.com/108390417049649826323/posts" pinterest="https://www.pinterest.com/wpexplorer/" youtube="https://www.youtube.com/user/wpexplorertv" rss="http://feeds.feedburner.com/wpexplorer-feed" size="24px" css=".vc_custom_1465178794489{margin-right: 5px !important;}"][vcex_spacing size="54px"][vc_single_image image="50"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541508588{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="sponsorship"][vc_column][vcex_heading text="We can't wait to see you!" text_align="center" font_size="28px" color="#ffffff"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 18:05:32]]></wp:post_date>
@@ -787,7 +750,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
@@ -803,7 +766,7 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1465179252721{background-image: url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}.vc_custom_1476657414130{background-color: #009bc9 !important;}.vc_custom_1465236205819{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1476657423434{background-color: #f0672f !important;}.vc_custom_1465161510829{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1476657437147{background-color: #a5c645 !important;}.vc_custom_1476657521177{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1465236437721{margin-bottom: 20px !important;}.vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1465153265141{margin-bottom: 20px !important;}.vc_custom_1465153231461{margin-bottom: 20px !important;}.vc_custom_1465153284312{margin-bottom: 20px !important;}.vc_custom_1465236069084{margin-bottom: 20px !important;}.vc_custom_1465175789912{margin-bottom: 20px !important;}.vc_custom_1465236310289{margin-bottom: 20px !important;}.vc_custom_1465236316893{margin-bottom: 20px !important;}.vc_custom_1466554626213{margin-bottom: 20px !important;}.vc_custom_1465178794489{margin-right: 5px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489541652853{background-image: url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}.vc_custom_1489541455763{background-color: #009bc9 !important;}.vc_custom_1489541757535{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1489541474365{background-color: #f0672f !important;}.vc_custom_1489541548333{margin-top: 30px !important;margin-bottom: 50px !important;}.vc_custom_1489541489993{background-color: #a5c645 !important;}.vc_custom_1489541508588{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1465236437721{margin-bottom: 20px !important;}.vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1465153265141{margin-bottom: 20px !important;}.vc_custom_1465153231461{margin-bottom: 20px !important;}.vc_custom_1465153284312{margin-bottom: 20px !important;}.vc_custom_1465236069084{margin-bottom: 20px !important;}.vc_custom_1465175789912{margin-bottom: 20px !important;}.vc_custom_1465236310289{margin-bottom: 20px !important;}.vc_custom_1465236316893{margin-bottom: 20px !important;}.vc_custom_1489541718736{margin-bottom: 0px !important;}.vc_custom_1466554626213{margin-bottom: 20px !important;}.vc_custom_1465178794489{margin-right: 5px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -1226,6 +1189,29 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[#contact]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Total</title>
+		<link>http://totaltheme.wpengine.com/zoo/total/</link>
+		<pubDate>Tue, 14 Mar 2017 22:34:12 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/total/</guid>
+		<description></description>
+		<content:encoded><![CDATA[/*TYPOGRAPHY*/body{font-family:"Raleway";font-size:14px}h1,h2,h3,h4,h5,h6,.theme-heading,.page-header-title,.heading-typography,.widget-title,.wpex-widget-recent-posts-title,.comment-reply-title,.vcex-heading,.entry-title,.sidebar-box .widget-title,.search-entry h2{font-family:"Quicksand";font-weight:600}/*ADVANCED STYLING CSS*/.is-sticky #site-header{border-color:transparent}/*remove menu bottom border*/
+.navbar-style-four, #site-navigation-sticky-wrapper.is-sticky #site-navigation-wrap { border: 0; }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-14 22:34:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-14 22:34:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[total]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
 	</item>
 </channel>
 </rss>

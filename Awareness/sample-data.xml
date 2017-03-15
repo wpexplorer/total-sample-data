@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3.1" created="2015-10-03 20:13" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-15 00:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,19 +28,24 @@
 <channel>
 	<title>Awareness</title>
 	<link>http://totaltheme.wpengine.com/awareness</link>
-	<description>Just another Totaltheme.wpengine.com site</description>
-	<pubDate>Sat, 03 Oct 2015 20:13:51 +0000</pubDate>
+	<description>Total WordPress Theme Demo</description>
+	<pubDate>Wed, 15 Mar 2017 00:56:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
 	<wp:base_blog_url>http://totaltheme.wpengine.com/awareness</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>totaltheme</wp:author_login><wp:author_email>sympleworkz@gmail.com</wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>5</wp:author_id><wp:author_login>demoswpex</wp:author_login><wp:author_email>wpexplore@gmail.com</wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>5</wp:author_id><wp:author_login><![CDATA[demoswpex]]></wp:author_login><wp:author_email><![CDATA[wpexplore@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Alex Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
 
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 	<item>
 		<title>Homepage</title>
@@ -49,60 +54,68 @@
 		<dc:creator><![CDATA[demoswpex]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/awareness/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1443896546797{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg1-woman.jpg?id=12) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2"][vc_single_image image="19" alignment="left" onclick="custom_link" img_link_target="_blank" img_hover="opacity" link="http://ww5.komen.org/"][vcex_heading text="Fight against cancer." font_family="Georgia, serif" font_size="48px" color="#c72b77" css=".vc_custom_1443892388826{margin-top: 30px !important;margin-bottom: 10px !important;}"][vc_column_text]Breast cancer affects 1 in 8 women. Don’t sit by while this disease takes hold of you or someone you love. Get up and get moving for a cure.[/vc_column_text][vcex_spacing][vcex_button url="http://apps.komen.org/raceforthecure/FindARacefortheCure.aspx" title="Join the race" target="blank" font_family="Georgia, serif" custom_background="#c72b77" custom_hover_background="#ea7eb1" font_size="24px" letter_spacing="1px" border_radius="5px"]Join the race[/vcex_button][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1443896554313{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg2-baby.jpg?id=13) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2"][/vc_column][vc_column width="1/2"][vcex_heading text="There is HOPE." font_family="Georgia, serif" text_align="right" font_size="48px" color="#ea7eb1" css=".vc_custom_1443896599372{margin-bottom: 10px !important;}"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1443896546797{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg1-woman.jpg?id=12) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" css=".vc_custom_1489539310938{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}"][vc_single_image image="19" alignment="left" onclick="custom_link" img_link_target="_blank" img_hover="opacity" link="http://ww5.komen.org/"][vcex_heading text="Fight against cancer." font_family="Georgia, serif" font_size="48px" color="#c72b77" css=".vc_custom_1489539226803{margin-top: 30px !important;margin-bottom: 10px !important;}" line_height="1.2"][vc_column_text 0=""]Breast cancer affects 1 in 8 women. Don’t sit by while this disease takes hold of you or someone you love. Get up and get moving for a cure.[/vc_column_text][vcex_spacing 0=""][vcex_button url="http://apps.komen.org/raceforthecure/FindARacefortheCure.aspx" title="Join the race" target="blank" font_family="Georgia, serif" custom_background="#c72b77" custom_hover_background="#ea7eb1" font_size="24px" letter_spacing="1px" border_radius="5px"]Join the race[/vcex_button][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1443896554313{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg2-baby.jpg?id=13) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2"][/vc_column][vc_column width="1/2" css=".vc_custom_1489539206829{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}"][vcex_heading text="There is HOPE." font_family="Georgia, serif" text_align="right" font_size="48px" color="#ea7eb1" css=".vc_custom_1489539241225{margin-bottom: 10px !important;}" line_height="1.2"][vc_column_text 0=""]
 <p style="text-align: right;">Check yourself and get screened regularly. Want to do more? Consider making a donation to fund research and help put an end to breast cancer.</p>
-[/vc_column_text][vcex_spacing][vcex_button url="https://secure.info-komen.org/site/Donation2?df_id=17567&amp;17567.donation=form1&amp;_ga=1.94583836.1091803259.1443894615" title="Donate today" target="blank" align="right" font_family="Georgia, serif" custom_background="#ea7eb1" custom_hover_background="#c72b77" font_size="24px" letter_spacing="1px" border_radius="5px"]Donate today[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1443896561456{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg3-bra.jpg?id=14) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_column_text]
+[/vc_column_text][vcex_spacing 0=""][vcex_button url="https://secure.info-komen.org/site/Donation2?df_id=17567&amp;17567.donation=form1&amp;_ga=1.94583836.1091803259.1443894615" title="Donate today" target="blank" align="right" font_family="Georgia, serif" custom_background="#ea7eb1" custom_hover_background="#c72b77" font_size="24px" letter_spacing="1px" border_radius="5px"]Donate today[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1443896561456{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg3-bra.jpg?id=14) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column 0=""][vc_column_text 0="" line_height="1.5"]
 <p style="text-align: center;"><span style="font-size: 48px; color: #c72b77; font-family: Georgia, serif;">“Keep your sunny side up, keep yourself beautiful, and indulge yourself!”</span></p>
 <p style="text-align: center;"><span style="font-size: 36px; color: #c72b77; font-family: Georgia, serif;">~betsy johnson~</span></p>
 [/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2015-10-03 16:45:28</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 16:45:28</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>homepage</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 16:45:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 16:45:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[homepage]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_header</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_title</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1443896546797{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg1-woman.jpg?id=12) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1443896554313{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg2-baby.jpg?id=13) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1443896561456{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg3-bra.jpg?id=14) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1443892388826{margin-top: 30px !important;margin-bottom: 10px !important;}.vc_custom_1443896599372{margin-bottom: 10px !important;}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1443896546797{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg1-woman.jpg?id=12) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1443896554313{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg2-baby.jpg?id=13) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1443896561456{background-image: url(http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg3-bra.jpg?id=14) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489539310938{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}.vc_custom_1489539226803{margin-top: 30px !important;margin-bottom: 10px !important;}.vc_custom_1489539206829{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}.vc_custom_1489539241225{margin-bottom: 10px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -115,51 +128,51 @@
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row" css=".vc_custom_1443891445546{padding-top: 50px !important;padding-bottom: 10px !important;background-color: #c72b77 !important;}"][vc_column width="1/2"][vcex_heading text="Meet our sponsors:" font_family="Georgia, serif" font_size="48px" color="#ffffff" css=".vc_custom_1443901422097{padding-top: 10px !important;}"][/vc_column][vc_column width="1/4"][vc_single_image image="21" alignment="center" onclick="custom_link" img_link_target="_blank" img_hover="opacity" link="http://ww5.komen.org/Meet-Our-Partners/"][/vc_column][vc_column width="1/4"][vc_single_image image="23" alignment="center" onclick="custom_link" img_link_target="_blank" img_hover="opacity" link="http://ww5.komen.org/Meet-Our-Partners/"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1443901947561{padding-top: 75px !important;padding-bottom: 40px !important;background-color: #ea7eb1 !important;}"][vc_column width="1/3"][vcex_heading text="Learn more." font_family="Georgia, serif" font_size="36px" color="#ffffff" css=".vc_custom_1443895694714{margin-bottom: 15px !important;}"][vcex_heading text="komen.org" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fww5.komen.org%2F|title:komen.org|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="the3day.org" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.the3day.org%2F|title:the3day.org|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="cancer.org" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.cancer.org%2Fhealthy%2Fmorewaysacshelpsyoustaywell%2Fbreastcancer|title:cancer.org|target:%20_blank" color_hover="#f8d6e6"][/vc_column][vc_column width="1/3"][vcex_heading text="Helpful tips." font_family="Georgia, serif" font_size="36px" color="#ffffff" css=".vc_custom_1443895704772{margin-bottom: 15px !important;}"][vcex_heading text="risk calculator" font_size="24px" color="#ffffff" link="url:https%3A%2F%2Fwww.yahoo.com%2Fhealth%2Fthis-online-calculator-predicts-your-risk-of-171711821.html|title:risk%20calculator|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="inspiring celebrities" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.huffingtonpost.com%2F2014%2F10%2F01%2Finspiring-quotes-from-rea_n_5701406.html|title:inspiring%20celebrities|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="reducing your risk" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.cbsnews.com%2Fmedia%2Fbreast-cancer-6-ways-to-reduce-your-risk%2F|title:reducing%20your%20risk|target:%20_blank" color_hover="#f8d6e6"][/vc_column][vc_column width="1/3"][vcex_heading text="Follow us." font_family="Georgia, serif" font_size="36px" color="#ffffff" css=".vc_custom_1443895711320{margin-bottom: 15px !important;}"][vcex_social_links twitter="https://twitter.com/SusanGKomen" facebook="https://www.facebook.com/SusanGKomen" pinterest="https://www.pinterest.com/susangkomen" instagram="http://instagram.com/susangkomen" linkedin="https://www.linkedin.com/company/14555?trk=tyah&trkInfo=idx:2-1-6,tarId:1423068188594,tas:susan+" flickr="http://www.flickr.com/photos/susangkomenforthecure" youtube="http://youtube.com/komenforthecure" rss="http://blog.komen.org/?feed=rss2" css=".vc_custom_1443895654180{margin-right: 10px !important;margin-bottom: 15px !important;background-color: #ffffff !important;}" width="50px" height="50px" color="#ea7eb1" hover_color="#c72b77"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1443901548694{background-color: #ea7eb1 !important;}"][vc_column][vcex_divider icon="fa fa-heart" height="2px" icon_color="#c72b77" icon_size="18px"][vcex_spacing][vcex_heading text="This breast cancer awareness demo was created with the powerful Total WordPress theme." text_align="center" font_size="20px" color="#ffffff" css=".vc_custom_1443901725549{margin-bottom: 15px !important;}" link="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Total%20WordPress%20Theme|target:%20_blank" color_hover="#c72b77"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date>2015-10-03 16:50:13</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 16:50:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>footer</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 16:50:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 16:50:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_easy_image_gallery_link_images</wp:meta_key>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_post_layout</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 			<wp:meta_value><![CDATA[.vc_custom_1443891445546{padding-top: 50px !important;padding-bottom: 10px !important;background-color: #c72b77 !important;}.vc_custom_1443901947561{padding-top: 75px !important;padding-bottom: 40px !important;background-color: #ea7eb1 !important;}.vc_custom_1443901548694{background-color: #ea7eb1 !important;}.vc_custom_1443901422097{padding-top: 10px !important;}.vc_custom_1443895694714{margin-bottom: 15px !important;}.vc_custom_1443895704772{margin-bottom: 15px !important;}.vc_custom_1443895711320{margin-bottom: 15px !important;}.vc_custom_1443895654180{margin-right: 10px !important;margin-bottom: 15px !important;background-color: #ffffff !important;}.vc_custom_1443901725549{margin-bottom: 15px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_header</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>wpex_disable_title</wp:meta_key>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -173,24 +186,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
-		<wp:post_date>2015-10-03 16:55:15</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 16:55:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>boa</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 16:55:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 16:55:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[boa]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>4</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/boa.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/boa.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/boa.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:214;s:6:"height";i:100;s:4:"file";s:15:"2015/10/boa.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"boa-150x100.png";s:5:"width";i:150;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -204,24 +217,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
-		<wp:post_date>2015-10-03 16:55:34</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 16:55:34</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>nb</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 16:55:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 16:55:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nb]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>4</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/nb.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/nb.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/nb.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:214;s:6:"height";i:100;s:4:"file";s:14:"2015/10/nb.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:14:"nb-150x100.png";s:5:"width";i:150;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -235,24 +248,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date>2015-10-03 17:38:05</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 17:38:05</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bg1-woman</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 17:38:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 17:38:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bg1-woman]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg1-woman.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg1-woman.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/bg1-woman.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1400;s:4:"file";s:21:"2015/10/bg1-woman.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"bg1-woman-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"bg1-woman-300x219.jpg";s:5:"width";i:300;s:6:"height";i:219;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"bg1-woman-1024x747.jpg";s:5:"width";i:1024;s:6:"height";i:747;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -266,24 +279,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
-		<wp:post_date>2015-10-03 17:38:06</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 17:38:06</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bg2-baby</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 17:38:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 17:38:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bg2-baby]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg2-baby.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg2-baby.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/bg2-baby.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1400;s:4:"file";s:20:"2015/10/bg2-baby.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"bg2-baby-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"bg2-baby-300x219.jpg";s:5:"width";i:300;s:6:"height";i:219;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"bg2-baby-1024x747.jpg";s:5:"width";i:1024;s:6:"height";i:747;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -297,24 +310,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
-		<wp:post_date>2015-10-03 17:38:09</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 17:38:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bg3-bra</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 17:38:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 17:38:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bg3-bra]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg3-bra.jpg</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/bg3-bra.jpg]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/bg3-bra.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1400;s:4:"file";s:19:"2015/10/bg3-bra.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"bg3-bra-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"bg3-bra-300x219.jpg";s:5:"width";i:300;s:6:"height";i:219;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"bg3-bra-1024x747.jpg";s:5:"width";i:1024;s:6:"height";i:747;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -328,24 +341,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
-		<wp:post_date>2015-10-03 19:20:47</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 19:20:47</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>pinkribbon</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 19:20:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 19:20:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pinkribbon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/pinkribbon.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/pinkribbon.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/pinkribbon.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:840;s:6:"height";i:400;s:4:"file";s:22:"2015/10/pinkribbon.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"pinkribbon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:22:"pinkribbon-300x143.png";s:5:"width";i:300;s:6:"height";i:143;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -359,24 +372,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2015-10-03 19:28:20</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 19:28:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>sponsor</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 19:28:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 19:28:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sponsor]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>4</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/sponsor.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/sponsor.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/sponsor.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:171;s:6:"height";i:110;s:4:"file";s:19:"2015/10/sponsor.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"sponsor-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
@@ -390,24 +403,24 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
-		<wp:post_date>2015-10-03 19:42:40</wp:post_date>
-		<wp:post_date_gmt>2015-10-03 19:42:40</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>sponsor2</wp:post_name>
-		<wp:status>inherit</wp:status>
+		<wp:post_date><![CDATA[2015-10-03 19:42:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 19:42:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sponsor2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>4</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/sponsor2.png</wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/awareness/wp-content/uploads/sites/64/2015/10/sponsor2.png]]></wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2015/10/sponsor2.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:170;s:6:"height";i:110;s:4:"file";s:20:"2015/10/sponsor2.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"sponsor2-150x110.png";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
