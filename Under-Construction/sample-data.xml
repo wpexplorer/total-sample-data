@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.1" created="2016-05-01 15:43" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-15 01:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Under Construction</title>
 	<link>http://totaltheme.wpengine.com/under-construction</link>
 	<description>Total WordPress Theme Demo</description>
-	<pubDate>Sun, 01 May 2016 15:43:36 +0000</pubDate>
+	<pubDate>Wed, 15 Mar 2017 01:42:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -37,47 +37,15 @@
 
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
 
-	<generator>https://wordpress.org/?v=4.5.1</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
-	<item>
-		<title>Hello world!</title>
-		<link>http://totaltheme.wpengine.com/under-construction/2015/11/05/hello-world/</link>
-		<pubDate>Thu, 05 Nov 2015 21:07:34 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/under-construction/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://totaltheme.wpengine.com/">Totaltheme.wpengine.com</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2015-11-05 21:07:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-11-05 21:07:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2015-11-05 21:07:34]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2015-11-05 21:07:34]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
 	<item>
 		<title>Construction Page</title>
 		<link>http://totaltheme.wpengine.com/under-construction/</link>
@@ -85,7 +53,7 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/under-construction/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_height="yes" center_row="yes" css=".vc_custom_1451245920660{background: #9ecdab url(http://totaltheme.wpengine.com/under-construction/wp-content/uploads/sites/66/2015/11/bg.jpg?id=5) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_divider color="#ffffff" icon="fa fa-star-o" width="60%" icon_color="#ffffff" icon_size="28px"][vcex_heading text="UNDER CONSTRUCTION" responsive_text="true" text_align="center" font_family="Monoton" font_size="60px" color="#ffffff" min_font_size="28px"][vcex_heading text="Something awesome this way comes. Stay tuned!" responsive_text="true" text_align="center" font_size="24px" min_font_size="16px" color="#ffffff" line_height="1.3"][vcex_spacing][vcex_newsletter_form mailchimp_form_action="http://wpexplorer.us1.list-manage1.com/subscribe/post?u=9b7568b7c032f9a6738a9cf4d&id=7056c37ddf" placeholder_text="Enter your email" submit_text="Submit" input_bg="#ffffff" input_color="#a3c9b2" input_border_radius="40px" input_font_size="16px" input_border="none" input_letter_spacing="1px" input_width="380px" submit_border_radius="40px" submit_bg="#a3c9b2" submit_hover_bg="#88a88f" input_padding="0px 20px" submit_position_right="20px"][vcex_spacing][vcex_social_links style="none" link_target="blank" align="center" twitter="https://twitter.com/WPExplorer" facebook="https://www.facebook.com/WPExplorerThemes/" googleplus="https://plus.google.com/+Wpexplorer" pinterest="https://www.pinterest.com/wpexplorer/" dribbble="https://dribbble.com/aj-clarke" size="24px" color="#ffffff" hover_color="#d8e7c6"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1489542090388{background: #9ecdab url(http://totaltheme.wpengine.com/under-construction/wp-content/uploads/sites/66/2015/11/bg.jpg?id=5) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_divider color="#ffffff" icon="fa fa-star-o" width="60%" icon_color="#ffffff" icon_size="28px"][vcex_heading text="UNDER CONSTRUCTION" responsive_text="true" text_align="center" font_family="Monoton" font_size="60px" color="#ffffff" min_font_size="28px"][vcex_heading text="Something awesome this way comes. Stay tuned!" responsive_text="true" text_align="center" font_size="24px" min_font_size="16px" color="#ffffff" line_height="1.3"][vcex_spacing][vcex_newsletter_form mailchimp_form_action="http://wpexplorer.us1.list-manage1.com/subscribe/post?u=9b7568b7c032f9a6738a9cf4d&amp;id=7056c37ddf" placeholder_text="Enter your email" submit_text="Submit" input_bg="#ffffff" input_color="#a3c9b2" input_border_radius="40px" input_font_size="16px" input_border="none" input_letter_spacing="1px" input_width="380px" submit_border_radius="40px" submit_bg="#a3c9b2" submit_hover_bg="#88a88f" input_padding="0px 20px" submit_position_right="20px"][vcex_spacing][vcex_social_links link_target="blank" style="none" align="center" twitter="https://twitter.com/WPExplorer" facebook="https://www.facebook.com/WPExplorerThemes/" googleplus="https://plus.google.com/+Wpexplorer" pinterest="https://www.pinterest.com/wpexplorer/" dribbble="https://dribbble.com/aj-clarke" size="24px" color="#ffffff" hover_color="#d8e7c6"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-11-05 21:07:34]]></wp:post_date>
@@ -117,7 +85,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1451245920660{background: #9ecdab url(http://totaltheme.wpengine.com/under-construction/wp-content/uploads/sites/66/2015/11/bg.jpg?id=5) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489542090388{background: #9ecdab url(http://totaltheme.wpengine.com/under-construction/wp-content/uploads/sites/66/2015/11/bg.jpg?id=5) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
@@ -125,7 +93,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_toggle_bar]]></wp:meta_key>
