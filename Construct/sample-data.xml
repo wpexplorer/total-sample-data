@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.6.1" created="2016-10-17 03:48" -->
+<!-- generator="WordPress/4.7.3" created="2017-03-30 19:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Construct</title>
 	<link>http://totaltheme.wpengine.com/construct</link>
 	<description>Total WordPress Theme Demo</description>
-	<pubDate>Mon, 17 Oct 2016 03:48:58 +0000</pubDate>
+	<pubDate>Thu, 30 Mar 2017 19:19:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -60,7 +60,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 	<item>
 		<title>Construction 3</title>
@@ -90,7 +90,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1271;s:4:"file";s:14:"2015/01/32.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:14:"32-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1271;s:4:"file";s:14:"2015/01/32.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:14:"32-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_800x600";a:5:{s:4:"file";s:14:"32-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_800x600@2x";a:5:{s:4:"file";s:17:"32-800x600@2x.jpg";s:5:"width";i:1600;s:6:"height";i:1200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:15:"32-1500x993.jpg";s:5:"width";i:1500;s:6:"height";i:993;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:14:"32-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:17:"32-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -121,7 +121,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:17:"2015/01/chica.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:17:"2015/01/chica.jpg";s:5:"sizes";a:2:{s:10:"wpex_45x45";a:5:{s:4:"file";s:15:"chica-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_45x45@2x";a:5:{s:4:"file";s:18:"chica-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -152,7 +152,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:15:"2015/01/guy.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:15:"2015/01/guy.jpg";s:5:"sizes";a:2:{s:10:"wpex_45x45";a:5:{s:4:"file";s:13:"guy-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_45x45@2x";a:5:{s:4:"file";s:16:"guy-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -183,7 +183,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:16:"2015/01/girl.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:16:"2015/01/girl.jpg";s:5:"sizes";a:2:{s:10:"wpex_45x45";a:5:{s:4:"file";s:14:"girl-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_45x45@2x";a:5:{s:4:"file";s:17:"girl-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -307,7 +307,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/45.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/45.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:14:"45-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:17:"45-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -338,7 +338,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/44.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/44.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:14:"44-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:17:"44-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -369,7 +369,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/43.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/43.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:14:"43-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:17:"43-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -400,7 +400,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/42.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/42.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:14:"42-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:17:"42-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -431,7 +431,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/41.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/41.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:14:"41-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:17:"41-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -462,7 +462,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/40.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:670;s:6:"height";i:377;s:4:"file";s:14:"2016/02/40.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:14:"40-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:17:"40-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -493,7 +493,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1440;s:4:"file";s:14:"2015/01/7n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:14:"7n-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1440;s:4:"file";s:14:"2015/01/7n.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:14:"7n-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_800x600";a:5:{s:4:"file";s:14:"7n-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_800x600@2x";a:5:{s:4:"file";s:17:"7n-800x600@2x.jpg";s:5:"width";i:1600;s:6:"height";i:1200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:16:"7n-1500x1125.jpg";s:5:"width";i:1500;s:6:"height";i:1125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:14:"7n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:17:"7n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -524,7 +524,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1078;s:4:"file";s:15:"2015/01/22n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"22n-768x431.jpg";s:5:"width";i:768;s:6:"height";i:431;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1078;s:4:"file";s:15:"2015/01/22n.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:15:"22n-768x431.jpg";s:5:"width";i:768;s:6:"height";i:431;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_800x600";a:5:{s:4:"file";s:15:"22n-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:16:"22n-1500x842.jpg";s:5:"width";i:1500;s:6:"height";i:842;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:15:"22n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:18:"22n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -555,7 +555,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1440;s:4:"file";s:14:"2015/01/8n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:14:"8n-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1440;s:4:"file";s:14:"2015/01/8n.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:14:"8n-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_800x600";a:5:{s:4:"file";s:14:"8n-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_800x600@2x";a:5:{s:4:"file";s:17:"8n-800x600@2x.jpg";s:5:"width";i:1600;s:6:"height";i:1200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:16:"8n-1500x1125.jpg";s:5:"width";i:1500;s:6:"height";i:1125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:14:"8n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:17:"8n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -648,7 +648,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1248;s:6:"height";i:1248;s:4:"file";s:15:"2015/01/3-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"3-n-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1248;s:6:"height";i:1248;s:4:"file";s:15:"2015/01/3-n.jpg";s:5:"sizes";a:9:{s:12:"medium_large";a:4:{s:4:"file";s:15:"3-n-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_600x300";a:5:{s:4:"file";s:15:"3-n-600x300.jpg";s:5:"width";i:600;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x300@2x";a:5:{s:4:"file";s:18:"3-n-600x300@2x.jpg";s:5:"width";i:1200;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_670x377";a:5:{s:4:"file";s:15:"3-n-670x377.jpg";s:5:"width";i:670;s:6:"height";i:377;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:15:"3-n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:15:"3-n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:15:"3-n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:15:"3-n-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:18:"3-n-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -679,7 +679,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1271;s:4:"file";s:15:"2015/01/31n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"31n-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1271;s:4:"file";s:15:"2015/01/31n.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:15:"31n-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_800x600";a:5:{s:4:"file";s:15:"31n-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_800x600@2x";a:5:{s:4:"file";s:18:"31n-800x600@2x.jpg";s:5:"width";i:1600;s:6:"height";i:1200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:16:"31n-1500x993.jpg";s:5:"width";i:1500;s:6:"height";i:993;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:15:"31n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:18:"31n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -689,16 +689,20 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row parallax="content-moving" center_row="yes" wpex_bg_overlay="color" bg_style="stretch" style="light" css=".vc_custom_1476673966792{padding-top: 130px !important;padding-bottom: 100px !important;background: #0a0a0a url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/10-e1422148347664.jpg?id=42);}" wpex_bg_overlay_opacity="0.5"][vc_column][vcex_heading text="WE BUILD THINGS" tag="h1" text_align="center" font_size="36" color="#ffffff"][vcex_spacing][vc_column_text color="#ffffff" font_size="21px"]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" parallax="content-moving" typography_style="light" wpex_bg_overlay="color" bg_style="stretch" css=".vc_custom_1489611215355{padding-top: 130px !important;padding-bottom: 100px !important;background: #0a0a0a url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/10-e1422148347664.jpg?id=42);}" wpex_bg_overlay_opacity="0.5"][vc_column][vcex_heading text="WE BUILD THINGS" tag="h1" text_align="center" font_size="36" color="#ffffff"][vcex_spacing][vc_column_text color="#ffffff" font_size="21px"]
 <p style="text-align: center;">We are pioneers in our field, building what you want the way you want it.
-Precise, productive and super motivated.</p>
-[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Learn More" target="blank" rel="nofollow" style="flat" align="center" font_size="16px" custom_background="#ffb700" custom_hover_background="#ffc32d" custom_hover_color="#000000" icon_right="fa fa-chevron-right"]LEARN MORE[/vcex_button][/vc_column][/vc_row][vc_row center_row="" bg_color="#ffb700" padding_top="40px" padding_bottom="40px" no_margins="true"][vc_column][vc_column_text color="#ffffff" font_size="21"]
+Precise, productive and super motivated.
+
+[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Learn More" target="blank" rel="nofollow" style="flat" align="center" font_size="16px" custom_background="#ffb700" custom_hover_background="#ffc32d" custom_hover_color="#000000" icon_right="fa fa-chevron-right"]LEARN MORE[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489611220024{padding-top: 40px !important;padding-bottom: 40px !important;background-color: #ffb700 !important;}"][vc_column][vc_column_text color="#ffffff" font_size="21"]
+
 <p style="text-align: center;">The Best Contractors &amp; Construction Managers In Your Area.
-Contact Us For A Quote Today!</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667407935{padding-top: 80px !important;padding-bottom: 50px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Qualified Team" heading_type="h2" heading_weight="400" heading_transform="uppercase" icon="fa fa-users" url_target="" hover_white_text="" icon_color="#222222" icon_size="40px"]We only hire the best in the business, so you can be sure you're working the best designers, builders and inspectors.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Forward Design" heading_type="h2" heading_weight="400" heading_transform="uppercase" icon="fa fa-cubes" url_target="" hover_white_text="" icon_color="#222222" icon_size="40px"]We create unique designs specifically for you. You will always get a completed project you love. We guarantee it 100%.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Superior Support" heading_type="h2" heading_weight="400" heading_transform="uppercase" icon="fa fa-cogs" url_target="" hover_white_text="" icon_color="#222222" icon_size="40px"]We're here for you - before, during and after. If you want to make any changes or if you have a question don't hesitate to ask.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667311892{padding-top: 60px !important;padding-bottom: 50px !important;background-color: #efefef !important;}"][vc_column][vcex_heading text="A BIT ABOUT US." tag="h2" text_align="center" font_size="28"][vcex_spacing][vc_column_text]
+Contact Us For A Quote Today!
+
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1460667407935{padding-top: 80px !important;padding-bottom: 50px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Qualified Team" heading_type="h2" icon="fa fa-users" url_target="" hover_white_text="" heading_weight="400" heading_transform="uppercase" icon_color="#222222" icon_size="40px"]We only hire the best in the business, so you can be sure you're working the best designers, builders and inspectors.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Forward Design" heading_type="h2" icon="fa fa-cubes" url_target="" hover_white_text="" heading_weight="400" heading_transform="uppercase" icon_color="#222222" icon_size="40px"]We create unique designs specifically for you. You will always get a completed project you love. We guarantee it 100%.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Superior Support" heading_type="h2" icon="fa fa-cogs" url_target="" hover_white_text="" heading_weight="400" heading_transform="uppercase" icon_color="#222222" icon_size="40px"]We're here for you - before, during and after. If you want to make any changes or if you have a question don't hesitate to ask.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489611246294{padding-top: 60px !important;padding-bottom: 50px !important;background-color: #efefef !important;}"][vc_column][vcex_heading text="A BIT ABOUT US." tag="h2" text_align="center" font_size="28"][vcex_spacing][vc_column_text]
+
 <p style="text-align: center;"><span style="color: #000000;">Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables. Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration.</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row=""][vc_column css=".vc_custom_1476674115468{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_grid grid_style="no-margins" lightbox_path="vertical" lightbox_title="false" lightbox_caption="false" overlay_style="plus-three-hover" title="no" img_rendering="" img_width="800" img_height="600" image_ids="79,80,81,20"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667332041{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #efefef !important;}"][vc_column][vcex_heading text="ARE YOU CONVINCED YET?" tag="h2" text_align="center" font_size="28"][vc_empty_space height="30px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Learn More" target="blank" rel="nofollow" style="flat" align="center" font_size="16px" custom_background="#ffb700" custom_hover_background="#ffc32d" custom_hover_color="#000000"]GET STARTED[/vcex_button][/vc_column][/vc_row][vc_row parallax="content-moving" center_row="yes" wpex_bg_overlay="color" css=".vc_custom_1476227885303{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/11dn.jpg?id=82);background-position:center;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_opacity="0.3"][vc_column][vc_column_text font_size="32px"]<span class="white-text">Construction Experts Since 1987.
-Get a Quote Today!</span>[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/construct/contact/" style="outline" color="white" font_weight="400" custom_hover_color="#000000" custom_hover_background="#ffb700" letter_spacing="2px" font_size="14px"]CONTACT US[/vcex_button][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667358119{padding-top: 50px !important;padding-bottom: 20px !important;}"][vc_column][vcex_heading text="WHAT OUR CLIENTS THINK." tag="h2" text_align="center" font_size="28"][vcex_spacing size="40PX"][vcex_testimonials_grid grid_style="fit-columns" columns_responsive="" order="DESC" orderby="date" filter="true" all_text="All" custom_excerpt_trim="true" img_border_radius="50%" img_width="45" img_height="45"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="0px" css=".vc_custom_1460667366952{padding-top: 40px !important;padding-bottom: 60px !important;background-color: #efefef !important;}"][vc_column][vcex_heading text="LATEST NEWS." tag="h2" text_align="center" font_size="28"][vcex_spacing][vcex_blog_grid columns="3" columns_gap="30" equal_heights_grid="true" posts_per_page="3" img_hover_style="grow" read_more="false" img_width="600" img_height="300" date_color="#ffb700" date_font_size="14px" content_font_size="15px" content_heading_color="#000000" content_css=".vc_custom_1466365107463{background-color: #ffffff !important;}"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column css=".vc_custom_1476674115468{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_grid grid_style="no-margins" lightbox_title="false" lightbox_path="disabled" lightbox_caption="false" overlay_style="plus-three-hover" img_rendering="" img_width="800" img_height="600" image_ids="79,80,81,20" lightbox_skin="minimal"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489611257982{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #efefef !important;}"][vc_column][vcex_heading text="ARE YOU CONVINCED YET?" tag="h2" text_align="center" font_size="28"][vc_empty_space height="30px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" title="Learn More" target="blank" rel="nofollow" style="flat" align="center" font_size="16px" custom_background="#ffb700" custom_hover_background="#ffc32d" custom_hover_color="#000000"]GET STARTED[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" wpex_bg_overlay="color" css=".vc_custom_1489611264058{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/11dn.jpg?id=82);background-position:center;background-repeat:-repeat !important;background-size: cover !important;}" wpex_bg_overlay_opacity="0.3"][vc_column][vc_column_text font_size="32px"]<span class="white-text">Construction Experts Since 1987.
+Get a Quote Today!</span>[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/construct/contact/" style="outline" color="white" font_weight="400" custom_hover_color="#000000" custom_hover_background="#ffb700" letter_spacing="2px" font_size="14px"]CONTACT US[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1460667358119{padding-top: 50px !important;padding-bottom: 20px !important;}"][vc_column][vcex_heading text="WHAT OUR CLIENTS THINK." tag="h2" text_align="center" font_size="28"][vcex_spacing size="40PX"][vcex_testimonials_grid grid_style="fit-columns" columns_responsive="" order="DESC" orderby="date" filter="true" all_text="All" custom_excerpt_trim="true" img_border_radius="50%" img_width="45" img_height="45"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489611277493{padding-top: 40px !important;padding-bottom: 60px !important;background-color: #efefef !important;}"][vc_column][vcex_heading text="LATEST NEWS." tag="h2" text_align="center" font_size="28"][vcex_spacing][vcex_blog_grid columns="3" equal_heights_grid="true" posts_per_page="3" read_more="false" columns_gap="30" img_hover_style="grow" img_width="600" img_height="300" date_color="#ffb700" date_font_size="14px" content_font_size="15px" content_heading_color="#000000" content_css=".vc_custom_1466365107463{background-color: #ffffff !important;}"][vcex_button url="http://totaltheme.wpengine.com/construct/blog/" title="Visit The Blog" target="blank" rel="nofollow" style="flat" align="center" font_size="14" icon_right="fa fa-chevron-right" custom_background="#444444" custom_hover_background="#111111"]VISIT THE BLOG[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-25 00:16:32]]></wp:post_date>
@@ -734,7 +738,7 @@ Get a Quote Today!</span>[/vc_column_text][vcex_spacing][vcex_button url="http:/
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -754,7 +758,7 @@ Get a Quote Today!</span>[/vc_column_text][vcex_spacing][vcex_button url="http:/
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1476673966792{padding-top: 130px !important;padding-bottom: 100px !important;background: #0a0a0a url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/10-e1422148347664.jpg?id=42);}.vc_custom_1460667407935{padding-top: 80px !important;padding-bottom: 50px !important;}.vc_custom_1460667311892{padding-top: 60px !important;padding-bottom: 50px !important;background-color: #efefef !important;}.vc_custom_1460667332041{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #efefef !important;}.vc_custom_1476227885303{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/11dn.jpg?id=82);background-position:center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460667358119{padding-top: 50px !important;padding-bottom: 20px !important;}.vc_custom_1460667366952{padding-top: 40px !important;padding-bottom: 60px !important;background-color: #efefef !important;}.vc_custom_1476674115468{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1466365107463{background-color: #ffffff !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489611215355{padding-top: 130px !important;padding-bottom: 100px !important;background: #0a0a0a url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/10-e1422148347664.jpg?id=42);}.vc_custom_1489611220024{padding-top: 40px !important;padding-bottom: 40px !important;background-color: #ffb700 !important;}.vc_custom_1460667407935{padding-top: 80px !important;padding-bottom: 50px !important;}.vc_custom_1489611246294{padding-top: 60px !important;padding-bottom: 50px !important;background-color: #efefef !important;}.vc_custom_1489611257982{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #efefef !important;}.vc_custom_1489611264058{padding-top: 100px !important;padding-bottom: 100px !important;background: #000000 url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/11dn.jpg?id=82);background-position:center;background-repeat:-repeat !important;background-size: cover !important;}.vc_custom_1460667358119{padding-top: 50px !important;padding-bottom: 20px !important;}.vc_custom_1489611277493{padding-top: 40px !important;padding-bottom: 60px !important;background-color: #efefef !important;}.vc_custom_1476674115468{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1466365107463{background-color: #ffffff !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
@@ -772,22 +776,20 @@ Get a Quote Today!</span>[/vc_column_text][vcex_spacing][vcex_button url="http:/
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/?page_id=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" typography_style="white" bg_style="stretch" style="light" css=".vc_custom_1476228048592{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/121n.jpg?id=83) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="A LITTLE ABOUT US" tag="h1" font_weight="bold" text_align="center" color="#ffffff" font_size="36px"][vcex_spacing size="20px"][vc_column_text]
-
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" typography_style="white" bg_style="stretch" style="light" css=".vc_custom_1489882640009{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/121n.jpg?id=83) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="A LITTLE ABOUT US" tag="h1" font_weight="bold" text_align="center" color="#ffffff" font_size="36px"][vcex_spacing size="20px"][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 21px;">Taking on a new construction project is a bid deal.
-</span><span style="font-size: 21px;">Thank goodness you found us.</span>
-
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667440356{padding-top: 70px !important;padding-bottom: 30px !important;}"][vc_column width="1/2"][vcex_heading text="THIS IS WHO WE ARE" tag="h2" font_size="28"][vcex_spacing size="20px"][vc_column_text]Progressively maintain extensive infomediaries via extensible niches. Dramatically disseminate standardized metrics after resource-leveling processes. Objectively pursue diverse catalysts for change for interoperable meta-services.
+</span><span style="font-size: 21px;">Thank goodness you found us.</span></p>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489882647512{padding-top: 70px !important;padding-bottom: 30px !important;}"][vc_column width="1/2"][vcex_heading text="THIS IS WHO WE ARE" tag="h2" font_size="28"][vcex_spacing size="20px"][vc_column_text]Progressively maintain extensive infomediaries via extensible niches. Dramatically disseminate standardized metrics after resource-leveling processes. Objectively pursue diverse catalysts for change for interoperable meta-services.
 
 Proactively fabricate one-to-one materials via effective e-business. Completely synergize scalable e-commerce rather than high standards in e-services. Assertively iterate resource maximizing products after leading-edge intellectual capital.[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications.
 
 Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
 
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through change.[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667449134{padding-top: 70px !important;padding-bottom: 30px !important;background-color: #efefef !important;}"][vc_column width="1/2"][vcex_heading text="THIS IS WHAT WE DO" tag="h2" font_size="28"][vcex_spacing size="20px"][vc_column_text]Distinctively re-engineer revolutionary meta-services and premium architectures. Intrinsically incubate intuitive opportunities and real-time potentialities high-impact infrastructures.
+Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through change.[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489882653141{padding-top: 70px !important;padding-bottom: 30px !important;background-color: #efefef !important;}"][vc_column width="1/2"][vcex_heading text="THIS IS WHAT WE DO" tag="h2" font_size="28"][vcex_spacing size="20px"][vc_column_text]Distinctively re-engineer revolutionary meta-services and premium architectures. Intrinsically incubate intuitive opportunities and real-time potentialities high-impact infrastructures.
 
 Appropriately communicate one-to-one technology after plug-and-play networks. Progressively plagiarize resource-leveling e-commerce through resource-leveling core competencies. Dramatically mesh low risk, high yield alignments before transparent customer service. Uniquely matrix economically sound value through cooperative technology. Competently parallel task fully researched data and enterprise process improvements.
 
-Collaboratively expedite quality manufactured products via client-focused results. Appropriately empower dynamic leadership skills after business portals. Globally interactive supply chains with distinctive quality vectors interoperable services.[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image image="84" style="vc_box_circle"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667528807{padding-top: 70px !important;padding-bottom: 30px !important;}"][vc_column][vcex_heading text="THIS WHY WE DO IT" tag="h2" font_size="28"][vcex_spacing size="20px"][vc_column_text]Professionally fashion wireless leadership rather than prospective experiences. Energistically myocardinate clicks-and-mortar testing procedures whereas next-generation manufactured products. Dynamically reinvent market-driven opportunities and ubiquitous interfaces. Energistically fabricate an expanded array of niche markets through robust products. Appropriately implement visionary e-services vis-a-vis strategic web-readiness.
+Collaboratively expedite quality manufactured products via client-focused results. Appropriately empower dynamic leadership skills after business portals. Globally interactive supply chains with distinctive quality vectors interoperable services.[/vc_column_text][/vc_column][vc_column width="1/2"][vc_single_image image="84" style="vc_box_circle"][/vc_column][/vc_row][vc_row css=".vc_custom_1489882658925{padding-top: 70px !important;padding-bottom: 30px !important;}"][vc_column][vcex_heading text="THIS WHY WE DO IT" tag="h2" font_size="28"][vcex_spacing size="20px"][vc_column_text]Professionally fashion wireless leadership rather than prospective experiences. Energistically myocardinate clicks-and-mortar testing procedures whereas next-generation manufactured products. Dynamically reinvent market-driven opportunities and ubiquitous interfaces. Energistically fabricate an expanded array of niche markets through robust products. Appropriately implement visionary e-services vis-a-vis strategic web-readiness.
 
 Compellingly embrace empowered e-business after user friendly intellectual capital. Interactively actualize front-end processes with effective convergence. Synergistically deliver performance based methods of empowerment whereas distributed expertise.[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -825,7 +827,7 @@ Compellingly embrace empowered e-business after user friendly intellectual capit
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -849,7 +851,7 @@ Compellingly embrace empowered e-business after user friendly intellectual capit
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1476228048592{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/121n.jpg?id=83) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460667440356{padding-top: 70px !important;padding-bottom: 30px !important;}.vc_custom_1460667449134{padding-top: 70px !important;padding-bottom: 30px !important;background-color: #efefef !important;}.vc_custom_1460667528807{padding-top: 70px !important;padding-bottom: 30px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489882640009{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/121n.jpg?id=83) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489882647512{padding-top: 70px !important;padding-bottom: 30px !important;}.vc_custom_1489882653141{padding-top: 70px !important;padding-bottom: 30px !important;background-color: #efefef !important;}.vc_custom_1489882658925{padding-top: 70px !important;padding-bottom: 30px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -859,11 +861,10 @@ Compellingly embrace empowered e-business after user friendly intellectual capit
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/?page_id=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" bg_style="stretch" style="light" css=".vc_custom_1476675889126{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/5d.jpg?id=40) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="WE'RE READY TO GET STARTED" tag="h1" font_weight="bold" text_align="center" font_size="32px" color="#ffffff"][vcex_spacing size="10px"][vc_column_text color="#ffffff" font_size="21px"]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" typography_style="light" bg_style="stretch" css=".vc_custom_1489882789591{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/5d.jpg?id=40) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="WE'RE READY TO GET STARTED" tag="h1" font_weight="bold" text_align="center" font_size="32px" color="#ffffff"][vcex_spacing size="10px"][vc_column_text color="#ffffff" font_size="21px"]
 <p style="text-align: center;">Just drop us a note, send us a tweet or give us a call.
-We can get started right away!
-
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667735598{padding-top: 70px !important;padding-bottom: 20px !important;}"][vc_column][vcex_form_shortcode full_width="true"][contact-form-7 id="11" title="Contact form 1"][/vcex_form_shortcode][/vc_column][/vc_row]]]></content:encoded>
+We can get started right away!</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489882793899{padding-top: 70px !important;padding-bottom: 20px !important;}"][vc_column][vcex_form_shortcode full_width="true"][contact-form-7 id="11" title="Contact form 1"][/vcex_form_shortcode][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-25 00:21:50]]></wp:post_date>
@@ -899,7 +900,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -923,7 +924,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1476675889126{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/5d.jpg?id=40) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460667735598{padding-top: 70px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489882789591{padding-top: 170px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/5d.jpg?id=40) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489882793899{padding-top: 70px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -933,7 +934,7 @@ We can get started right away!
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/?page_id=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row=""][vc_column margin_bottom="0px"][rev_slider_vc alias="construct-services"][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="40" css=".vc_custom_1476675481002{padding-top: 70px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Surveying" heading_type="h2" heading_transform="uppercase" icon="search" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Design" heading_type="h2" heading_transform="uppercase" icon="pencil" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Customizations" heading_type="h2" heading_transform="uppercase" icon="tint" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="40" css=".vc_custom_1476675475241{padding-bottom: 30px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Construction" heading_type="h2" heading_transform="uppercase" icon="wrench" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Eco-Friendly" heading_type="h2" heading_transform="uppercase" icon="tree" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Support" heading_type="h2" heading_transform="uppercase" icon="support" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row=""][vc_column css=".vc_custom_1476675502012{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_carousel style="no-margins" items_margin="0" overlay_style="plus-three-hover" thumbnail_link="lightbox" img_width="800" img_height="600" image_ids="87,79,80,20,86,81,85"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces"][vc_column margin_bottom="0px"][rev_slider_vc alias="construct-services"][/vc_column][/vc_row][vc_row column_spacing="40" css=".vc_custom_1489882700335{padding-top: 70px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Surveying" heading_type="h2" icon="search" heading_transform="uppercase" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Design" heading_type="h2" icon="pencil" heading_transform="uppercase" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Customizations" heading_type="h2" icon="tint" heading_transform="uppercase" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][/vc_row][vc_row column_spacing="40" css=".vc_custom_1489882695473{padding-bottom: 30px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Construction" heading_type="h2" icon="wrench" heading_transform="uppercase" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Eco-Friendly" heading_type="h2" icon="tree" heading_transform="uppercase" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Support" heading_type="h2" icon="support" heading_transform="uppercase" icon_color="#000000" icon_background="#ffb700" icon_border_radius="99px" icon_width="100px" icon_height="100px" icon_size="36px" icon_bottom_margin="30px"]Collaboratively administrate turnkey channels whereas virtual resources. Objectively seize scalable metrics whereas proactive e-services fully empowered.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column css=".vc_custom_1476675502012{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_carousel style="no-margins" items_margin="0" thumbnail_link="lightbox" overlay_style="plus-three-hover" img_width="800" img_height="600" image_ids="87,79,80,20,86,81,85"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-25 00:22:43]]></wp:post_date>
@@ -969,7 +970,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -993,7 +994,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1476675481002{padding-top: 70px !important;}.vc_custom_1476675475241{padding-bottom: 30px !important;}.vc_custom_1476675502012{margin-bottom: 0px !important;background-color: #000000 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489882700335{padding-top: 70px !important;}.vc_custom_1489882695473{padding-bottom: 30px !important;}.vc_custom_1476675502012{margin-bottom: 0px !important;background-color: #000000 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1410,78 +1411,6 @@ We can get started right away!
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Gallery</title>
-		<link>http://totaltheme.wpengine.com/construct/gallery/</link>
-		<pubDate>Wed, 01 Apr 2015 20:22:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/?page_id=47</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" typography_style="light" column_spacing="0px" bg_style="stretch" style="light" no_margins="true" css=".vc_custom_1476675586695{padding-top: 140px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/04/21dn.jpg?id=90) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="THINGS WE'VE DONE" tag="h1" font_weight="bold" text_align="center" font_size="36px" color="#ffffff"][vcex_spacing size="10px"][vc_column_text color="#ffffff" font_size="21px"]
-<p style="text-align: center;">Have a look at some of the awesome projects we have completed.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667643256{padding-top: 20px !important;padding-bottom: 20px !important;}"][vc_column][vcex_spacing size="60px"][vcex_image_grid columns="3" lightbox_title="false" lightbox_caption="false" overlay_style="magnifying-hover" title="no" img_rendering="" image_ids="89,20,87,79,88,80,86,81,85" img_width="650" img_height="500"][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2015-04-01 20:22:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-04-01 20:22:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[gallery]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1476675586695{padding-top: 140px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/04/21dn.jpg?id=90) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460667643256{padding-top: 20px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
 		<link>http://totaltheme.wpengine.com/construct/48/</link>
 		<pubDate>Wed, 01 Apr 2015 20:23:34 +0000</pubDate>
@@ -1693,7 +1622,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:15:"2015/01/20n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"20n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:15:"2015/01/20n.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:15:"20n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_800x600";a:5:{s:4:"file";s:15:"20n-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_800x600@2x";a:5:{s:4:"file";s:18:"20n-800x600@2x.jpg";s:5:"width";i:1600;s:6:"height";i:1200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:17:"20n-1500x1000.jpg";s:5:"width";i:1500;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:15:"20n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:18:"20n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1724,7 +1653,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:15:"2015/01/30n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"30n-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:15:"2015/01/30n.jpg";s:5:"sizes";a:17:{s:12:"medium_large";a:4:{s:4:"file";s:15:"30n-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_600x300";a:5:{s:4:"file";s:15:"30n-600x300.jpg";s:5:"width";i:600;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x300@2x";a:5:{s:4:"file";s:18:"30n-600x300@2x.jpg";s:5:"width";i:1200;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_800x600";a:5:{s:4:"file";s:15:"30n-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:16:"30n-1500x844.jpg";s:5:"width";i:1500;s:6:"height";i:844;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:15:"30n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:18:"30n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_670x377";a:5:{s:4:"file";s:15:"30n-670x377.jpg";s:5:"width";i:670;s:6:"height";i:377;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_670x377@2x";a:5:{s:4:"file";s:18:"30n-670x377@2x.jpg";s:5:"width";i:1340;s:6:"height";i:754;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:15:"30n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_post@2x";a:5:{s:4:"file";s:18:"30n-750x400@2x.jpg";s:5:"width";i:1500;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:15:"30n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"blog_related@2x";a:5:{s:4:"file";s:18:"30n-750x400@2x.jpg";s:5:"width";i:1500;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:15:"30n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"blog_entry@2x";a:5:{s:4:"file";s:18:"30n-750x400@2x.jpg";s:5:"width";i:1500;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:15:"30n-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:18:"30n-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1755,7 +1684,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1079;s:4:"file";s:15:"2015/04/12n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"12n-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1079;s:4:"file";s:15:"2015/04/12n.jpg";s:5:"sizes";a:16:{s:12:"medium_large";a:4:{s:4:"file";s:15:"12n-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_600x300";a:5:{s:4:"file";s:15:"12n-600x300.jpg";s:5:"width";i:600;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x300@2x";a:5:{s:4:"file";s:18:"12n-600x300@2x.jpg";s:5:"width";i:1200;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_650x500";a:5:{s:4:"file";s:15:"12n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:18:"12n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:16:"12n-1500x843.jpg";s:5:"width";i:1500;s:6:"height";i:843;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_670x377";a:5:{s:4:"file";s:15:"12n-670x377.jpg";s:5:"width";i:670;s:6:"height";i:377;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_670x377@2x";a:5:{s:4:"file";s:18:"12n-670x377@2x.jpg";s:5:"width";i:1340;s:6:"height";i:754;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:15:"12n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"blog_related@2x";a:5:{s:4:"file";s:18:"12n-750x400@2x.jpg";s:5:"width";i:1500;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:15:"12n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_post@2x";a:5:{s:4:"file";s:18:"12n-750x400@2x.jpg";s:5:"width";i:1500;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:15:"12n-750x400.jpg";s:5:"width";i:750;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"blog_entry@2x";a:5:{s:4:"file";s:18:"12n-750x400@2x.jpg";s:5:"width";i:1500;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:15:"12n-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:18:"12n-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1786,7 +1715,7 @@ We can get started right away!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1079;s:4:"file";s:14:"2015/04/6n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:14:"6n-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1079;s:4:"file";s:14:"2015/04/6n.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:14:"6n-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_650x500";a:5:{s:4:"file";s:14:"6n-650x500.jpg";s:5:"width";i:650;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_650x500@2x";a:5:{s:4:"file";s:17:"6n-650x500@2x.jpg";s:5:"width";i:1300;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:15:"6n-1500x843.jpg";s:5:"width";i:1500;s:6:"height";i:843;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1818,6 +1747,35 @@ We can get started right away!
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:800;s:4:"file";s:16:"2015/04/21dn.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"21dn-768x323.jpg";s:5:"width";i:768;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Total</title>
+		<link>http://totaltheme.wpengine.com/construct/total/</link>
+		<pubDate>Tue, 14 Mar 2017 22:38:16 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/total/</guid>
+		<description></description>
+		<content:encoded><![CDATA[/* Add more spacing to menu items */
+.navbar-style-one .dropdown-menu > li > a {
+  padding-left: 10px; padding-right: 10px;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>92</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-14 22:38:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-14 22:38:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[total]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2074,6 +2032,78 @@ This e-mail was sent from a contact form on Construct (http://totaltheme.wpengin
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Karla May]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Gallery</title>
+		<link>http://totaltheme.wpengine.com/construct/gallery/</link>
+		<pubDate>Wed, 01 Apr 2015 20:22:33 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/?page_id=47</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" column_spacing="0px" typography_style="light" bg_style="stretch" style="light" no_margins="true" css=".vc_custom_1489882759835{padding-top: 140px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/04/21dn.jpg?id=90) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="THINGS WE'VE DONE" tag="h1" font_weight="bold" text_align="center" font_size="36px" color="#ffffff"][vcex_spacing size="10px"][vc_column_text color="#ffffff" font_size="21px"]
+<p style="text-align: center;">Have a look at some of the awesome projects we have completed.</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489882765617{padding-top: 20px !important;padding-bottom: 20px !important;}"][vc_column][vcex_spacing size="60px"][vcex_image_grid columns="3" lightbox_title="false" lightbox_caption="false" overlay_style="magnifying-hover" img_rendering="" image_ids="89,20,87,79,88,80,86,81,85" img_width="650" img_height="500"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2015-04-01 20:22:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-04-01 20:22:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[gallery]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1489882759835{padding-top: 140px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/04/21dn.jpg?id=90) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489882765617{padding-top: 20px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2362,10 +2392,9 @@ Nullam finibus nisl sit amet leo vehicula rhoncus. Integer efficitur diam ut fin
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/construct/?page_id=60</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" column_spacing="0px" bg_style="stretch" style="light" no_margins="true" css=".vc_custom_1476675738831{padding-top: 140px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/61.jpg?id=58) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="THINGS YOU SHOULD KNOW" font_weight="bold" text_align="center" font_size="36px" color="#ffffff"][vcex_spacing size="10px"][vc_column_text color="#ffffff" font_size="21px"]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" column_spacing="0px" typography_style="light" bg_style="stretch" no_margins="true" css=".vc_custom_1489882812878{padding-top: 140px !important;padding-bottom: 140px !important;background: #1c0010 url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/61.jpg?id=58) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column 0=""][vcex_heading text="THINGS YOU SHOULD KNOW" font_weight="bold" text_align="center" font_size="36px" color="#ffffff"][vcex_spacing size="10px"][vc_column_text color="#ffffff" font_size="21px"]
 <p style="text-align: center;">Some cool stuff and things to read about.</p>
-
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667690877{padding-top: 70px !important;padding-bottom: 20px !important;}"][vc_column][vcex_blog_grid columns="3" equal_heights_grid="true" posts_per_page="-1" readmore_style="flat" readmore_style_color="black" read_more_text="KEEP READING" img_width="670" img_height="377"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1460667690877{padding-top: 70px !important;padding-bottom: 20px !important;}"][vc_column 0=""][vcex_blog_grid columns="3" equal_heights_grid="true" posts_per_page="-1" readmore_style="flat" readmore_style_color="black" read_more_text="KEEP READING" img_width="670" img_height="377"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2015-08-17 00:21:55]]></wp:post_date>
@@ -2409,7 +2438,7 @@ Nullam finibus nisl sit amet leo vehicula rhoncus. Integer efficitur diam ut fin
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -2429,7 +2458,7 @@ Nullam finibus nisl sit amet leo vehicula rhoncus. Integer efficitur diam ut fin
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1476675738831{padding-top: 140px !important;padding-bottom: 140px !important;background-image: url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/61.jpg?id=58) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460667690877{padding-top: 70px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489882812878{padding-top: 140px !important;padding-bottom: 140px !important;background: #1c0010 url(http://totaltheme.wpengine.com/construct/wp-content/uploads/sites/23/2015/01/61.jpg?id=58) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1460667690877{padding-top: 70px !important;padding-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
