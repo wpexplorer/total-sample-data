@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-03-15 01:07" -->
+<!-- generator="WordPress/4.7.3" created="2017-04-03 01:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Married</title>
 	<link>http://totaltheme.wpengine.com/married</link>
 	<description>We&#039;re Getting Married</description>
-	<pubDate>Wed, 15 Mar 2017 01:07:01 +0000</pubDate>
+	<pubDate>Mon, 03 Apr 2017 01:38:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -656,7 +656,7 @@
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/married/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/*ACCENT COLOR*//*ACCENT COLOR*/.wpex-carousel-woocommerce .wpex-carousel-entry-details,a,.wpex-accent-color,#site-navigation .dropdown-menu a:hover,#site-navigation .dropdown-menu &gt;.current-menu-item &gt;a,#site-navigation .dropdown-menu &gt;.current-menu-parent &gt;a,h1 a:hover,h2 a:hover,a:hover h2,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.entry-title a:hover,.modern-menu-widget a:hover,.theme-button.outline,.theme-button.clean{color:#fe8b6e}.vcex-skillbar-bar,.vcex-icon-box.style-five.link-wrap:hover,.vcex-icon-box.style-four.link-wrap:hover,.vcex-recent-news-date span.month,.vcex-pricing.featured .vcex-pricing-header,.vcex-testimonials-fullslider .sp-button:hover,.vcex-testimonials-fullslider .sp-selected-button,.vcex-social-links a:hover,.vcex-testimonials-fullslider.light-skin .sp-button:hover,.vcex-testimonials-fullslider.light-skin .sp-selected-button,.vcex-divider-dots span,.vcex-testimonials-fullslider .sp-button.sp-selected-button,.vcex-testimonials-fullslider .sp-button:hover,.wpex-accent-bg,.background-highlight,input[type="submit"],.theme-button,button,.theme-button.outline:hover,.active .theme-button,.theme-button.active,#main .tagcloud a:hover,.post-tags a:hover,.wpex-carousel .owl-dot.active,.navbar-style-one .menu-button &gt;a &gt;span.link-inner,.wpex-carousel .owl-prev,.wpex-carousel .owl-next,body #header-two-search #header-two-search-submit,.theme-button:hover,.modern-menu-widget li.current-menu-item a,#sidebar .widget_nav_menu .current-menu-item &gt;a,#wp-calendar caption,#site-scroll-top:hover,input[type="submit"]:hover,button:hover,.wpex-carousel .owl-prev:hover,.wpex-carousel .owl-next:hover,#site-navigation .menu-button &gt;a &gt;span.link-inner,#site-navigation .menu-button &gt;a &gt;span.link-inner:hover,.navbar-style-six .dropdown-menu &gt;.current-menu-item &gt;a,.navbar-style-six .dropdown-menu &gt;.current-menu-parent &gt;a{background-color:#fe8b6e}.vcex-heading-bottom-border-w-color .vcex-heading-inner{border-bottom-color:#fe8b6e}.wpb_tabs.tab-style-alternative-two .wpb_tabs_nav li.ui-tabs-active a{border-bottom-color:#fe8b6e}.theme-button.outline{border-color:#fe8b6e}#searchform-dropdown{border-color:#fe8b6e}.toggle-bar-btn:hover{border-top-color:#fe8b6e;border-right-color:#fe8b6e}body #site-navigation-wrap.nav-dropdown-top-border .dropdown-menu &gt;li &gt;ul{border-top-color:#fe8b6e}.theme-heading.border-w-color span.text{border-bottom-color:#fe8b6e}/*TYPOGRAPHY*/body{font-family:"Droid Serif";font-size:16px;color:#685240}h1,h2,h3,h4,h5,h6,.theme-heading,.page-header-title,.heading-typography,.widget-title,.wpex-widget-recent-posts-title,.comment-reply-title,.vcex-heading,.entry-title,.sidebar-box .widget-title,.search-entry h2{font-family:"Oswald"}/* Remove logo from this page */
+		<content:encoded><![CDATA[/* Remove logo from this page */
 #site-header-inner { display: none; }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>45</wp:post_id>
@@ -671,6 +671,10 @@
 		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Home</title>
