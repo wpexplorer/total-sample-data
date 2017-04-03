@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.6.1" created="2016-10-17 01:33" -->
+<!-- generator="WordPress/4.7.3" created="2017-04-03 01:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,12 +29,13 @@
 	<title>HealthCare</title>
 	<link>http://totaltheme.wpengine.com/healthcare</link>
 	<description>Total WordPress Theme Demo</description>
-	<pubDate>Mon, 17 Oct 2016 01:33:02 +0000</pubDate>
+	<pubDate>Mon, 03 Apr 2017 01:11:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
 	<wp:base_blog_url>http://totaltheme.wpengine.com/healthcare</wp:base_blog_url>
 
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpengine]]></wp:author_login><wp:author_email><![CDATA[bitbucket@wpengine.com]]></wp:author_email><wp:author_display_name><![CDATA[wpengine]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category>
@@ -191,7 +192,7 @@
 	<wp:term><wp:term_id>37</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mobile-icons]]></wp:term_slug><wp:term_name><![CDATA[Mobile Icons]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 	<item>
 		<title>person1</title>
@@ -252,7 +253,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:500;s:4:"file";s:19:"2014/09/person2.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:500;s:4:"file";s:19:"2014/09/person2.jpg";s:5:"sizes";a:2:{s:18:"testimonials_entry";a:5:{s:4:"file";s:17:"person2-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:21:"testimonials_entry@2x";a:5:{s:4:"file";s:20:"person2-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -438,7 +439,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:500;s:4:"file";s:19:"2014/09/person8.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:500;s:4:"file";s:19:"2014/09/person8.jpg";s:5:"sizes";a:2:{s:18:"testimonials_entry";a:5:{s:4:"file";s:17:"person8-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:21:"testimonials_entry@2x";a:5:{s:4:"file";s:20:"person8-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -469,7 +470,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:19:"2014/09/person9.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:19:"2014/09/person9.jpg";s:5:"sizes";a:4:{s:10:"wpex_70x70";a:5:{s:4:"file";s:17:"person9-70x70.jpg";s:5:"width";i:70;s:6:"height";i:70;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_70x70@2x";a:5:{s:4:"file";s:20:"person9-70x70@2x.jpg";s:5:"width";i:140;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:18:"testimonials_entry";a:5:{s:4:"file";s:17:"person9-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:21:"testimonials_entry@2x";a:5:{s:4:"file";s:20:"person9-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -500,7 +501,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2014/09/person10.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2014/09/person10.jpg";s:5:"sizes";a:4:{s:10:"wpex_70x70";a:5:{s:4:"file";s:18:"person10-70x70.jpg";s:5:"width";i:70;s:6:"height";i:70;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_70x70@2x";a:5:{s:4:"file";s:21:"person10-70x70@2x.jpg";s:5:"width";i:140;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:18:"testimonials_entry";a:5:{s:4:"file";s:18:"person10-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:21:"testimonials_entry@2x";a:5:{s:4:"file";s:21:"person10-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -531,7 +532,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:499;s:6:"height";i:500;s:4:"file";s:20:"2014/09/person11.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:499;s:6:"height";i:500;s:4:"file";s:20:"2014/09/person11.jpg";s:5:"sizes";a:2:{s:18:"testimonials_entry";a:5:{s:4:"file";s:18:"person11-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:21:"testimonials_entry@2x";a:5:{s:4:"file";s:21:"person11-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -562,7 +563,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2014/09/person12.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:20:"2014/09/person12.jpg";s:5:"sizes";a:4:{s:10:"wpex_70x70";a:5:{s:4:"file";s:18:"person12-70x70.jpg";s:5:"width";i:70;s:6:"height";i:70;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_70x70@2x";a:5:{s:4:"file";s:21:"person12-70x70@2x.jpg";s:5:"width";i:140;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:18:"testimonials_entry";a:5:{s:4:"file";s:18:"person12-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:21:"testimonials_entry@2x";a:5:{s:4:"file";s:21:"person12-45x45@2x.jpg";s:5:"width";i:90;s:6:"height";i:90;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -593,7 +594,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:14:"2014/09/b1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:14:"b1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:14:"2014/09/b1.jpg";s:5:"sizes";a:8:{s:12:"medium_large";a:4:{s:4:"file";s:14:"b1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:12:"b1-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_65x65@2x";a:5:{s:4:"file";s:15:"b1-65x65@2x.jpg";s:5:"width";i:130;s:6:"height";i:130;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:14:"b1-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:14:"b1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:17:"b1-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:14:"b1-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:14:"b1-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -686,7 +687,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:19:"2014/09/smoking.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:19:"smoking-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:19:"2014/09/smoking.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:19:"smoking-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_150x150";a:5:{s:4:"file";s:19:"smoking-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:22:"smoking-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:19:"smoking-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -717,7 +718,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:847;s:4:"file";s:18:"2014/09/splash.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"splash-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:847;s:4:"file";s:18:"2014/09/splash.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:18:"splash-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:18:"splash-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"splash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:21:"splash-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"splash-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:18:"splash-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -748,7 +749,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:21:"2014/09/pregnancy.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:21:"pregnancy-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:21:"2014/09/pregnancy.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:21:"pregnancy-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"blog_related";a:5:{s:4:"file";s:21:"pregnancy-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:21:"pregnancy-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:24:"pregnancy-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:21:"pregnancy-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:21:"pregnancy-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -903,7 +904,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:16:"2014/09/bagw.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"bagw-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:16:"2014/09/bagw.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"bagw-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:16:"bagw-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:19:"bagw-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -934,7 +935,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:16:"2014/09/bagb.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"bagb-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:16:"2014/09/bagb.jpg";s:5:"sizes";a:7:{s:12:"medium_large";a:4:{s:4:"file";s:16:"bagb-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:16:"bagb-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:19:"bagb-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:16:"bagb-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:19:"bagb-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_thumbnail";a:5:{s:4:"file";s:14:"bagb-50x50.jpg";s:5:"width";i:50;s:6:"height";i:50;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"shop_thumbnail@2x";a:5:{s:4:"file";s:17:"bagb-50x50@2x.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -965,7 +966,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:21:"2014/09/clipboard.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:21:"clipboard-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:21:"2014/09/clipboard.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:21:"clipboard-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:21:"clipboard-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:24:"clipboard-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:21:"clipboard-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:24:"clipboard-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -996,7 +997,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:16:"2014/09/cups.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"cups-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:16:"2014/09/cups.jpg";s:5:"sizes";a:7:{s:12:"medium_large";a:4:{s:4:"file";s:16:"cups-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:16:"cups-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:19:"cups-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:16:"cups-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:19:"cups-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_thumbnail";a:5:{s:4:"file";s:14:"cups-50x50.jpg";s:5:"width";i:50;s:6:"height";i:50;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"shop_thumbnail@2x";a:5:{s:4:"file";s:17:"cups-50x50@2x.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1027,7 +1028,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:20:"2014/09/kombucha.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:20:"kombucha-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:20:"2014/09/kombucha.jpg";s:5:"sizes";a:7:{s:12:"medium_large";a:4:{s:4:"file";s:20:"kombucha-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:20:"kombucha-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:23:"kombucha-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:20:"kombucha-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:23:"kombucha-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_thumbnail";a:5:{s:4:"file";s:18:"kombucha-50x50.jpg";s:5:"width";i:50;s:6:"height";i:50;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"shop_thumbnail@2x";a:5:{s:4:"file";s:21:"kombucha-50x50@2x.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1058,7 +1059,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:20:"2014/09/notebook.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:20:"notebook-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:20:"2014/09/notebook.jpg";s:5:"sizes";a:9:{s:12:"medium_large";a:4:{s:4:"file";s:20:"notebook-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:20:"notebook-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:23:"notebook-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:18:"notebook-70x70.jpg";s:5:"width";i:70;s:6:"height";i:70;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:24:"shop_single_thumbnail@2x";a:5:{s:4:"file";s:21:"notebook-70x70@2x.jpg";s:5:"width";i:140;s:6:"height";i:140;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_thumbnail";a:5:{s:4:"file";s:18:"notebook-50x50.jpg";s:5:"width";i:50;s:6:"height";i:50;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"shop_thumbnail@2x";a:5:{s:4:"file";s:21:"notebook-50x50@2x.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:20:"notebook-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:23:"notebook-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1089,7 +1090,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:21:"2014/09/sugarfree.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:21:"sugarfree-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:21:"2014/09/sugarfree.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:21:"sugarfree-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:21:"sugarfree-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:24:"sugarfree-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:21:"sugarfree-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:24:"sugarfree-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1120,7 +1121,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:15:"2014/09/tea.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"tea-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:15:"2014/09/tea.jpg";s:5:"sizes";a:7:{s:12:"medium_large";a:4:{s:4:"file";s:15:"tea-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:15:"tea-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"shop_catalog@2x";a:5:{s:4:"file";s:18:"tea-480x540@2x.jpg";s:5:"width";i:960;s:6:"height";i:1080;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:15:"tea-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:18:"tea-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_thumbnail";a:5:{s:4:"file";s:13:"tea-50x50.jpg";s:5:"width";i:50;s:6:"height";i:50;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"shop_thumbnail@2x";a:5:{s:4:"file";s:16:"tea-50x50@2x.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1213,7 +1214,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:23:"2014/09/medications.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:23:"medications-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:23:"2014/09/medications.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:23:"medications-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:23:"medications-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1244,7 +1245,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:22:"2014/09/weightloss.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:22:"weightloss-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:22:"2014/09/weightloss.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:22:"weightloss-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:22:"weightloss-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1275,7 +1276,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:22:"2014/09/watermelon.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:22:"watermelon-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:22:"2014/09/watermelon.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:22:"watermelon-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:22:"watermelon-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:22:"watermelon-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1368,7 +1369,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-2.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-2.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:16:"b1-2-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:16:"b1-2-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1399,7 +1400,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-3.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-3.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:16:"b1-3-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:16:"b1-3-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1430,7 +1431,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-4.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-4-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-4.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-4-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:16:"b1-4-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:16:"b1-4-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1933,7 +1934,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-5.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2014/09/b1-5.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"b1-5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:16:"b1-5-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:16:"b1-5-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2116,7 +2117,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:18:"2014/09/diet-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"diet-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:18:"2014/09/diet-n.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:18:"diet-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:18:"diet-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"diet-n-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:21:"diet-n-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"diet-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:18:"diet-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2147,7 +2148,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:21:"2014/09/running-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:21:"running-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:21:"2014/09/running-n.jpg";s:5:"sizes";a:8:{s:12:"medium_large";a:4:{s:4:"file";s:21:"running-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:21:"running-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:21:"running-n-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:24:"running-n-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_65x65";a:5:{s:4:"file";s:19:"running-n-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_65x65@2x";a:5:{s:4:"file";s:22:"running-n-65x65@2x.jpg";s:5:"width";i:130;s:6:"height";i:130;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:21:"running-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:21:"running-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2178,7 +2179,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:17:"2014/09/bag-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:17:"bag-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:17:"2014/09/bag-n.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:17:"bag-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:17:"bag-n-480x540.jpg";s:5:"width";i:480;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:17:"bag-n-700x467.jpg";s:5:"width";i:700;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_single@2x";a:5:{s:4:"file";s:20:"bag-n-700x467@2x.jpg";s:5:"width";i:1400;s:6:"height";i:934;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"shop_thumbnail";a:5:{s:4:"file";s:15:"bag-n-50x50.jpg";s:5:"width";i:50;s:6:"height";i:50;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"shop_thumbnail@2x";a:5:{s:4:"file";s:18:"bag-n-50x50@2x.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2209,7 +2210,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:27:"2014/09/chopping-food-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:27:"chopping-food-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:27:"2014/09/chopping-food-n.jpg";s:5:"sizes";a:8:{s:12:"medium_large";a:4:{s:4:"file";s:27:"chopping-food-n-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:25:"chopping-food-n-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"wpex_65x65@2x";a:5:{s:4:"file";s:28:"chopping-food-n-65x65@2x.jpg";s:5:"width";i:130;s:6:"height";i:130;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:27:"chopping-food-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:27:"chopping-food-n-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:30:"chopping-food-n-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:27:"chopping-food-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:27:"chopping-food-n-680x380.jpg";s:5:"width";i:680;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2312,10 +2313,11 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?page_id=106</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" column_spacing="40" padding_top="80px" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box heading="Affordable Plans" heading_type="h2" heading_weight="400" icon="medkit" url_target="_blank" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Great Doctors" heading_type="h2" heading_weight="400" icon="user-md" url_target="_blank" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Accepted Worldwide" heading_type="h2" heading_weight="400" icon="globe" url_target="_blank" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" column_spacing="40" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box heading="Helpful Agents" heading_type="h2" heading_weight="400" icon="users" url_target="_blank" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Prevention Guidelines" heading_type="h2" heading_weight="400" icon="file-text-o" url_target="_blank" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="24/7 Phone Support" heading_type="h2" heading_weight="400" icon="phone" url_target="_blank" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1453249706655{padding-top: 50px !important;padding-bottom: 30px !important;background-color: #f6f6f6 !important;}"][vc_column][vc_column_text]
+		<content:encoded><![CDATA[[vc_row column_spacing="40" center_row="yes" padding_top="80px" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box heading="Affordable Plans" heading_type="h2" icon="medkit" url_target="_blank" heading_weight="400" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Great Doctors" heading_type="h2" icon="user-md" url_target="_blank" heading_weight="400" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Accepted Worldwide" heading_type="h2" icon="globe" url_target="_blank" heading_weight="400" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][/vc_row][vc_row column_spacing="40" center_row="yes" padding_bottom="40px"][vc_column width="1/3"][vcex_icon_box heading="Helpful Agents" heading_type="h2" icon="users" url_target="_blank" heading_weight="400" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Prevention Guidelines" heading_type="h2" icon="file-text-o" url_target="_blank" heading_weight="400" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="24/7 Phone Support" heading_type="h2" icon="phone" url_target="_blank" heading_weight="400" icon_color="#78b153" icon_size="36" heading_size="21px" container_left_padding="60px" url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer"]Blue mountain robusta, that pumpkin spice, eu milk, doppio, lungo iced café au lait decaffeinated, a, cup in coffee.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489791802685{padding-top: 50px !important;padding-bottom: 30px !important;background-color: #f6f6f6 !important;}"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: verdana,geneva; color: #000000;">We want you to be happy and healthy, that's why we're here.</span></p>
 <p style="text-align: center;"><span style="font-size: 14px;">Take a look at our affordable healthcare plans to protect yourself and your loved ones. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo.</span></p>
-[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/healthcare/pricing/" title="Get More Information" style="flat" align="center" size="medium" color="black" font_weight="400" font_size="16px" icon_right="chevron-right" custom_background="#78b153" custom_hover_background="#000000"]Get More Information[/vcex_button][/vc_column][/vc_row][vc_row parallax="content-moving" parallax_image="425" parallax_speed_bg="3.0" center_row="yes" css=".vc_custom_1476148009507{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://totaltheme.wpengine.com/healthcare/wp-content/uploads/sites/12/2014/09/milesbg-n.jpg?id=457) !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}"][vc_column width="1/4"][vcex_milestone number="25" caption="Years In Business" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" number_bottom_margin="20px"][/vc_column][vc_column width="1/4"][vcex_milestone number="3" caption="Flexible Plans" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" number_bottom_margin="20px"][/vc_column][vc_column width="1/4"][vcex_milestone number="137" caption="Happy Families" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" after="k" number_bottom_margin="20pz"][/vc_column][vc_column width="1/4"][vcex_milestone number="1" caption="In The Industry" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" before="#" number_bottom_margin="20px"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="25px"][vc_column][vcex_testimonials_slider height_animation="400" animation_speed="600" slideshow_speed="5000" count="3" order="DESC" orderby="date" custom_excerpt_trim="true" background_style="stretch" img_width="70" img_height="70"][/vc_column][/vc_row]]]></content:encoded>
+
+[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/healthcare/pricing/" title="Get More Information" style="flat" align="center" color="black" font_weight="400" font_size="16px" icon_right="chevron-right" custom_background="#78b153" custom_hover_background="#000000"]Get More Information[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="425" parallax_speed_bg="3.0" css=".vc_custom_1489791820288{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://totaltheme.wpengine.com/healthcare/wp-content/uploads/sites/12/2014/09/milesbg-n.jpg?id=457) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/4"][vcex_milestone number="25" caption="Years In Business" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" number_bottom_margin="20px"][/vc_column][vc_column width="1/4"][vcex_milestone number="3" caption="Flexible Plans" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" number_bottom_margin="20px"][/vc_column][vc_column width="1/4"][vcex_milestone number="137" caption="Happy Families" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" after="k" number_bottom_margin="20pz"][/vc_column][vc_column width="1/4"][vcex_milestone number="1" caption="In The Industry" number_font_family="Roboto Slab" number_color="#ffffff" number_size="60px" caption_color="#ffffff" caption_size="18px" before="#" number_bottom_margin="20px"][/vc_column][/vc_row][vc_row center_row="yes" padding_top="25px"][vc_column][vcex_testimonials_slider height_animation="400" animation_speed="600" slideshow_speed="5000" count="3" order="DESC" orderby="date" custom_excerpt_trim="true" background_style="stretch" img_width="70" img_height="70"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-07 21:28:32]]></wp:post_date>
@@ -2344,10 +2346,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_toggle_bar]]></wp:meta_key>
@@ -2387,7 +2385,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1453249706655{padding-top: 50px !important;padding-bottom: 30px !important;background-color: #f6f6f6 !important;}.vc_custom_1476148009507{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://totaltheme.wpengine.com/healthcare/wp-content/uploads/sites/12/2014/09/milesbg-n.jpg?id=457) !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489791802685{padding-top: 50px !important;padding-bottom: 30px !important;background-color: #f6f6f6 !important;}.vc_custom_1489791820288{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://totaltheme.wpengine.com/healthcare/wp-content/uploads/sites/12/2014/09/milesbg-n.jpg?id=457) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
@@ -2397,6 +2395,10 @@
 			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
 			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Contact</title>
@@ -2405,8 +2407,9 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?page_id=170</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1475528798778{padding-top: 20px !important;padding-bottom: 60px !important;}"][vc_column][vc_column_text]
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1489792834457{padding-top: 20px !important;padding-bottom: 60px !important;}"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; color: #000000; font-family: 'Roboto Slab';">Request a quote. Ask about your claim. Or just say hi. Whatever your reason, day or night, we'd love to hear from you.</span></p>
+
 [/vc_column_text][vcex_divider icon="fa fa-envelope" width="100%" height="1px" margin_top="20px" margin_bottom="20px" icon_size="20px" icon_color="#000000"][contact-form-7 id="203"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>170</wp:post_id>
@@ -2447,7 +2450,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_toggle_bar]]></wp:meta_key>
@@ -2483,7 +2486,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1475528798778{padding-top: 20px !important;padding-bottom: 60px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489792834457{padding-top: 20px !important;padding-bottom: 60px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2493,12 +2496,12 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://wp.dev/total-business-1/?page_id=171</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1453250315273{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column][vc_column_text]
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1489792538500{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: verdana,geneva; color: #000000;"><span style="font-family: 'Roboto Slab';">Pick a plan. If you can't choose give us a call and we'd be glad to help.</span>
 </span>
-
 <p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as acerbic. Et cappuccino est sugar french press, coffee medium lungo. Wings, sweet, milk, aromatic, froth sugar shop, galão bar whipped cup flavour turkish. Milk ristretto grounds to go shop grinder barista froth medium robust dark.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1453250350396{padding-bottom: 40px !important;background-color: #ffffff !important;}"][vc_column width="1/3"][vcex_pricing plan="Bronze" plan_weight="400" cost="$100" button_text="Learn More" button_weight="400" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Learn%20More|target:%20_blank" button_bg_color="#444444" button_hover_bg_color="#81b65f" plan_size="24px" button_size="14px" features_padding="30px" plan_letter_spacing="1px" per="/month" cost_color="#78b153" plan_border="1px solid #ddd"]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489792544560{padding-bottom: 40px !important;background-color: #ffffff !important;}"][vc_column width="1/3"][vcex_pricing plan="Bronze" cost="$100" button_text="Learn More" plan_weight="400" button_weight="400" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Learn%20More|target:%20_blank" button_bg_color="#444444" button_hover_bg_color="#81b65f" plan_size="24px" button_size="14px" features_padding="30px" plan_letter_spacing="1px" per="/month" cost_color="#78b153" plan_border="1px solid #ddd"]
 <ul class="check-list">
 	<li><span style="font-family: verdana,geneva; font-size: 14px;">Basic Medical
 </span></li>
@@ -2511,7 +2514,7 @@
 	<li><span style="font-family: verdana,geneva; font-size: 14px;">Online Health Account</span></li>
 	<li><span style="font-family: verdana,geneva; font-size: 14px;">1yr Wellness Plan</span></li>
 </ul>
-[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing featured="yes" plan="Silver" plan_weight="400" cost="$200" button_text="Learn More" button_weight="400" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Learn%20More|target:%20_blank" button_bg_color="#444444" button_hover_bg_color="#81b65f" plan_size="24px" features_padding="30px" plan_letter_spacing="1px" per="/month" cost_color="#78b153" button_size="14px"]
+[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing featured="yes" plan="Silver" cost="$200" button_text="Learn More" plan_weight="400" button_weight="400" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Learn%20More|target:%20_blank" button_bg_color="#444444" button_hover_bg_color="#81b65f" plan_size="24px" features_padding="30px" plan_letter_spacing="1px" per="/month" cost_color="#78b153" button_size="14px"]
 <ul class="check-list">
 	<li><span style="font-family: verdana,geneva; font-size: 14px;">Upgraded Medical
 </span></li>
@@ -2524,7 +2527,7 @@
 	<li><span style="font-family: verdana,geneva; font-size: 14px;">Online Health Account</span></li>
 	<li><span style="font-family: verdana,geneva; font-size: 14px;">2yr Wellness Plan</span></li>
 </ul>
-[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="Gold" plan_weight="400" cost="$300" button_text="Learn More" button_weight="400" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Learn%20More|target:%20_blank" button_bg_color="#444444" button_hover_bg_color="#81b65f" plan_size="24px" features_padding="30px" plan_letter_spacing="1px" per="/month" cost_color="#78b153" plan_border="1px solid #ddd" button_size="14px"]
+[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="Gold" cost="$300" button_text="Learn More" plan_weight="400" button_weight="400" button_target="blank" button_rel="none" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3DWPExplorer|title:Learn%20More|target:%20_blank" button_bg_color="#444444" button_hover_bg_color="#81b65f" plan_size="24px" features_padding="30px" plan_letter_spacing="1px" per="/month" cost_color="#78b153" plan_border="1px solid #ddd" button_size="14px"]
 <ul class="check-list">
 	<li><span style="font-family: verdana,geneva; font-size: 14px;">Premier Medical
 </span></li>
@@ -2573,11 +2576,11 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_disable_toggle_bar]]></wp:meta_key>
@@ -2621,7 +2624,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1453250315273{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1453250350396{padding-bottom: 40px !important;background-color: #ffffff !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489792538500{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1489792544560{padding-bottom: 40px !important;background-color: #ffffff !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2949,20 +2960,25 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/neat/?page_id=357</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" padding_bottom="40px" padding_top="20px"][vc_column][vc_column_text]
+		<content:encoded><![CDATA[[vc_row padding_bottom="40px" padding_top="20px"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: 'Roboto Slab'; color: #000000;">Share your health journey with us.
-Our helpful team and quality plans make it easy.</span></p>
-<p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo. Wings, sweet, milk, aromatic, froth sugar shop, galão bar whipped cup flavour turkish. Milk ristretto grounds to go shop aftertaste grinder barista froth medium robust dark.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1453249428299{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column width="1/2"][vc_column_text]<span style="font-size: 24px; color: #000000; font-family: verdana,geneva;">Our customers love us.</span>
+Our helpful team and quality plans make it easy.</span>
 
-As irish, half and half aroma espresso cup black saucer, filter, robusta cappuccino ut shop french press. Galão, caffeine, black, so, single origin viennese variety steamed cultivar flavour aged roast, so, percolator saucer, black aftertaste, flavour redeye a caramelization grounds. Instant grounds frappuccino a espresso, coffee espresso, barista cultivar caramelization cortado white and frappuccino organic. Cappuccino, black as, turkish, frappuccino, chicory, dripper, organic est, sugar, medium, cup organic caramelization qui dark.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="15px"][vcex_skillbar title="Customer Service" percentage="82" box_shadow="false" color="#94c176"][vcex_spacing size="10px"][vcex_skillbar title="Plan Coverage" percentage="89" box_shadow="false" color="#94c176"][vcex_spacing size="10px"][vcex_skillbar title="Claim Process" percentage="92" box_shadow="false" color="#94c176"][vcex_spacing size="10px"][vcex_skillbar title="Overall Satisfaction" percentage="96" box_shadow="false" color="#94c176"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1453249536928{padding-top: 60px !important;}"][vc_column][vc_column_text]
+<p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo. Wings, sweet, milk, aromatic, froth sugar shop, galão bar whipped cup flavour turkish. Milk ristretto grounds to go shop aftertaste grinder barista froth medium robust dark.</p>
+
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489791934215{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column width="1/2"][vc_column_text]<span style="font-size: 24px; color: #000000; font-family: verdana,geneva;">Our customers love us.</span>
+
+As irish, half and half aroma espresso cup black saucer, filter, robusta cappuccino ut shop french press. Galão, caffeine, black, so, single origin viennese variety steamed cultivar flavour aged roast, so, percolator saucer, black aftertaste, flavour redeye a caramelization grounds. Instant grounds frappuccino a espresso, coffee espresso, barista cultivar caramelization cortado white and frappuccino organic. Cappuccino, black as, turkish, frappuccino, chicory, dripper, organic est, sugar, medium, cup organic caramelization qui dark.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="15px"][vcex_skillbar title="Customer Service" percentage="82" box_shadow="false" color="#94c176"][vcex_spacing size="10px"][vcex_skillbar title="Plan Coverage" percentage="89" box_shadow="false" color="#94c176"][vcex_spacing size="10px"][vcex_skillbar title="Claim Process" percentage="92" box_shadow="false" color="#94c176"][vcex_spacing size="10px"][vcex_skillbar title="Overall Satisfaction" percentage="96" box_shadow="false" color="#94c176"][/vc_column][/vc_row][vc_row css=".vc_custom_1453249536928{padding-top: 60px !important;}"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: verdana,geneva; color: #000000;"><span style="font-family: 'Roboto Slab';">We're always just a phone call away.</span>
 <span style="font-family: 'Roboto Slab';"> Our knowledgeable team can help you with anything you need.</span>
-</span></p>
+</span>
+
 <p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo. Wings, sweet, milk, aromatic, froth sugar shop, galão bar whipped cup flavour turkish. Milk ristretto grounds to go shop aftertaste grinder barista froth medium robust dark.</p>
-[/vc_column_text][vcex_divider icon="fa fa-user-md" width="100%" height="1px" margin_top="30px" icon_color="#000000" icon_size="24px" margin_bottom="30px"][vcex_staff_grid columns="4" columns_gap="25" posts_per_page="4" order="DESC" orderby="date" thumb_link="nowhere" title_link="nowhere" content_heading_weight="normal" position="true" excerpt="false" read_more="false" content_alignment="center" img_width="9999" img_height="9999" custom_excerpt_trim="true" position_color="#78b153" content_heading_size="18" position_size="14" content_css=".vc_custom_1453249546068{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #ffffff !important;}"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1453249673111{border-bottom-width: 0px !important;padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column][vc_column_text]
+
+[/vc_column_text][vcex_divider icon="fa fa-user-md" width="100%" height="1px" margin_top="30px" icon_color="#000000" icon_size="24px" margin_bottom="30px"][vcex_staff_grid columns="4" posts_per_page="4" order="DESC" orderby="date" thumb_link="nowhere" title_link="nowhere" position="true" excerpt="false" read_more="false" content_alignment="center" columns_gap="25" content_heading_weight="normal" img_width="9999" img_height="9999" custom_excerpt_trim="true" position_color="#78b153" content_heading_size="18" position_size="14" content_css=".vc_custom_1453249546068{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #ffffff !important;}"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489791945297{border-bottom-width: 0px !important;padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: 'Roboto Slab'; color: #000000;">Learn more about our quality healthcare plans today.</span></p>
-[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/neat/pricing/" title="View Plans" rel="none" style="flat" align="center" size="medium" color="black" font_weight="400" custom_background="#78b153" custom_hover_background="#020202" font_size="16px" icon_right="paper-plane"]View Plans[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+
+[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/neat/pricing/" title="View Plans" rel="none" style="flat" align="center" color="black" font_weight="400" custom_background="#78b153" custom_hover_background="#020202" font_size="16px" icon_right="paper-plane"]View Plans[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>357</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-13 20:27:58]]></wp:post_date>
@@ -2994,7 +3010,7 @@ As irish, half and half aroma espresso cup black saucer, filter, robusta cappucc
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
@@ -3038,7 +3054,7 @@ As irish, half and half aroma espresso cup black saucer, filter, robusta cappucc
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1453249428299{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}.vc_custom_1453249536928{padding-top: 60px !important;}.vc_custom_1453249673111{border-bottom-width: 0px !important;padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}.vc_custom_1453249546068{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #ffffff !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489791934215{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}.vc_custom_1453249536928{padding-top: 60px !important;}.vc_custom_1489791945297{border-bottom-width: 0px !important;padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}.vc_custom_1453249546068{padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;background-color: #ffffff !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
@@ -3056,19 +3072,19 @@ As irish, half and half aroma espresso cup black saucer, filter, robusta cappucc
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/neat/?page_id=359</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row padding_top="10px" padding_bottom="30px"][vc_column][vc_column_text]
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1489792301583{padding-top: 10px !important;padding-bottom: 10px !important;}"][vc_column 0=""][vc_column_text 0=""]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: 'Roboto Slab'; color: #000000;">We're the leaders of the pack when it comes to quality affordable healthcare.</span></p>
 <p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row padding_bottom="40px"][vc_column width="1/2" border_style="solid" border_color="#dddddd" border_width="1px" padding_top="30px" padding_left="30px" padding_right="30px" bg_color="#ffffff" padding_bottom="30px" drop_shadow="yes"][vc_column_text]
+[/vc_column_text][/vc_column][/vc_row][vc_row gap="30" css=".vc_custom_1489792189734{margin-right: -10px !important;margin-left: -10px !important;padding-bottom: 40px !important;}"][vc_column width="1/2" drop_shadow="yes" css=".vc_custom_1489792285952{margin-bottom: 30px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"][vc_column_text 0=""]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: 'Roboto Slab'; color: #000000;">For individuals</span></p>
 <p style="text-align: center;">Strong, plunger pot, arabica cream, aromatic, cup barista, espresso latte, wings sugar, macchiato eu, carajillo variety so lungo doppio flavour a aftertaste. Qui cultivar café au lait, eu seasonal.</p>
-[/vc_column_text][vcex_divider color="#dddddd" width="20%" height="1px" margin_top="30px" margin_bottom="30px" icon_color="#000000" icon_size="14px"][vcex_icon_box heading="Medical" heading_type="h2" icon="star" image="380" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing][vcex_icon_box heading="Dental" heading_type="h2" icon="star" image="382" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing][vcex_icon_box heading="Vision" heading_type="h2" icon="star" image="383" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing][vcex_icon_box heading="Perscriptions" heading_type="h2" icon="star" image="384" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][/vc_column][vc_column width="1/2" border_style="solid" border_color="#dddddd" border_width="1px 1px 1px 1px" padding_top="30px" padding_left="30px" padding_right="30px" bg_color="#ffffff" padding_bottom="30px" drop_shadow="yes"][vc_column_text]
+[/vc_column_text][vcex_divider color="#dddddd" width="20%" height="1px" margin_top="30px" margin_bottom="30px" icon_color="#000000" icon_size="14px"][vcex_icon_box heading="Medical" heading_type="h2" icon="star" image="380" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing 0=""][vcex_icon_box heading="Dental" heading_type="h2" icon="star" image="382" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing 0=""][vcex_icon_box heading="Vision" heading_type="h2" icon="star" image="383" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing 0=""][vcex_icon_box heading="Perscriptions" heading_type="h2" icon="star" image="384" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][/vc_column][vc_column width="1/2" drop_shadow="yes" css=".vc_custom_1489792291206{margin-bottom: 30px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"][vc_column_text 0=""]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: 'Roboto Slab'; color: #000000;">For employers</span></p>
 <p style="text-align: center;">Strong, plunger pot, arabica cream, aromatic, cup barista, espresso latte, wings sugar, macchiato eu, carajillo variety so lungo doppio flavour a aftertaste. Qui cultivar café au lait, eu seasonal.</p>
-[/vc_column_text][vcex_divider color="#dddddd" width="20%" height="1px" margin_top="30px" margin_bottom="30px" icon_color="#000000" icon_size="14px"][vcex_icon_box heading="Group Medical" heading_type="h2" icon="star" image="380" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing][vcex_icon_box heading="Group Dental" heading_type="h2" icon="star" image="382" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing][vcex_icon_box heading="Group Vision" heading_type="h2" icon="star" image="383" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing][vcex_icon_box heading="Bulk Perscriptions" heading_type="h2" icon="star" image="384" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1453248986909{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column][vc_column_text]
+[/vc_column_text][vcex_divider color="#dddddd" width="20%" height="1px" margin_top="30px" margin_bottom="30px" icon_color="#000000" icon_size="14px"][vcex_icon_box heading="Group Medical" heading_type="h2" icon="star" image="380" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing 0=""][vcex_icon_box heading="Group Dental" heading_type="h2" icon="star" image="382" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing 0=""][vcex_icon_box heading="Group Vision" heading_type="h2" icon="star" image="383" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][vcex_spacing 0=""][vcex_icon_box heading="Bulk Perscriptions" heading_type="h2" icon="star" image="384" container_left_padding="80px" heading_size="16px"]Ut variety, café au lait flavour caramelization filter froth medium, acerbic doppio roast kopi-luwak steamed. Doppio ristretto, froth roast black, est, et, at, robusta, mug, percolator dark, so, cortado irish java fair trade café au lait dark beans.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489792250847{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column 0=""][vc_column_text 0=""]
 <p style="text-align: center;"><span style="font-size: 24px; font-family: 'Roboto Slab'; color: #000000;">Are You Convinced? Let's Get Started!</span></p>
 <p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo.</p>
-[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/healthcare/contact/" title="Request Quote" target="blank" rel="none" style="flat" align="center" size="small" color="black" font_weight="400" font_size="14px" custom_background="#78b153" custom_color="#ffffff" custom_hover_background="#000000" icon_right="arrow-right"]Request Quote[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][vcex_spacing 0=""][vcex_button url="http://totaltheme.wpengine.com/healthcare/contact/" title="Request Quote" target="blank" rel="none" style="flat" align="center" color="black" font_weight="400" font_size="14px" custom_background="#78b153" custom_color="#ffffff" custom_hover_background="#000000" icon_right="arrow-right"]Request Quote[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>359</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-13 20:29:26]]></wp:post_date>
@@ -3108,7 +3124,7 @@ As irish, half and half aroma espresso cup black saucer, filter, robusta cappucc
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -3140,7 +3156,15 @@ As irish, half and half aroma espresso cup black saucer, filter, robusta cappucc
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1453248986909{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489792301583{padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1489792189734{margin-right: -10px !important;margin-left: -10px !important;padding-bottom: 40px !important;}.vc_custom_1489792250847{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}.vc_custom_1489792285952{margin-bottom: 30px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}.vc_custom_1489792291206{margin-bottom: 30px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3694,8 +3718,8 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:42:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-05 22:42:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[make-your-pregnancy-a-healthy-one]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3753,34 +3777,10 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[hi-ho-its-off-to-work-we-go]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:58:19]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:58:19]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Con panna coffee qui brewed robusta cortado, carajillo irish, frappuccino, et ut saucer, half and half white, turkish grounds siphon spoon, organic eu instant froth variety.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:58:43]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:58:43]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[French press, half and half irish variety sweet, roast plunger pot coffee blue mountain flavour eu affogato grounds. Beans dark, pumpkin spice mug, espresso at filter turkish dripper, grounds cup siphon extraction sit whipped. Foam latte, strong coffee, flavour]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>How Water Intake Impacts Your Health</title>
@@ -3802,8 +3802,8 @@ Pumpkin spice qui flavour breve shop instant and, medium and, aromatic, barista 
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:44:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-05 22:44:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-water-intake-impacts-your-health]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3859,20 +3859,10 @@ Pumpkin spice qui flavour breve shop instant and, medium and, aromatic, barista 
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[loving-the-new-office]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>4</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:58:07]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:58:07]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[White organic brewed, espresso decaffeinated dark macchiato mug café au lait cup coffee organic breve single shot latte con panna cream turkish irish americano kopi-luwak.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Easy Changes To Makes To Your Diet</title>
@@ -3892,8 +3882,8 @@ Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization co
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:45:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-05 22:45:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[easy-changes-to-makes-to-your-diet]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3941,48 +3931,6 @@ Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization co
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>5</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:57:39]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:57:39]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Coffee barista café au lait irish java coffee redeye, that, redeye mazagran crema aromatic strong, instant wings sit bar steamed seasonal brewed cinnamon iced. Wings, sweet, milk, aromatic, froth sugar shop.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:57:46]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:57:46]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Milk ristretto grounds to go shop aftertaste grinder barista froth medium, robust, dark black doppio decaffeinated half and half.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>5</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>7</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:57:59]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:57:59]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Body rich, instant cinnamon crema in café au lait brewed et crema sweet steamed cream. Eu and black, irish steamed, bar cup, roast, milk strong instant.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>6</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Quit Smoking In 12 Weeks Or Less</title>
@@ -4002,8 +3950,8 @@ Pumpkin spice foam flavour, cup as french press mazagran, extraction shop ut aft
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:46:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-05 22:46:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quit-smoking-in-12-weeks-or-less]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4064,20 +4012,10 @@ Pumpkin spice foam flavour, cup as french press mazagran, extraction shop ut aft
 			<wp:meta_key><![CDATA[wpex_post_oembed]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://www.youtube.com/watch?v=_3Scx-CwALg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>8</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:57:25]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:57:25]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Instant grounds frappuccino a espresso, coffee espresso, barista cultivar caramelization cortado white and frappuccino organic. Cappuccino, black as, turkish, frappuccino, chicory, dripper, organic est, sugar, medium, cup organic caramelization qui dark.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Why You Should Incorporate Intervals Into Your Workout</title>
@@ -4099,8 +4037,8 @@ Shop id, single origin, froth to go aromatic extraction body, organic, et coffee
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:46:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-05 22:46:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-you-should-incorporate-intervals-into-your-workout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4149,34 +4087,6 @@ Shop id, single origin, froth to go aromatic extraction body, organic, et coffee
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>9</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:56:59]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:56:59]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Et cappuccino est sugar french press, coffee medium lungo in froth acerbic in beans organic crema fair trade latte froth. Extraction bar, carajillo ut breve lungo and qui cultivar espresso, to go eu, macchiato, iced cup mazagran, dark cappuccino cultivar, eu a cup coffee dark. Single origin cultivar milk, white, caramelization.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>10</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:57:15]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:57:15]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Body, dripper lungo, milk carajillo pumpkin spice froth wings cup, qui siphon extra java saucer, brewed robusta, whipped strong beans id in variety.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Glasses, Your Window To The World</title>
@@ -4198,8 +4108,8 @@ Crema medium, half and half, grounds doppio organic, pumpkin spice foam, medium 
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:47:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-05 22:47:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[glasses-your-window-to-the-world]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4261,48 +4171,10 @@ Crema medium, half and half, grounds doppio organic, pumpkin spice foam, medium 
 			<wp:meta_key><![CDATA[_easy_image_gallery]]></wp:meta_key>
 			<wp:meta_value><![CDATA[282,426,427,428,429]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>11</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:56:19]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:56:19]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Instant, skinny seasonal pumpkin spice body, a, roast beans at, coffee grounds white seasonal chicory. Caramelization cinnamon, froth americano cortado, irish lungo white siphon.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>12</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:56:34]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:56:34]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Robust java viennese mug medium crema, steamed id latte seasonal pumpkin spice single origin wings shop. Eu black breve ut ristretto robust brewed lungo, affogato, acerbic, aged espresso, saucer milk body chicory.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>13</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:56:47]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:56:47]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>12</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Eating Organic: Why You Should Make The Switch</title>
@@ -4322,8 +4194,8 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-05 22:48:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-05 22:48:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[eating-organic-why-you-should-make-the-switch]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -4372,48 +4244,6 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>14</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:55:42]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:55:42]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Cultivar white ut mazagran to go body espresso macchiato, body cultivar, doppio wings steamed, flavour doppio ut cream, caffeine sit crema medium french press beans siphon.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>15</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:55:53]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:55:53]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[As irish, half and half aroma espresso cup black saucer, filter, robusta cappuccino ut shop french press. Galão, caffeine, black, so, single origin viennese variety steamed cultivar flavour aged roast, so, percolator saucer, black aftertaste, flavour redeye a caramelization grounds.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>14</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>16</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:56:03]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:56:03]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Iced mocha spoon latte so white flavour, id decaffeinated crema, french press, instant affogato macchiato con panna fair trade coffee.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>15</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Weight Loss Tea</title>
@@ -4436,9 +4266,9 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="diet"><![CDATA[Diet]]></category>
 		<category domain="product_cat" nicename="resources"><![CDATA[Resources]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
@@ -4577,82 +4407,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:4;s:1:"3";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>19</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:52:59]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:52:59]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Pumpkin spice qui flavour breve shop instant and, medium and, aromatic, barista cortado, bar carajillo cappuccino affogato coffee. Instant, skinny seasonal pumpkin spice body, a, roast beans at, coffee grounds white seasonal chicory.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>20</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:53:08]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:53:08]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Caramelization cinnamon, froth americano cortado, irish lungo white siphon, qui ut et extraction cortado macchiato.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>21</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:53:13]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:53:13]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[At robust, at, mug frappuccino strong, irish, sweet, fair trade aged extraction flavour fair trade.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Sugarfree Sweeteners</title>
@@ -4675,9 +4439,9 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="healthy"><![CDATA[Healthy]]></category>
 		<category domain="product_cat" nicename="resources"><![CDATA[Resources]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
@@ -4816,82 +4580,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:4;s:1:"2";i:5;s:1:"1";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4.33]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>22</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:52:08]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:52:08]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Ut, viennese, medium aroma sit, cortado, est at wings in, steamed, caffeine cream cup variety body blue mountain black instant.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>23</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:52:18]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:52:18]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Beans robusta qui, barista, grounds, cinnamon steamed, mazagran, strong trifecta mug, mazagran froth viennese ut percolator mug robust. Cup, eu, est, variety kopi-luwak, foam cream galão froth cortado to go cappuccino acerbic seasonal.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>24</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:52:30]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:52:30]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Macchiato redeye viennese coffee, at skinny, espresso, grounds con panna variety, froth crema black espresso roast.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Food Diary &amp; Pen</title>
@@ -5046,60 +4744,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"2";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>25</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:51:41]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:51:41]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[A as robusta half and half galão ristretto, wings robust java viennese mug medium crema, steamed id latte seasonal pumpkin spice single origin wings shop. Eu black breve ut ristretto robust brewed lungo, affogato, acerbic, aged espresso, saucer milk body chicory, fair trade, mocha variety white sugar coffee.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>26</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:51:51]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:51:51]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Acerbic siphon blue mountain ut, percolator, whipped, rich macchiato that aged, trifecta foam dark wings arabica. Milk steamed aged macchiato.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Kombucha Kit</title>
@@ -5122,9 +4776,9 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="diet"><![CDATA[Diet]]></category>
 		<category domain="product_cat" nicename="healthy"><![CDATA[Healthy]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
@@ -5263,38 +4917,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>27</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:54:40]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:54:40]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Grounds spoon iced organic robusta single shot crema trifecta decaffeinated, id rich kopi-luwak medium fair trade turkish. Coffee, irish, roast, foam chicory, grinder turkish roast foam steamed viennese, as half and half pumpkin spice white filter.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Portion Control Cups</title>
@@ -5317,8 +4949,8 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_cat" nicename="diet"><![CDATA[Diet]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="diet"><![CDATA[Diet]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
@@ -5465,38 +5097,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>28</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:55:20]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:55:20]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Cultivar white ut mazagran to go body espresso macchiato, body cultivar, doppio wings steamed, flavour doppio ut cream, caffeine sit crema medium french press beans siphon.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Organized Clipboard</title>
@@ -5519,8 +5129,8 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_cat" nicename="resources"><![CDATA[Resources]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="resources"><![CDATA[Resources]]></category>
 		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5652,38 +5262,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>29</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:52:46]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:52:46]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Flavour est, trifecta black carajillo aged mocha organic carajillo coffee black half and half medium, and americano mug cultivar caffeine.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Recycled Tote Bag</title>
@@ -5706,8 +5294,8 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="product_cat" nicename="healthy"><![CDATA[Healthy]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="healthy"><![CDATA[Healthy]]></category>
 		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5838,18 +5426,6 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 			<wp:meta_value><![CDATA[a:3:{i:0;i:248;i:1;i:233;i:2;i:245;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:3;s:1:"1";i:5;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2.6.4]]></wp:meta_value>
 		</wp:postmeta>
@@ -5865,50 +5441,18 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>30</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:54:20]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:54:20]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Strong, plunger pot, arabica cream, aromatic, cup barista, espresso latte, wings sugar, macchiato eu, carajillo variety so lungo doppio flavour a aftertaste.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[3]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>31</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:54:27]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:54:27]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Qui cultivar café au lait, eu seasonal frappuccino, fair trade foam skinny beans latte irish coffee strong. Spoon at siphon, coffee grounds aroma percolator grounds mug acerbic lungo arabica turkish carajillo plunger pot.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[5]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Back Recycled Bag</title>
@@ -5931,10 +5475,10 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="diet"><![CDATA[Diet]]></category>
 		<category domain="product_cat" nicename="healthy"><![CDATA[Healthy]]></category>
 		<category domain="product_cat" nicename="resources"><![CDATA[Resources]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="tools"><![CDATA[Tools]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5950,7 +5494,7 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -6066,82 +5610,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{i:3;s:1:"1";i:4;s:1:"2";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3.67]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>32</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:54:52]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:54:52]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Mazagran french press café au lait, id, redeye, robusta seasonal, irish acerbic, con panna beans instant cup robust as, carajillo, caffeine cup macchiato fair trade turkish acerbic froth cultivar.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[3]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>33</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:55:00]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:55:00]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Mocha brewed variety viennese, et seasonal so, to go, americano strong, redeye, foam macchiato mazagran french press blue mountain cortado skinny as medium single origin foam est to go.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>34</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 01:55:09]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 01:55:09]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Crema medium, half and half, grounds doppio organic, pumpkin spice foam, medium aroma blue mountain, caramelization sugar, extraction cinnamon black coffee java iced.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>White Lunch Bag</title>
@@ -6164,9 +5642,9 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="healthy"><![CDATA[Healthy]]></category>
 		<category domain="product_cat" nicename="resources"><![CDATA[Resources]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
@@ -6293,38 +5771,16 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:4;s:1:"1";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>35</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[70.173.85.176]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2014-09-08 21:03:54]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2014-09-08 21:03:54]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Whipped galão bar qui, iced to go, white, extraction, redeye extra barista, caffeine, grinder variety, a sit dark at macchiato. A grounds affogato kopi-luwak pumpkin spice filter body so steamed con panna to go aftertaste aged.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
-				<wp:meta_value><![CDATA[4]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
-				<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Testimonials</title>
@@ -6333,14 +5789,17 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/neat/?page_id=360</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" padding_top="20px" padding_bottom="15px"][vc_column][vc_column_text]
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1489792583894{padding-top: 20px !important;padding-bottom: 15px !important;}"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="color: #000000; font-size: 28px;"><span style="font-family: 'Roboto Slab';">People Love Us, Have a Look!</span></span></p>
 <p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" padding_top="20px" padding_bottom="15px"][vc_column][vcex_testimonials_grid grid_style="masonry" columns_gap="30" order="DESC" orderby="date" img_size="testimonials_entry" custom_excerpt_trim="true" img_border_radius="50%"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1453250507525{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column][vc_column_text]
+
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489792594278{padding-top: 20px !important;padding-bottom: 15px !important;}"][vc_column][vcex_testimonials_grid grid_style="masonry" order="DESC" orderby="date" img_size="testimonials_entry" columns_gap="30" custom_excerpt_trim="true" img_border_radius="50%"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489792611187{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}"][vc_column][vc_column_text]
 <p style="text-align: center;"><span style="font-size: 24px;"><span style="font-family: 'Roboto Slab'; color: #000000;">Have something nice to say? Send us a note.</span>
-</span></p>
+</span>
+
 <p style="text-align: center;">Crema medium, half and half, grounds doppio organic medium aroma blue mountain. Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization coffee iced espresso at black, body turkish as extra acerbic. Et cappuccino est sugar french press, coffee medium lungo.</p>
-[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://totaltheme.wpengine.com/healthcare/contact/" title="Request Quote" target="blank" style="flat" align="center" size="small" color="black" font_weight="400" custom_background="#78b153" custom_hover_background="#000000" custom_color="#ffffff" font_size="14px" icon_right="arrow-right"]Request Quote[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+
+[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://totaltheme.wpengine.com/healthcare/contact/" title="Request Quote" target="blank" style="flat" align="center" color="black" font_weight="400" custom_background="#78b153" custom_hover_background="#000000" custom_color="#ffffff" font_size="14px" icon_right="arrow-right"]Request Quote[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>360</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-13 20:29:56]]></wp:post_date>
@@ -6372,7 +5831,7 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_title_background_redux]]></wp:meta_key>
@@ -6380,7 +5839,7 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -6412,11 +5871,15 @@ Irish aged café au lait, acerbic, a, grinder galão cultivar, instant cup shop 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1453250507525{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489792583894{padding-top: 20px !important;padding-bottom: 15px !important;}.vc_custom_1489792594278{padding-top: 20px !important;padding-bottom: 15px !important;}.vc_custom_1489792611187{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f6f6f6 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
 			<wp:meta_value><![CDATA[light]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6437,8 +5900,8 @@ Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization co
 		<wp:post_id>411</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-04 04:25:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-04 04:25:21]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lycopene-how-why-to-get-more-in-your-diet]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -6490,6 +5953,10 @@ Roast in turkish cinnamon, single shot kopi-luwak et latte and caramelization co
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Losing Weight The Right Way</title>
@@ -6511,8 +5978,8 @@ Pumpkin spice qui flavour breve shop instant and, medium and, aromatic, barista 
 		<wp:post_id>412</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-03 04:29:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-03 04:29:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[losing-weight-the-right-way]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -6565,6 +6032,10 @@ Pumpkin spice qui flavour breve shop instant and, medium and, aromatic, barista 
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
 			<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>A Guide To Medications</title>
@@ -6586,8 +6057,8 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 		<wp:post_id>413</wp:post_id>
 		<wp:post_date><![CDATA[2014-09-02 04:29:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-09-02 04:29:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-guide-to-medications]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -6639,6 +6110,10 @@ French press, half and half irish variety sweet, roast plunger pot coffee blue m
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[414]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -7476,6 +6951,574 @@ This e-mail was sent from a contact form on Total Business Solutions (http://wp.
 			<wp:meta_key><![CDATA[wpex_testimonial_company]]></wp:meta_key>
 			<wp:meta_value><![CDATA[Professional Tax Services]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Order &#8211; February 5, 2017 @ 07:54 PM</title>
+		<link>http://totaltheme.wpengine.com/healthcare/?post_type=shop_order&#038;p=465</link>
+		<pubDate>Sun, 05 Feb 2017 19:54:42 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/healthcare/?post_type=shop_order&#038;p=465</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>465</wp:post_id>
+		<wp:post_date><![CDATA[2017-02-05 19:54:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-02-05 19:54:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-feb-05-2017-0646-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-cancelled]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_589773207a5ed]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_589773208a924]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[79.59.242.240]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[058e89918ac1cade2cdda2fc43330061]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.6.13]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sfsdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sfdsdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sdfsd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[info@quimarket.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[392 5546234]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IT]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asdadasdas]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Roma]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[RM]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[00172]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sfsdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sfdsdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sdfsd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[IT]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asdadasdas]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Roma]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[RM]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[00172]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[paypal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PayPal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[50.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@totaltheme.wpengine.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-02-05 19:54:42]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-02-05 19:54:42]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Unpaid order cancelled - time limit reached. Order status changed from Pending Payment to Cancelled.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; March 6, 2017 @ 06:21 PM</title>
+		<link>http://totaltheme.wpengine.com/healthcare/?post_type=shop_order&#038;p=466</link>
+		<pubDate>Mon, 06 Mar 2017 18:21:24 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/healthcare/?post_type=shop_order&#038;p=466</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>466</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-06 18:21:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-06 18:21:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-mar-06-2017-0621-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_58bda8a41c6a8]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_58bda8a422dd5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[192.95.50.76]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[f5aa3b3322c057cfd7ae6cfe3741d224]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.6.14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma.rose10@yahoo.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2489874888]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[New York]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[NY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10004]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[New York]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[NY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10004]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Check Payments]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@totaltheme.wpengine.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-03-06 18:21:24]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-03-06 18:21:24]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting check payment Order status changed from Pending Payment to On Hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; March 6, 2017 @ 06:22 PM</title>
+		<link>http://totaltheme.wpengine.com/healthcare/?post_type=shop_order&#038;p=467</link>
+		<pubDate>Mon, 06 Mar 2017 18:22:18 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/healthcare/?post_type=shop_order&#038;p=467</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>467</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-06 18:22:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-06 18:22:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-mar-06-2017-0622-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_58bda8dacb9a7]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_58bda8dad22d4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[USD]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[192.95.50.76]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_hash]]></wp:meta_key>
+			<wp:meta_value><![CDATA[f5aa3b3322c057cfd7ae6cfe3741d224]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.6.14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma.rose10@yahoo.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2489874888]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[New York]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[NY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10004]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[emma rose]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[allen street 102]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[New York]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[NY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10004]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Check Payments]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[10.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@totaltheme.wpengine.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-03-06 18:22:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-03-06 18:22:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting check payment Order status changed from Pending Payment to On Hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
 	</item>
 </channel>
 </rss>
