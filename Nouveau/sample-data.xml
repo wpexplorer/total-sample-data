@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-04-03 00:58" -->
+<!-- generator="WordPress/4.9.2" created="2018-02-03 23:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Nou·veau</title>
 	<link>http://totaltheme.wpengine.com/nouveau</link>
 	<description>Total WordPress Theme Portfolio Demo</description>
-	<pubDate>Mon, 03 Apr 2017 00:58:24 +0000</pubDate>
+	<pubDate>Sat, 03 Feb 2018 23:10:39 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -120,7 +120,7 @@
 	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=4.9.2</generator>
 
 	<item>
 		<title>fern</title>
@@ -212,7 +212,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:17:"2015/01/spark.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:18:"spark-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:17:"2015/01/spark.jpg";s:5:"sizes";a:3:{s:8:"lightbox";a:5:{s:4:"file";s:18:"spark-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:17:"spark-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:20:"spark-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -243,7 +243,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/desk.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:17:"desk-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/desk.jpg";s:5:"sizes";a:3:{s:8:"lightbox";a:5:{s:4:"file";s:17:"desk-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"desk-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"desk-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -305,7 +305,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:19:"2015/01/balloon.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:20:"balloon-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:19:"2015/01/balloon.jpg";s:5:"sizes";a:3:{s:8:"lightbox";a:5:{s:4:"file";s:20:"balloon-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:19:"balloon-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:22:"balloon-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -336,7 +336,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/shop.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:17:"shop-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/shop.jpg";s:5:"sizes";a:3:{s:8:"lightbox";a:5:{s:4:"file";s:17:"shop-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"shop-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"shop-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -367,7 +367,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:18:"2015/01/cactus.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:19:"cactus-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:18:"2015/01/cactus.jpg";s:5:"sizes";a:3:{s:8:"lightbox";a:5:{s:4:"file";s:19:"cactus-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:18:"cactus-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:21:"cactus-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -398,7 +398,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/work.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:17:"work-1500x996.jpg";s:5:"width";i:1500;s:6:"height";i:996;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/work.jpg";s:5:"sizes";a:5:{s:8:"lightbox";a:5:{s:4:"file";s:17:"work-1500x996.jpg";s:5:"width";i:1500;s:6:"height";i:996;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"work-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"work-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_600x350";a:5:{s:4:"file";s:16:"work-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:19:"work-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -429,7 +429,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/bear.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:17:"bear-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/bear.jpg";s:5:"sizes";a:5:{s:8:"lightbox";a:5:{s:4:"file";s:17:"bear-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"bear-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"bear-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_600x350";a:5:{s:4:"file";s:16:"bear-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:19:"bear-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -460,7 +460,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/deck.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:17:"deck-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/deck.jpg";s:5:"sizes";a:5:{s:8:"lightbox";a:5:{s:4:"file";s:17:"deck-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"deck-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"deck-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_600x350";a:5:{s:4:"file";s:16:"deck-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:19:"deck-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -491,7 +491,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/cafe.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:17:"cafe-1500x996.jpg";s:5:"width";i:1500;s:6:"height";i:996;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/cafe.jpg";s:5:"sizes";a:5:{s:8:"lightbox";a:5:{s:4:"file";s:17:"cafe-1500x996.jpg";s:5:"width";i:1500;s:6:"height";i:996;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"cafe-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"cafe-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_600x350";a:5:{s:4:"file";s:16:"cafe-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:19:"cafe-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -522,7 +522,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:19:"2015/01/scooter.jpg";s:5:"sizes";a:1:{s:8:"lightbox";a:5:{s:4:"file";s:20:"scooter-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:19:"2015/01/scooter.jpg";s:5:"sizes";a:5:{s:8:"lightbox";a:5:{s:4:"file";s:20:"scooter-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:19:"scooter-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:22:"scooter-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_600x350";a:5:{s:4:"file";s:19:"scooter-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:22:"scooter-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -553,7 +553,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/look.jpg";s:5:"sizes";a:3:{s:12:"wpex_600x350";a:5:{s:4:"file";s:16:"look-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:19:"look-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:17:"look-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:16:"2015/01/look.jpg";s:5:"sizes";a:5:{s:12:"wpex_600x350";a:5:{s:4:"file";s:16:"look-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:19:"look-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:17:"look-1500x998.jpg";s:5:"width";i:1500;s:6:"height";i:998;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"look-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"look-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -615,7 +615,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:17:"2015/01/moose.jpg";s:5:"sizes";a:3:{s:12:"wpex_600x350";a:5:{s:4:"file";s:17:"moose-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:20:"moose-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:18:"moose-1500x997.jpg";s:5:"width";i:1500;s:6:"height";i:997;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1330;s:4:"file";s:17:"2015/01/moose.jpg";s:5:"sizes";a:5:{s:12:"wpex_600x350";a:5:{s:4:"file";s:17:"moose-600x350.jpg";s:5:"width";i:600;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_600x350@2x";a:5:{s:4:"file";s:20:"moose-600x350@2x.jpg";s:5:"width";i:1200;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:18:"moose-1500x997.jpg";s:5:"width";i:1500;s:6:"height";i:997;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:17:"moose-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:20:"moose-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1167,7 +1167,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:19:"2015/01/chicken.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:19:"2015/01/chicken.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:19:"chicken-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:22:"chicken-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1198,7 +1198,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:15:"2015/01/bro.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:15:"2015/01/bro.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:15:"bro-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:18:"bro-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1229,7 +1229,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:17:"2015/01/chica.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:17:"2015/01/chica.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:17:"chica-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:20:"chica-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1260,7 +1260,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:15:"2015/01/guy.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:400;s:4:"file";s:15:"2015/01/guy.jpg";s:5:"sizes";a:2:{s:14:"search_results";a:5:{s:4:"file";s:15:"guy-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:18:"guy-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1558,7 +1558,7 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=40</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row margin_bottom="0px" padding_bottom="0px"][vc_column width="1/1"][vcex_portfolio_grid columns="3" grid_style="fit_columns" order="DESC" orderby="date" posts_per_page="16" filter="true" masonry_layout_mode="fitRows" center_filter="yes" overlay_style="plus-hover" img_width="9999" img_height="9999" title="false" excerpt="false" read_more="false" excerpt_length="30" columns_gap="30" img_size="wpex_custom" img_crop="center-center" filter_speed="0.0"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row margin_bottom="0px" padding_bottom="0px"][vc_column][vcex_portfolio_grid posts_per_page="16" order="DESC" filter="true" center_filter="yes" masonry_layout_mode="fitRows" img_size="full" title="false" excerpt="false" read_more="false" orderby="date" overlay_style="plus-hover" columns_gap="30"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-16 21:43:09]]></wp:post_date>
@@ -1614,15 +1614,27 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1690,18 +1702,10 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=43</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces"][vc_column][rev_slider_vc alias="nouveau-homepage"][/vc_column][/vc_row][vc_row 0="" css=".vc_custom_1489892222319{padding-top: 20px !important;padding-bottom: 20px !important;}"][vc_column][vc_column_text width="700"]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces"][vc_column][rev_slider_vc alias="nouveau-homepage"][/vc_column][/vc_row][vc_row css=".vc_custom_1489892222319{padding-top: 20px !important;padding-bottom: 20px !important;}"][vc_column][vc_column_text width="700"]
 <p style="text-align: center;"><span style="font-size: 24px;">Welcome to nou·veau. We are an innovative and creative agency that makes things. Keep reading to learn about what we can do for your business.</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}"][vc_column][vc_column_text el_class="limit-text-width"]
-<p style="text-align: center;"><span style="font-size: 32px;">Recent Projects</span></p>
-<p style="text-align: center;">We are creative people making incredible things. Have a look at some of our latest work below.</p>
-[/vc_column_text][vcex_spacing size="40px"][vcex_portfolio_grid posts_per_page="3" order="DESC" orderby="date" title="false" excerpt="false" read_more="false" overlay_style="title-category-hover" img_width="600" img_height="350" content_css=".vc_custom_1489783765254{margin-bottom: 0px !important;padding-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row 0=""][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Powerful Options" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-params" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Useful Tools" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-lab" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Quality Support" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-user" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1489787015532{margin-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Expert Code" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-display" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Flexible Features" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-settings" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Translation Ready" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-world" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489787034244{margin-bottom: 60px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="bg-fixed"][vc_column margin_bottom="0px"][vc_column_text text_align="center" color="#ffffff" font_size="24"]<span style="font-family: georgia, palatino;">The price of success is hard work, dedication to the job at hand,</span>
-<span style="font-family: georgia, palatino;"> applied the best of ourselves to the task at hand.</span>[/vc_column_text][vcex_spacing size="10px"][vc_column_text italic="true" text_align="center" color="#ffffff" font_size="18px"]- Vince Lombardi[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489787065719{margin-bottom: 20px !important;}"][vc_column][vc_column_text el_class="limit-text-width"]
-<p style="text-align: center;"><span style="font-size: 32px;">Recent News</span></p>
-<p style="text-align: center;">Have a look at a day in the life of nou·veau and keep up with current events.</p>
-[/vc_column_text][vcex_spacing size="40px"][vcex_blog_grid grid_style="fit_columns" columns="3" posts_per_page="3" order="DESC" orderby="date" thumb_link="post" excerpt_length="18" read_more="false" columns_gap="30" img_hover_style="opacity" img_width="600" img_height="320" custom_excerpt_trim="true" content_border="none" content_padding="20px 0 0"][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_style="stretch" css=".vc_custom_1489787076757{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}"][vc_column margin_bottom="0px"][vc_column_text]
-<p style="text-align: center;"><span style="font-size: 24px; font-family: Lato;">Get Total today to make your own site like this. Just do it.</span></p>
-[/vc_column_text][vcex_spacing size="40px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" target="blank" rel="nofollow" hover_animation="float-shadow" style="flat" align="center" color="black" text_transform="uppercase" font_weight="normal" font_size="14px" letter_spacing="2px" font_padding="15px 25px" custom_hover_background="#c5a47e"]Get Total Today[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_heading text="Recent Projects" tag="h2" font_weight="400" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]We are creative people making incredible things.[/vc_column_text][vcex_spacing size="40px"][vcex_portfolio_carousel arrows_position="abs" dots="true" items="3" img_size="full" title="false" excerpt="false" arrows_style="slim" overlay_style="plus-hover"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Powerful Options" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-params" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Useful Tools" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-lab" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Quality Support" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-user" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1489787015532{margin-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Expert Code" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-display" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Flexible Features" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-settings" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Translation Ready" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-world" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1517699155993{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="bg-fixed"][vc_column margin_bottom="0px"][vc_column_text text_align="center" color="#ffffff" font_size="24"]<span style="font-family: georgia, palatino;">The price of success is hard work, dedication to the job at hand,</span>
+<span style="font-family: georgia, palatino;"> applied the best of ourselves to the task at hand.</span>[/vc_column_text][vcex_spacing size="10px"][vc_column_text italic="true" text_align="center" color="#ffffff" font_size="18px"]- Vince Lombardi[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489787065719{margin-bottom: 20px !important;}"][vc_column][vcex_heading text="Recent News" tag="h2" font_weight="400" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]The latest news and events from the nou·veau team.[/vc_column_text][vcex_spacing size="40px"][vcex_blog_grid grid_style="fit_columns" columns="3" posts_per_page="3" order="DESC" excerpt_length="18" read_more="false" orderby="date" columns_gap="30" img_hover_style="opacity" img_width="600" img_height="320" custom_excerpt_trim="true" content_border="none" content_padding="20px 0 0"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" bg_style="stretch" css=".vc_custom_1517699237330{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_heading text="Get Total today to make your own site like this." tag="h3" font_weight="400" text_align="center" font_size="24px"][vcex_spacing size="40px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" target="blank" rel="nofollow" hover_animation="float-shadow" style="flat" align="center" color="black" text_transform="uppercase" font_weight="normal" font_size="14px" letter_spacing="2px" font_padding="15px 25px" custom_hover_background="#c5a47e"]Get Total Today[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-16 22:02:10]]></wp:post_date>
@@ -1761,7 +1765,7 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489892222319{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}.vc_custom_1489787015532{margin-bottom: 40px !important;}.vc_custom_1489787034244{margin-bottom: 60px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489787065719{margin-bottom: 20px !important;}.vc_custom_1489787076757{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}.vc_custom_1489783765254{margin-bottom: 0px !important;padding-bottom: 0px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1489892222319{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}.vc_custom_1489787015532{margin-bottom: 40px !important;}.vc_custom_1517699155993{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489787065719{margin-bottom: 20px !important;}.vc_custom_1517699237330{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
