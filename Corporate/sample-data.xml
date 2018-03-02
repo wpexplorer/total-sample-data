@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-03-30 19:22" -->
+<!-- generator="WordPress/4.9.4" created="2018-03-02 21:26" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Corporate</title>
 	<link>http://totaltheme.wpengine.com/corporate</link>
 	<description>Total WordPress Theme Demo</description>
-	<pubDate>Thu, 30 Mar 2017 19:22:19 +0000</pubDate>
+	<pubDate>Fri, 02 Mar 2018 21:26:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -69,7 +69,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
 
 	<item>
 		<title>officeloop_cover.jpg</title>
@@ -223,7 +223,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo1.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo1-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -254,7 +254,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo8.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo8.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo8-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -285,7 +285,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo3.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo3.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo3-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -316,7 +316,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo7.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo7.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo7-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -347,7 +347,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:18:"2015/10/logo10.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:18:"2015/10/logo10.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:16:"logo10-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -378,7 +378,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo4.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo4.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo4-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -409,7 +409,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo2.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo2.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo2-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -440,7 +440,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo6.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo6.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo6-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -471,7 +471,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo9.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo9.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo9-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -502,7 +502,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo5.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:285;s:6:"height";i:235;s:4:"file";s:17:"2015/10/logo5.png";s:5:"sizes";a:1:{s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"logo5-80x80.png";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -626,7 +626,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog6.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog6-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog6.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog6-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:14:"search_results";a:5:{s:4:"file";s:17:"blog6-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"blog6-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog6-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:18:"blog6-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -657,7 +657,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog5.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog5-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog5.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog5-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:17:"blog5-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"blog5-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:18:"blog5-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -688,7 +688,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog4.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog4-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog4-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog4.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog4-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog4-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:17:"blog4-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"blog4-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:18:"blog4-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:18:"blog4-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1046,65 +1046,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Privacy Terms</title>
-		<link>http://totaltheme.wpengine.com/corporate/privacy-terms/</link>
-		<pubDate>Sat, 03 Oct 2015 20:38:03 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?p=30</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2015-10-03 20:38:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-10-03 20:38:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-terms]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>blog3</title>
 		<link>http://totaltheme.wpengine.com/corporate/ensuring-mobile-compatibility-for-your-website/blog3/</link>
 		<pubDate>Sun, 04 Oct 2015 18:42:13 +0000</pubDate>
@@ -1132,7 +1073,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog3.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog3-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog3.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog3-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:17:"blog3-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:18:"blog3-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"blog3-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1163,7 +1104,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog2.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog2-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog2.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog2-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:17:"blog2-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:18:"blog2-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:18:"blog2-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"blog2-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1194,7 +1135,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog1.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog1-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:17:"2015/10/blog1.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:17:"blog1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"wpex_65x65";a:5:{s:4:"file";s:15:"blog1-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:17:"blog1-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:18:"blog1-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:18:"blog1-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:18:"blog1-1000x500.jpg";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1508,15 +1449,44 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Total</title>
+		<link>http://totaltheme.wpengine.com/corporate/total/</link>
+		<pubDate>Fri, 02 Mar 2018 19:54:35 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/total/</guid>
+		<description></description>
+		<content:encoded><![CDATA[/* Add a bit more margin to menu items*/
+.navbar-style-one .dropdown-menu > li {
+    margin-left: 15px;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>94</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-02 19:54:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-02 19:54:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[total]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Home</title>
 		<link>http://totaltheme.wpengine.com/corporate/</link>
 		<pubDate>Sat, 03 Oct 2015 19:59:44 +0000</pubDate>
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row tablet_fullwidth_cols="yes" css=".vc_custom_1489890760616{padding-top: 50px !important;padding-bottom: 10px !important;}"][vc_column width="1/4"][vcex_icon_box style="two" heading="The Key To Success" icon_type="linecons" icon_linecons="vc_li vc_li-key" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890732417{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]We are your key to success. We've spent years studying the market and analyzing trends, all to help you in your endeavors.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Globally Optimized" icon_type="linecons" icon_linecons="vc_li vc_li-world" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890737938{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]Our services are on a global scale, to help you grow exponentially in local and foreign markets for maximum conversions.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Responsive Campaigns" icon_type="linecons" icon_linecons="vc_li vc_li-params" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890742134{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]We track and monitor statistics on an hourly basis. This means we can quickly analyze and adjust campaigns for optimizations.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="The Best Results" icon_type="linecons" icon_linecons="vc_li vc_li-like" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890745778{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]Our company is the only in the industry that can boast a 100% satisfaction rating, and that's because we always put you first.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="47" css=".vc_custom_1444178950562{padding-top: 105px !important;padding-bottom: 75px !important;background-color: #555555 !important;}"][vc_column 0=""][vcex_heading text="With Total, You Can Do Anything" text_align="center" color="#ffffff" css=".vc_custom_1443972048005{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing 0=""][vc_column_text width="700px" color="#ffffff"]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true" visibility="visible-desktop"][vc_column][rev_slider_vc alias="corporate-home"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true" visibility="hidden-desktop"][vc_column][vcex_image align="center" width="100%" img_size="full" overlay_style="" image_id="82" el_class="stretch-image"][/vc_column][/vc_row][vc_row tablet_fullwidth_cols="yes" css=".vc_custom_1520019953845{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column width="1/4"][vcex_icon_box style="two" heading="The Key To Success" icon_type="linecons" icon_linecons="vc_li vc_li-key" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890732417{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]We are your key to success. We've spent years studying the market and analyzing trends, all to help you in your endeavors.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Globally Optimized" icon_type="linecons" icon_linecons="vc_li vc_li-world" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890737938{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]Our services are on a global scale, to help you grow exponentially in local and foreign markets for maximum conversions.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Responsive Campaigns" icon_type="linecons" icon_linecons="vc_li vc_li-params" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890742134{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]We track and monitor statistics on an hourly basis. This means we can quickly analyze and adjust campaigns for optimizations.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="The Best Results" icon_type="linecons" icon_linecons="vc_li vc_li-like" icon_color="#ffffff" icon_background="#83c132" icon_size="48px" icon_border_radius="50%" icon_width="100px" icon_height="100px" css=".vc_custom_1489890745778{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"]Our company is the only in the industry that can boast a 100% satisfaction rating, and that's because we always put you first.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="47" remove_bottom_col_margin="true" css=".vc_custom_1520019874611{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #555555 !important;}"][vc_column][vcex_heading text="With Total, You Can Do Anything" text_align="center" color="#ffffff" css=".vc_custom_1520023366504{margin-bottom: 15px !important;}" font_size="26"][vcex_divider color="#83c132" width="80px" height="3px"][vcex_spacing][vc_column_text width="700px" color="#ffffff"]
 <p style="text-align: center;">Key features, custom modules and expert support mean that you can focus on your business while we do the rest. We'll handle everything for your new business from branding to marketings, or we can help revitalize your existing business too. Whatever you need, we're here 24/7, 364 days a year (hey, we can take one day off right?).</p>
-[/vc_column_text][vcex_spacing 0=""][vcex_button title="Learn More" target="blank" align="center" border_radius="0px" font_padding="10px 30px"]LEARN MORE[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1443972435688{margin-top: 50px !important;padding-top: 30px !important;}"][vc_column 0=""][vcex_heading text="Meet Our Fabulous Team" text_align="center" css=".vc_custom_1443972060741{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][/vc_column][/vc_row][vc_row column_spacing="60" css=".vc_custom_1444179022430{margin-bottom: 50px !important;}"][vc_column width="1/3"][vcex_teaser heading="Margaret Johnson" image="33" css=".vc_custom_1476813264427{margin-bottom: 20px !important;}" img_width="360" img_height="340"]Meet Margaret, or as our customers affectionately call her, Marg. She founded and leads our little company.[/vcex_teaser][vc_progress_bar bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Cameron Frahn" image="34" css=".vc_custom_1476813335507{margin-bottom: 20px !important;}" img_width="360" img_height="340"]Cameron is our go to guy. He is full of creative ideas and has the skills to make just about anything happen.[/vcex_teaser][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2290%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2280%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Janice Smith" image="35" css=".vc_custom_1476813292658{margin-bottom: 20px !important;}" img_width="360" img_height="340"]Janice has connections in every industry. If you need a marketing or social media boost, she's the gal.[/vcex_teaser][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2270%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2295%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="46" css=".vc_custom_1443975490728{padding-top: 105px !important;padding-bottom: 75px !important;background-color: #555555 !important;background-position: center;background-repeat: no-repeat;background-size:cover;}"][vc_column css_animation="fadeInDown" width="1/4"][vc_icon type="linecons" icon_linecons="vc_li vc_li-user" color="custom" size="lg" align="center" custom_color="#83c132" css=".vc_custom_1443971820996{margin-bottom: 0px !important;padding-bottom: 0px !important;}"][vcex_spacing size="10px"][vcex_milestone number="5" caption="TEAM MEMBERS" number_color="#83c132" caption_color="#fcfcfc"][/vc_column][vc_column css_animation="fadeInDown" width="1/4"][vc_icon type="linecons" icon_linecons="vc_li vc_li-star" color="custom" size="lg" align="center" custom_color="#83c132" css=".vc_custom_1443908365184{margin-bottom: 0px !important;padding-bottom: 0px !important;}"][vcex_spacing size="10px"][vcex_spacing size="10px"][vcex_milestone number="27" caption="INDUSTRY AWARDS" number_color="#83c132" caption_color="#fcfcfc"][/vc_column][vc_column css_animation="fadeInDown" width="1/4"][vc_icon type="linecons" color="custom" size="lg" align="center" custom_color="#83c132" css=".vc_custom_1443971808419{margin-bottom: 0px !important;padding-bottom: 0px !important;}"][vcex_spacing size="10px"][vcex_milestone number="86" caption="HAPPY CUSTOMERS" number_color="#83c132" caption_color="#fcfcfc"][/vc_column][vc_column css_animation="fadeInDown" width="1/4"][vc_icon type="linecons" icon_linecons="vc_li vc_li-like" color="custom" size="lg" align="center" custom_color="#83c132" css=".vc_custom_1443971791950{margin-bottom: 0px !important;padding-bottom: 0px !important;}"][vcex_spacing size="10px"][vcex_milestone number="100" caption="SATISFACTION" number_color="#83c132" caption_color="#fcfcfc" after="%"][/vc_column][/vc_row][vc_row css=".vc_custom_1443972455713{margin-top: 50px !important;margin-bottom: 50px !important;padding-top: 30px !important;}"][vc_column 0=""][vcex_heading text="A Few Of Our Happy Customers" text_align="center" css=".vc_custom_1443972077054{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing 0=""][vcex_image_carousel arrows="false" dots="true" items="5" tablet_items="4" items_scroll="5" img_size="full" image_ids="36,37,38,39,40,41,42,43,44,45"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][vcex_spacing][vcex_button target="blank" title="Learn More" align="center" border_radius="0px" font_padding="10px 30px"]LEARN MORE[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1520019927038{margin-bottom: 10px !important;padding-top: 80px !important;}"][vc_column][vcex_heading text="Meet Our Fabulous Team" text_align="center" css=".vc_custom_1443972060741{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="80px" height="3px"][/vc_column][/vc_row][vc_row column_spacing="60" css=".vc_custom_1520019932525{margin-bottom: 40px !important;}"][vc_column width="1/3"][vcex_teaser heading="Margaret Johnson" image="33" css=".vc_custom_1476813264427{margin-bottom: 20px !important;}" img_width="360" img_height="340"]Meet Margaret, or as our customers affectionately call her, Marg. She founded and leads our little company.[/vcex_teaser][vc_progress_bar bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Cameron Frahn" image="34" css=".vc_custom_1476813335507{margin-bottom: 20px !important;}" img_width="360" img_height="340"]Cameron is our go to guy. He is full of creative ideas and has the skills to make just about anything happen.[/vcex_teaser][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2290%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2280%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Janice Smith" image="35" css=".vc_custom_1476813292658{margin-bottom: 20px !important;}" img_width="360" img_height="340"]Janice has connections in every industry. If you need a marketing or social media boost, she's the gal.[/vcex_teaser][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2270%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2295%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="46" css=".vc_custom_1520019984243{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #555555 !important;background-position: 0 0;background-repeat:-repeat;}"][vc_column css_animation="fadeInDown" width="1/4"][vcex_spacing size="10px"][vcex_milestone number="5" enable_icon="true" icon="fa fa-users" caption="TEAM MEMBERS" number_color="#83c132" caption_color="#fcfcfc" number_bottom_margin="15px" icon_size="38" number_size="48px"][/vc_column][vc_column css_animation="fadeInDown" css_animation_delay="0.2" width="1/4"][vcex_spacing size="10px"][vcex_milestone number="27" enable_icon="true" icon="fa fa-star" caption="INDUSTRY AWARDS" number_color="#83c132" caption_color="#fcfcfc" icon_size="38" number_bottom_margin="15px" number_size="48px"][/vc_column][vc_column css_animation="fadeInDown" css_animation_delay="0.3" width="1/4"][vcex_spacing size="10px"][vcex_milestone number="86" enable_icon="true" icon="fa fa-heart" caption="HAPPY CUSTOMERS" number_color="#83c132" caption_color="#fcfcfc" icon_size="38" number_bottom_margin="15px" number_size="48px"][/vc_column][vc_column css_animation="fadeInDown" css_animation_delay="0.4" width="1/4"][vcex_spacing size="10px"][vcex_milestone number="100" enable_icon="true" icon="fa fa-thumbs-up" caption="SATISFACTION" number_color="#83c132" caption_color="#fcfcfc" after="%" number_bottom_margin="15px" icon_size="38" number_size="48px"][/vc_column][/vc_row][vc_row css=".vc_custom_1520020006293{padding-top: 80px !important;padding-bottom: 40px !important;}"][vc_column][vcex_heading text="A Few Of Our Happy Customers" text_align="center" css=".vc_custom_1443972077054{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="80px" height="3px"][vcex_spacing size="40px"][vcex_image_carousel arrows="false" dots="true" items="6" tablet_items="4" items_scroll="5" items_margin="30" img_size="full" image_ids="36,37,38,39,40,41,42,43,44,45"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 19:59:44]]></wp:post_date>
@@ -1564,27 +1534,19 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489890760616{padding-top: 50px !important;padding-bottom: 10px !important;}.vc_custom_1444178950562{padding-top: 105px !important;padding-bottom: 75px !important;background-color: #555555 !important;}.vc_custom_1443972435688{margin-top: 50px !important;padding-top: 30px !important;}.vc_custom_1444179022430{margin-bottom: 50px !important;}.vc_custom_1443975490728{padding-top: 105px !important;padding-bottom: 75px !important;background-color: #555555 !important;background-position: center;background-repeat: no-repeat;background-size:cover;}.vc_custom_1443972455713{margin-top: 50px !important;margin-bottom: 50px !important;padding-top: 30px !important;}.vc_custom_1489890732417{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489890737938{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489890742134{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489890745778{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1443972048005{margin-bottom: 15px !important;}.vc_custom_1443972060741{margin-bottom: 15px !important;}.vc_custom_1476813264427{margin-bottom: 20px !important;}.vc_custom_1476813335507{margin-bottom: 20px !important;}.vc_custom_1476813292658{margin-bottom: 20px !important;}.vc_custom_1443971820996{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1443908365184{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1443971808419{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1443971791950{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1443972077054{margin-bottom: 15px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1520019953845{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1520019874611{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #555555 !important;}.vc_custom_1520019927038{margin-bottom: 10px !important;padding-top: 80px !important;}.vc_custom_1520019932525{margin-bottom: 40px !important;}.vc_custom_1520019984243{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #555555 !important;background-position: 0 0;background-repeat:-repeat;}.vc_custom_1520020006293{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1489890732417{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489890737938{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489890742134{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489890745778{margin-bottom: 0px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 20px !important;padding-right: 20px !important;padding-bottom: 20px !important;padding-left: 20px !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1520023366504{margin-bottom: 15px !important;}.vc_custom_1443972060741{margin-bottom: 15px !important;}.vc_custom_1476813264427{margin-bottom: 20px !important;}.vc_custom_1476813335507{margin-bottom: 20px !important;}.vc_custom_1476813292658{margin-bottom: 20px !important;}.vc_custom_1443972077054{margin-bottom: 15px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
 			<wp:meta_value><![CDATA[light]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_shortcode]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[rev_slider alias="corporate-home"]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
 			<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_post_slider_mobile]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_slider_mobile_alt]]></wp:meta_key>
-			<wp:meta_value><![CDATA[82]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.stretch-image img { width: 100%; }]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1594,9 +1556,9 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?page_id=21</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row 0="" css=".vc_custom_1489890931583{padding-top: 20px !important;padding-bottom: 20px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Branding & Rebranding" icon_type="linecons" icon_linecons="vc_li vc_li-cup" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]We can help you custom create your brand. Or if your business already exists, we can assist with re-banding to revamp your image.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Marketing & Social Media" icon_type="linecons" icon_linecons="vc_li vc_li-sound" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Get your business out there, with our help. We'll build a top notch marketing and social media plan to help get you noticed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Business Plans" icon_type="linecons" icon_linecons="vc_li vc_li-pen" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Part of running and efficient business and growing in your market sector is your business plan, and we have the blueprints.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1443981962771{margin-bottom: 20px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Website & Online Prescence" icon_type="linecons" icon_linecons="vc_li vc_li-display" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]You need a kick-a** website and captivating online profiles to catch customers attention. We'll do it all for you.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Head Hunting" icon_type="linecons" icon_linecons="vc_li vc_li-user" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Need some help finding the right person for the job? We know lots of awesome people and can help build your team![/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Organizational Structure" icon_type="linecons" icon_linecons="vc_li vc_li-settings" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Not sure when to hire and when to outsource? We can assist you with organizing and structuring your business.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="49" css=".vc_custom_1443986462670{padding-top: 75px !important;padding-bottom: 50px !important;background-color: #555555 !important;}"][vc_column 0=""][vcex_heading text="More About Us" text_align="center" css=".vc_custom_1443985069973{margin-bottom: 15px !important;}" color="#ffffff"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing 0=""][vc_column_text width="700px" color="#ffffff"]
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1520020645762{padding-top: 20px !important;padding-bottom: 30px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Branding & Rebranding" icon_type="linecons" icon_linecons="vc_li vc_li-cup" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]We can help you custom create your brand. Or if your business already exists, we can assist with re-banding to revamp your image.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Marketing & Social Media" icon_type="linecons" icon_linecons="vc_li vc_li-sound" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Get your business out there, with our help. We'll build a top notch marketing and social media plan to help get you noticed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Business Plans" icon_type="linecons" icon_linecons="vc_li vc_li-pen" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Part of running and efficient business and growing in your market sector is your business plan, and we have the blueprints.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1520020652040{margin-bottom: 30px !important;}"][vc_column width="1/3"][vcex_icon_box heading="Website & Online Prescence" icon_type="linecons" icon_linecons="vc_li vc_li-display" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]You need a kick-a** website and captivating online profiles to catch customers attention. We'll do it all for you.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Head Hunting" icon_type="linecons" icon_linecons="vc_li vc_li-user" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Need some help finding the right person for the job? We know lots of awesome people and can help build your team![/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Organizational Structure" icon_type="linecons" icon_linecons="vc_li vc_li-settings" icon_color="#ffffff" icon_background="#83c132" icon_border_radius="50%"]Not sure when to hire and when to outsource? We can assist you with organizing and structuring your business.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="49" css=".vc_custom_1520020659454{padding-top: 80px !important;padding-bottom: 40px !important;background-color: #555555 !important;}"][vc_column][vcex_heading text="More About Us" text_align="center" css=".vc_custom_1443985069973{margin-bottom: 15px !important;}" color="#ffffff"][vcex_divider color="#83c132" width="80px" height="3px"][vcex_spacing][vc_column_text width="750px" color="#ffffff"]
 <p style="text-align: center;">We can do all sorts of things that you business might need. Just take a look at our services below. We can help with your branding, marketing, business plans, and more. Plus we'll even lend a hand with hiring or organizational structure. And we build beautiful websites (of course, since everything we do is awesome). But that's not all, we can do anything you might need. Just head on over to our contact page to send us a message and we'll get back to you.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1443982273616{padding-top: 50px !important;}"][vc_column 0=""][vcex_heading text="Our Team" text_align="center" css=".vc_custom_1443977360470{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][/vc_column][/vc_row][vc_row css=".vc_custom_1443982278026{padding-bottom: 30px !important;}"][vc_column width="1/3"][vcex_teaser heading="Margaret Johnson" image="33" css=".vc_custom_1443976925110{margin-bottom: 20px !important;}"]Meet Margaret, or as our customers affectionately call her Marg. She founded and leads our little company. After attending Northwestern for undergrad, she went on to complete a number of internships in big business. After getting fed up with how impersonal it could be, she left to start her own company (this one).[/vcex_teaser][vcex_social_links style="none" twitter="#" facebook="#" googleplus="#" pinterest="#" email="#" css=".vc_custom_1444156797262{margin-bottom: 20px !important;}" size="20px" color="#555555" hover_color="#000000"][vc_progress_bar bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Cameron Frahn" image="34" css=".vc_custom_1443977089467{margin-bottom: 20px !important;}"]Cameron is our go to guy. He is full of creative ideas and has the skills to make just about anything happen. With multiple degrees and certifications in web design, graphic design, development and more there really isn't anything he can't create. Websites, apps, gifs, games, ad campaigns, cover images and more.[/vcex_teaser][vcex_social_links style="none" twitter="#" facebook="#" googleplus="#" pinterest="#" email="#" css=".vc_custom_1444156820731{margin-bottom: 20px !important;}" size="20px" color="#555555" hover_color="#000000"][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2290%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2280%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Janice Smith" image="35" css=".vc_custom_1443977180412{margin-bottom: 20px !important;}"]Janice has connections in every industry. If you need a marketing or social media boost, she's the gal. Never without her phone, Janice can help any business (she's the one who knows someone who knows someone). She's managed images and media profiles for lots of big companies, why not be one of them?[/vcex_teaser][vcex_social_links style="none" twitter="#" facebook="#" googleplus="#" pinterest="#" email="#" css=".vc_custom_1444156881110{margin-bottom: 20px !important;}" size="20px" color="#555555" hover_color="#000000"][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2270%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2295%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489890965423{border-top-width: 1px !important;padding-top: 50px !important;padding-bottom: 10px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column 0=""][vcex_heading text="Recent News" text_align="center" css=".vc_custom_1443981815418{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing size="35px"][vcex_recent_news grid_columns="2" count="4" excerpt_length="20" read_more="false" columns_gap="40"][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1520020669658{padding-top: 60px !important;}"][vc_column][vcex_heading text="Our Team" text_align="center" css=".vc_custom_1443977360470{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="80px" height="3px"][/vc_column][/vc_row][vc_row css=".vc_custom_1520020678994{padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_teaser heading="Margaret Johnson" image="33" css=".vc_custom_1443976925110{margin-bottom: 20px !important;}"]Meet Margaret, or as our customers affectionately call her Marg. She founded and leads our little company. After attending Northwestern for undergrad, she went on to complete a number of internships in big business. After getting fed up with how impersonal it could be, she left to start her own company (this one).[/vcex_teaser][vcex_social_links style="none" twitter="#" facebook="#" googleplus="#" pinterest="#" email="#" css=".vc_custom_1444156797262{margin-bottom: 20px !important;}" size="20px" color="#555555" hover_color="#000000"][vc_progress_bar bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Cameron Frahn" image="34" css=".vc_custom_1443977089467{margin-bottom: 20px !important;}"]Cameron is our go to guy. He is full of creative ideas and has the skills to make just about anything happen. With multiple degrees and certifications in web design, graphic design, development and more there really isn't anything he can't create. Websites, apps, gifs, games, ad campaigns, cover images and more.[/vcex_teaser][vcex_social_links style="none" twitter="#" facebook="#" googleplus="#" pinterest="#" email="#" css=".vc_custom_1444156820731{margin-bottom: 20px !important;}" size="20px" color="#555555" hover_color="#000000"][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2290%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2280%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][vc_column width="1/3"][vcex_teaser heading="Janice Smith" image="35" css=".vc_custom_1443977180412{margin-bottom: 20px !important;}"]Janice has connections in every industry. If you need a marketing or social media boost, she's the gal. Never without her phone, Janice can help any business (she's the one who knows someone who knows someone). She's managed images and media profiles for lots of big companies, why not be one of them?[/vcex_teaser][vcex_social_links style="none" twitter="#" facebook="#" googleplus="#" pinterest="#" email="#" css=".vc_custom_1444156881110{margin-bottom: 20px !important;}" size="20px" color="#555555" hover_color="#000000"][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2270%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2280%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2295%22%7D%5D" bgcolor="custom" custombgcolor="#83c132" customtxtcolor="#ffffff"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1520020693574{border-top-width: 1px !important;padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column][vcex_heading text="Recent News" text_align="center" css=".vc_custom_1443981815418{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="80px" height="3px"][vcex_spacing size="35px"][vcex_recent_news grid_columns="2" count="4" excerpt_length="20" read_more="false" columns_gap="50"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 20:12:25]]></wp:post_date>
@@ -1632,7 +1594,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489890931583{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1443981962771{margin-bottom: 20px !important;}.vc_custom_1443986462670{padding-top: 75px !important;padding-bottom: 50px !important;background-color: #555555 !important;}.vc_custom_1443982273616{padding-top: 50px !important;}.vc_custom_1443982278026{padding-bottom: 30px !important;}.vc_custom_1489890965423{border-top-width: 1px !important;padding-top: 50px !important;padding-bottom: 10px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}.vc_custom_1443985069973{margin-bottom: 15px !important;}.vc_custom_1443977360470{margin-bottom: 15px !important;}.vc_custom_1443976925110{margin-bottom: 20px !important;}.vc_custom_1444156797262{margin-bottom: 20px !important;}.vc_custom_1443977089467{margin-bottom: 20px !important;}.vc_custom_1444156820731{margin-bottom: 20px !important;}.vc_custom_1443977180412{margin-bottom: 20px !important;}.vc_custom_1444156881110{margin-bottom: 20px !important;}.vc_custom_1443981815418{margin-bottom: 15px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1520020645762{padding-top: 20px !important;padding-bottom: 30px !important;}.vc_custom_1520020652040{margin-bottom: 30px !important;}.vc_custom_1520020659454{padding-top: 80px !important;padding-bottom: 40px !important;background-color: #555555 !important;}.vc_custom_1520020669658{padding-top: 60px !important;}.vc_custom_1520020678994{padding-bottom: 40px !important;}.vc_custom_1520020693574{border-top-width: 1px !important;padding-top: 60px !important;padding-bottom: 20px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}.vc_custom_1443985069973{margin-bottom: 15px !important;}.vc_custom_1443977360470{margin-bottom: 15px !important;}.vc_custom_1443976925110{margin-bottom: 20px !important;}.vc_custom_1444156797262{margin-bottom: 20px !important;}.vc_custom_1443977089467{margin-bottom: 20px !important;}.vc_custom_1444156820731{margin-bottom: 20px !important;}.vc_custom_1443977180412{margin-bottom: 20px !important;}.vc_custom_1444156881110{margin-bottom: 20px !important;}.vc_custom_1443981815418{margin-bottom: 15px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
@@ -1658,13 +1620,14 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?page_id=22</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content" column_spacing="0px"][vc_column][vc_single_image image="62" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1443988960470{padding-top: 50px !important;padding-bottom: 30px !important;}"][vc_column width="1/2"][vcex_heading text="Send A Message" text_align="center" css=".vc_custom_1443988191740{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing][contact-form-7 id="4"][/vc_column][vc_column width="1/2"][vcex_heading text="Come Say Hi" text_align="center" css=".vc_custom_1443988232986{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing][vc_column_text]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content" column_spacing="0px"][vc_column][vcex_image align="center" overlay_style="" image_id="62"][/vc_column][/vc_row][vc_row css=".vc_custom_1443988960470{padding-top: 50px !important;padding-bottom: 30px !important;}"][vc_column width="1/2"][vcex_heading text="Send A Message" text_align="center" css=".vc_custom_1443988191740{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="60px" height="3px"][vcex_spacing][vcex_form_shortcode cf7_id="4" font_size="14px"][/vcex_form_shortcode][/vc_column][vc_column width="1/2"][vcex_heading text="Come Say Hi" text_align="center" css=".vc_custom_1443988232986{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="60px" height="3px"][vcex_spacing][vc_column_text]
 <p style="text-align: center;">1234 Main Street
 Floor 5, Suite #678
 Las Vegas, NV 89123
 
 <p style="text-align: center;">1 (800) 555-6789</p>
-[/vc_column_text][vcex_spacing size="50px"][vcex_heading text="Office Hours" text_align="center" css=".vc_custom_1443988734522{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing][vc_column_text]
+[/vc_column_text][vcex_spacing size="50px"][vcex_heading text="Office Hours" text_align="center" css=".vc_custom_1443988734522{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="60px" height="3px"][vcex_spacing][vc_column_text]
+
 <p style="text-align: center;">Monday: 8am-4pm
 Tuesday: 9am-5pm
 Wednesday: 9am-2pm
@@ -1700,11 +1663,11 @@ Or contact us via one of our social media profiles!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1726,6 +1689,14 @@ Or contact us via one of our social media profiles!
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 			<wp:meta_value><![CDATA[.vc_custom_1443988960470{padding-top: 50px !important;padding-bottom: 30px !important;}.vc_custom_1443988191740{margin-bottom: 15px !important;}.vc_custom_1443988232986{margin-bottom: 15px !important;}.vc_custom_1443988734522{margin-bottom: 15px !important;}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Pricing</title>
@@ -1734,36 +1705,36 @@ Or contact us via one of our social media profiles!
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?page_id=23</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][vcex_heading text="Pricing For Our General Service Packages" text_align="center" css=".vc_custom_1443985547534{margin-bottom: 15px !important;}"][vcex_divider color="#83c132" width="10%" height="3px"][vcex_spacing][vc_column_text]
-<p style="text-align: center;">I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1443986423659{padding-bottom: 30px !important;}"][vc_column width="1/3"][vcex_pricing plan="SMALL" cost="$1,000" button_text="GET STARTED" plan_background="#ffffff" plan_size="18px" plan_border="1px solid #e8e8e8" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Get%20Started|target:%20_blank" button_border_radius="0px" button_padding="10px 30px"]
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1520022203893{margin-bottom: 20px !important;padding-top: 20px !important;}"][vc_column][vcex_heading text="Pricing For Our General Service Packages" text_align="center" css=".vc_custom_1443985547534{margin-bottom: 15px !important;}"][vcex_spacing size="10px"][vcex_divider color="#83c132" width="80px" height="3px"][vcex_spacing][vc_column_text width="700px"]
+<p style="text-align: center;">Below you will find our various pricing plans available. Choose the one that best fits your needs. If none of our pre-defined plans work for your needs please contact us directly so we can work out a custom structure for your needs.</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1520022175340{padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_pricing plan="SMALL" cost="$1,000" button_text="GET STARTED" plan_background="#ffffff" plan_size="18px" plan_border="1px solid #e8e8e8" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Get%20Started|target:%20_blank" button_border_radius="0px" button_padding="10px 30px"]
 <ul>
-	<li>Logo Design</li>
-	<li>Simple Website</li>
-	<li>Stationary Set</li>
-	<li>General Business Plan</li>
-	<li>5hr Consultation</li>
-	<li>Exclusive Resources</li>
+ 	<li>Logo Design</li>
+ 	<li>Simple Website</li>
+ 	<li>Stationary Set</li>
+ 	<li>General Business Plan</li>
+ 	<li>5hr Consultation</li>
+ 	<li>Exclusive Resources</li>
 </ul>
-[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="MEDIUM" cost="$2,000" cost_weight="semibold" button_text="GET STARTED" plan_background="#ffffff" plan_size="18px" plan_border="1px solid #e8e8e8" cost_background="#83c132" cost_color="#ffffff" cost_border="1px solid #83c132" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Get%20Started|target:%20_blank" button_border_radius="0px" button_padding="10px 30px"]
+[/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="MEDIUM" cost="$2,000" button_text="GET STARTED" cost_weight="semibold" plan_background="#ffffff" plan_size="18px" plan_border="1px solid #e8e8e8" cost_background="#83c132" cost_color="#ffffff" cost_border="1px solid #83c132" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Get%20Started|target:%20_blank" button_border_radius="0px" button_padding="10px 30px"]
 <ul>
-	<li>Logo Design (with Revisions)</li>
-	<li>Full Website &amp; Portfolio</li>
-	<li>Stationary &amp; Gear</li>
-	<li>Advanced Business Plan</li>
-	<li>15hr Consultation</li>
-	<li>Exclusive Resources</li>
+ 	<li>Logo Design (with Revisions)</li>
+ 	<li>Full Website &amp; Portfolio</li>
+ 	<li>Stationary &amp; Gear</li>
+ 	<li>Advanced Business Plan</li>
+ 	<li>15hr Consultation</li>
+ 	<li>Exclusive Resources</li>
 </ul>
 [/vcex_pricing][/vc_column][vc_column width="1/3"][vcex_pricing plan="LARGE" cost="$3,000" button_text="GET STARTED" plan_background="#ffffff" plan_size="18px" plan_border="1px solid #e8e8e8" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Get%20Started|target:%20_blank" button_border_radius="0px" button_padding="10px 30px"]
 <ul>
-	<li>Logo Design (with Revisions)</li>
-	<li>Website, Portfolio &amp; E-Commerce</li>
-	<li>Stationary &amp; Gear</li>
-	<li>Advanced Business Plan</li>
-	<li>25hr Consultation</li>
-	<li>Exclusive Resources &amp; Support</li>
+ 	<li>Logo Design (with Revisions)</li>
+ 	<li>Website, Portfolio &amp; E-Commerce</li>
+ 	<li>Stationary &amp; Gear</li>
+ 	<li>Advanced Business Plan</li>
+ 	<li>25hr Consultation</li>
+ 	<li>Exclusive Resources &amp; Support</li>
 </ul>
-[/vcex_pricing][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1443986674483{border-top-width: 1px !important;padding-top: 50px !important;padding-bottom: 20px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column width="2/3"][vcex_list_item icon_type="typicons" font_size="18px" icon_typicons="typcn typcn-phone-outline" margin_right="20px" icon_size="30px"]Didn't see the service you need listed above? Give us a call for a custom quote![/vcex_list_item][/vc_column][vc_column width="1/3"][vcex_button url="http://totaltheme.wpengine.com/corporate/contact/" title="Contact Us" layout="expanded" border_radius="0px" font_padding="15px"]CONTACT US[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+[/vcex_pricing][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" css=".vc_custom_1520022046178{border-top-width: 1px !important;padding-top: 40px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column width="2/3"][vcex_list_item icon_type="typicons" font_size="19px" icon_typicons="typcn typcn-phone-outline" margin_right="20px" icon_size="30px"]Didn't see the service you need listed above? Give us a call for a custom quote![/vcex_list_item][/vc_column][vc_column width="1/3"][vcex_button url="http://totaltheme.wpengine.com/corporate/contact/" layout="expanded" title="Contact Us" border_radius="0px" font_padding="15px"]CONTACT US[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 20:18:18]]></wp:post_date>
@@ -1787,11 +1758,11 @@ Or contact us via one of our social media profiles!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1807,7 +1778,74 @@ Or contact us via one of our social media profiles!
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1443986423659{padding-bottom: 30px !important;}.vc_custom_1443986674483{border-top-width: 1px !important;padding-top: 50px !important;padding-bottom: 20px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}.vc_custom_1443985547534{margin-bottom: 15px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1520022203893{margin-bottom: 20px !important;padding-top: 20px !important;}.vc_custom_1520022175340{padding-bottom: 40px !important;}.vc_custom_1520022046178{border-top-width: 1px !important;padding-top: 40px !important;background-color: #f7f7f7 !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}.vc_custom_1443985547534{margin-bottom: 15px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Privacy Terms</title>
+		<link>http://totaltheme.wpengine.com/corporate/privacy-terms/</link>
+		<pubDate>Sat, 03 Oct 2015 20:38:03 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?p=30</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2015-10-03 20:38:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-10-03 20:38:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-terms]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2145,85 +2183,6 @@ Objectively integrate enterprise-wide strategic theme areas with functionalized 
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>9</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
-		<title>Ensuring Mobile Compatibility For Your Website</title>
-		<link>http://totaltheme.wpengine.com/corporate/ensuring-mobile-compatibility-for-your-website/</link>
-		<pubDate>Wed, 30 Sep 2015 18:41:49 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?p=56</guid>
-		<description></description>
-		<content:encoded><![CDATA[Quickly communicate enabled technology and turnkey leadership skills. Uniquely enable accurate supply chains rather than frictionless technology. Globally network focused materials vis-a-vis cost effective manufactured products. Enthusiastically leverage existing premium quality vectors with enterprise-wide innovation. Phosfluorescently leverage others enterprise-wide "outside the box" thinking with e-business collaboration and idea-sharing. Proactively leverage other resource-leveling convergence rather than inter-mandated networks.
-
-Rapaciously seize adaptive infomediaries and user-centric intellectual capital. Collaboratively unleash market-driven "outside the box" thinking for long-term high-impact solutions. Enthusiastically engage fully tested process improvements before top-line platforms. Efficiently myocardinate market-driven innovation via open-source alignments. Dramatically engage high-payoff infomediaries rather than client-centric imperatives. Efficiently initiate world-class applications after client-centric infomediaries.
-
-Phosfluorescently expedite impactful supply chains via focused results. Holistically generate open-source applications through bleeding-edge sources. Compellingly supply just in time catalysts for change through top-line potentialities. Uniquely deploy cross-unit benefits with wireless testing procedures. Collaboratively build backward-compatible relationships whereas tactical paradigms. Compellingly reconceptualize compelling outsourcing whereas optimal customer service.
-
-Quickly incentivize impactful action items before tactical collaboration and idea-sharing. Monotonically engage market-driven intellectual capital through wireless opportunities. Progressively network performance based services for functionalized testing procedures. Globally harness multimedia based collaboration and idea-sharing with backend products. Continually whiteboard superior opportunities via covalent scenarios. Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2015-09-30 18:41:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-09-30 18:41:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[ensuring-mobile-compatibility-for-your-website]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="advice"><![CDATA[Advice]]></category>
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[57]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>4</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2015-10-06 18:44:05]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2015-10-06 18:44:05]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Uniquely enable accurate supply chains rather than frictionless technology. Globally network focused materials vis-a-vis cost effective manufactured products.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>10</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2015-10-06 18:45:16]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2015-10-06 18:45:16]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Monotonically engage market-driven intellectual capital through wireless opportunities. Progressively network performance based services for functionalized testing procedures. Globally harness multimedia based collaboration and idea-sharing with backend products.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>2</wp:comment_user_id>
 		</wp:comment>
 	</item>
@@ -2824,17 +2783,19 @@ Quickly incentivize impactful action items before tactical collaboration and ide
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?post_type=wpcf7_contact_form&#038;p=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="full-width-input"><p>[text* your-name "Your Name"]</p>
+		<content:encoded><![CDATA[<div class="full-width-input"><p>[text* your-name placeholder "Your Name"]</p>
 
-<p>[email* your-email "Your Email"]</p>
+<p>[email* your-email placeholder "Your Email"]</p>
 
-<p>[text* your-subject "Message Subject"]</p>
+<p>[text* your-subject placeholder "Message Subject"]</p>
 
-<p>[textarea your-message "Write your message here..."]</p>
+<p>[textarea your-message placeholder "Write your message here..."]</p>
 
 <p>[submit "SUBMIT"]</p></div>
+1
 [your-subject]
 [your-name] <wordpress@totaltheme.wpengine.com>
+dummy@wpexplorer.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -2843,7 +2804,6 @@ Message Body:
 
 --
 This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)
-dummy@wpexplorer.com
 Reply-To: [your-email]
 
 
@@ -2851,12 +2811,12 @@ Reply-To: [your-email]
 
 [your-subject]
 Corporate <wordpress@totaltheme.wpengine.com>
+[your-email]
 Message Body:
 [your-message]
 
 --
 This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)
-[your-email]
 Reply-To: sympleworkz@gmail.com
 
 
@@ -2880,10 +2840,10 @@ Number format seems invalid.
 This number is too small.
 This number is too large.
 Your answer is not correct.
+Your entered code is incorrect.
 Email address seems invalid.
 URL seems invalid.
-Telephone number seems invalid.
-Your entered code is incorrect.]]></content:encoded>
+Telephone number seems invalid.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 20:00:49]]></wp:post_date>
@@ -2899,38 +2859,38 @@ Your entered code is incorrect.]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="full-width-input"><p>[text* your-name "Your Name"]</p>
+			<wp:meta_value><![CDATA[<div class="full-width-input"><p>[text* your-name placeholder "Your Name"]</p>
 
-<p>[email* your-email "Your Email"]</p>
+<p>[email* your-email placeholder "Your Email"]</p>
 
-<p>[text* your-subject "Message Subject"]</p>
+<p>[text* your-subject placeholder "Message Subject"]</p>
 
-<p>[textarea your-message "Write your message here..."]</p>
+<p>[textarea your-message placeholder "Write your message here..."]</p>
 
 <p>[submit "SUBMIT"]</p></div>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:187:"From: [your-name] <[your-email]>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:9:"recipient";s:20:"dummy@wpexplorer.com";s:4:"body";s:187:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)";s:9:"recipient";s:20:"dummy@wpexplorer.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:45:"Corporate <wordpress@totaltheme.wpengine.com>";s:4:"body";s:129:"Message Body:
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:45:"Corporate <wordpress@totaltheme.wpengine.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:129:"Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:34:"Please fill in the required field.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:34:"Please fill in the required field.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
@@ -2944,6 +2904,85 @@ This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengin
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Ensuring Mobile Compatibility For Your Website</title>
+		<link>http://totaltheme.wpengine.com/corporate/ensuring-mobile-compatibility-for-your-website/</link>
+		<pubDate>Wed, 30 Sep 2015 18:41:49 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/corporate/?p=56</guid>
+		<description></description>
+		<content:encoded><![CDATA[Quickly communicate enabled technology and turnkey leadership skills. Uniquely enable accurate supply chains rather than frictionless technology. Globally network focused materials vis-a-vis cost effective manufactured products. Enthusiastically leverage existing premium quality vectors with enterprise-wide innovation. Phosfluorescently leverage others enterprise-wide "outside the box" thinking with e-business collaboration and idea-sharing. Proactively leverage other resource-leveling convergence rather than inter-mandated networks.
+
+Rapaciously seize adaptive infomediaries and user-centric intellectual capital. Collaboratively unleash market-driven "outside the box" thinking for long-term high-impact solutions. Enthusiastically engage fully tested process improvements before top-line platforms. Efficiently myocardinate market-driven innovation via open-source alignments. Dramatically engage high-payoff infomediaries rather than client-centric imperatives. Efficiently initiate world-class applications after client-centric infomediaries.
+
+Phosfluorescently expedite impactful supply chains via focused results. Holistically generate open-source applications through bleeding-edge sources. Compellingly supply just in time catalysts for change through top-line potentialities. Uniquely deploy cross-unit benefits with wireless testing procedures. Collaboratively build backward-compatible relationships whereas tactical paradigms. Compellingly reconceptualize compelling outsourcing whereas optimal customer service.
+
+Quickly incentivize impactful action items before tactical collaboration and idea-sharing. Monotonically engage market-driven intellectual capital through wireless opportunities. Progressively network performance based services for functionalized testing procedures. Globally harness multimedia based collaboration and idea-sharing with backend products. Continually whiteboard superior opportunities via covalent scenarios. Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2015-09-30 18:41:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-09-30 18:41:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ensuring-mobile-compatibility-for-your-website]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="advice"><![CDATA[Advice]]></category>
+		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>4</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2015-10-06 18:44:05]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2015-10-06 18:44:05]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Uniquely enable accurate supply chains rather than frictionless technology. Globally network focused materials vis-a-vis cost effective manufactured products.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>10</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2015-10-06 18:45:16]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2015-10-06 18:45:16]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Monotonically engage market-driven intellectual capital through wireless opportunities. Progressively network performance based services for functionalized testing procedures. Globally harness multimedia based collaboration and idea-sharing with backend products.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Why You And Your Team Should Be Attending Conferences</title>
@@ -3143,6 +3182,28 @@ Enthusiastically mesh long-term high-impact infrastructures vis-a-vis efficient 
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>18</wp:comment_id>
+			<wp:comment_author><![CDATA[Buy Viagra]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[bobbububbo@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://medsmensalesildenafil.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[91.195.103.151]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-05-14 01:12:37]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-05-14 01:12:37]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hello! Cool post, amazing!!!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1520019601]]></wp:meta_value>
+			</wp:commentmeta>
 		</wp:comment>
 	</item>
 </channel>
