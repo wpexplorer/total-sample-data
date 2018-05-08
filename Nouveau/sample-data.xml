@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.2" created="2018-02-03 23:10" -->
+<!-- generator="WordPress/4.9.5" created="2018-05-08 00:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Nou·veau</title>
 	<link>http://totaltheme.wpengine.com/nouveau</link>
 	<description>Total WordPress Theme Portfolio Demo</description>
-	<pubDate>Sat, 03 Feb 2018 23:10:39 +0000</pubDate>
+	<pubDate>Tue, 08 May 2018 00:20:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -120,7 +120,7 @@
 	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.9.2</generator>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
 
 	<item>
 		<title>fern</title>
@@ -926,65 +926,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Blog</title>
-		<link>http://totaltheme.wpengine.com/nouveau/the-blog/</link>
-		<pubDate>Fri, 16 Jan 2015 22:13:01 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=60</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-16 22:13:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-16 22:13:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>services-banner</title>
 		<link>http://totaltheme.wpengine.com/nouveau/services/services-banner/</link>
 		<pubDate>Fri, 16 Jan 2015 23:43:02 +0000</pubDate>
@@ -1357,49 +1298,26 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>tools</title>
-		<link>http://totaltheme.wpengine.com/nouveau/tools/</link>
-		<pubDate>Sat, 17 Jan 2015 01:30:50 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/wp-content/uploads/sites/21/2015/01/tools.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>96</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-17 01:30:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-17 01:30:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[tools]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/tools.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/tools.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2200;s:6:"height";i:1250;s:4:"file";s:17:"2015/01/tools.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Total</title>
 		<link>http://totaltheme.wpengine.com/nouveau/total/</link>
 		<pubDate>Tue, 14 Mar 2017 22:24:15 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/nouveau/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* DEMO CSS > Add background to centered minimal page header */
+		<content:encoded><![CDATA[/* Add a little extra spacing to menu items */
+.navbar-style-one .dropdown-menu > li { margin-left: 8px }
+
+/* Remove margin from menu social icons and search */
+#site-navigation .dropdown-menu li.social-item,
+#site-navigation .dropdown-menu li.wpex-menu-extra { margin-left: 0; }
+#site-navigation .dropdown-menu li.social-item .fa { margin-right: 0; }
+
+/* Add background to centered minimal page header */
 .page-header.centered-minimal-page-header {
   background: #f7f7f7;
 }
 
-/* DEMO CSS > Hide Social Icons From Mobile Menu */
+/* Hide Social Icons From Mobile Menu */
 #sidr-id-menu-item-103, #sidr-id-menu-item-104, #sidr-id-menu-item-105 {
   display: none;
 }]]></content:encoded>
@@ -1419,6 +1337,68 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>forest-road</title>
+		<link>http://totaltheme.wpengine.com/nouveau/forest-road/</link>
+		<pubDate>Sun, 06 May 2018 18:22:58 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2018/05/forest-road.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>123</wp:post_id>
+		<wp:post_date><![CDATA[2018-05-06 18:22:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-05-06 18:22:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[forest-road]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2018/05/forest-road.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/05/forest-road.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:600;s:4:"file";s:23:"2018/05/forest-road.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:23:"forest-road-768x307.jpg";s:5:"width";i:768;s:6:"height";i:307;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>little-tree</title>
+		<link>http://totaltheme.wpengine.com/nouveau/little-tree/</link>
+		<pubDate>Sun, 06 May 2018 18:34:28 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2018/05/little-tree.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2018-05-06 18:34:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-05-06 18:34:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[little-tree]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2018/05/little-tree.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/05/little-tree.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:600;s:4:"file";s:23:"2018/05/little-tree.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:23:"little-tree-768x307.jpg";s:5:"width";i:768;s:6:"height";i:307;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1508,47 +1488,6 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[12]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sparkles</title>
-		<link>http://totaltheme.wpengine.com/nouveau/portfolio-item/sparkles/</link>
-		<pubDate>Fri, 16 Jan 2015 21:33:19 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[Maecenas vitae nulla nec mauris iaculis pharetra sit amet sed augue. Vivamus tincidunt, eros at viverra ornare, leo nunc fermentum erat, eget fringilla magna sem cursus tortor. Suspendisse erat nibh, dapibus quis ultrices placerat, facilisis eget arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pharetra suscipit eros, a tristique turpis rutrum eu. Nullam cursus metus eget lorem ultrices, at auctor purus commodo. Sed ac dui scelerisque, rutrum urna in, suscipit quam. Maecenas congue condimentum arcu, a pulvinar sapien fringilla tempus. In aliquam leo quis massa egestas, quis finibus mi tincidunt. Morbi sodales tincidunt dui, at volutpat odio suscipit id. Donec nisl velit, consectetur sed dolor a, scelerisque convallis nulla. Etiam convallis ullamcorper metus ac iaculis. In in pretium massa. Nam a odio vel enim volutpat ultricies quis et diam. Aenean euismod purus tortor, ut luctus sapien blandit sit amet. Maecenas efficitur metus vel nulla egestas, non bibendum nulla dictum.
-
-Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla. Donec lacinia ante in fermentum placerat. Quisque eleifend, magna ac ultrices iaculis, libero purus euismod urna, vel efficitur nisi libero in risus. Donec pretium, quam quis viverra fermentum, lacus magna vehicula diam, non fermentum metus tellus sit amet mi. Etiam suscipit sit amet ante eu efficitur. Integer vestibulum metus consequat felis mollis finibus. Morbi congue lectus sed nunc suscipit, egestas tempor ex vehicula. Suspendisse blandit lorem nec nisi pellentesque, eu porttitor ante convallis. Suspendisse ultricies porttitor mollis. Vivamus finibus finibus eleifend. Nunc efficitur, neque nec laoreet elementum, sem arcu sodales libero, eu porttitor metus dolor et quam. Etiam pharetra neque sit amet risus ultricies, quis ultricies arcu imperdiet. Aenean in enim sit amet est finibus aliquet.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-16 21:33:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-16 21:33:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sparkles]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="video"><![CDATA[Video]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1702,9 +1641,9 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=43</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces"][vc_column][rev_slider_vc alias="nouveau-homepage"][/vc_column][/vc_row][vc_row css=".vc_custom_1489892222319{padding-top: 20px !important;padding-bottom: 20px !important;}"][vc_column][vc_column_text width="700"]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true"][vc_column][rev_slider_vc alias="nouveau-homepage"][/vc_column][/vc_row][vc_row css=".vc_custom_1525630456208{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column][vc_column_text width="700"]
 <p style="text-align: center;"><span style="font-size: 24px;">Welcome to nou·veau. We are an innovative and creative agency that makes things. Keep reading to learn about what we can do for your business.</span></p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_heading text="Recent Projects" tag="h2" font_weight="400" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]We are creative people making incredible things.[/vc_column_text][vcex_spacing size="40px"][vcex_portfolio_carousel arrows_position="abs" dots="true" items="3" img_size="full" title="false" excerpt="false" arrows_style="slim" overlay_style="plus-hover"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Powerful Options" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-params" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Useful Tools" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-lab" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Quality Support" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-user" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1489787015532{margin-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Expert Code" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-display" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Flexible Features" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-settings" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Translation Ready" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-world" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1517699155993{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="bg-fixed"][vc_column margin_bottom="0px"][vc_column_text text_align="center" color="#ffffff" font_size="24"]<span style="font-family: georgia, palatino;">The price of success is hard work, dedication to the job at hand,</span>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_heading text="Recent Projects" tag="h2" font_weight="400" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]We are creative people making incredible things.[/vc_column_text][vcex_spacing size="50px"][vcex_portfolio_carousel arrows="false" dots="true" items="3" items_margin="30" img_size="full" title="false" excerpt="false" overlay_style="plus-hover"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Powerful Options" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-params" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Useful Tools" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-lab" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Quality Support" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-user" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1489787015532{margin-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Expert Code" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-display" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Flexible Features" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-settings" icon_size="32px"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" alignment="center" heading="Translation Ready" heading_type="h2" icon_type="linecons" heading_size="18px" icon_color="#c5a47e" icon_linecons="vc_li vc_li-world" icon_size="32px"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1517699155993{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="bg-fixed"][vc_column margin_bottom="0px"][vc_column_text text_align="center" color="#ffffff" font_size="24"]<span style="font-family: georgia, palatino;">The price of success is hard work, dedication to the job at hand,</span>
 <span style="font-family: georgia, palatino;"> applied the best of ourselves to the task at hand.</span>[/vc_column_text][vcex_spacing size="10px"][vc_column_text italic="true" text_align="center" color="#ffffff" font_size="18px"]- Vince Lombardi[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489787065719{margin-bottom: 20px !important;}"][vc_column][vcex_heading text="Recent News" tag="h2" font_weight="400" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]The latest news and events from the nou·veau team.[/vc_column_text][vcex_spacing size="40px"][vcex_blog_grid grid_style="fit_columns" columns="3" posts_per_page="3" order="DESC" excerpt_length="18" read_more="false" orderby="date" columns_gap="30" img_hover_style="opacity" img_width="600" img_height="320" custom_excerpt_trim="true" content_border="none" content_padding="20px 0 0"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" bg_style="stretch" css=".vc_custom_1517699237330{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_heading text="Get Total today to make your own site like this." tag="h3" font_weight="400" text_align="center" font_size="24px"][vcex_spacing size="40px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" target="blank" rel="nofollow" hover_animation="float-shadow" style="flat" align="center" color="black" text_transform="uppercase" font_weight="normal" font_size="14px" letter_spacing="2px" font_padding="15px 25px" custom_hover_background="#c5a47e"]Get Total Today[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>43</wp:post_id>
@@ -1745,7 +1684,7 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
@@ -1765,11 +1704,70 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489892222319{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}.vc_custom_1489787015532{margin-bottom: 40px !important;}.vc_custom_1517699155993{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489787065719{margin-bottom: 20px !important;}.vc_custom_1517699237330{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1525630456208{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1489786998390{margin-bottom: 80px !important;padding-top: 60px !important;padding-bottom: 40px !important;background-color: #f5f5f5 !important;}.vc_custom_1489787015532{margin-bottom: 40px !important;}.vc_custom_1517699155993{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(http://totaltheme.wpengine.com/nouveau/wp-content/uploads/sites/21/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489787065719{margin-bottom: 20px !important;}.vc_custom_1517699237330{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
 			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Blog</title>
+		<link>http://totaltheme.wpengine.com/nouveau/the-blog/</link>
+		<pubDate>Fri, 16 Jan 2015 22:13:01 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=60</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-16 22:13:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-16 22:13:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2335,7 +2333,7 @@ We'd love to help your business reach its goals![/vc_column_text][vcex_divider m
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:14:"no-icon-margin";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:11:"social-item";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2394,7 +2392,7 @@ We'd love to help your business reach its goals![/vc_column_text][vcex_divider m
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:14:"no-icon-margin";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:11:"social-item";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2453,7 +2451,7 @@ We'd love to help your business reach its goals![/vc_column_text][vcex_divider m
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:11:"social-item";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2702,6 +2700,47 @@ We'd love to help your business reach its goals![/vc_column_text][vcex_divider m
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sparkles</title>
+		<link>http://totaltheme.wpengine.com/nouveau/portfolio-item/sparkles/</link>
+		<pubDate>Fri, 16 Jan 2015 21:33:19 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=9</guid>
+		<description></description>
+		<content:encoded><![CDATA[Maecenas vitae nulla nec mauris iaculis pharetra sit amet sed augue. Vivamus tincidunt, eros at viverra ornare, leo nunc fermentum erat, eget fringilla magna sem cursus tortor. Suspendisse erat nibh, dapibus quis ultrices placerat, facilisis eget arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pharetra suscipit eros, a tristique turpis rutrum eu. Nullam cursus metus eget lorem ultrices, at auctor purus commodo. Sed ac dui scelerisque, rutrum urna in, suscipit quam. Maecenas congue condimentum arcu, a pulvinar sapien fringilla tempus. In aliquam leo quis massa egestas, quis finibus mi tincidunt. Morbi sodales tincidunt dui, at volutpat odio suscipit id. Donec nisl velit, consectetur sed dolor a, scelerisque convallis nulla. Etiam convallis ullamcorper metus ac iaculis. In in pretium massa. Nam a odio vel enim volutpat ultricies quis et diam. Aenean euismod purus tortor, ut luctus sapien blandit sit amet. Maecenas efficitur metus vel nulla egestas, non bibendum nulla dictum.
+
+Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla. Donec lacinia ante in fermentum placerat. Quisque eleifend, magna ac ultrices iaculis, libero purus euismod urna, vel efficitur nisi libero in risus. Donec pretium, quam quis viverra fermentum, lacus magna vehicula diam, non fermentum metus tellus sit amet mi. Etiam suscipit sit amet ante eu efficitur. Integer vestibulum metus consequat felis mollis finibus. Morbi congue lectus sed nunc suscipit, egestas tempor ex vehicula. Suspendisse blandit lorem nec nisi pellentesque, eu porttitor ante convallis. Suspendisse ultricies porttitor mollis. Vivamus finibus finibus eleifend. Nunc efficitur, neque nec laoreet elementum, sem arcu sodales libero, eu porttitor metus dolor et quam. Etiam pharetra neque sit amet risus ultricies, quis ultricies arcu imperdiet. Aenean in enim sit amet est finibus aliquet.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-16 21:33:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-16 21:33:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sparkles]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="portfolio_category" nicename="video"><![CDATA[Video]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3468,6 +3507,18 @@ Suspendisse non egestas sem. Cras commodo ante nulla, et tempor mauris placerat 
 			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Baby Tiger, But Where Is The Lion &amp; Bear?</title>
@@ -3621,103 +3672,6 @@ Fusce convallis erat et turpis luctus, sed vehicula mauris gravida. Etiam eu mat
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Just A Day, An Ordinary Day</title>
-		<link>http://totaltheme.wpengine.com/nouveau/just-a-day-an-ordinary-day/</link>
-		<pubDate>Fri, 16 Jan 2015 22:12:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=57</guid>
-		<description></description>
-		<content:encoded><![CDATA[Aliquam pharetra, sem quis volutpat ut nunc ipsum eget lorem, ut venenatis leo nibh vel mi. Pellentesque at morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean ante dolor, mattis sit amet purus eget, varius ornare massa. Nam quam tellus, blandit sit amet rhoncus at, vulputate ac elit. Proin dui lacus, dapibus blandit bibendum quis, ornare id risus. Ut facilisis faucibus mattis. In vel arcu at nisi vehicula mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu porta sem. Suspendisse imperdiet efficitur tellus a dictum.
-
-Quisque malesuada lectus quam, in molestie risus ultrices quis. Etiam maximus, augue et ornare commodo, ante velit rutrum erat, ut suscipit elit sapien vel dui. Sed mattis felis eu nibh fringilla, sit amet vulputate leo fringilla. Nulla laoreet convallis velit, eu lacinia augue ornare nec. Curabitur sit amet est elit. Nullam sit amet felis non magna cursus fermentum. Nulla ut orci non mi condimentum pretium eget eget risus. Duis auctor semper magna, egestas convallis diam. Ut nec aliquam ligula. Cras tincidunt purus imperdiet, egestas sapien sed, iaculis lorem. Suspendisse non cursus odio. Ut porttitor rhoncus erat, nec aliquet lacus interdum id. Mauris eu mi ligula. Nam ultrices porttitor hendrerit. Nullam vitae magna elit.
-
-Aenean non ultricies elit. Cras pellentesque pretium efficitur. Quisque vulputate ligula sit amet nibh mattis, ac rhoncus massa volutpat. Aenean dolor justo, rhoncus non imperdiet non, ultrices nec nibh. Quisque a urna ut lectus sagittis commodo et et urna. Suspendisse suscipit vel tellus vitae laoreet. Pellentesque pellentesque ex vitae erat luctus, non varius nunc viverra. In lobortis at dolor ut pharetra. Morbi egestas odio sapien, a tempor arcu tincidunt in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ac nisi vel arcu mollis scelerisque. Fusce vitae pellentesque elit. Pellentesque egestas sem sit amet odio varius, nec cursus mi posuere. Sed vehicula orci at mauris ullamcorper egestas.
-
-Quisque sed urna eu risus feugiat rhoncus vel quis purus. Quisque sed risus nec ante cursus faucibus. Morbi nisl metus, semper eu ante in, sollicitudin blandit sapien. Quisque non mollis sapien, quis aliquam sem. Ut dolor nulla, consectetur non ultricies sit amet, vulputate quis justo. Donec ultricies lorem quis mi aliquet, in volutpat augue dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam non dictum lorem, quis pharetra dui.
-
-Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequat. Nulla non odio viverra, facilisis augue eget, lobortis felis. Etiam at dictum tellus. Etiam in condimentum diam. Vivamus ac luctus magna.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-16 22:12:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-16 22:12:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[just-a-day-an-ordinary-day]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="office"><![CDATA[Office]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[58]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[98.167.11.214]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2015-03-14 16:40:01]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2015-03-14 16:40:01]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Duis auctor semper magna, egestas convallis diam. Ut nec aliquam ligula. Cras tincidunt purus imperdiet, egestas sapien sed, iaculis lorem. Suspendisse non cursus odio. Ut porttitor rhoncus erat, nec aliquet lacus interdum id. Mauris eu mi ligula. Nam ultrices porttitor hendrerit. Nullam vitae magna elit.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[98.167.11.214]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2015-03-14 16:40:11]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2015-03-14 16:40:11]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Proin dui lacus, dapibus blandit bibendum quis, ornare id risus. Ut facilisis faucibus mattis. In vel arcu at nisi vehicula mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu porta sem. Suspendisse imperdiet efficitur tellus a dictum.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[98.167.11.214]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2015-03-14 16:40:20]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2015-03-14 16:40:20]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Nulla ut orci non mi condimentum pretium eget eget risus. Duis auctor semper magna, egestas convallis diam. Ut nec aliquam ligula. Cras tincidunt purus imperdiet, egestas sapien sed, iaculis lorem. Suspendisse non cursus odio.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>1</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
 		<title>Contact form 1</title>
 		<link>http://totaltheme.wpengine.com/nouveau/?post_type=wpcf7_contact_form&#038;p=4</link>
 		<pubDate>Fri, 16 Jan 2015 20:52:36 +0000</pubDate>
@@ -3840,6 +3794,103 @@ This e-mail was sent from a contact form on Portfolio (http://totaltheme.wpengin
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Just A Day, An Ordinary Day</title>
+		<link>http://totaltheme.wpengine.com/nouveau/just-a-day-an-ordinary-day/</link>
+		<pubDate>Fri, 16 Jan 2015 22:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=57</guid>
+		<description></description>
+		<content:encoded><![CDATA[Aliquam pharetra, sem quis volutpat ut nunc ipsum eget lorem, ut venenatis leo nibh vel mi. Pellentesque at morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean ante dolor, mattis sit amet purus eget, varius ornare massa. Nam quam tellus, blandit sit amet rhoncus at, vulputate ac elit. Proin dui lacus, dapibus blandit bibendum quis, ornare id risus. Ut facilisis faucibus mattis. In vel arcu at nisi vehicula mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu porta sem. Suspendisse imperdiet efficitur tellus a dictum.
+
+Quisque malesuada lectus quam, in molestie risus ultrices quis. Etiam maximus, augue et ornare commodo, ante velit rutrum erat, ut suscipit elit sapien vel dui. Sed mattis felis eu nibh fringilla, sit amet vulputate leo fringilla. Nulla laoreet convallis velit, eu lacinia augue ornare nec. Curabitur sit amet est elit. Nullam sit amet felis non magna cursus fermentum. Nulla ut orci non mi condimentum pretium eget eget risus. Duis auctor semper magna, egestas convallis diam. Ut nec aliquam ligula. Cras tincidunt purus imperdiet, egestas sapien sed, iaculis lorem. Suspendisse non cursus odio. Ut porttitor rhoncus erat, nec aliquet lacus interdum id. Mauris eu mi ligula. Nam ultrices porttitor hendrerit. Nullam vitae magna elit.
+
+Aenean non ultricies elit. Cras pellentesque pretium efficitur. Quisque vulputate ligula sit amet nibh mattis, ac rhoncus massa volutpat. Aenean dolor justo, rhoncus non imperdiet non, ultrices nec nibh. Quisque a urna ut lectus sagittis commodo et et urna. Suspendisse suscipit vel tellus vitae laoreet. Pellentesque pellentesque ex vitae erat luctus, non varius nunc viverra. In lobortis at dolor ut pharetra. Morbi egestas odio sapien, a tempor arcu tincidunt in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ac nisi vel arcu mollis scelerisque. Fusce vitae pellentesque elit. Pellentesque egestas sem sit amet odio varius, nec cursus mi posuere. Sed vehicula orci at mauris ullamcorper egestas.
+
+Quisque sed urna eu risus feugiat rhoncus vel quis purus. Quisque sed risus nec ante cursus faucibus. Morbi nisl metus, semper eu ante in, sollicitudin blandit sapien. Quisque non mollis sapien, quis aliquam sem. Ut dolor nulla, consectetur non ultricies sit amet, vulputate quis justo. Donec ultricies lorem quis mi aliquet, in volutpat augue dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam non dictum lorem, quis pharetra dui.
+
+Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequat. Nulla non odio viverra, facilisis augue eget, lobortis felis. Etiam at dictum tellus. Etiam in condimentum diam. Vivamus ac luctus magna.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2015-01-16 22:12:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2015-01-16 22:12:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[just-a-day-an-ordinary-day]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="office"><![CDATA[Office]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[98.167.11.214]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2015-03-14 16:40:01]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2015-03-14 16:40:01]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Duis auctor semper magna, egestas convallis diam. Ut nec aliquam ligula. Cras tincidunt purus imperdiet, egestas sapien sed, iaculis lorem. Suspendisse non cursus odio. Ut porttitor rhoncus erat, nec aliquet lacus interdum id. Mauris eu mi ligula. Nam ultrices porttitor hendrerit. Nullam vitae magna elit.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[98.167.11.214]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2015-03-14 16:40:11]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2015-03-14 16:40:11]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Proin dui lacus, dapibus blandit bibendum quis, ornare id risus. Ut facilisis faucibus mattis. In vel arcu at nisi vehicula mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu porta sem. Suspendisse imperdiet efficitur tellus a dictum.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[98.167.11.214]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2015-03-14 16:40:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2015-03-14 16:40:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Nulla ut orci non mi condimentum pretium eget eget risus. Duis auctor semper magna, egestas convallis diam. Ut nec aliquam ligula. Cras tincidunt purus imperdiet, egestas sapien sed, iaculis lorem. Suspendisse non cursus odio.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>1</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Matt</title>
