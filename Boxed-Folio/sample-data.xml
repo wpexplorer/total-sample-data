@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.4" created="2017-05-01 18:17" -->
+<!-- generator="WordPress/4.9.5" created="2018-05-12 20:53" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Boxed Folio</title>
 	<link>http://totaltheme.wpengine.com/boxed-folio</link>
 	<description>Just another Total Theme Demo site</description>
-	<pubDate>Mon, 01 May 2017 18:17:38 +0000</pubDate>
+	<pubDate>Sat, 12 May 2018 20:53:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -47,7 +47,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
 
 	<item>
 		<title>vimeobg.jpg</title>
@@ -670,126 +670,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/</link>
-		<pubDate>Sun, 05 Jun 2016 19:28:25 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" column_spacing="0px" css=".vc_custom_1489868482407{padding-right: 0px !important;padding-left: 0px !important;background-color: #000000 !important;}"][vc_column][rev_slider alias="boxed-folio-homepage"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" column_spacing="0px" css=".vc_custom_1489868487287{padding-right: 0px !important;padding-left: 0px !important;}"][vc_column css=".vc_custom_1476728746765{background-color: #000000 !important;}"][vcex_portfolio_carousel items_margin="0" auto_play="false" title="false" excerpt="false" style="no-margins" overlay_style="plus-hover" img_hover_style="grow" img_width="300" img_height="220"][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-05 19:28:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-05 19:28:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489868482407{padding-right: 0px !important;padding-left: 0px !important;background-color: #000000 !important;}.vc_custom_1489868487287{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1476728746765{background-color: #000000 !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Blog</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/blog/</link>
-		<pubDate>Sun, 05 Jun 2016 19:39:47 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-05 19:39:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-05 19:39:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Features</title>
 		<link>http://totaltheme.wpengine.com/boxed-folio/features/</link>
 		<pubDate>Sun, 05 Jun 2016 19:41:32 +0000</pubDate>
@@ -964,6 +844,886 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>_O3A0361</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/kitty-tattoos/_o3a0361/</link>
+		<pubDate>Mon, 06 Jun 2016 01:12:56 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0361.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:12:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:12:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[_o3a0361]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>46</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0361.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/O3A0361.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2016/06/O3A0361.jpg";s:5:"sizes";a:1:{s:14:"portfolio_post";a:5:{s:4:"file";s:19:"O3A0361-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>_O3A0413</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/kitty-tattoos/_o3a0413/</link>
+		<pubDate>Mon, 06 Jun 2016 01:12:57 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0413.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:12:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:12:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[_o3a0413]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>46</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0413.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/O3A0413.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2016/06/O3A0413.jpg";s:5:"sizes";a:5:{s:12:"wpex_300x220";a:5:{s:4:"file";s:19:"O3A0413-300x220.jpg";s:5:"width";i:300;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x220@2x";a:5:{s:4:"file";s:22:"O3A0413-300x220@2x.jpg";s:5:"width";i:600;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"portfolio_post";a:5:{s:4:"file";s:19:"O3A0413-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:19:"O3A0413-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:19:"O3A0413-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>_O3A0436</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/kitty-tattoos/_o3a0436/</link>
+		<pubDate>Mon, 06 Jun 2016 01:12:58 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0436.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:12:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:12:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[_o3a0436]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>46</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0436.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/O3A0436.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2016/06/O3A0436.jpg";s:5:"sizes";a:1:{s:14:"portfolio_post";a:5:{s:4:"file";s:19:"O3A0436-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>DeathtosStockSerenity9</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/california-surfing-trip/deathtosstockserenity9/</link>
+		<pubDate>Mon, 06 Jun 2016 01:16:10 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtosStockSerenity9.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:16:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:16:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[deathtosstockserenity9]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>50</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtosStockSerenity9.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/DeathtosStockSerenity9.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:34:"2016/06/DeathtosStockSerenity9.jpg";s:5:"sizes";a:1:{s:14:"portfolio_post";a:5:{s:4:"file";s:34:"DeathtosStockSerenity9-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>DeathtoStockSerenity8</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/california-surfing-trip/deathtostockserenity8/</link>
+		<pubDate>Mon, 06 Jun 2016 01:16:11 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtoStockSerenity8.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:16:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:16:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[deathtostockserenity8]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>50</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtoStockSerenity8.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/DeathtoStockSerenity8.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:33:"2016/06/DeathtoStockSerenity8.jpg";s:5:"sizes";a:5:{s:12:"wpex_300x220";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-300x220.jpg";s:5:"width";i:300;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x220@2x";a:5:{s:4:"file";s:36:"DeathtoStockSerenity8-300x220@2x.jpg";s:5:"width";i:600;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"portfolio_post";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Death_to_Stock_Photography_RideorDie_14</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/motorcycle-run/death_to_stock_photography_rideordie_14/</link>
+		<pubDate>Mon, 06 Jun 2016 01:22:15 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_RideorDie_14.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:22:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:22:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[death_to_stock_photography_rideordie_14]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_RideorDie_14.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/Death_to_Stock_Photography_RideorDie_14.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:51:"2016/06/Death_to_Stock_Photography_RideorDie_14.jpg";s:5:"sizes";a:2:{s:9:"blog_post";a:5:{s:4:"file";s:51:"Death_to_Stock_Photography_RideorDie_14-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:51:"Death_to_Stock_Photography_RideorDie_14-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Death_to_stock_Marzocco_Coffee_5</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/my-new-office-setup/death_to_stock_marzocco_coffee_5/</link>
+		<pubDate>Mon, 06 Jun 2016 01:25:20 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_stock_Marzocco_Coffee_5.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:25:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:25:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[death_to_stock_marzocco_coffee_5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>54</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_stock_Marzocco_Coffee_5.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/Death_to_stock_Marzocco_Coffee_5.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:44:"2016/06/Death_to_stock_Marzocco_Coffee_5.jpg";s:5:"sizes";a:2:{s:10:"blog_entry";a:5:{s:4:"file";s:44:"Death_to_stock_Marzocco_Coffee_5-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:44:"Death_to_stock_Marzocco_Coffee_5-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Death_to_Stock_Photography_Venice_Sun7</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/skateboarding-at-venice-beach/death_to_stock_photography_venice_sun7/</link>
+		<pubDate>Mon, 06 Jun 2016 01:26:33 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 01:26:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 01:26:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[death_to_stock_photography_venice_sun7]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>56</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:50:"2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg";s:5:"sizes";a:2:{s:10:"blog_entry";a:5:{s:4:"file";s:50:"Death_to_Stock_Photography_Venice_Sun7-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:50:"Death_to_Stock_Photography_Venice_Sun7-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>about-widget-small</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/about-widget-small/</link>
+		<pubDate>Mon, 06 Jun 2016 02:06:07 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/about-widget-small.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-06 02:06:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-06 02:06:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-widget-small]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/about-widget-small.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/06/about-widget-small.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:200;s:4:"file";s:30:"2016/06/about-widget-small.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>amigos.jpg</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/amigos-jpg/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/amigos.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[amigos-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/amigos.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/amigos.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:540;s:4:"file";s:38:"revslider/media-gallery-two/amigos.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iceberg.jpg</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/iceberg-jpg/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/iceberg.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[iceberg-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/iceberg.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/iceberg.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:39:"revslider/media-gallery-two/iceberg.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>iceberg.mp4</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/iceberg-mp4/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/iceberg.mp4</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[iceberg-mp4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/iceberg.mp4]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/iceberg.mp4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>youtube1_cover.jpg</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/youtube1-cover-jpg/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/youtube1_cover.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>68</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[youtube1-cover-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/youtube1_cover.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/youtube1_cover.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:576;s:4:"file";s:46:"revslider/media-gallery-two/youtube1_cover.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>space_cover.jpg</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/space-cover-jpg/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/space_cover.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[space-cover-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/space_cover.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/space_cover.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1624;s:6:"height";i:1080;s:4:"file";s:43:"revslider/media-gallery-two/space_cover.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>space.mp4</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/space-mp4/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/space.mp4</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[space-mp4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/space.mp4]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/space.mp4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>calbuco.jpg</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/calbuco-jpg/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/calbuco.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[calbuco-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/calbuco.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/calbuco.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:960;s:6:"height";i:540;s:4:"file";s:39:"revslider/media-gallery-two/calbuco.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>media1.jpg</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/media1-jpg/</link>
+		<pubDate>Tue, 31 Oct 2017 21:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[wpengine]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/media1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>72</wp:post_id>
+		<wp:post_date><![CDATA[2017-10-31 21:08:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-10-31 21:08:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[media1-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/revslider/media-gallery-two/media1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[revslider/media-gallery-two/media1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:683;s:4:"file";s:38:"revslider/media-gallery-two/media1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:8:"STAFFAGE";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Motorcycle Run</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/motorcycle-run/</link>
+		<pubDate>Sun, 05 Jun 2016 19:28:25 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac velit et ligula rutrum sodales. Etiam a placerat lorem. Vivamus tempor nisi et metus efficitur pellentesque. Cras non dolor vitae metus scelerisque scelerisque. Vivamus quis ex a sapien accumsan finibus. Aliquam sollicitudin pulvinar metus sit amet elementum. Fusce maximus, nisi sed rhoncus blandit, felis eros molestie mi, id tempus lorem nibh a mi.
+
+Proin ornare sem non semper malesuada. Phasellus eget tempus felis, sed pharetra nisi. Nunc sodales ornare ante at vehicula. Duis id pulvinar ante. Mauris sed augue in ligula pellentesque venenatis ut in massa. Maecenas efficitur arcu sit amet eros dapibus, ut mollis quam posuere. Sed facilisis blandit neque vestibulum viverra. Vivamus fringilla, orci vel suscipit varius, mauris mauris commodo mi, eu congue nisl enim eget neque. Nam eu fermentum leo, non pretium eros. Maecenas eu ligula tempor sem mattis fermentum non in nulla. Aliquam sagittis imperdiet varius.
+
+Cras at lorem ac enim gravida hendrerit condimentum eget lacus. Nullam pharetra diam velit, et tempor elit dictum sit amet. Etiam pretium, eros non egestas condimentum, enim lacus aliquet eros, a laoreet ligula tellus et metus. Sed quam augue, porttitor et orci id, ultrices pulvinar nulla. Aenean aliquam risus non orci facilisis, facilisis egestas turpis fermentum. Nam in mi quis dui tempus sagittis non et libero. Curabitur malesuada diam tristique, viverra urna non, mattis lacus. Mauris sit amet risus neque.
+
+Integer ornare aliquet eros sed gravida. Sed ac elit quis nulla faucibus pellentesque sit amet condimentum turpis. Ut nec lorem in nibh rhoncus hendrerit. Phasellus diam est, rutrum vitae enim a, faucibus egestas nulla. Donec eleifend, odio a vehicula semper, nunc tellus hendrerit enim, ut convallis magna mi sit amet enim. Suspendisse cursus, augue ac maximus iaculis, mi turpis malesuada magna, sed luctus elit orci et purus. Nam aliquam, ex consequat laoreet imperdiet, augue felis malesuada dui, in venenatis tortor velit at mi. Donec rutrum orci eu lectus gravida condimentum. Pellentesque volutpat ultricies blandit. Sed varius leo mollis arcu imperdiet consectetur.
+
+Sed tincidunt varius pretium. In ornare venenatis tempor. Nullam efficitur eget ligula nec tristique. Nam tempus rutrum leo, eu dapibus nisi placerat elementum. Integer sed tortor eget urna commodo posuere vel vitae sapien. Nam id eros in velit egestas rhoncus. Quisque vestibulum lectus tortor. Nullam molestie nisi vitae lectus efficitur dapibus. Vestibulum sed quam est. Nullam pellentesque diam eget lacus malesuada, nec vehicula velit rhoncus. Proin non sapien fermentum, consectetur nisi eget, molestie urna. Donec ut mauris ac diam accumsan volutpat. Morbi dapibus euismod sem condimentum elementum. Vivamus id arcu urna.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-05 19:28:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-05 19:28:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[motorcycle-run]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="category"><![CDATA[Category]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>8</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-06 02:07:56]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-06 02:07:56]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Nam aliquam, ex consequat laoreet imperdiet, augue felis malesuada dui, in venenatis tortor velit at mi. Donec rutrum orci eu lectus gravida condimentum. Pellentesque volutpat ultricies blandit. Sed varius leo mollis arcu imperdiet consectetur.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>9</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-06 02:08:05]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-06 02:08:05]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Sed tincidunt varius pretium. In ornare venenatis tempor. Nullam efficitur eget ligula nec tristique. Nam tempus rutrum leo, eu dapibus nisi placerat elementum. Integer sed tortor eget urna commodo posuere vel vitae sapien. Nam id eros in velit egestas rhoncus.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>8</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>10</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-06 02:08:11]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-06 02:08:11]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Sed facilisis blandit neque vestibulum viverra. Vivamus fringilla, orci vel suscipit varius, mauris mauris commodo mi, eu congue nisl enim eget neque. Nam eu fermentum leo, non pretium eros. Maecenas eu ligula tempor sem mattis fermentum non in nulla. Aliquam sagittis imperdiet varius.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Home</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/</link>
+		<pubDate>Sun, 05 Jun 2016 19:28:25 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" column_spacing="0px" css=".vc_custom_1489868482407{padding-right: 0px !important;padding-left: 0px !important;background-color: #000000 !important;}"][vc_column][rev_slider_vc alias="boxed-folio-homepage"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" column_spacing="0px" css=".vc_custom_1489868487287{padding-right: 0px !important;padding-left: 0px !important;}"][vc_column css=".vc_custom_1476728746765{background-color: #000000 !important;}"][vcex_portfolio_carousel items_margin="0" auto_play="false" title="false" excerpt="false" style="no-margins" overlay_style="plus-hover" img_hover_style="grow" img_width="300" img_height="220"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-05 19:28:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-05 19:28:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1489868482407{padding-right: 0px !important;padding-left: 0px !important;background-color: #000000 !important;}.vc_custom_1489868487287{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1476728746765{background-color: #000000 !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_864e9c6d6b84afd9bf30e5c58af1e11b]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe src="https://player.vimeo.com/video/51589652" width="980" height="551" frameborder="0" title="Timelapse - Lighthouse (Oct 2012)" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_864e9c6d6b84afd9bf30e5c58af1e11b]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1509483667]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Blog</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/blog/</link>
+		<pubDate>Sun, 05 Jun 2016 19:39:47 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-05 19:39:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-05 19:39:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Portfolio</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio/</link>
+		<pubDate>Sun, 05 Jun 2016 19:40:58 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" column_spacing="0px" css=".vc_custom_1501779461474{background-color: #2d2d2d !important;}"][vc_column][vcex_portfolio_grid posts_per_page="-1" img_size="portfolio_entry" title="false" excerpt="false" read_more="false" columns_gap="none" overlay_style="plus-hover" img_hover_style="grow"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-05 19:40:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-05 19:40:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1501779461474{background-color: #2d2d2d !important;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Contact</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/contact/</link>
+		<pubDate>Sun, 05 Jun 2016 19:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row column_spacing="50"][vc_column width="2/3"][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDYzMDQuODI5OTg2MTMxMjcxJTIxMmQtMTIyLjQ3NDY5NjgwMzMwOTIlMjEzZDM3LjgwMzc0NzUyMTYwNDQzJTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4ODA4NTg2ZTYzMDI2MTVhMSUyNTNBMHg4NmJkMTMwMjUxNzU3YzAwJTIxMnNTdG9yZXklMkJBdmUlMjUyQyUyQlNhbiUyQkZyYW5jaXNjbyUyNTJDJTJCQ0ElMkI5NDEyOSUyMTVlMCUyMTNtMiUyMTFzZW4lMjEyc3VzJTIxNHYxNDM1ODI2NDMyMDUxJTIyJTIwd2lkdGglM0QlMjI2MDAlMjIlMjBoZWlnaHQlM0QlMjI0NTAlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBzdHlsZSUzRCUyMmJvcmRlciUzQTAlMjIlMjBhbGxvd2Z1bGxzY3JlZW4lM0UlM0MlMkZpZnJhbWUlM0U=" size="350"][/vc_column][vc_column width="1/3"][vcex_heading text="Contact Details"][vcex_spacing size="10px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac velit et ligula rutrum sodales. Etiam a placerat lorem. Vivamus tempor nisi et metus efficitur pellentesque.[/vc_column_text][vcex_divider color="#ededed" margin_top="20px" margin_bottom="20px"][vcex_list_item icon="fa fa-phone-square" color="#000000"]1-234-567-8910[/vcex_list_item][vcex_list_item icon="fa fa-instagram" color="#000000"]@wpexplorer[/vcex_list_item][vcex_list_item icon="fa fa-envelope" color="#000000"]dummy@wpexplorer.com[/vcex_list_item][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-05 19:41:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-05 19:41:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1259,577 +2019,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/features/builder-modules/]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>_O3A0361</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/kitty-tattoos/_o3a0361/</link>
-		<pubDate>Mon, 06 Jun 2016 01:12:56 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0361.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:12:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:12:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[_o3a0361]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>46</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0361.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/O3A0361.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2016/06/O3A0361.jpg";s:5:"sizes";a:1:{s:14:"portfolio_post";a:5:{s:4:"file";s:19:"O3A0361-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>_O3A0413</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/kitty-tattoos/_o3a0413/</link>
-		<pubDate>Mon, 06 Jun 2016 01:12:57 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0413.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:12:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:12:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[_o3a0413]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>46</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0413.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/O3A0413.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2016/06/O3A0413.jpg";s:5:"sizes";a:5:{s:12:"wpex_300x220";a:5:{s:4:"file";s:19:"O3A0413-300x220.jpg";s:5:"width";i:300;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x220@2x";a:5:{s:4:"file";s:22:"O3A0413-300x220@2x.jpg";s:5:"width";i:600;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"portfolio_post";a:5:{s:4:"file";s:19:"O3A0413-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:19:"O3A0413-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:19:"O3A0413-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>_O3A0436</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/kitty-tattoos/_o3a0436/</link>
-		<pubDate>Mon, 06 Jun 2016 01:12:58 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0436.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:12:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:12:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[_o3a0436]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>46</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/O3A0436.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/O3A0436.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2016/06/O3A0436.jpg";s:5:"sizes";a:1:{s:14:"portfolio_post";a:5:{s:4:"file";s:19:"O3A0436-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>DeathtosStockSerenity9</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/california-surfing-trip/deathtosstockserenity9/</link>
-		<pubDate>Mon, 06 Jun 2016 01:16:10 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtosStockSerenity9.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:16:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:16:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[deathtosstockserenity9]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>50</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtosStockSerenity9.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/DeathtosStockSerenity9.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:34:"2016/06/DeathtosStockSerenity9.jpg";s:5:"sizes";a:1:{s:14:"portfolio_post";a:5:{s:4:"file";s:34:"DeathtosStockSerenity9-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>DeathtoStockSerenity8</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio-item/california-surfing-trip/deathtostockserenity8/</link>
-		<pubDate>Mon, 06 Jun 2016 01:16:11 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtoStockSerenity8.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:16:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:16:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[deathtostockserenity8]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>50</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/DeathtoStockSerenity8.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/DeathtoStockSerenity8.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:33:"2016/06/DeathtoStockSerenity8.jpg";s:5:"sizes";a:5:{s:12:"wpex_300x220";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-300x220.jpg";s:5:"width";i:300;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x220@2x";a:5:{s:4:"file";s:36:"DeathtoStockSerenity8-300x220@2x.jpg";s:5:"width";i:600;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"portfolio_post";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-700x500.jpg";s:5:"width";i:700;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:33:"DeathtoStockSerenity8-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Death_to_Stock_Photography_RideorDie_14</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/motorcycle-run/death_to_stock_photography_rideordie_14/</link>
-		<pubDate>Mon, 06 Jun 2016 01:22:15 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_RideorDie_14.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:22:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:22:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[death_to_stock_photography_rideordie_14]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>1</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_RideorDie_14.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/Death_to_Stock_Photography_RideorDie_14.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:51:"2016/06/Death_to_Stock_Photography_RideorDie_14.jpg";s:5:"sizes";a:2:{s:9:"blog_post";a:5:{s:4:"file";s:51:"Death_to_Stock_Photography_RideorDie_14-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:51:"Death_to_Stock_Photography_RideorDie_14-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Death_to_stock_Marzocco_Coffee_5</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/my-new-office-setup/death_to_stock_marzocco_coffee_5/</link>
-		<pubDate>Mon, 06 Jun 2016 01:25:20 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_stock_Marzocco_Coffee_5.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:25:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:25:20]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[death_to_stock_marzocco_coffee_5]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>54</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_stock_Marzocco_Coffee_5.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/Death_to_stock_Marzocco_Coffee_5.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:44:"2016/06/Death_to_stock_Marzocco_Coffee_5.jpg";s:5:"sizes";a:2:{s:10:"blog_entry";a:5:{s:4:"file";s:44:"Death_to_stock_Marzocco_Coffee_5-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:44:"Death_to_stock_Marzocco_Coffee_5-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Death_to_Stock_Photography_Venice_Sun7</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/skateboarding-at-venice-beach/death_to_stock_photography_venice_sun7/</link>
-		<pubDate>Mon, 06 Jun 2016 01:26:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:26:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:26:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[death_to_stock_photography_venice_sun7]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>56</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:50:"2016/06/Death_to_Stock_Photography_Venice_Sun7.jpg";s:5:"sizes";a:2:{s:10:"blog_entry";a:5:{s:4:"file";s:50:"Death_to_Stock_Photography_Venice_Sun7-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:50:"Death_to_Stock_Photography_Venice_Sun7-700x350.jpg";s:5:"width";i:700;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>about-widget-small</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/about-widget-small/</link>
-		<pubDate>Mon, 06 Jun 2016 02:06:07 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/about-widget-small.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>61</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 02:06:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 02:06:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-widget-small]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/boxed-folio/wp-content/uploads/sites/79/2016/06/about-widget-small.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/about-widget-small.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:200;s:4:"file";s:30:"2016/06/about-widget-small.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>More Theme Demos</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/all-theme-demos/</link>
-		<pubDate>Tue, 04 Oct 2016 22:32:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?p=63</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2016-10-04 22:32:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-10-04 22:32:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[all-theme-demos]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[63]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Motorcycle Run</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/motorcycle-run/</link>
-		<pubDate>Sun, 05 Jun 2016 19:28:25 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac velit et ligula rutrum sodales. Etiam a placerat lorem. Vivamus tempor nisi et metus efficitur pellentesque. Cras non dolor vitae metus scelerisque scelerisque. Vivamus quis ex a sapien accumsan finibus. Aliquam sollicitudin pulvinar metus sit amet elementum. Fusce maximus, nisi sed rhoncus blandit, felis eros molestie mi, id tempus lorem nibh a mi.
-
-Proin ornare sem non semper malesuada. Phasellus eget tempus felis, sed pharetra nisi. Nunc sodales ornare ante at vehicula. Duis id pulvinar ante. Mauris sed augue in ligula pellentesque venenatis ut in massa. Maecenas efficitur arcu sit amet eros dapibus, ut mollis quam posuere. Sed facilisis blandit neque vestibulum viverra. Vivamus fringilla, orci vel suscipit varius, mauris mauris commodo mi, eu congue nisl enim eget neque. Nam eu fermentum leo, non pretium eros. Maecenas eu ligula tempor sem mattis fermentum non in nulla. Aliquam sagittis imperdiet varius.
-
-Cras at lorem ac enim gravida hendrerit condimentum eget lacus. Nullam pharetra diam velit, et tempor elit dictum sit amet. Etiam pretium, eros non egestas condimentum, enim lacus aliquet eros, a laoreet ligula tellus et metus. Sed quam augue, porttitor et orci id, ultrices pulvinar nulla. Aenean aliquam risus non orci facilisis, facilisis egestas turpis fermentum. Nam in mi quis dui tempus sagittis non et libero. Curabitur malesuada diam tristique, viverra urna non, mattis lacus. Mauris sit amet risus neque.
-
-Integer ornare aliquet eros sed gravida. Sed ac elit quis nulla faucibus pellentesque sit amet condimentum turpis. Ut nec lorem in nibh rhoncus hendrerit. Phasellus diam est, rutrum vitae enim a, faucibus egestas nulla. Donec eleifend, odio a vehicula semper, nunc tellus hendrerit enim, ut convallis magna mi sit amet enim. Suspendisse cursus, augue ac maximus iaculis, mi turpis malesuada magna, sed luctus elit orci et purus. Nam aliquam, ex consequat laoreet imperdiet, augue felis malesuada dui, in venenatis tortor velit at mi. Donec rutrum orci eu lectus gravida condimentum. Pellentesque volutpat ultricies blandit. Sed varius leo mollis arcu imperdiet consectetur.
-
-Sed tincidunt varius pretium. In ornare venenatis tempor. Nullam efficitur eget ligula nec tristique. Nam tempus rutrum leo, eu dapibus nisi placerat elementum. Integer sed tortor eget urna commodo posuere vel vitae sapien. Nam id eros in velit egestas rhoncus. Quisque vestibulum lectus tortor. Nullam molestie nisi vitae lectus efficitur dapibus. Vestibulum sed quam est. Nullam pellentesque diam eget lacus malesuada, nec vehicula velit rhoncus. Proin non sapien fermentum, consectetur nisi eget, molestie urna. Donec ut mauris ac diam accumsan volutpat. Morbi dapibus euismod sem condimentum elementum. Vivamus id arcu urna.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-05 19:28:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-05 19:28:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[motorcycle-run]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="category"><![CDATA[Category]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[53]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>8</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-06-06 02:07:56]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-06-06 02:07:56]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Nam aliquam, ex consequat laoreet imperdiet, augue felis malesuada dui, in venenatis tortor velit at mi. Donec rutrum orci eu lectus gravida condimentum. Pellentesque volutpat ultricies blandit. Sed varius leo mollis arcu imperdiet consectetur.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>9</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-06-06 02:08:05]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-06-06 02:08:05]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Sed tincidunt varius pretium. In ornare venenatis tempor. Nullam efficitur eget ligula nec tristique. Nam tempus rutrum leo, eu dapibus nisi placerat elementum. Integer sed tortor eget urna commodo posuere vel vitae sapien. Nam id eros in velit egestas rhoncus.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>8</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>10</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-06-06 02:08:11]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-06-06 02:08:11]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Sed facilisis blandit neque vestibulum viverra. Vivamus fringilla, orci vel suscipit varius, mauris mauris commodo mi, eu congue nisl enim eget neque. Nam eu fermentum leo, non pretium eros. Maecenas eu ligula tempor sem mattis fermentum non in nulla. Aliquam sagittis imperdiet varius.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
-		<title>Portfolio</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/portfolio/</link>
-		<pubDate>Sun, 05 Jun 2016 19:40:58 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=7</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" column_spacing="0px" css=".vc_custom_1489868541818{padding-right: 0px !important;padding-left: 0px !important;}"][vc_column][vcex_portfolio_grid posts_per_page="-1" img_size="portfolio_entry" title="false" excerpt="false" read_more="false" columns_gap="none" overlay_style="plus-hover" img_hover_style="grow"][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-05 19:40:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-05 19:40:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489868541818{padding-right: 0px !important;padding-left: 0px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact</title>
-		<link>http://totaltheme.wpengine.com/boxed-folio/contact/</link>
-		<pubDate>Sun, 05 Jun 2016 19:41:08 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?page_id=8</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row column_spacing="50"][vc_column width="2/3"][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDYzMDQuODI5OTg2MTMxMjcxJTIxMmQtMTIyLjQ3NDY5NjgwMzMwOTIlMjEzZDM3LjgwMzc0NzUyMTYwNDQzJTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4ODA4NTg2ZTYzMDI2MTVhMSUyNTNBMHg4NmJkMTMwMjUxNzU3YzAwJTIxMnNTdG9yZXklMkJBdmUlMjUyQyUyQlNhbiUyQkZyYW5jaXNjbyUyNTJDJTJCQ0ElMkI5NDEyOSUyMTVlMCUyMTNtMiUyMTFzZW4lMjEyc3VzJTIxNHYxNDM1ODI2NDMyMDUxJTIyJTIwd2lkdGglM0QlMjI2MDAlMjIlMjBoZWlnaHQlM0QlMjI0NTAlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBzdHlsZSUzRCUyMmJvcmRlciUzQTAlMjIlMjBhbGxvd2Z1bGxzY3JlZW4lM0UlM0MlMkZpZnJhbWUlM0U=" size="350"][/vc_column][vc_column width="1/3"][vcex_heading text="Contact Details"][vcex_spacing size="10px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac velit et ligula rutrum sodales. Etiam a placerat lorem. Vivamus tempor nisi et metus efficitur pellentesque.[/vc_column_text][vcex_divider color="#ededed" margin_top="20px" margin_bottom="20px"][vcex_list_item icon="fa fa-phone-square" color="#000000"]1-234-567-8910[/vcex_list_item][vcex_list_item icon="fa fa-instagram" color="#000000"]@wpexplorer[/vcex_list_item][vcex_list_item icon="fa fa-envelope" color="#000000"]dummy@wpexplorer.com[/vcex_list_item][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-05 19:41:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-05 19:41:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2374,6 +2563,65 @@ Cras vel est quis lacus tincidunt venenatis. Praesent et augue a sapien sollicit
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
 			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>More Theme Demos</title>
+		<link>http://totaltheme.wpengine.com/boxed-folio/all-theme-demos/</link>
+		<pubDate>Tue, 04 Oct 2016 22:32:23 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?p=63</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-04 22:32:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-04 22:32:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-theme-demos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
