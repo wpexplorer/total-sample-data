@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-04-03 01:51" -->
+<!-- generator="WordPress/4.9.5" created="2018-05-15 01:50" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Paris</title>
 	<link>http://totaltheme.wpengine.com/paris</link>
 	<description>Just another Total Theme Demo site</description>
-	<pubDate>Mon, 03 Apr 2017 01:51:02 +0000</pubDate>
+	<pubDate>Tue, 15 May 2018 01:50:22 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
@@ -52,7 +52,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
 
 	<item>
 		<title>man</title>
@@ -83,37 +83,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:479;s:4:"file";s:15:"2016/04/man.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"man-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"man-300x144.jpg";s:5:"width";i:300;s:6:"height";i:144;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:15:"man-768x368.jpg";s:5:"width";i:768;s:6:"height";i:368;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>paris-home-bg</title>
-		<link>http://totaltheme.wpengine.com/paris/home/paris-home-bg/</link>
-		<pubDate>Sun, 10 Apr 2016 21:16:15 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/paris-home-bg.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-10 21:16:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-10 21:16:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[paris-home-bg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>4</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/paris-home-bg.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/paris-home-bg.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:720;s:4:"file";s:25:"2016/04/paris-home-bg.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"paris-home-bg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"paris-home-bg-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"paris-home-bg-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"paris-home-bg-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -392,7 +361,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:720;s:4:"file";s:44:"2016/04/photo-1430760903787-4d91bbf15384.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"photo-1430760903787-4d91bbf15384-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_450x250";a:5:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-450x250.jpg";s:5:"width";i:450;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_450x250@2x";a:5:{s:4:"file";s:47:"photo-1430760903787-4d91bbf15384-450x250@2x.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1080;s:6:"height";i:720;s:4:"file";s:44:"2016/04/photo-1430760903787-4d91bbf15384.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"photo-1430760903787-4d91bbf15384-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_450x250";a:5:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-450x250.jpg";s:5:"width";i:450;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_450x250@2x";a:5:{s:4:"file";s:47:"photo-1430760903787-4d91bbf15384-450x250@2x.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1430760903787-4d91bbf15384-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:47:"photo-1430760903787-4d91bbf15384-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -423,7 +392,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1079;s:6:"height";i:717;s:4:"file";s:44:"2016/04/photo-1432888498266-38ffec3eaf0a.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"photo-1432888498266-38ffec3eaf0a-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_450x250";a:5:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-450x250.jpg";s:5:"width";i:450;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_450x250@2x";a:5:{s:4:"file";s:47:"photo-1432888498266-38ffec3eaf0a-450x250@2x.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1079;s:6:"height";i:717;s:4:"file";s:44:"2016/04/photo-1432888498266-38ffec3eaf0a.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"photo-1432888498266-38ffec3eaf0a-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_450x250";a:5:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-450x250.jpg";s:5:"width";i:450;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_450x250@2x";a:5:{s:4:"file";s:47:"photo-1432888498266-38ffec3eaf0a-450x250@2x.jpg";s:5:"width";i:900;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1432888498266-38ffec3eaf0a-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:47:"photo-1432888498266-38ffec3eaf0a-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1078,37 +1047,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>home-row-city-bg</title>
-		<link>http://totaltheme.wpengine.com/paris/home/home-row-city-bg-2/</link>
-		<pubDate>Sat, 15 Oct 2016 01:34:56 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/home-row-city-bg-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>105</wp:post_id>
-		<wp:post_date><![CDATA[2016-10-15 01:34:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-10-15 01:34:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-row-city-bg-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>4</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/home-row-city-bg-1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/home-row-city-bg-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2500;s:6:"height";i:1166;s:4:"file";s:30:"2016/04/home-row-city-bg-1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"home-row-city-bg-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>paris-mockup-e1460609929126</title>
 		<link>http://totaltheme.wpengine.com/paris/home/paris-mockup-e1460609929126/</link>
 		<pubDate>Sat, 15 Oct 2016 01:57:59 +0000</pubDate>
@@ -1295,6 +1233,68 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>trans-free-website-psd1</title>
+		<link>http://totaltheme.wpengine.com/paris/portfolio-item/trans/trans-free-website-psd1/</link>
+		<pubDate>Sat, 15 Oct 2016 02:04:24 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/Trans-free-website-psd1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date><![CDATA[2016-10-15 02:04:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-10-15 02:04:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[trans-free-website-psd1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>46</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/Trans-free-website-psd1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/04/Trans-free-website-psd1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:3185;s:4:"file";s:35:"2016/04/Trans-free-website-psd1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"Trans-free-website-psd1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>rawpixel-com-651327-unsplash</title>
+		<link>http://totaltheme.wpengine.com/paris/home/rawpixel-com-651327-unsplash/</link>
+		<pubDate>Thu, 03 May 2018 02:19:39 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2018/05/rawpixel-com-651327-unsplash.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>113</wp:post_id>
+		<wp:post_date><![CDATA[2018-05-03 02:19:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-05-03 02:19:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rawpixel-com-651327-unsplash]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>4</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2018/05/rawpixel-com-651327-unsplash.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/05/rawpixel-com-651327-unsplash.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1600;s:4:"file";s:40:"2018/05/rawpixel-com-651327-unsplash.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Footer Template</title>
 		<link>http://totaltheme.wpengine.com/paris/footer-template/</link>
 		<pubDate>Sun, 10 Apr 2016 20:51:43 +0000</pubDate>
@@ -1347,13 +1347,13 @@
 		<dc:creator><![CDATA[totaltheme]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/paris/?page_id=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" column_spacing="0px" full_height="yes" tablet_fullwidth_cols="yes" css=".vc_custom_1489793116884{padding-top: 100px !important;padding-bottom: 60px !important;background-image: url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/home-row-city-bg-1.jpg?id=105) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="home-top" el_class="bg-fixed"][vc_column 0=""][vcex_spacing size="20px"][vcex_heading text="WordPress Made Symple" tag="h1" text_align="center" color="#ffffff" font_size="58px" line_height="1.3em"][vcex_spacing size="20px"][vc_column_text color="#ffffff" font_size="21px" width="800px"]
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" column_spacing="0px" full_height="yes" tablet_fullwidth_cols="yes" wpex_bg_overlay="dark" wpex_fixed_bg="fixed" css=".vc_custom_1525314776957{padding-top: 100px !important;padding-bottom: 60px !important;background: #111111 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2018/05/rawpixel-com-651327-unsplash.jpg?id=113) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="home-top" wpex_bg_overlay_opacity=".5"][vc_column][vcex_spacing size="20px"][vcex_heading text="WordPress Made Symple" tag="h1" text_align="center" color="#ffffff" font_size="d:58px|tl:58px|tp:34px|pl:34px|pp:34px" line_height="1.3em"][vcex_spacing size="20px"][vc_column_text color="#ffffff" font_size="d:18px|tl:18px|tp:16px|pl:16px|pp:16px" width="750px" align="center"]
 <p style="text-align: center;">The Total WordPress Theme has everything you need to create an awesome looking website today. Don't settle for any theme. Total has tens of thousands of customers, is well supported, very high customer ratings, updated frequently and is simply one of the best WordPress themes to work with.</p>
-[/vc_column_text][vcex_spacing size="40px"][vcex_button url="#features" title="Learn More" target="local" align="center" color="white" font_weight="600" font_size="16px" icon_right="fa fa-arrow-circle-down"]Learn More[/vcex_button][/vc_column][/vc_row][vc_row column_spacing="60" local_scroll_id="features" css=".vc_custom_1489793187522{padding-top: 100px !important;padding-bottom: 40px !important;}"][vc_column 0=""][vcex_heading text="Powerful Features" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-settings"][vc_column_text font_size="18px" width="800px"]
+[/vc_column_text][vcex_spacing size="40px"][vcex_button url="#features" target="local" title="Learn More" align="center" color="white" font_weight="600" font_size="16px" icon_right="fa fa-arrow-circle-down"]Learn More[/vcex_button][/vc_column][/vc_row][vc_row column_spacing="60" local_scroll_id="features" css=".vc_custom_1489793187522{padding-top: 100px !important;padding-bottom: 40px !important;}"][vc_column][vcex_heading text="Powerful Features" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-settings"][vc_column_text font_size="18px" width="800px"]
 <p style="text-align: center;">Total is a very powerful theme with many great built-in features making it easier then ever to create your site.</p>
-[/vc_column_text][vcex_spacing size="80px"][vc_row_inner 0=""][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Power Elite Author" icon="fa fa-diamond" icon_background="#27ae60" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Developed by WPExplorer a "Power Elite" Envato author you are sure to use a quality product that will be around for years to come.[/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="WooCommerce Optimized" icon="fa fa-shopping-bag" icon_background="#9b59b6" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Many themes are WooCommerce "ready" but Total is optimized for WooCommerce with many built-in tweaks and additions to make things easier to use.[/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="The Events Calendar" icon="fa fa-calendar-check-o" icon_background="#34495e" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Tested and compatible with the popular Events Calendar plugin easily share your events online with the Total theme.[/vcex_icon_box][/vc_column_inner][/vc_row_inner][vc_row_inner 0=""][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Localized &amp; WPML Ready" icon="fa fa-globe" icon_background="#e74c3c" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Total is 100% localized and WPML ready so you can easily translate the theme into your native language or use it on a multi-language site.[/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Customizer Settings" icon="fa fa-cog" icon_background="#3498db" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Tons of built-in Customizer settings allow you to easily tweak your site to match your needs &amp; preferences all with a live preview![/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Unlimited Colors" icon="fa fa-eyedropper" icon_background="#f39c12" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Easily customize the colors of the theme via the Customizer live color pickers. Your site can be any color you want.[/vcex_icon_box][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="60" css=".vc_custom_1489793164191{padding-top: 80px !important;padding-bottom: 20px !important;background-color: #eeeeee !important;}"][vc_column width="1/2"][vc_single_image image="106" style="vc_box_shadow_3d"][/vc_column][vc_column width="1/2"][vcex_heading text="We're Here For You 24/7" tag="h2" font_size="34px" css=".vc_custom_1460946743693{margin-bottom: 10px !important;}"][vc_column_text font_size="18px"]There's nothing Total can't do. With our drag &amp; drop theme you can create anything and everything you want.[/vc_column_text][vcex_spacing size="20px"][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460609998560{padding-bottom: 5px !important;}"]Small Business[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460610005716{padding-bottom: 5px !important;}"]Nonprofit &amp; Environmental[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460610011240{padding-bottom: 5px !important;}"]Wedding[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460610019272{padding-bottom: 5px !important;}"]Construction[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db"]And tons more![/vcex_list_item][vcex_spacing size="20px"][vcex_button url="http://totaltheme.wpengine.com/" title="More Demos" font_size="16px" icon_right="fa fa-arrow-circle-right"]More Demos[/vcex_button][/vc_column][/vc_row][vc_row local_scroll_id="services" css=".vc_custom_1489793179883{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column 0=""][vcex_heading text="Professional Services" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-bulb"][vc_column_text font_size="18px" width="800px"]
+[/vc_column_text][vcex_spacing size="80px"][vc_row_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Power Elite Author" icon="fa fa-diamond" icon_background="#27ae60" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Developed by WPExplorer a "Power Elite" Envato author you are sure to use a quality product that will be around for years to come.[/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="WooCommerce Optimized" icon="fa fa-shopping-bag" icon_background="#9b59b6" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Many themes are WooCommerce "ready" but Total is optimized for WooCommerce with many built-in tweaks and additions to make things easier to use.[/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="The Events Calendar" icon="fa fa-calendar-check-o" icon_background="#34495e" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Tested and compatible with the popular Events Calendar plugin easily share your events online with the Total theme.[/vcex_icon_box][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Localized &amp; WPML Ready" icon="fa fa-globe" icon_background="#e74c3c" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Total is 100% localized and WPML ready so you can easily translate the theme into your native language or use it on a multi-language site.[/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Customizer Settings" icon="fa fa-cog" icon_background="#3498db" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Tons of built-in Customizer settings allow you to easily tweak your site to match your needs &amp; preferences all with a live preview![/vcex_icon_box][/vc_column_inner][vc_column_inner width="1/3"][vcex_icon_box style="two" heading="Unlimited Colors" icon="fa fa-eyedropper" icon_background="#f39c12" icon_color="#ffffff" icon_border_radius="5px" icon_size="34px" icon_width="70px" icon_height="70px" heading_size="18px"]Easily customize the colors of the theme via the Customizer live color pickers. Your site can be any color you want.[/vcex_icon_box][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="60" css=".vc_custom_1489793164191{padding-top: 80px !important;padding-bottom: 20px !important;background-color: #eeeeee !important;}"][vc_column width="1/2"][vc_single_image image="106" style="vc_box_shadow_3d"][/vc_column][vc_column width="1/2"][vcex_heading text="We're Here For You 24/7" tag="h2" font_size="34px" css=".vc_custom_1460946743693{margin-bottom: 10px !important;}"][vc_column_text font_size="18px"]There's nothing Total can't do. With our drag &amp; drop theme you can create anything and everything you want.[/vc_column_text][vcex_spacing size="20px"][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460609998560{padding-bottom: 5px !important;}"]Small Business[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460610005716{padding-bottom: 5px !important;}"]Nonprofit &amp; Environmental[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460610011240{padding-bottom: 5px !important;}"]Wedding[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db" css=".vc_custom_1460610019272{padding-bottom: 5px !important;}"]Construction[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#3498db"]And tons more![/vcex_list_item][vcex_spacing size="20px"][vcex_button url="http://totaltheme.wpengine.com/" title="More Demos" font_size="16px" icon_right="fa fa-arrow-circle-right"]More Demos[/vcex_button][/vc_column][/vc_row][vc_row local_scroll_id="services" css=".vc_custom_1489793179883{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column][vcex_heading text="Professional Services" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-bulb"][vc_column_text font_size="18px" width="800px"]
 <p style="text-align: center;">Here's a look at what we can do for you. Just take a look, and if you don't see a package that fits you needs just send us a message for a custom quote!</p>
-[/vc_column_text][vcex_spacing size="60px"][vc_row_inner 0=""][vc_column_inner width="1/3"][vcex_pricing button_text="Learn More" cost_weight="normal" plan_background="#3498db" plan_color="#ffffff" plan_border="1px solid #3498db" cost_border="1px solid #3498db" features_border="1px solid #3498db" cost_background="#ffffff" cost_color="#3498db" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Total%20WordPress%20theme|target:%20_blank" button_wrap_border="1px solid #3498db" button_size="16px" plan_size="18px" plan_letter_spacing="1px" per="/ order" button_hover_bg_color="#34acd8"]
+[/vc_column_text][vcex_spacing size="60px"][vc_row_inner][vc_column_inner width="1/3"][vcex_pricing button_text="Learn More" cost_weight="normal" plan_background="#3498db" plan_color="#ffffff" plan_border="1px solid #3498db" cost_border="1px solid #3498db" features_border="1px solid #3498db" cost_background="#ffffff" cost_color="#3498db" button_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Ftotal-responsive-multipurpose-wordpress-theme%2F6339019%3Fref%3Dwpexplorer|title:Total%20WordPress%20theme|target:%20_blank" button_wrap_border="1px solid #3498db" button_size="16px" plan_size="18px" plan_letter_spacing="1px" per="/ order" button_hover_bg_color="#34acd8"]
 <ul class="check-list">
  	<li>Simple License</li>
  	<li>Basic Feature Package</li>
@@ -1377,15 +1377,15 @@
  	<li>Free Sample Data &amp; Images</li>
  	<li>Lifetime Support &amp; Updates</li>
 </ul>
-[/vcex_pricing][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489793210957{padding-top: 100px !important;padding-bottom: 70px !important;background-image: url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/graph.jpg?id=74) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="bg-fixed"][vc_column 0=""][vcex_heading text="Professional Services" tag="h2" text_align="center" font_size="34px" color="#ffffff"][vcex_spacing size="20px"][vc_column_text width="800px" font_size="18px" color="#ffffff"]
+[/vcex_pricing][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" wpex_fixed_bg="fixed" css=".vc_custom_1507913242555{padding-top: 100px !important;padding-bottom: 70px !important;background: #111111 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/graph.jpg?id=74) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="Professional Services" tag="h2" text_align="center" font_size="34px" color="#ffffff"][vcex_spacing size="20px"][vc_column_text width="800px" font_size="18px" color="#ffffff"]
 <p style="text-align: center;">Here's a look at what we can do for you. Just take a look, and if you don't see a package that fits you needs just send us a message for a custom quote!</p>
-[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://totaltheme.wpengine.com/" title="View All Features" align="center" font_size="16px" icon_right="fa fa-arrow-circle-right" custom_background="#e74c3c" custom_hover_background="#fc5a41"]View All Features[/vcex_button][/vc_column][/vc_row][vc_row local_scroll_id="portfolio" css=".vc_custom_1489793226681{padding-top: 100px !important;padding-bottom: 20px !important;}"][vc_column 0=""][vcex_heading text="High Quality Work" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-star"][vc_column_text width="800px"]
+[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://totaltheme.wpengine.com/" title="View All Features" align="center" font_size="16px" icon_right="fa fa-arrow-circle-right" custom_background="#e74c3c" custom_hover_background="#fc5a41"]View All Features[/vcex_button][/vc_column][/vc_row][vc_row local_scroll_id="portfolio" css=".vc_custom_1489793226681{padding-top: 100px !important;padding-bottom: 20px !important;}"][vc_column][vcex_heading text="High Quality Work" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-star"][vc_column_text width="800px"]
 <p style="text-align: center;"><span style="font-size: 18px;">Our work speaks for itself have a look below at some of our latest and best work yet. We guarantee that you will be impressed.</span></p>
-[/vc_column_text][vcex_spacing size="80px"][vcex_portfolio_grid posts_per_page="6" thumb_link="lightbox" img_crop="center-top" thumb_lightbox_gallery="true" title_link="nowhere" read_more="false" columns_gap="40" content_heading_size="18px" content_css=".vc_custom_1476765142251{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}" img_width="340" img_height="194"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489793304504{padding-top: 100px !important;padding-bottom: 60px !important;background-image: url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/girl-phone.jpg?id=64) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="bg-fixed"][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-bulb" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="38" caption="Patents Filed" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][/vc_column][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-heart" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="2,000" caption="Happy Customers" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][/vc_column][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-paperplane" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="2,000" caption="Happy Customers" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][vcex_spacing size="20px"][/vc_column][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-truck" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="2,000" caption="Happy Customers" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][/vc_column][/vc_row][vc_row local_scroll_id="team" css=".vc_custom_1489793318494{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column css=".vc_custom_1460341647328{margin-top: 1px !important;}"][vcex_heading text="Friendly Team" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-user"][vc_column_text width="800px"]
+[/vc_column_text][vcex_spacing size="80px"][vcex_portfolio_grid posts_per_page="6" thumb_link="lightbox" img_crop="center-top" thumb_lightbox_gallery="true" title_link="nowhere" read_more="false" columns_gap="40" content_heading_size="18px" content_css=".vc_custom_1476765142251{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}" img_width="340" img_height="194"][/vc_column][/vc_row][vc_row full_width="stretch_row" wpex_fixed_bg="fixed" css=".vc_custom_1507913249205{padding-top: 100px !important;padding-bottom: 60px !important;background: #111111 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/girl-phone.jpg?id=64) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-bulb" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="38" caption="Patents Filed" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][/vc_column][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-heart" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="2,000" caption="Happy Customers" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][/vc_column][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-paperplane" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="3,000" caption="Projects Completed" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][vcex_spacing size="20px"][/vc_column][vc_column width="1/4"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-truck" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="10px"][vcex_milestone number="4,000" caption="Miles Traveled" caption_color="#ffffff" caption_size="24px" number_color="#ffffff"][/vc_column][/vc_row][vc_row local_scroll_id="team" css=".vc_custom_1489793318494{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column css=".vc_custom_1460341647328{margin-top: 1px !important;}"][vcex_heading text="Friendly Team" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-user"][vc_column_text width="800px"]
 <p style="text-align: center;"><span style="font-size: 18px;">Not only is our staff good looking they are also very professional, friendly and of course good at what they do learn more about them below.</span></p>
-[/vc_column_text][vcex_spacing size="60px"][vc_row_inner 0=""][vc_column_inner width="1/4"][vc_single_image image="68" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Henry Thompson" tag="div" text_align="center" font_size="18px"][vcex_heading text="Lead Developer" tag="div" font_weight="normal" text_align="center" color="#1796c6" font_size="14px"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="66" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Linda Glover" tag="div" text_align="center" font_size="18px"][vcex_heading text="Marketing Expert" tag="div" font_weight="normal" text_align="center" font_size="14px" color="#1796c6"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="67" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Nick Tayler" tag="div" text_align="center" font_size="18px"][vcex_heading text="SEO Analyst" tag="div" font_weight="normal" text_align="center" font_size="14px" color="#1796c6"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="65" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Amy Sanders" tag="div" text_align="center" font_size="18px"][vcex_heading text="Support Techician" tag="div" font_weight="normal" text_align="center" font_size="14px" color="#1796c6"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489793331086{padding-top: 80px !important;padding-bottom: 40px !important;background: #1796c6 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/icon-pattern.jpg?id=99) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column width="1/2"][vcex_heading text="Beautifully Designed" color="#ffffff" font_size="34px" line_height="1.3em" css=".vc_custom_1460946733423{margin-bottom: 10px !important;}"][vc_column_text color="#ffffff" font_size="18px"]We've built-in tons of great features that have been responsively designed to look great on any device. Plus there are so many easy to use features to create a custom looking website. Use the theme customizer for options like:[/vc_column_text][vcex_spacing size="20px"][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611460255{padding-bottom: 5px !important;}"]Custom Color Pickers[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611465678{padding-bottom: 5px !important;}"]700+ Google Fonts[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611471506{padding-bottom: 5px !important;}"]Sticky Header Options[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611475894{padding-bottom: 5px !important;}"]Blog Post Layout Builder[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff"]And tons more![/vcex_list_item][vcex_spacing size="20px"][vcex_button url="#features" title="Learn More" target="local" color="white" font_weight="600" font_size="16px" icon_right="fa fa-arrow-circle-right"]Learn More[/vcex_button][/vc_column][vc_column width="1/2"][vc_single_image image="107"][/vc_column][/vc_row][vc_row local_scroll_id="testimonials" css=".vc_custom_1489793345657{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column 0=""][vcex_heading text="Testimonials" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-bubble"][vc_column_text width="800px"]
+[/vc_column_text][vcex_spacing size="60px"][vc_row_inner][vc_column_inner width="1/4"][vc_single_image image="68" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Henry Thompson" text_align="center" font_size="18px"][vcex_heading text="Lead Developer" font_weight="normal" text_align="center" color="#1796c6" font_size="14px"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="66" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Linda Glover" text_align="center" font_size="18px"][vcex_heading text="Marketing Expert" font_weight="normal" text_align="center" font_size="14px" color="#1796c6"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="67" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Nick Tayler" text_align="center" font_size="18px"][vcex_heading text="SEO Analyst" font_weight="normal" text_align="center" font_size="14px" color="#1796c6"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="65" img_size="200x200" alignment="center" style="vc_box_circle_2" img_hover="tilt"][vcex_spacing size="20px"][vcex_heading text="Amy Sanders" text_align="center" font_size="18px"][vcex_heading text="Support Techician" font_weight="normal" text_align="center" font_size="14px" color="#1796c6"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489793331086{padding-top: 80px !important;padding-bottom: 40px !important;background: #1796c6 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/icon-pattern.jpg?id=99) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column width="1/2"][vcex_heading text="Beautifully Designed" color="#ffffff" font_size="34px" line_height="1.3em" css=".vc_custom_1460946733423{margin-bottom: 10px !important;}"][vc_column_text color="#ffffff" font_size="18px"]We've built-in tons of great features that have been responsively designed to look great on any device. Plus there are so many easy to use features to create a custom looking website. Use the theme customizer for options like:[/vc_column_text][vcex_spacing size="20px"][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611460255{padding-bottom: 5px !important;}"]Custom Color Pickers[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611465678{padding-bottom: 5px !important;}"]700+ Google Fonts[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611471506{padding-bottom: 5px !important;}"]Sticky Header Options[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff" css=".vc_custom_1460611475894{padding-bottom: 5px !important;}"]Blog Post Layout Builder[/vcex_list_item][vcex_list_item icon="fa fa-check" color="#f39c12" font_color="#ffffff"]And tons more![/vcex_list_item][vcex_spacing size="20px"][vcex_button url="#features" target="local" title="Learn More" color="white" font_weight="600" font_size="16px" icon_right="fa fa-arrow-circle-right"]Learn More[/vcex_button][/vc_column][vc_column width="1/2"][vc_single_image image="107"][/vc_column][/vc_row][vc_row local_scroll_id="testimonials" css=".vc_custom_1489793345657{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column][vcex_heading text="Testimonials" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-bubble"][vc_column_text width="800px"]
 <p style="text-align: center;"><span style="font-size: 18px;">Have a look at some of the wonderful things people say about us.</span></p>
-[/vc_column_text][vcex_spacing size="50px"][vcex_testimonials_grid title="true" img_width="50" img_height="50" title_font_size="16px"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="60" css=".vc_custom_1489793354369{padding-top: 100px !important;padding-bottom: 40px !important;background: #fbbd54 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/leaders.png?id=101) !important;}"][vc_column 0=""][vcex_icon icon="fa fa-trophy" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="20px"][vcex_heading text="We Are A Leader In The Web Development Industry." tag="h3" text_align="center" font_size="34px" color="#ffffff" letter_spacing="1px"][/vc_column][/vc_row][vc_row local_scroll_id="blog" css=".vc_custom_1489793361105{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column 0=""][vcex_heading text="Recent Articles" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-note"][vc_column_text width="800px" font_size="18px"]
+[/vc_column_text][vcex_spacing size="50px"][vcex_testimonials_grid title="true" img_width="50" img_height="50" title_font_size="16px"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="60" css=".vc_custom_1489793354369{padding-top: 100px !important;padding-bottom: 40px !important;background: #fbbd54 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/leaders.png?id=101) !important;}"][vc_column][vcex_icon icon="fa fa-trophy" float="center" color="#ffffff" custom_size="60px"][vcex_spacing size="20px"][vcex_heading text="We Are A Leader In The Web Development Industry." tag="h3" text_align="center" font_size="34px" color="#ffffff" letter_spacing="1px"][/vc_column][/vc_row][vc_row local_scroll_id="blog" css=".vc_custom_1489793361105{padding-top: 100px !important;padding-bottom: 60px !important;}"][vc_column][vcex_heading text="Recent Articles" tag="h2" text_align="center" font_size="34px"][vcex_divider icon_type="linecons" width="150px" icon_width="35px" icon_size="16px" icon_linecons="vc_li vc_li-note"][vc_column_text width="800px" font_size="18px"]
 <p style="text-align: center;">We also run one of the most popular web design related blogs out there. Be sure to check out some of our latest articles.</p>
 [/vc_column_text][vcex_spacing size="60px"][vcex_blog_grid columns="3" posts_per_page="3" title_tag="h3" date="false" excerpt_length="12" columns_gap="35" img_hover_style="opacity" content_heading_size="18px" content_heading_margin="0 0 10px" read_more_text="Read More" img_width="450" img_height="250" content_css=".vc_custom_1476765382168{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}"][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" css=".vc_custom_1489952240014{padding-top: 55px !important;background-color: #f9f9f9 !important;}"][vc_column css=".vc_custom_1460329599299{margin-bottom: 0px !important;}"][vcex_image_grid thumbnail_link="none" img_size="full" columns_gap="50" img_filter="grayscale" image_ids="60,58,57,61"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1435,7 +1435,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489793116884{padding-top: 100px !important;padding-bottom: 60px !important;background-image: url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/home-row-city-bg-1.jpg?id=105) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489793187522{padding-top: 100px !important;padding-bottom: 40px !important;}.vc_custom_1489793164191{padding-top: 80px !important;padding-bottom: 20px !important;background-color: #eeeeee !important;}.vc_custom_1489793179883{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1489793210957{padding-top: 100px !important;padding-bottom: 70px !important;background-image: url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/graph.jpg?id=74) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489793226681{padding-top: 100px !important;padding-bottom: 20px !important;}.vc_custom_1489793304504{padding-top: 100px !important;padding-bottom: 60px !important;background-image: url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/girl-phone.jpg?id=64) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489793318494{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1489793331086{padding-top: 80px !important;padding-bottom: 40px !important;background: #1796c6 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/icon-pattern.jpg?id=99) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1489793345657{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1489793354369{padding-top: 100px !important;padding-bottom: 40px !important;background: #fbbd54 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/leaders.png?id=101) !important;}.vc_custom_1489793361105{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1489952240014{padding-top: 55px !important;background-color: #f9f9f9 !important;}.vc_custom_1460946743693{margin-bottom: 10px !important;}.vc_custom_1460609998560{padding-bottom: 5px !important;}.vc_custom_1460610005716{padding-bottom: 5px !important;}.vc_custom_1460610011240{padding-bottom: 5px !important;}.vc_custom_1460610019272{padding-bottom: 5px !important;}.vc_custom_1476765142251{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1460341647328{margin-top: 1px !important;}.vc_custom_1460946733423{margin-bottom: 10px !important;}.vc_custom_1460611460255{padding-bottom: 5px !important;}.vc_custom_1460611465678{padding-bottom: 5px !important;}.vc_custom_1460611471506{padding-bottom: 5px !important;}.vc_custom_1460611475894{padding-bottom: 5px !important;}.vc_custom_1476765382168{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1460329599299{margin-bottom: 0px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1525314776957{padding-top: 100px !important;padding-bottom: 60px !important;background: #111111 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2018/05/rawpixel-com-651327-unsplash.jpg?id=113) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489793187522{padding-top: 100px !important;padding-bottom: 40px !important;}.vc_custom_1489793164191{padding-top: 80px !important;padding-bottom: 20px !important;background-color: #eeeeee !important;}.vc_custom_1489793179883{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1507913242555{padding-top: 100px !important;padding-bottom: 70px !important;background: #111111 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/graph.jpg?id=74) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489793226681{padding-top: 100px !important;padding-bottom: 20px !important;}.vc_custom_1507913249205{padding-top: 100px !important;padding-bottom: 60px !important;background: #111111 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/girl-phone.jpg?id=64) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489793318494{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1489793331086{padding-top: 80px !important;padding-bottom: 40px !important;background: #1796c6 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/icon-pattern.jpg?id=99) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1489793345657{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1489793354369{padding-top: 100px !important;padding-bottom: 40px !important;background: #fbbd54 url(http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/leaders.png?id=101) !important;}.vc_custom_1489793361105{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1489952240014{padding-top: 55px !important;background-color: #f9f9f9 !important;}.vc_custom_1460946743693{margin-bottom: 10px !important;}.vc_custom_1460609998560{padding-bottom: 5px !important;}.vc_custom_1460610005716{padding-bottom: 5px !important;}.vc_custom_1460610011240{padding-bottom: 5px !important;}.vc_custom_1460610019272{padding-bottom: 5px !important;}.vc_custom_1476765142251{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #ffffff !important;}.vc_custom_1460341647328{margin-top: 1px !important;}.vc_custom_1460946733423{margin-bottom: 10px !important;}.vc_custom_1460611460255{padding-bottom: 5px !important;}.vc_custom_1460611465678{padding-bottom: 5px !important;}.vc_custom_1460611471506{padding-bottom: 5px !important;}.vc_custom_1460611475894{padding-bottom: 5px !important;}.vc_custom_1476765382168{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 15px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1460329599299{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_oembed_864e9c6d6b84afd9bf30e5c58af1e11b]]></wp:meta_key>
@@ -1462,16 +1462,12 @@
 			<wp:meta_value><![CDATA[1460325792]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[/*add default background to rows with bg-fixed class*/
-.bg-fixed { background-color:#111; }
-
-/*speed up filters*/
-.image-filter-grayscale { -webkit-transform: translateZ(0); -webkit-perspective: 1000; -webkit-backface-visibility: hidden; }]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
 			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
 			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_logo_scroll_top]]></wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2230,6 +2226,101 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit est, iaculis ve
 		</wp:comment>
 	</item>
 	<item>
+		<title>Keeping Your Office Space Organized</title>
+		<link>http://totaltheme.wpengine.com/paris/keeping-your-office-space-organized/</link>
+		<pubDate>Sun, 10 Apr 2016 00:40:09 +0000</pubDate>
+		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[Maecenas volutpat erat id diam efficitur, vitae aliquam orci aliquam. Phasellus vitae mauris eget ante feugiat suscipit sed in eros. Morbi fermentum eros quis ante accumsan, sed lacinia est porttitor. Donec elit erat, laoreet vitae nulla sit amet, vestibulum semper tortor. Proin finibus mi id nunc semper, vitae scelerisque lectus tempor. Donec blandit laoreet libero. Sed id velit vitae est ullamcorper cursus. Praesent odio dolor, scelerisque ut magna at, convallis interdum nulla. Sed lacinia congue pharetra. Nam ac metus dui. Vivamus vehicula mattis dui ac mattis. Nulla at condimentum purus, quis pellentesque nibh.
+
+Vivamus justo neque, scelerisque vitae nibh vitae, accumsan lobortis sem. Cras non vulputate urna, quis sagittis purus. Vestibulum dictum enim id elit malesuada, vel lobortis dolor aliquam. Sed interdum, magna id molestie dapibus, ligula mi congue mauris, ac laoreet dolor lorem eget odio. Morbi bibendum turpis lacus, at dictum eros facilisis id. Nunc molestie dictum ante, vel maximus turpis condimentum sed. Praesent at diam elementum, iaculis mi vitae, porta nisl. Donec sed euismod lacus. Suspendisse lacinia venenatis accumsan.
+
+Sed bibendum leo id urna ultricies hendrerit. Aliquam eget fermentum orci. Nunc vestibulum vel sapien id iaculis. Fusce maximus maximus metus nec scelerisque. Ut est leo, mattis a sagittis eu, ultricies sit amet nunc. Sed egestas, libero sit amet dapibus gravida, urna neque pulvinar nisl, et dapibus nisi massa dignissim nunc. Suspendisse laoreet, ante et finibus interdum, nisi leo iaculis mauris, ut viverra sapien risus a diam. Vivamus pulvinar lorem enim, vel fringilla est ultricies id. Nullam auctor molestie neque ut dictum. Nulla sed malesuada arcu. Suspendisse in faucibus nibh. Maecenas in nisl volutpat, imperdiet felis in, molestie quam. Vivamus maximus sit amet eros sit amet maximus.
+
+Ut et pellentesque tellus. Phasellus vel augue nunc. Maecenas nec fermentum augue. Proin sagittis, orci quis dictum maximus, velit orci congue justo, ac placerat justo est et purus. Aliquam sit amet nisi augue. Praesent pulvinar sem vel scelerisque blandit. Proin pharetra volutpat turpis, sed vestibulum orci feugiat vel. Integer ut enim nisl. Praesent quis nisi sed odio semper congue eu ut urna. Mauris vitae nibh mollis, scelerisque justo sed, rutrum tortor. Sed pharetra nec nunc blandit luctus. Sed eu urna ut neque fringilla tincidunt. Fusce dapibus enim est, eu feugiat quam tristique eget. Phasellus est lorem, vestibulum a tortor eget, maximus bibendum libero. Donec tristique ligula non faucibus aliquam. Nulla nec tortor consectetur, venenatis purus eu, lacinia quam.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-10 00:40:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-10 00:40:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[keeping-your-office-space-organized]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+			<wp:meta_value><![CDATA[light]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>11</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 00:44:16]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 00:44:16]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Nunc feugiat nulla id sapien facilisis, a euismod erat gravida. Integer eget dui in ex vulputate vehicula. Donec egestas tincidunt feugiat. Fusce mi lacus, feugiat vel tellus eu, efficitur rhoncus neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc eu sapien tortor.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>12</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 00:44:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 00:44:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Suspendisse potenti. Donec quis congue tortor. Fusce suscipit libero ac arcu venenatis, id tempus arcu ultricies. Phasellus tellus libero, elementum vel erat sit amet, condimentum dictum erat. In hac habitasse platea dictumst. Morbi quis elementum nisl. Nullam a elementum mauris, ut interdum nisl.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>13</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 00:45:17]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 00:45:17]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Nullam auctor molestie neque ut dictum. Nulla sed malesuada arcu. Suspendisse in faucibus nibh. Maecenas in nisl volutpat, imperdiet felis in, molestie quam. Vivamus maximus sit amet eros sit amet maximus.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>11</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
 		<title>Blog</title>
 		<link>http://totaltheme.wpengine.com/paris/blog/</link>
 		<pubDate>Sat, 09 Apr 2016 20:31:13 +0000</pubDate>
@@ -2553,132 +2644,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit est, iaculis ve
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[http://totaltheme.wpengine.com/paris/#testimonials]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>trans-free-website-psd1</title>
-		<link>http://totaltheme.wpengine.com/paris/portfolio-item/trans/trans-free-website-psd1/</link>
-		<pubDate>Sat, 15 Oct 2016 02:04:24 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/Trans-free-website-psd1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>112</wp:post_id>
-		<wp:post_date><![CDATA[2016-10-15 02:04:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-10-15 02:04:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[trans-free-website-psd1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>46</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/paris/wp-content/uploads/sites/75/2016/04/Trans-free-website-psd1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/Trans-free-website-psd1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:3185;s:4:"file";s:35:"2016/04/Trans-free-website-psd1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"Trans-free-website-psd1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Keeping Your Office Space Organized</title>
-		<link>http://totaltheme.wpengine.com/paris/keeping-your-office-space-organized/</link>
-		<pubDate>Sun, 10 Apr 2016 00:40:09 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/boxed-folio/?p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[Maecenas volutpat erat id diam efficitur, vitae aliquam orci aliquam. Phasellus vitae mauris eget ante feugiat suscipit sed in eros. Morbi fermentum eros quis ante accumsan, sed lacinia est porttitor. Donec elit erat, laoreet vitae nulla sit amet, vestibulum semper tortor. Proin finibus mi id nunc semper, vitae scelerisque lectus tempor. Donec blandit laoreet libero. Sed id velit vitae est ullamcorper cursus. Praesent odio dolor, scelerisque ut magna at, convallis interdum nulla. Sed lacinia congue pharetra. Nam ac metus dui. Vivamus vehicula mattis dui ac mattis. Nulla at condimentum purus, quis pellentesque nibh.
-
-Vivamus justo neque, scelerisque vitae nibh vitae, accumsan lobortis sem. Cras non vulputate urna, quis sagittis purus. Vestibulum dictum enim id elit malesuada, vel lobortis dolor aliquam. Sed interdum, magna id molestie dapibus, ligula mi congue mauris, ac laoreet dolor lorem eget odio. Morbi bibendum turpis lacus, at dictum eros facilisis id. Nunc molestie dictum ante, vel maximus turpis condimentum sed. Praesent at diam elementum, iaculis mi vitae, porta nisl. Donec sed euismod lacus. Suspendisse lacinia venenatis accumsan.
-
-Sed bibendum leo id urna ultricies hendrerit. Aliquam eget fermentum orci. Nunc vestibulum vel sapien id iaculis. Fusce maximus maximus metus nec scelerisque. Ut est leo, mattis a sagittis eu, ultricies sit amet nunc. Sed egestas, libero sit amet dapibus gravida, urna neque pulvinar nisl, et dapibus nisi massa dignissim nunc. Suspendisse laoreet, ante et finibus interdum, nisi leo iaculis mauris, ut viverra sapien risus a diam. Vivamus pulvinar lorem enim, vel fringilla est ultricies id. Nullam auctor molestie neque ut dictum. Nulla sed malesuada arcu. Suspendisse in faucibus nibh. Maecenas in nisl volutpat, imperdiet felis in, molestie quam. Vivamus maximus sit amet eros sit amet maximus.
-
-Ut et pellentesque tellus. Phasellus vel augue nunc. Maecenas nec fermentum augue. Proin sagittis, orci quis dictum maximus, velit orci congue justo, ac placerat justo est et purus. Aliquam sit amet nisi augue. Praesent pulvinar sem vel scelerisque blandit. Proin pharetra volutpat turpis, sed vestibulum orci feugiat vel. Integer ut enim nisl. Praesent quis nisi sed odio semper congue eu ut urna. Mauris vitae nibh mollis, scelerisque justo sed, rutrum tortor. Sed pharetra nec nunc blandit luctus. Sed eu urna ut neque fringilla tincidunt. Fusce dapibus enim est, eu feugiat quam tristique eget. Phasellus est lorem, vestibulum a tortor eget, maximus bibendum libero. Donec tristique ligula non faucibus aliquam. Nulla nec tortor consectetur, venenatis purus eu, lacinia quam.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-10 00:40:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-10 00:40:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[keeping-your-office-space-organized]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[41]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[light]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>11</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 00:44:16]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 00:44:16]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Nunc feugiat nulla id sapien facilisis, a euismod erat gravida. Integer eget dui in ex vulputate vehicula. Donec egestas tincidunt feugiat. Fusce mi lacus, feugiat vel tellus eu, efficitur rhoncus neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc eu sapien tortor.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>12</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 00:44:23]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 00:44:23]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Suspendisse potenti. Donec quis congue tortor. Fusce suscipit libero ac arcu venenatis, id tempus arcu ultricies. Phasellus tellus libero, elementum vel erat sit amet, condimentum dictum erat. In hac habitasse platea dictumst. Morbi quis elementum nisl. Nullam a elementum mauris, ut interdum nisl.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
-		<wp:comment>
-			<wp:comment_id>13</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 00:45:17]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 00:45:17]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Nullam auctor molestie neque ut dictum. Nulla sed malesuada arcu. Suspendisse in faucibus nibh. Maecenas in nisl volutpat, imperdiet felis in, molestie quam. Vivamus maximus sit amet eros sit amet maximus.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>11</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-		</wp:comment>
 	</item>
 	<item>
 		<title>Great Support</title>
