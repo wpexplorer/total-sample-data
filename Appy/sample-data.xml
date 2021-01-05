@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.5" created="2018-05-15 00:59" -->
+	<!-- generator="WordPress/5.6" created="2021-01-05 01:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,50 +27,38 @@
 
 <channel>
 	<title>Appy</title>
-	<link>http://totaltheme.wpengine.com/appy</link>
-	<description>Pixel Perfect App Landing Page</description>
-	<pubDate>Tue, 15 May 2018 00:59:50 +0000</pubDate>
+	<link>https://total.wpexplorer.com/appy</link>
+	<description>Just another Total Theme Demo site</description>
+	<pubDate>Tue, 05 Jan 2021 01:00:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
-	<wp:base_blog_url>http://totaltheme.wpengine.com/appy</wp:base_blog_url>
+	<wp:base_site_url>http://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_blog_url>https://total.wpexplorer.com/appy</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totalthememain]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
+				
+	<generator>https://wordpress.org/?v=5.6</generator>
 
-	<generator>https://wordpress.org/?v=4.9.5</generator>
-
-	<item>
+		<item>
 		<title>Homepage</title>
-		<link>http://totaltheme.wpengine.com/appy/</link>
+		<link>https://total.wpexplorer.com/appy/</link>
 		<pubDate>Tue, 10 Feb 2015 01:11:57 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" column_spacing="30" bg_style="stretch" css=".vc_custom_1489542311915{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phone1.jpg?id=7) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vc_single_image image="8" alignment="center"][/vc_column][vc_column width="1/2"][vcex_spacing size="70px" visibility="visible-desktop"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-lab" custom_size="60px" color="#ffffff" width="100px" height="100px" border_radius="100px" border="6px solid #fff"][vcex_spacing][vcex_heading text="Turn that frown upside down." font_weight="normal" color="#ffffff" font_family="Lato" font_size="d:36|tl:30|tp:24|pl:24|pp:24"][vcex_heading text="#E-8_Q29tZSUyMG9uJTJDJTIwJTNDc3BhbiUyMHN0eWxlJTNEJTIyY29sb3IlM0ElMjAlMjMwMDAlM0IlMjBmb250LXdlaWdodCUzQSUyMGJvbGQlM0IlMjIlM0VnZXQlMjBBcHB5LiUzQyUyRnNwYW4lM0U=" font_weight="normal" color="#ffffff" font_family="Lato" font_size="d:36|tl:30|tp:24|pl:24|pp:24"][vcex_spacing size="20px"][vc_column_text color="#ffffff" font_size="d:18|tl:18|tp:16|pl:16|pp:16"]Our app is the perfect solution. Whether you need to find a restaurant, send your mom a card, set a reminder or something else just use Appy. It can do anything.[/vc_column_text][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vc_custom_heading text="The app that does just about everything." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vc_column_text]
-<p style="text-align: center;">We built in tons of great features that you're sure to love.
-We're onto something here - check it out.
-
-[/vc_column_text][/vc_column][/vc_row][vc_row el_class="textcenter"][vc_column][vcex_button url="http://www.wpexplorer.com/out/total/" target="blank" title="App Store" custom_background="#175d99" custom_hover_background="#24bf75" icon_right="fa fa-shopping-cart" classes="button-margin"]App Store[/vcex_button][vcex_button url="http://www.wpexplorer.com/out/total/" target="blank" title="Google Play" custom_background="#175d99" custom_hover_background="#24bf75" icon_right="fa fa-play" classes="button-margin"]Google Play[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}"][vc_column][vc_single_image image="19" alignment="center" lightbox_iframe_type="video_embed" lightbox_video="https://www.youtube.com/watch?v=2JyW4yAyTl0"][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vc_custom_heading text="It's as easy as 1, 2, 3, 4..." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vc_column_text]
-
-<p style="text-align: center;">Download the app. Sign up for an account.
-Do things. Then to more things.
-
-[/vc_column_text][vcex_spacing size="45px" visibility="hidden-phone"][vcex_image_grid responsive_columns="false" thumbnail_link="none" visibility="hidden-phone" img_width="226" img_height="9999" image_ids="9,10,11,12"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489542342384{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Device" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-phone" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794415356{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Our app has been developer to work on every mobile device.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Place" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-location" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794434557{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Access your data no matter where you are in the world.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Time" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-calendar" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794803333{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]You can sign up and cancel your membership at anytime.[/vcex_icon_box][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vc_custom_heading text="It's as easy as 1, 2, 3, 4..." font_container="tag:h2|font_size:24px|text_align:center|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vc_column_text]
-
-<p style="text-align: center;">Down load the app. Sign up for an account.
-Do things. Then to more things.
-
-[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/features/" size="small" title="Learn More" align="center" custom_background="#24bf75" border_radius="2px" custom_hover_background="#1c945b"]Learn More[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" column_spacing="30" css=".vc_custom_1489542356099{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 30px !important;padding-bottom: 10px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}"][vc_column width="3/4"][vc_custom_heading text="Sign up to day to receive access to Appy exlusives!" font_container="tag:h2|font_size:21px|text_align:left|color:%23005ba7" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vc_column_text]
-
-<p style="text-align: left;">You'll be the first to know about updates and more. You know you want to.</p>
-[/vc_column_text][/vc_column][vc_column width="1/4"][vcex_spacing size="10px" visibility="visible-desktop"][vcex_button url="http://www.wpexplorer.com/out/total/" layout="expanded" size="small" title="Sign Up" style="flat" align="center" color="black" custom_background="#005ba7" custom_hover_background="#5e97c7"]Sign Up[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="30" bg_style="stretch" css=".vc_custom_1609807999192{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vcex_image image_id="8"][/vc_column][vc_column width="1/2"][vcex_spacing size="70px" visibility="visible-desktop"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-lab" custom_size="60px" color="#ffffff" width="100px" height="100px" border_radius="100px" border="6px solid #fff"][vcex_spacing][vcex_heading text="Turn that frown upside down." font_weight="normal" color="#ffffff" font_family="Lato" font_size="d:36|tl:30|tp:24|pl:24|pp:24"][vcex_heading text="#E-8_Q29tZSUyMG9uJTJDJTIwJTNDc3BhbiUyMGNsYXNzJTNEJTIyd3BleC1iZy1hY2NlbnQlMjB3cGV4LXB4LTUlMjIlM0VnZXQlMjBBcHB5JTNDJTJGc3BhbiUzRS4=" font_weight="normal" color="#ffffff" font_family="Lato" font_size="d:36|tl:30|tp:24|pl:24|pp:24"][vcex_spacing size="20px"][vc_column_text color="#ffffff" font_size="18"]Our app is the perfect solution. Whether you need to find a restaurant, send your mom a card, set a reminder or something else just use Appy. It can do anything.[/vc_column_text][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vcex_heading text="The app that does just about everything." bottom_margin="10px" tag="h2" text_align="center" font_size="24px" font_weight="bold" color="#005ba7"][vc_column_text]</p>
+<p style="text-align: center;">We built in tons of great features that you're sure to love.<br />
+We're onto something here - check it out.[/vc_column_text][vcex_spacing][vcex_multi_buttons buttons="%5B%7B%22text%22%3A%22App%20Store%20%5Bticon%20icon%3D%5C%22apple%5C%22%20margin_left%3D%5C%2210px%5C%22%5D%22%2C%22link%22%3A%22url%3Ahttp%253A%252F%252Fapple.com%7Ctarget%3A_blank%22%2C%22css_animation%22%3A%22none%22%2C%22style%22%3A%22flat%22%2C%22local_scroll%22%3A%22false%22%2C%22download_attribute%22%3A%22false%22%7D%2C%7B%22text%22%3A%22Google%20Play%20%5Bticon%20icon%3D%5C%22play%5C%22%20margin_left%3D%5C%2210px%5C%22%5D%22%2C%22link%22%3A%22url%3Ahttps%253A%252F%252Fplay.google.com%252Fstore%7Ctarget%3A_blank%22%2C%22css_animation%22%3A%22none%22%2C%22style%22%3A%22flat%22%2C%22local_scroll%22%3A%22false%22%2C%22download_attribute%22%3A%22false%22%7D%5D" font_weight="500"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}"][vc_column][vc_single_image image="19" alignment="center" lightbox_iframe_type="video_embed" lightbox_video="https://www.youtube.com/watch?v=2JyW4yAyTl0"][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vcex_heading text="It's as easy as 1, 2, 3, 4..." bottom_margin="10px" tag="h2" text_align="center" font_size="24px" font_weight="bold" color="#005ba7"][vc_column_text]</p>
+<p style="text-align: center;">Download the app. Sign up for an account.<br />
+Do things. Then to more things.[/vc_column_text][vcex_spacing size="45px" visibility="hidden-phone"][vcex_image_grid responsive_columns="false" thumbnail_link="none" visibility="hidden-phone" img_width="226" img_height="9999" image_ids="9,10,11,12"][/vc_column][/vc_row][vc_row full_width="stretch_row" wpex_bg_overlay="dark" css=".vc_custom_1609808125906{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_opacity=".3"][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Device" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-phone" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794415356{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Our app has been developer to work on every mobile device.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Place" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-location" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794434557{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Access your data no matter where you are in the world.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Time" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-calendar" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794803333{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]You can sign up and cancel your membership at anytime.[/vcex_icon_box][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vcex_heading text="Get Started Today with Appy" bottom_margin="10px" tag="h2" text_align="center" font_size="24px" font_weight="bold" color="#005ba7"][vc_column_text text_align="center"]Don't wait any longer, download the Appy app today![/vc_column_text][vcex_spacing size="20px"][vcex_button url="https://www.wpexplorer.com/out/total" size="small" title="Learn More" align="center" custom_background="#24bf75" border_radius="2px" custom_hover_background="#1c945b"]Get Started[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" column_spacing="30" remove_bottom_col_margin="true" css=".vc_custom_1609808329485{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}"][vc_column][vcex_spacing size="10px" visibility="visible-desktop"][vcex_heading text="Sign up to day to receive access to Appy exclusives!" bottom_margin="10px" tag="h2" font_size="24px" font_weight="bold" color="#005ba7" text_align="center"][vc_column_text text_align="center"]You'll be the first to know about updates and more. You know you want to.[/vc_column_text][vcex_spacing][vcex_newsletter_form form_action="//wpexplorer.us1.list-manage.com/subscribe/post?u=9b7568b7c032f9a6738a9cf4d&id=7056c37ddf" input_align="center" input_width="500px"][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-10 01:11:57]]></wp:post_date>
@@ -84,81 +72,73 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1609807999192{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}.vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1609808125906{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1609808329485{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1426794415356{margin-bottom: 0px !important;}.vc_custom_1426794434557{margin-bottom: 0px !important;}.vc_custom_1426794803333{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:11:"autoptimize";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:11:"autoptimize";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[vc_teaser]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vc_teaser]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_4d57edb5aa4a8755aca3e862409823a2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe src="//player.vimeo.com/video/92033601" width="980" height="551" frameborder="0" title="Create your own webpage in less then 10 minutes with Visual Composer page builder for WordPress" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_4d57edb5aa4a8755aca3e862409823a2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe src="//player.vimeo.com/video/92033601" width="980" height="551" frameborder="0" title="Create your own webpage in less then 10 minutes with Visual Composer page builder for WordPress" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_4d57edb5aa4a8755aca3e862409823a2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1423534498]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_4d57edb5aa4a8755aca3e862409823a2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1423534498]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_6eebd6c09b167d6ba2f4bf8e2acf0866]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="980" height="551" src="https://www.youtube.com/embed/uEszGV8R_74?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_6eebd6c09b167d6ba2f4bf8e2acf0866]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe width="980" height="551" src="https://www.youtube.com/embed/uEszGV8R_74?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_6eebd6c09b167d6ba2f4bf8e2acf0866]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1423537391]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_6eebd6c09b167d6ba2f4bf8e2acf0866]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1423537391]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1609807999192{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}.vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1609808125906{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1609808329485{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1426794415356{margin-bottom: 0px !important;}.vc_custom_1426794434557{margin-bottom: 0px !important;}.vc_custom_1426794803333{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489542311915{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phone1.jpg?id=7) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}.vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1489542342384{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489542356099{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 30px !important;padding-bottom: 10px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1426794415356{margin-bottom: 0px !important;}.vc_custom_1426794434557{margin-bottom: 0px !important;}.vc_custom_1426794803333{margin-bottom: 0px !important;}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[white]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[black]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.button-margin { margin: 0 5px; }]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Carolyn Meyer // Designer</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/girl/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/girl/</link>
 		<pubDate>Tue, 10 Feb 2015 02:13:04 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/girl.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/girl.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -174,22 +154,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/girl.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/girl.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/girl.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/girl.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:16:"2015/02/girl.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:16:"2015/02/girl.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"girl-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>Ben Baker // Developer</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/guy/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/guy/</link>
 		<pubDate>Tue, 10 Feb 2015 02:13:22 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/guy.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/guy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -205,22 +185,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/guy.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/guy.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/guy.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/guy.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:15:"2015/02/guy.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:15:"2015/02/guy.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"guy-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>phone1</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/phone1/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/phone1/</link>
 		<pubDate>Tue, 10 Feb 2015 02:45:16 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phone1.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/phone1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -236,22 +216,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phone1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/phone1.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/phone1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/phone1.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:18:"2015/02/phone1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:18:"2015/02/phone1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"phone1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>phones</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/phones/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/phones/</link>
 		<pubDate>Tue, 10 Feb 2015 02:47:26 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phones.png</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/phones.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -267,22 +247,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/phones.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/phones.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/phones.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/phones.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:917;s:4:"file";s:18:"2015/02/phones.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:917;s:4:"file";s:18:"2015/02/phones.png";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"phones-768x880.png";s:5:"width";i:768;s:6:"height";i:880;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>step1</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/step1/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/step1/</link>
 		<pubDate>Tue, 10 Feb 2015 03:00:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step1.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -298,22 +278,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/step1.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/step1.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step1.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step1-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step1.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step1-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>step2</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/step2/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/step2/</link>
 		<pubDate>Tue, 10 Feb 2015 03:00:34 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step2.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -329,22 +309,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/step2.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/step2.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step2.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step2-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step2.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step2-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>step3</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/step3/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/step3/</link>
 		<pubDate>Tue, 10 Feb 2015 03:00:35 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step3.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -360,22 +340,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step3.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/step3.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/step3.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step3.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step3-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step3.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step3-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>step4</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/step4/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/step4/</link>
 		<pubDate>Tue, 10 Feb 2015 03:00:36 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step4.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -391,22 +371,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/step4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/step4.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/step4.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step4.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step4-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step4.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step4-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>team</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/team/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/team/</link>
 		<pubDate>Tue, 10 Feb 2015 03:28:39 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/team.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -422,22 +402,22 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/team.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/team.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/team.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:1150;s:4:"file";s:16:"2015/02/team.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:1150;s:4:"file";s:16:"2015/02/team.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"team-768x465.jpg";s:5:"width";i:768;s:6:"height";i:465;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
+							</item>
+					<item>
 		<title>play</title>
-		<link>http://totaltheme.wpengine.com/appy/homepage/play/</link>
+		<link>https://total.wpexplorer.com/appy/homepage/play/</link>
 		<pubDate>Tue, 10 Feb 2015 03:32:53 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/play.jpg</guid>
+		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/play.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -453,15 +433,16 @@ Do things. Then to more things.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/appy/wp-content/uploads/sites/28/2015/02/play.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/play.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/play.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/play.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:350;s:4:"file";s:16:"2015/02/play.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:350;s:4:"file";s:16:"2015/02/play.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+				</channel>
 </rss>
+	
