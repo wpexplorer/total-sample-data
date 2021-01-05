@@ -62,7 +62,8 @@
                 "Contact Form 7",
                 "WPBakery Page Builder",
                 "Slider Revolution",
-                "WooCommerce"
+                "WooCommerce",
+                "Templatera"
             ],
             "sliders":{
                 "agent-home":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/revolution-sliders/agent-home.zip",
@@ -441,8 +442,7 @@
             "page_for_posts":"blog",
             "plugins":[
                 "Contact Form 7",
-                "WPBakery Page Builder",
-                "Total - Remove Query Strings"
+                "WPBakery Page Builder"
             ],
             "categories":[
 
@@ -498,7 +498,8 @@
             "widgets":"https://totalwptheme.s3.amazonaws.com/sample-data/Awareness/widgets.txt",
             "homepage_slug":"homepage",
             "plugins":[
-                "WPBakery Page Builder"
+                "WPBakery Page Builder",
+                "Templatera"
             ],
             "categories":{
                 "one-page":"One Page",
@@ -570,8 +571,7 @@
             "page_for_posts":"blog",
             "plugins":[
                 "Contact Form 7",
-                "WPBakery Page Builder",
-                "Total - Redirect Staff Posts"
+                "WPBakery Page Builder"
             ],
             "categories":[
 
@@ -626,7 +626,6 @@
             "shop_slug":"shop",
             "plugins":[
                 "WPBakery Page Builder",
-                "Total - Disable Local Scroll Hash Update",
                 "WooCommerce"
             ]
         },
@@ -662,9 +661,7 @@
                 "main_menu":"main"
             },
             "homepage_slug":"home",
-            "plugins":[
-                "Total - Disable Blog Entry Gallery Slider"
-            ],
+            "plugins":[],
             "categories":{
                 "blog":"Blog"
             }
@@ -853,7 +850,8 @@
             "homepage_slug":"home",
             "plugins":[
                 "Contact Form 7",
-                "WPBakery Page Builder"
+                "WPBakery Page Builder",
+                "Templatera"
             ],
             "categories":{
                 "business":"Business",
@@ -1030,6 +1028,10 @@
         "revslider":{
             "name":"Slider Revolution",
             "location":"bundled"
+        },
+        "post-types-unlimited":{
+            "name":"Post Types Unlimited",
+            "location":"wp_repo"
         }
     }
 }
