@@ -27,6 +27,28 @@
             "shop":"Shop"
         }
     },
+    "Square Media":{
+        "import_file_name":"Agent",
+        "preview_url":"https://total.wpexplorer.com/square-media/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/customizer.dat",
+        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/widgets.json",
+        "nav_menu_locations":{
+            "main_menu":"main"
+        },
+        "homepage_slug":"home",
+        "page_for_posts":"blog",
+        "plugins":[
+            "WPBakery Page Builder",
+            "Templatera"
+        ],
+        "categories":{
+           "agency":"Agency",
+            "business":"Business",
+             "creative":"Creative"
+        }
+    },
     "healthcare":{
         "import_file_name":"Healthcare",
         "preview_url":"https://total.wpexplorer.com/healthcare/",
@@ -244,7 +266,6 @@
         "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Appy/widgets.json",
         "homepage_slug":"homepage",
         "plugins":[
-            "Force Regenerate Thumbnails",
             "WPBakery Page Builder"
         ],
         "categories":{
@@ -282,12 +303,7 @@
         "nav_menu_locations":{
             "main_menu":"main"
         },
-        "homepage_slug":"blog",
-        "plugins":[
-            "Force Regenerate Thumbnails",
-            "WPBakery Page Builder",
-            "WPEX Pagination Fix"
-        ]
+        "homepage_slug":"homepage"
     },
     "tinyfolio":{
         "import_file_name":"Tinyfolio",
@@ -347,7 +363,6 @@
         "page_for_posts":"blog",
         "plugins":[
             "Contact Form 7",
-            "Force Regenerate Thumbnails",
             "WPBakery Page Builder"
         ],
         "categories":{
@@ -499,7 +514,6 @@
         "page_for_posts":"blog",
         "plugins":[
             "Contact Form 7",
-            "Force Regenerate Thumbnails",
             "WPBakery Page Builder",
             "The Events Calendar"
         ],
@@ -711,7 +725,6 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Force Regenerate Thumbnails",
             "WPBakery Page Builder",
             "Slider Revolution"
         ],

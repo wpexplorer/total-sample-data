@@ -1,6 +1,7 @@
 {
     "theme":"Total",
     "categories":{
+        "agency":"Agency",
         "business":"Business",
         "shop":"Shop",
         "medical":"Medical",
@@ -44,6 +45,28 @@
                 "slider_7":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_7.zip",
                 "slider_8":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_8.zip",
                 "slider_9":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_9.zip"
+            }
+        },
+        "square-media":{
+            "name":"Square Media",
+            "demo_slug":"square-media",
+            "screenshot":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/screenshot.jpg",
+            "xml":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/sample-data.xml",
+            "theme_mods":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/theme-options.txt",
+            "widgets":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/widgets.txt",
+            "nav_menu_locations":{
+                "main_menu":"main"
+            },
+            "homepage_slug":"homepage",
+            "page_for_posts":"blog",
+            "plugins":[
+                "WPBakery Page Builder",
+                "Templatera"
+            ],
+            "categories":{
+                "agency":"Agency",
+                "business":"Business",
+                "creative":"Creative"
             }
         },
         "agent":{
@@ -291,7 +314,6 @@
             "widgets":"https://totalwptheme.s3.amazonaws.com/sample-data/Appy/widgets.txt",
             "homepage_slug":"homepage",
             "plugins":[
-                "Force Regenerate Thumbnails",
                 "WPBakery Page Builder"
             ],
             "categories":{
@@ -329,12 +351,7 @@
             "nav_menu_locations":{
                 "main_menu":"main"
             },
-            "homepage_slug":"blog",
-            "plugins":[
-                "Force Regenerate Thumbnails",
-                "WPBakery Page Builder",
-                "WPEX Pagination Fix"
-            ]
+            "homepage_slug":"homepage"
         },
         "tinyfolio":{
             "name":"Tinyfolio",
@@ -394,7 +411,6 @@
             "page_for_posts":"blog",
             "plugins":[
                 "Contact Form 7",
-                "Force Regenerate Thumbnails",
                 "WPBakery Page Builder"
             ],
             "categories":{
@@ -546,7 +562,6 @@
             "page_for_posts":"blog",
             "plugins":[
                 "Contact Form 7",
-                "Force Regenerate Thumbnails",
                 "WPBakery Page Builder",
                 "The Events Calendar"
             ],
@@ -753,7 +768,6 @@
             "homepage_slug":"home",
             "page_for_posts":"blog",
             "plugins":[
-                "Force Regenerate Thumbnails",
                 "WPBakery Page Builder",
                 "Slider Revolution"
             ],
@@ -980,12 +994,12 @@
                 "WooCommerce"
             ],
             "sliders":{
-                "slider_1":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/slider_1.zip",
-                "slider_2":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/slider_2.zip",
-                "slider_3":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/slider_3.zip",
-                "slider_4":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/slider_4.zip",
-                "slider_7":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/slider_7.zip",
-                "slider_8":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/slider_8.zip"
+                "homepage":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/homepage.zip",
+                "homepage_4":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/homepage_4.zip",
+                "homepage_10":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/homepage_10.zip",
+                "homepage_15":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/homepage_15.zip",
+                "shop":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/shop.zip",
+                "staff_w_slider":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/staff_w_slider.zip"
             },
             "categories":{
                 "business":"Business",
