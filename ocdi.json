@@ -28,7 +28,7 @@
         }
     },
     "Square Media":{
-        "import_file_name":"Agent",
+        "import_file_name":"Square Media",
         "preview_url":"https://total.wpexplorer.com/square-media/",
         "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/screenshot.jpg",
         "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Square-Media/sample-data.xml",
@@ -37,11 +37,35 @@
         "nav_menu_locations":{
             "main_menu":"main"
         },
-        "homepage_slug":"home",
+        "homepage_slug":"homepage",
         "page_for_posts":"blog",
         "plugins":[
             "WPBakery Page Builder",
             "Templatera"
+        ],
+        "categories":{
+           "agency":"Agency",
+            "business":"Business",
+             "creative":"Creative"
+        }
+    },
+    "Boomerang":{
+        "import_file_name":"Boomerang",
+        "preview_url":"https://total.wpexplorer.com/boomerang/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/customizer.dat",
+        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/widgets.json",
+        "nav_menu_locations":{
+            "main_menu":"main",
+            "footer_menu":"footer"
+        },
+        "homepage_slug":"homepage",
+        "page_for_posts":"blog",
+        "plugins":[
+            "WPBakery Page Builder",
+            "Templatera",
+            "Contact Form 7"
         ],
         "categories":{
            "agency":"Agency",

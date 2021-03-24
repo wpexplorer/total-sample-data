@@ -69,6 +69,29 @@
                 "creative":"Creative"
             }
         },
+         "boomerang":{
+            "name":"Boomerang",
+            "demo_slug":"boomerang",
+            "screenshot":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/screenshot.jpg",
+            "xml":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/sample-data.xml",
+            "theme_mods":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/theme-options.txt",
+            "widgets":"https://totalwptheme.s3.amazonaws.com/sample-data/Boomerang/widgets.txt",
+            "nav_menu_locations":{
+                "main_menu":"main",
+                "footer_menu":"footer"
+            },
+            "homepage_slug":"homepage",
+            "page_for_posts":"blog",
+            "plugins":[
+                "WPBakery Page Builder",
+                "Templatera",
+                "Contact Form 7"
+            ],
+            "categories":{
+                "agency":"Agency",
+                "business":"Business"
+            }
+        },
         "agent":{
             "name":"Agent",
             "demo_slug":"agent",
@@ -351,7 +374,10 @@
             "nav_menu_locations":{
                 "main_menu":"main"
             },
-            "homepage_slug":"homepage"
+            "homepage_slug":"homepage",
+            "categories": {
+                "blog":"Blog"
+            }
         },
         "tinyfolio":{
             "name":"Tinyfolio",
@@ -971,6 +997,9 @@
             ],
             "sliders":{
                 "travel-blog-slider":"https://totalwptheme.s3.amazonaws.com/sample-data/Travel/revolution-sliders/travel-blog-slider.zip"
+            },
+            "categories": {
+                "blog":"Blog"
             }
         },
         "base":{
