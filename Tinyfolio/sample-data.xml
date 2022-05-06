@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-04-03 02:04" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-05 23:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,52 +26,52 @@
 >
 
 <channel>
-	<title>Tiny Folio</title>
-	<link>http://totaltheme.wpengine.com/tinyfolio</link>
-	<description>Total WordPress Theme Demo</description>
-	<pubDate>Mon, 03 Apr 2017 02:04:16 +0000</pubDate>
+	<title>TinyFolio</title>
+	<link>https://total.wpexplorer.com/tinyfolio</link>
+	<description>Just another Total Theme Demo site</description>
+	<pubDate>Thu, 05 May 2022 23:37:35 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
-	<wp:base_blog_url>http://totaltheme.wpengine.com/tinyfolio</wp:base_blog_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_blog_url>https://total.wpexplorer.com/tinyfolio</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-	<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+				<wp:term>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cute-curiosities]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Cute Curiosities]]></wp:term_name>
 	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[little-things]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Little Things]]></wp:term_name>
 	</wp:term>
-	<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[pretty-places]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Pretty Places]]></wp:term_name>
 	</wp:term>
+		
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
-	<generator>https://wordpress.org/?v=4.7.3</generator>
-
-	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/</link>
+		<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/</link>
 		<pubDate>Tue, 03 Mar 2015 00:46:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vcex_portfolio_grid columns="4" posts_per_page="-1" order="DESC" orderby="date" img_size="portfolio_entry" overlay_style="slideup-title-white" title="false" excerpt="false" read_more="false" custom_excerpt_trim="false"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
@@ -82,6 +82,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-03 00:46:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-03 00:46:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-03 00:46:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-03 00:46:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -91,59 +93,37 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>img1</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/branching-out/img1/</link>
+							</item>
+					<item>
+		<title><![CDATA[img1]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/branching-out/img1/</link>
 		<pubDate>Tue, 03 Mar 2015 01:11:00 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img1.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-03 01:11:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-03 01:11:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-03 01:11:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-03 01:11:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img1]]></wp:post_name>
@@ -153,28 +133,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img1.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img1.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:750;s:4:"file";s:16:"2015/03/img1.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img1-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img1-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:750;s:4:"file";s:16:"2015/03/img1.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img1-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img1-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img1-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img16</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/branching-out/img16/</link>
+							</item>
+					<item>
+		<title><![CDATA[img16]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/branching-out/img16/</link>
 		<pubDate>Wed, 11 Mar 2015 00:26:13 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img16.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img16.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:26:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:26:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:26:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:26:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img16]]></wp:post_name>
@@ -184,28 +166,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img16.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img16.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img16.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img16.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:664;s:4:"file";s:17:"2015/03/img16.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img16-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img16-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img16-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:664;s:4:"file";s:17:"2015/03/img16.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img16-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img16-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img16-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img15</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/far-away-places/img15/</link>
+							</item>
+					<item>
+		<title><![CDATA[img15]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/far-away-places/img15/</link>
 		<pubDate>Wed, 11 Mar 2015 00:27:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/01/img15.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/01/img15.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:27:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:27:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:27:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:27:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img15]]></wp:post_name>
@@ -215,28 +199,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/01/img15.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/img15.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/01/img15.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/img15.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:17:"2015/01/img15.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img15-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img15-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img15-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:17:"2015/01/img15.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img15-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img15-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img15-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img14</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/hello-little-lady/img14/</link>
+							</item>
+					<item>
+		<title><![CDATA[img14]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/hello-little-lady/img14/</link>
 		<pubDate>Wed, 11 Mar 2015 00:28:00 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img14.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img14.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:28:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:28:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img14]]></wp:post_name>
@@ -246,28 +232,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img14.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img14.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img14.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img14.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:17:"2015/03/img14.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img14-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img14-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img14-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:17:"2015/03/img14.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img14-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img14-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img14-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img13</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/kicking-back/img13/</link>
+							</item>
+					<item>
+		<title><![CDATA[img13]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/kicking-back/img13/</link>
 		<pubDate>Wed, 11 Mar 2015 00:28:31 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img13.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img13.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:28:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:28:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:28:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:28:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img13]]></wp:post_name>
@@ -277,28 +265,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img13.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img13.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img13.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img13.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:782;s:4:"file";s:17:"2015/03/img13.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img13-768x601.jpg";s:5:"width";i:768;s:6:"height";i:601;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img13-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img13-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:782;s:4:"file";s:17:"2015/03/img13.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img13-768x601.jpg";s:5:"width";i:768;s:6:"height";i:601;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img13-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img13-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img12</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/running/img12/</link>
+							</item>
+					<item>
+		<title><![CDATA[img12]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/running/img12/</link>
 		<pubDate>Wed, 11 Mar 2015 00:28:55 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img12.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img12.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:28:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:28:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:28:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:28:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img12]]></wp:post_name>
@@ -308,28 +298,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img12.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img12.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img12.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img12.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:17:"2015/03/img12.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img12-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img12-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img12-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:17:"2015/03/img12.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img12-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img12-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img12-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img11</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/type-y-type-y/img11/</link>
+							</item>
+					<item>
+		<title><![CDATA[img11]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/type-y-type-y/img11/</link>
 		<pubDate>Wed, 11 Mar 2015 00:29:43 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img11.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img11.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:29:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:29:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:29:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:29:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img11]]></wp:post_name>
@@ -339,28 +331,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img11.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img11.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img11.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img11.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:513;s:4:"file";s:17:"2015/03/img11.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img11-768x394.jpg";s:5:"width";i:768;s:6:"height";i:394;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img11-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img11-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:513;s:4:"file";s:17:"2015/03/img11.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img11-768x394.jpg";s:5:"width";i:768;s:6:"height";i:394;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img11-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img11-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img10</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/very-zen/img10/</link>
+							</item>
+					<item>
+		<title><![CDATA[img10]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/very-zen/img10/</link>
 		<pubDate>Wed, 11 Mar 2015 00:30:43 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img10.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:30:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:30:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:30:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:30:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img10]]></wp:post_name>
@@ -370,28 +364,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img10.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img10.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img10.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img10.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:664;s:4:"file";s:17:"2015/03/img10.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img10-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img10-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img10-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:664;s:4:"file";s:17:"2015/03/img10.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"img10-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:17:"img10-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:17:"img10-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img9</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/turquoise-spice/img9/</link>
+							</item>
+					<item>
+		<title><![CDATA[img9]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/turquoise-spice/img9/</link>
 		<pubDate>Wed, 11 Mar 2015 00:31:36 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img9.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img9.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:31:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:31:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:31:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:31:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img9]]></wp:post_name>
@@ -401,28 +397,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img9.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img9.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img9.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img9.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2015/03/img9.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img9-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img9-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img9-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2015/03/img9.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img9-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img9-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img9-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img8</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/wild-orchids/img8/</link>
+							</item>
+					<item>
+		<title><![CDATA[img8]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/wild-orchids/img8/</link>
 		<pubDate>Wed, 11 Mar 2015 00:32:58 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img8.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:32:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:32:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:32:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:32:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img8]]></wp:post_name>
@@ -432,28 +430,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img8.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img8.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img8.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img8.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:666;s:4:"file";s:16:"2015/03/img8.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img8-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img8-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:666;s:4:"file";s:16:"2015/03/img8.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img8-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img8-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img8-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img7</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/sleepy-saturday/img7/</link>
+							</item>
+					<item>
+		<title><![CDATA[img7]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/sleepy-saturday/img7/</link>
 		<pubDate>Wed, 11 Mar 2015 00:33:25 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img7.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:33:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:33:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:33:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:33:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img7]]></wp:post_name>
@@ -463,28 +463,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img7.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img7.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img7.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img7.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:750;s:4:"file";s:16:"2015/03/img7.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img7-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img7-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:750;s:4:"file";s:16:"2015/03/img7.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img7-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img7-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img7-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img7-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img6</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/fresh-flowers/img6/</link>
+							</item>
+					<item>
+		<title><![CDATA[img6]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/fresh-flowers/img6/</link>
 		<pubDate>Wed, 11 Mar 2015 00:34:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img6.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:34:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:34:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:34:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:34:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img6]]></wp:post_name>
@@ -494,28 +496,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img6.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img6.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img6.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img6.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:680;s:4:"file";s:16:"2015/03/img6.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img6-768x522.jpg";s:5:"width";i:768;s:6:"height";i:522;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img6-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img6-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:680;s:4:"file";s:16:"2015/03/img6.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img6-768x522.jpg";s:5:"width";i:768;s:6:"height";i:522;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img6-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img6-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img6-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img5</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/fruit-yoghurt/img5/</link>
+							</item>
+					<item>
+		<title><![CDATA[img5]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/fruit-yoghurt/img5/</link>
 		<pubDate>Wed, 11 Mar 2015 00:35:09 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img5.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:35:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:35:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:35:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:35:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img5]]></wp:post_name>
@@ -525,28 +529,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img5.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img5.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img5.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img5.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:669;s:4:"file";s:16:"2015/03/img5.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img5-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img5-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:669;s:4:"file";s:16:"2015/03/img5.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img5-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img5-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img5-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img5-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img4</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/new-camera/img4/</link>
+							</item>
+					<item>
+		<title><![CDATA[img4]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/new-camera/img4/</link>
 		<pubDate>Wed, 11 Mar 2015 00:35:28 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img4.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:35:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:35:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:35:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:35:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img4]]></wp:post_name>
@@ -556,28 +562,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img4.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img4.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:666;s:4:"file";s:16:"2015/03/img4.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img4-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img4-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:666;s:4:"file";s:16:"2015/03/img4.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img4-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img4-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img4-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img4-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img3</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/baby-bird/img3/</link>
+							</item>
+					<item>
+		<title><![CDATA[img3]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/baby-bird/img3/</link>
 		<pubDate>Wed, 11 Mar 2015 00:36:02 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img3.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:36:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:36:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:36:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:36:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img3]]></wp:post_name>
@@ -587,28 +595,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img3.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img3.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img3.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2015/03/img3.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img3-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2015/03/img3.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img3-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img3-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img3-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>img2</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/baby-bird/img2/</link>
+							</item>
+					<item>
+		<title><![CDATA[img2]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/baby-bird/img2/</link>
 		<pubDate>Wed, 11 Mar 2015 00:36:04 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/wp-content/uploads/sites/32/2015/03/img2.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:36:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:36:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:36:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:36:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[img2]]></wp:post_name>
@@ -618,28 +628,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2015/03/img2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/03/img2.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2015/03/img2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/03/img2.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:665;s:4:"file";s:16:"2015/03/img2.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img2-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img2-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:665;s:4:"file";s:16:"2015/03/img2.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"img2-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"img2-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"img2-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:16:"img2-420x350.jpg";s:5:"width";i:420;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>tiny-folio-logo</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/tiny-folio-logo/</link>
+							</item>
+					<item>
+		<title><![CDATA[tiny-folio-logo]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/tiny-folio-logo/</link>
 		<pubDate>Sun, 01 May 2016 19:17:08 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2016/05/tiny-folio-logo.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2016/05/tiny-folio-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2016-05-01 19:17:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-05-01 19:17:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-05-01 19:17:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-05-01 19:17:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tiny-folio-logo]]></wp:post_name>
@@ -649,21 +661,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/tinyfolio/wp-content/uploads/sites/32/2016/05/tiny-folio-logo.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/05/tiny-folio-logo.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/tinyfolio/wp-content/uploads/sites/19/2016/05/tiny-folio-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/tiny-folio-logo.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:180;s:6:"height";i:60;s:4:"file";s:27:"2016/05/tiny-folio-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:180;s:6:"height";i:60;s:4:"file";s:27:"2016/05/tiny-folio-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Header Aside Content</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/header-aside-content/</link>
+							</item>
+					<item>
+		<title><![CDATA[Header Aside Content]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/header-aside-content/</link>
 		<pubDate>Sun, 01 May 2016 19:30:35 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/tinyfolio/?page_id=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row column_spacing="0px"][vc_column 0=""][vc_column_text 0=""]
@@ -673,6 +685,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2016-05-01 19:30:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-05-01 19:30:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-05-01 19:30:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-05-01 19:30:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-aside-content]]></wp:post_name>
@@ -682,76 +696,50 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1491185004495{background-color: #eeeeee !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1491185004495{background-color: #eeeeee !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1491185004495{background-color: #eeeeee !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Total</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/total/</link>
+							</item>
+					<item>
+		<title><![CDATA[Total]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/total/</link>
 		<pubDate>Tue, 14 Mar 2017 23:33:24 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/tinyfolio/total/</guid>
 		<description></description>
 		<content:encoded><![CDATA[/* Tweak overlay title color */
-.overlay-slideup-title span.title { color: #555; }
+.overlay-slideup-title span.title {
+	color: #555;
+}
 
 /* Add little space to site bottom*/
-#main { padding-bottom: 40px; }
-
-/* Center logo on mobile */
-@media only screen and (max-width: 959px) {
-  #site-header #site-logo {    
-    float: none;    
-    display: block;    
-    text-align: center;    
-    width: 100%;
-    max-width: none;
-  }
-  #site-logo-inner {    
-    display: block;
-  }
-  #site-header #site-logo img {    
-    display: inline;    
-    float: none;
-  }
+#main {
+	padding-bottom: 40px;
 }
 
 /* Less space below portfolio items */
-body.single-portfolio #primary { padding-bottom: 20px; }]]></content:encoded>
+body.single-portfolio #primary {
+	padding-bottom: 20px;
+}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-14 23:33:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-14 23:33:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-05 23:35:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-05 23:35:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -761,16 +749,12 @@ body.single-portfolio #primary { padding-bottom: 20px; }]]></content:encoded>
 		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Branching Out</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/branching-out/</link>
+														</item>
+					<item>
+		<title><![CDATA[Branching Out]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/branching-out/</link>
 		<pubDate>Sat, 03 Jan 2015 01:11:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -783,6 +767,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-03 01:11:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-03 01:11:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-03 01:11:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-03 01:11:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[branching-out]]></wp:post_name>
@@ -792,34 +778,22 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
+										<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
 		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[testing]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-			<wp:meta_value><![CDATA[testing]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Far Away Places</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/far-away-places/</link>
+							</item>
+					<item>
+		<title><![CDATA[Far Away Places]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/far-away-places/</link>
 		<pubDate>Tue, 06 Jan 2015 00:26:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -832,6 +806,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-06 00:26:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-06 00:26:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-06 00:26:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-06 00:26:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[far-away-places]]></wp:post_name>
@@ -841,29 +817,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="pretty-places"><![CDATA[Pretty Places]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="pretty-places"><![CDATA[Pretty Places]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Hello Little Lady</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/hello-little-lady/</link>
+							</item>
+					<item>
+		<title><![CDATA[Hello Little Lady]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/hello-little-lady/</link>
 		<pubDate>Sun, 18 Jan 2015 00:27:50 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -876,6 +840,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-18 00:27:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-18 00:27:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-18 00:27:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-18 00:27:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-little-lady]]></wp:post_name>
@@ -885,30 +851,18 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
+										<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
 		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Kicking Back</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/kicking-back/</link>
+							</item>
+					<item>
+		<title><![CDATA[Kicking Back]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/kicking-back/</link>
 		<pubDate>Wed, 21 Jan 2015 00:28:19 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -921,6 +875,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-21 00:28:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-21 00:28:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-21 00:28:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-21 00:28:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kicking-back]]></wp:post_name>
@@ -930,29 +886,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Running</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/running/</link>
+							</item>
+					<item>
+		<title><![CDATA[Running]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/running/</link>
 		<pubDate>Sun, 25 Jan 2015 00:28:45 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=16</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -965,6 +909,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-25 00:28:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-25 00:28:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-25 00:28:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-25 00:28:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[running]]></wp:post_name>
@@ -974,29 +920,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="pretty-places"><![CDATA[Pretty Places]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="pretty-places"><![CDATA[Pretty Places]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[17]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Type-y Type-y</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/type-y-type-y/</link>
+							</item>
+					<item>
+		<title><![CDATA[Type-y Type-y]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/type-y-type-y/</link>
 		<pubDate>Sun, 01 Feb 2015 00:29:20 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1009,6 +943,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-01 00:29:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-01 00:29:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-01 00:29:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-01 00:29:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[type-y-type-y]]></wp:post_name>
@@ -1018,30 +954,18 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
+										<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
 		<category domain="portfolio_category" nicename="pretty-places"><![CDATA[Pretty Places]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Very Zen</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/very-zen/</link>
+							</item>
+					<item>
+		<title><![CDATA[Very Zen]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/very-zen/</link>
 		<pubDate>Tue, 10 Feb 2015 00:30:22 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1054,6 +978,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-10 00:30:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-10 00:30:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-10 00:30:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-10 00:30:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[very-zen]]></wp:post_name>
@@ -1063,29 +989,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Turquoise &amp; Spice</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/turquoise-spice/</link>
+							</item>
+					<item>
+		<title><![CDATA[Turquoise & Spice]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/turquoise-spice/</link>
 		<pubDate>Thu, 19 Feb 2015 00:31:19 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1098,6 +1012,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-19 00:31:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-19 00:31:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-19 00:31:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-19 00:31:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[turquoise-spice]]></wp:post_name>
@@ -1107,30 +1023,18 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
+										<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
 		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Wild Orchids</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/wild-orchids/</link>
+							</item>
+					<item>
+		<title><![CDATA[Wild Orchids]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/wild-orchids/</link>
 		<pubDate>Sun, 22 Feb 2015 00:32:45 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1143,6 +1047,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-22 00:32:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-22 00:32:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-22 00:32:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-22 00:32:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wild-orchids]]></wp:post_name>
@@ -1152,29 +1058,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[25]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[25]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sleepy Saturday</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/sleepy-saturday/</link>
+							</item>
+					<item>
+		<title><![CDATA[Sleepy Saturday]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/sleepy-saturday/</link>
 		<pubDate>Sat, 28 Feb 2015 00:33:10 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1187,6 +1081,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-28 00:33:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-28 00:33:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-28 00:33:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-28 00:33:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sleepy-saturday]]></wp:post_name>
@@ -1196,29 +1092,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[27]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Fresh Flowers</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/fresh-flowers/</link>
+							</item>
+					<item>
+		<title><![CDATA[Fresh Flowers]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/fresh-flowers/</link>
 		<pubDate>Sun, 01 Mar 2015 00:34:21 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1231,6 +1115,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-01 00:34:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-01 00:34:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-01 00:34:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-01 00:34:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fresh-flowers]]></wp:post_name>
@@ -1240,30 +1126,18 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
+										<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
 		<category domain="portfolio_category" nicename="pretty-places"><![CDATA[Pretty Places]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[29]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Fruit &amp; Yoghurt</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/fruit-yoghurt/</link>
+							</item>
+					<item>
+		<title><![CDATA[Fruit & Yoghurt]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/fruit-yoghurt/</link>
 		<pubDate>Mon, 02 Mar 2015 00:34:57 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1276,6 +1150,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 00:34:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 00:34:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 00:34:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 00:34:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fruit-yoghurt]]></wp:post_name>
@@ -1285,29 +1161,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[31]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>New Camera</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/new-camera/</link>
+							</item>
+					<item>
+		<title><![CDATA[New Camera]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/new-camera/</link>
 		<pubDate>Tue, 03 Mar 2015 00:35:18 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1320,6 +1184,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-03 00:35:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-03 00:35:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-03 00:35:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-03 00:35:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-camera]]></wp:post_name>
@@ -1329,29 +1195,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[33]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Baby Bird</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/baby-bird/</link>
+							</item>
+					<item>
+		<title><![CDATA[Baby Bird]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/baby-bird/</link>
 		<pubDate>Thu, 05 Mar 2015 00:35:44 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1364,6 +1218,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-05 00:35:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-05 00:35:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-05 00:35:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-05 00:35:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[baby-bird]]></wp:post_name>
@@ -1373,29 +1229,17 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+										<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[35]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>French Macaroons</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/french-macaroons/</link>
+							</item>
+					<item>
+		<title><![CDATA[French Macaroons]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/french-macaroons/</link>
 		<pubDate>Sun, 08 Mar 2015 00:36:19 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1408,6 +1252,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-08 00:36:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-08 00:36:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-08 00:36:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-08 00:36:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[french-macaroons]]></wp:post_name>
@@ -1417,30 +1263,18 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
+										<category domain="portfolio_category" nicename="cute-curiosities"><![CDATA[Cute Curiosities]]></category>
 		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Crafty Craft Box</title>
-		<link>http://totaltheme.wpengine.com/tinyfolio/portfolio-item/crafty-craft-box/</link>
+							</item>
+					<item>
+		<title><![CDATA[Crafty Craft Box]]></title>
+		<link>https://total.wpexplorer.com/tinyfolio/portfolio-item/crafty-craft-box/</link>
 		<pubDate>Wed, 11 Mar 2015 00:37:14 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/picaday/?post_type=portfolio&#038;p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[Distillery direct trade dreamcatcher locavore polaroid paleo Williamsburg slow-carb yr small batch, fixie kitsch Austin +1 chambray. Street art beard whatever hella pork belly. Heirloom artisan mixtape lo-fi, fanny pack distillery viral. Four loko keytar ugh before they sold out, listicle Kickstarter butcher retro DIY cold-pressed. Fashion axe Williamsburg photo booth Bushwick hella, sartorial roof party Schlitz. Lomo Brooklyn seitan stumptown yr. Squid ethical scenester keytar, beard next level Schlitz.
@@ -1453,6 +1287,8 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-11 00:37:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-11 00:37:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-11 00:37:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-11 00:37:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crafty-craft-box]]></wp:post_name>
@@ -1462,24 +1298,13 @@ Lomo kogi jean shorts, Helvetica artisan farm-to-table brunch readymade raw deni
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
+										<category domain="portfolio_category" nicename="little-things"><![CDATA[Little Things]]></category>
 		<category domain="portfolio_category" nicename="pretty-places"><![CDATA[Pretty Places]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+				</channel>
 </rss>
+	

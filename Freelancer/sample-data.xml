@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.4" created="2018-03-02 18:40" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-03 22:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,39 +27,41 @@
 
 <channel>
 	<title>Freelancer</title>
-	<link>http://totaltheme.wpengine.com/freelancer</link>
-	<description>Total WordPress Theme Demo</description>
-	<pubDate>Fri, 02 Mar 2018 18:40:30 +0000</pubDate>
+	<link>https://total.wpexplorer.com/freelancer</link>
+	<description>Just another Total Theme Demo site</description>
+	<pubDate>Tue, 03 May 2022 22:03:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
-	<wp:base_blog_url>http://totaltheme.wpengine.com/freelancer</wp:base_blog_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_blog_url>https://total.wpexplorer.com/freelancer</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
+					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
-	<item>
-		<title>dude</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/dude/</link>
+		<item>
+		<title><![CDATA[dude]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/dude/</link>
 		<pubDate>Thu, 22 Jan 2015 00:36:16 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/dude.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/dude.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:36:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:36:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:36:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:36:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dude]]></wp:post_name>
@@ -69,28 +71,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/dude.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/dude.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/dude.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/dude.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/dude.png";s:5:"sizes";a:2:{s:12:"wpex_150x150";a:5:{s:4:"file";s:16:"dude-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:19:"dude-150x150@2x.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/dude.png";s:5:"sizes";a:2:{s:12:"wpex_150x150";a:5:{s:4:"file";s:16:"dude-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:19:"dude-150x150@2x.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>girl</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/girl/</link>
+							</item>
+					<item>
+		<title><![CDATA[girl]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/girl/</link>
 		<pubDate>Thu, 22 Jan 2015 00:37:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/girl.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/girl.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:37:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:37:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:37:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:37:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[girl]]></wp:post_name>
@@ -100,28 +104,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/girl.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/girl.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/girl.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/girl.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/girl.png";s:5:"sizes";a:2:{s:12:"wpex_150x150";a:5:{s:4:"file";s:16:"girl-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:19:"girl-150x150@2x.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:16:"2015/01/girl.png";s:5:"sizes";a:2:{s:12:"wpex_150x150";a:5:{s:4:"file";s:16:"girl-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:19:"girl-150x150@2x.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>guy</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/guy/</link>
+							</item>
+					<item>
+		<title><![CDATA[guy]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/guy/</link>
 		<pubDate>Thu, 22 Jan 2015 00:39:40 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/guy.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/guy.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:39:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:39:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:39:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:39:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[guy]]></wp:post_name>
@@ -131,28 +137,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/guy.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/guy.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/guy.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/guy.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:15:"2015/01/guy.png";s:5:"sizes";a:2:{s:12:"wpex_150x150";a:5:{s:4:"file";s:15:"guy-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:18:"guy-150x150@2x.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:15:"2015/01/guy.png";s:5:"sizes";a:2:{s:12:"wpex_150x150";a:5:{s:4:"file";s:15:"guy-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:18:"guy-150x150@2x.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>envato-500x150</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/envato-500x150/</link>
+							</item>
+					<item>
+		<title><![CDATA[envato-500x150]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/envato-500x150/</link>
 		<pubDate>Thu, 22 Jan 2015 00:48:10 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/envato-500x150.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/envato-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:48:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:48:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:48:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:48:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[envato-500x150]]></wp:post_name>
@@ -162,28 +170,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/envato-500x150.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/envato-500x150.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/envato-500x150.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/envato-500x150.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/envato-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:25:"envato-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:28:"envato-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/envato-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:25:"envato-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:28:"envato-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>jquery-500x150</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/jquery-500x150/</link>
+							</item>
+					<item>
+		<title><![CDATA[jquery-500x150]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/jquery-500x150/</link>
 		<pubDate>Thu, 22 Jan 2015 00:48:12 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/jquery-500x150.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/jquery-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:48:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:48:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:48:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:48:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[jquery-500x150]]></wp:post_name>
@@ -193,28 +203,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/jquery-500x150.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/jquery-500x150.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/jquery-500x150.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/jquery-500x150.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/jquery-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:25:"jquery-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:28:"jquery-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:26:"2015/01/jquery-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:25:"jquery-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:28:"jquery-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>woocommerce-500x150</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/woocommerce-500x150/</link>
+							</item>
+					<item>
+		<title><![CDATA[woocommerce-500x150]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/woocommerce-500x150/</link>
 		<pubDate>Thu, 22 Jan 2015 00:48:13 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/woocommerce-500x150.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/woocommerce-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:48:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:48:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:48:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:48:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[woocommerce-500x150]]></wp:post_name>
@@ -224,28 +236,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/woocommerce-500x150.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/woocommerce-500x150.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/woocommerce-500x150.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/woocommerce-500x150.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:31:"2015/01/woocommerce-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:30:"woocommerce-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:33:"woocommerce-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:31:"2015/01/woocommerce-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:30:"woocommerce-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:33:"woocommerce-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>bbpress-500x150</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/bbpress-500x150/</link>
+							</item>
+					<item>
+		<title><![CDATA[bbpress-500x150]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/bbpress-500x150/</link>
 		<pubDate>Thu, 22 Jan 2015 00:48:14 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/bbpress-500x150.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/bbpress-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:48:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:48:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:48:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:48:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[bbpress-500x150]]></wp:post_name>
@@ -255,28 +269,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/bbpress-500x150.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/bbpress-500x150.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/bbpress-500x150.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/bbpress-500x150.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:27:"2015/01/bbpress-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:26:"bbpress-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:29:"bbpress-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:150;s:4:"file";s:27:"2015/01/bbpress-500x150.png";s:5:"sizes";a:2:{s:11:"wpex_175x53";a:5:{s:4:"file";s:26:"bbpress-500x150-175x53.png";s:5:"width";i:175;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:14:"wpex_175x53@2x";a:5:{s:4:"file";s:29:"bbpress-500x150-175x53@2x.png";s:5:"width";i:350;s:6:"height";i:106;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>design</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/design/</link>
+							</item>
+					<item>
+		<title><![CDATA[design]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/design/</link>
 		<pubDate>Thu, 22 Jan 2015 01:06:12 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/design.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/design.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 01:06:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 01:06:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 01:06:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 01:06:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[design]]></wp:post_name>
@@ -286,28 +302,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/design.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/design.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/design.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/design.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/design.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/design.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>website</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/website/</link>
+							</item>
+					<item>
+		<title><![CDATA[website]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/website/</link>
 		<pubDate>Thu, 22 Jan 2015 01:06:42 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/website.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/website.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 01:06:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 01:06:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 01:06:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 01:06:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[website]]></wp:post_name>
@@ -317,28 +335,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/website.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/website.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/website.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/website.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:19:"2015/01/website.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:19:"2015/01/website.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>commerce</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/commerce/</link>
+							</item>
+					<item>
+		<title><![CDATA[commerce]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/commerce/</link>
 		<pubDate>Thu, 22 Jan 2015 01:06:56 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/commerce.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/commerce.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 01:06:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 01:06:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 01:06:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 01:06:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[commerce]]></wp:post_name>
@@ -348,28 +368,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/commerce.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/commerce.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/commerce.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/commerce.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:20:"2015/01/commerce.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:20:"2015/01/commerce.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo1</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo1/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo1]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo1/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:36 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo1.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo1]]></wp:post_name>
@@ -379,28 +401,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo1.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo1.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo1.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo1-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo1-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo1-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo1.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo1-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo1-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo1-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo2</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo2/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo2]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo2/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:37 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo2.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo2]]></wp:post_name>
@@ -410,28 +434,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo2.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo2.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo2.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo2-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo2-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo2-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo2.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo2-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo2-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo2-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo3</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo3/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo3]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo3/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:37 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo3.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo3]]></wp:post_name>
@@ -441,28 +467,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo3.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo3.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo3.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo3.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo3-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo3-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo3-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo3.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo3-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo3-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo3-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo4</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo4/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo4]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo4/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:38 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo4.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo4]]></wp:post_name>
@@ -472,28 +500,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo4.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo4.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo4.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo4-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo4-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo4-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo4.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo4-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo4-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo4-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo5</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo5/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo5]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo5/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:39 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo5.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo5]]></wp:post_name>
@@ -503,28 +533,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo5.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo5.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo5.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo5.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo5.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo5-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo5-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo5-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo5.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo5-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo5-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo5-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo6</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo6/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo6]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo6/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:40 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo6.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo6]]></wp:post_name>
@@ -534,28 +566,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo6.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo6.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo6.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo6.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo6.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo6-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo6-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo6-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo6.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo6-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo6-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo6-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo7</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo7/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo7]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo7/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:42 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo7.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo7]]></wp:post_name>
@@ -565,28 +599,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo7.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo7.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo7.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo7.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo7.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo7-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo7-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo7-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo7.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo7-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo7-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo7-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>photo8</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/photo8/</link>
+							</item>
+					<item>
+		<title><![CDATA[photo8]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/photo8/</link>
 		<pubDate>Thu, 22 Jan 2015 02:14:43 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo8.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:14:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:14:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:14:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:14:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo8]]></wp:post_name>
@@ -596,28 +632,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/photo8.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/photo8.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/photo8.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/photo8.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo8.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo8-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo8-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo8-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:18:"2015/01/photo8.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"photo8-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_340x270";a:5:{s:4:"file";s:18:"photo8-340x270.jpg";s:5:"width";i:340;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_340x270@2x";a:5:{s:4:"file";s:21:"photo8-340x270@2x.jpg";s:5:"width";i:680;s:6:"height";i:540;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:18:"photo8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>desk1</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/desk1/</link>
+							</item>
+					<item>
+		<title><![CDATA[desk1]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/desk1/</link>
 		<pubDate>Thu, 22 Jan 2015 02:26:06 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:26:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:26:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:26:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:26:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[desk1]]></wp:post_name>
@@ -627,28 +665,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/desk1.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/desk1.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:17:"2015/01/desk1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:17:"desk1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:17:"2015/01/desk1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:17:"desk1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>play-w</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/play-w/</link>
+							</item>
+					<item>
+		<title><![CDATA[play-w]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/play-w/</link>
 		<pubDate>Thu, 22 Jan 2015 02:27:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play-w.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/play-w.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:27:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:27:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:27:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:27:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[play-w]]></wp:post_name>
@@ -658,37 +698,40 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/play-w.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/play-w.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/play-w.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/play-w.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/play-w.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:128;s:4:"file";s:18:"2015/01/play-w.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Homepage</title>
-		<link>http://totaltheme.wpengine.com/freelancer/</link>
+							</item>
+					<item>
+		<title><![CDATA[Homepage]]></title>
+		<link>https://total.wpexplorer.com/freelancer/</link>
 		<pubDate>Wed, 21 Jan 2015 23:49:20 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?page_id=2</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" full_height="yes" typography_style="light" bg_style="stretch" css=".vc_custom_1504576103512{padding-top: 100px !important;padding-bottom: 100px !important;background: #292929 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg?id=48) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="WE ARE AWESOME" tag="h2" responsive_text="true" text_align="center" min_font_size="42px" color="#ffffff" font_size="60px" font_weight="normal"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_bottom="25px"][vcex_heading text="BECAUSE WE'RE THE BEST AT WHAT WE DO" text_align="center" font_size="18px" color="#ffffff"][/vc_column][/vc_row][vc_row css=".vc_custom_1489874303438{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-about"][vc_column][vc_custom_heading text="About Us" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
-<p style="text-align: center;">Carrot cake cupcake tart cotton candy gingerbread. Fruitcake dragée ice cream jelly beans. Danish cookie toffee. Cotton candy icing unerdwear.com chocolate bear claw danish. Gummi bears carrot cake macaroon gummies. Powder jelly cheesecake sweet roll tiramisu. Dragée oat cake halvah gummies jelly beans jujubes. Bear claw gummies pastry jujubes halvah fruitcake donut. Caramels donut candy bonbon carrot cake toffee caramels dessert oat cake.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" bg_style="stretch" css=".vc_custom_1489874345280{padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1d.jpg?id=34) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_single_image image="32" alignment="center" lightbox_iframe_type="video_embed" lightbox_video="https://www.youtube.com/watch?v=2JyW4yAyTl0?autoplay=1"][/vc_column][/vc_row][vc_row css=".vc_custom_1492983903093{padding-top: 60px !important;padding-bottom: 30px !important;}" local_scroll_id="home-services"][vc_column][vc_custom_heading text="Services" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text width="850px"]
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" full_height="yes" remove_bottom_col_margin="true" typography_style="light" bg_style="stretch" css=".vc_custom_1651614839351{padding-top: 100px !important;padding-bottom: 100px !important;background: #292929 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/chair-n.jpg?id=48) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="WE ARE AWESOME" responsive_text="true" min_font_size="42px" tag="h2" text_align="center" color="#ffffff" font_size="60px" font_weight="normal"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_bottom="25px"][vcex_heading text="BECAUSE WE'RE THE BEST AT WHAT WE DO" text_align="center" font_size="18px" color="#ffffff"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1651615289148{padding-top: 85px !important;padding-bottom: 100px !important;}" local_scroll_id="home-about"][vc_column][vcex_heading text="About Us" tag="h2" text_align="center" font_size="32px"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]</p>
+<p style="text-align: center;">Carrot cake cupcake tart cotton candy gingerbread. Fruitcake dragée ice cream jelly beans. Danish cookie toffee. Cotton candy icing chocolate bear claw danish. Gummi bears carrot cake macaroon gummies. Powder jelly cheesecake sweet roll tiramisu. Dragée oat cake halvah gummies jelly beans jujubes. Bear claw gummies pastry jujubes halvah fruitcake donut. Caramels donut candy bonbon carrot cake toffee caramels dessert oat cake.</p>
+<p>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" bg_style="stretch" css=".vc_custom_1651614898894{padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk1d.jpg?id=34) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_image align="center" onclick="lightbox_video" image_id="32" onclick_url="https://www.youtube.com/watch?v=2JyW4yAyTl0"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1651615293636{padding-top: 85px !important;padding-bottom: 100px !important;}" local_scroll_id="home-services"][vc_column][vcex_heading text="Services" tag="h2" text_align="center" font_size="32px"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text width="850px"]</p>
 <p style="text-align: center;">Muffin tiramisu gummi bears chupa chups sweet roll muffin oat cake lollipop sweet. Icing marshmallow muffin. Marshmallow dragée pudding sesame snaps muffin. Marshmallow chocolate cake pastry jelly-o macaroon. Chocolate bar donut powder wafer powder chocolate bar soufflé bear claw. Powder jujubes sweet bear claw brownie gummies pudding halvah liquorice. Marzipan fruitcake bonbon jelly-o cheesecake.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row column_spacing="30" css=".vc_custom_1489874798349{padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="four" heading="DESIGN" heading_type="h2" image="19" border_color="#dddddd" heading_letter_spacing="1px"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly halvah wafer topping sugar plum. Chocolate cake lemon drops jujubes chocolate bar tootsie roll.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="DEVELOPMENT" heading_type="h2" url_target="" hover_white_text="" image="20" border_color="#dddddd" heading_letter_spacing="1px"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah crumb soufflé cupcake marzipan. Chocolate apple pie soufflé danish tootsie roll. Candy canes gummi bears marshmallow. Tart cake carrot cake pudding.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="E-COMMERCE" heading_type="h2" image="21" border_color="#dddddd" heading_letter_spacing="1px"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon gummies gummi bears cookie gummies brownie. Jelly beans bonbon chocolate. Topping cupcake sugar plum jujubes chupa chups pastry bonbon.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" typography_style="none" style="light" css=".vc_custom_1489874811011{padding-top: 100px !important;padding-bottom: 50px !important;background-color: #ef5c32 !important;}"][vc_column][vcex_button url="#home-contact" target="local" title="Contact Us For A Quote" style="outline" align="center" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px"]CONTACT US FOR A QUOTE[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1489874820833{padding-top: 60px !important;padding-bottom: 70px !important;}" local_scroll_id="home-projects"][vc_column][vc_custom_heading text="Projects" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
-<p style="text-align: center;">Icing ice cream bonbon wafer brownie powder chocolate bar. Icing jujubes pie cupcake chocolate sweet roll soufflé liquorice liquorice. Topping chocolate bar macaroon sugar plum pie cheesecake pastry sweet. Sweet roll toffee candy canes unerdwear.com sugar plum sweet jelly-o icing fruitcake. Chocolate liquorice soufflé liquorice wafer lemon drops. Pastry cupcake donut chocolate bar gummies cake cheesecake tart jelly gummi bears pudding candy topping.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column css=".vc_custom_1476670533960{background-color: #222222 !important;}"][vcex_image_carousel style="no-margins" items="5" items_margin="0" thumbnail_link="lightbox" img_filter="grayscale" img_width="340" img_height="270" image_ids="22,23,24,25,26,27,28,29"][/vc_column][/vc_row][vc_row css=".vc_custom_1489874840365{padding-top: 50px !important;padding-bottom: 50px !important;}"][vc_column][vcex_button url="https://dribbble.com/aj-clarke" target="blank" rel="nofollow" title="More On Dribbble" style="outline" align="center" font_weight="normal" font_size="16px" letter_spacing="1.5px"]MORE ON DRIBBBLE[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" typography_style="light" bg_style="stretch" css=".vc_custom_1489874850611{padding-top: 75px !important;padding-bottom: 25px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk2d.jpg?id=35) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_custom_heading text="Clientele" font_container="tag:h2|font_size:32px|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="40px"][vcex_image_grid post_gallery="" thumbnail_link="none" img_rendering="" img_width="175" img_height="53" image_ids="10,11,12,13"][/vc_column][/vc_row][vc_row css=".vc_custom_1489874866982{margin-bottom: 20px !important;padding-top: 60px !important;}" local_scroll_id="home-team"][vc_column][vc_custom_heading text="The Team" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]
-<p style="text-align: center;">Sesame snaps caramels cheesecake jelly-o. Gummies bonbon cookie apple pie caramels. Carrot cake applicake candy lollipop chupa chups sweet roll muffin macaroon. Unerdwear.com ice cream chocolate jelly jelly gummies bear claw. Tootsie roll liquorice cupcake bonbon soufflé brownie applicake candy canes candy. Sesame snaps cotton candy candy gummies candy croissant fruitcake tootsie roll. Liquorice dragée gummi bears marshmallow liquorice.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row column_spacing="30" css=".vc_custom_1489874872833{padding-bottom: 40px !important;}"][vc_column width="1/3"][vcex_icon_box style="four" heading="BRADLEY/founder" heading_type="h2" icon="star" heading_weight="400" image="7" border_color="#dddddd" image_width="150" image_height="150"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly topping.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="LISA/marketing" heading_type="h2" icon="star" image="8" border_color="#dddddd" image_width="150" image_height="150"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah candy canes cupcake marzipan apple pie soufflé.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="four" heading="ADAM/developer" heading_type="h2" icon="star" image="9" border_color="#dddddd" image_width="150" image_height="150"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon sour gummi bears cookie caramel brownies.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" typography_style="white" wpex_bg_overlay="color" style="light" css=".vc_custom_1489874879962{padding-top: 75px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="home-testimonials" wpex_bg_overlay_opacity="0.45"][vc_column][vc_custom_heading text="Testimonials" font_container="tag:h2|font_size:32px|text_align:center|color:%23ffffff" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="20px"][vcex_testimonials_slider display_author_name="no" rating="false" animation="slide" animation_speed="600" slideshow_speed="5000" height_animation="400" control_nav="false" direction_nav="true" count="3" order="DESC" orderby="date" skin="light" img_width="70" img_height="70" img_border_radius="50%" custom_excerpt_trim="true" background_style="stretch" padding_top="25px"][/vc_column][/vc_row][vc_row css=".vc_custom_1489874891557{padding-top: 60px !important;padding-bottom: 20px !important;}" local_scroll_id="home-contact"][vc_column][vc_custom_heading text="Contact Us" font_container="tag:h2|font_size:32px|text_align:center" google_fonts="font_family:Roboto%20Slab%3A100%2C300%2Cregular%2C700|font_style:400%20regular%3A400%3Anormal" enqueue_font_style="false"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px"][/vc_column][/vc_row][vc_row css=".vc_custom_1489874902266{padding-bottom: 25px !important;}"][vc_column width="1/4"][vcex_heading text="ADDRESS" font_size="18px" font_family="Roboto"][vcex_spacing size="10px"][vc_column_text]<em>555 West Main Street</em>
-<em> Anytown, USA 12345</em>[/vc_column_text][vcex_spacing size="25px"][vcex_list_item icon="phone" url_target="self" color="#ef5c32"](800) 555-5555[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="fax" url_target="self" color="#ef5c32"](800) 444-4444[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="envelope" url_target="self" color="#ef5c32"]example@example.com[/vcex_list_item][vcex_spacing size="25px"][vcex_heading text="FOLLOW US" font_size="18px" font_family="Roboto"][vcex_spacing size="10px"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2FWPExplorer%22%7D%2C%7B%22site%22%3A%22pinterest%22%2C%22link%22%3A%22https%3A%2F%2Fdribbble.com%2Faj-clarke%22%7D%2C%7B%22site%22%3A%22github%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22email%22%2C%22link%22%3A%22mailto%3Aemail%40site.com%22%7D%5D" style="black-rounded" twitter="https://twitter.com/WPExplorer" pinterest="https://dribbble.com/aj-clarke" size="13px" github="https://github.com/wpexplorer/" email="mailto:email@site.com"][/vc_column][vc_column width="3/4"][vcex_form_shortcode full_width="true"][contact-form-7 id="4" title="Contact form 1"][/vcex_form_shortcode][/vc_column][/vc_row][vc_row full_width="stretch_row" typography_style="none" style="light" css=".vc_custom_1489874906965{padding-top: 100px !important;padding-bottom: 50px !important;background-color: #333333 !important;}"][vc_column][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" target="blank" rel="nofollow" title="Buy Total Today" style="outline" align="center" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px" custom_hover_background="#ef5c32" custom_hover_color="#ffffff"]BUILD YOUR OWN FREELANCER WEBSITE TODAY[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+<p>[/vc_column_text][vcex_spacing size="70px"][vcex_grid_container align_items="strech" columns_lg="" columns_md="3" gap="25px"][vcex_icon_box heading="DESIGN" style="four" heading_type="h2" image="19" border_color="#dddddd" heading_letter_spacing="1px"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly halvah wafer topping sugar plum. Chocolate cake lemon drops jujubes chocolate bar tootsie roll.[/vcex_icon_box][vcex_icon_box heading="DEVELOPMENT" style="four" hover_white_text="" heading_type="h2" image="20" border_color="#dddddd" heading_letter_spacing="1px"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah crumb soufflé cupcake marzipan. Chocolate apple pie soufflé danish tootsie roll. Candy canes gummi bears marshmallow. Tart cake carrot cake pudding.[/vcex_icon_box][vcex_icon_box heading="E-COMMERCE" style="four" heading_type="h2" image="21" border_color="#dddddd" heading_letter_spacing="1px"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon gummies gummi bears cookie gummies brownie. Jelly beans bonbon chocolate. Topping cupcake sugar plum jujubes chupa chups pastry bonbon.[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" typography_style="none" style="light" css=".vc_custom_1651615031814{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #ef5c32 !important;}"][vc_column][vcex_button onclick="local_scroll" url="#home-contact" title="Contact Us For A Quote" style="outline" align="center" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px"]CONTACT US FOR A QUOTE[/vcex_button][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1651615298900{padding-top: 85px !important;padding-bottom: 100px !important;}" local_scroll_id="home-projects"][vc_column][vcex_heading text="Projects" tag="h2" text_align="center" font_size="32px"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]</p>
+<p style="text-align: center;">Icing ice cream bonbon wafer brownie powder chocolate bar. Icing jujubes pie cupcake chocolate sweet roll soufflé liquorice liquorice. Topping chocolate bar macaroon sugar plum pie cheesecake pastry sweet. Sweet roll toffee candy canes sugar plum sweet jelly-o icing fruitcake. Chocolate liquorice soufflé liquorice wafer lemon drops. Pastry cupcake donut chocolate bar gummies cake cheesecake tart jelly gummi bears pudding candy topping.</p>
+<p>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true"][vc_column css=".vc_custom_1476670533960{background-color: #222222 !important;}"][vcex_image_carousel style="no-margins" thumbnail_link="lightbox" items="5" items_margin="0" img_width="340" img_height="270" image_ids="22,23,24,25,26,27,28,29" img_hover_style="grayscale-invert"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1651615068360{padding-top: 50px !important;padding-bottom: 50px !important;}"][vc_column][vcex_button url="https://dribbble.com/" rel="nofollow" target="blank" title="More On Dribbble" style="outline" align="center" font_weight="normal" font_size="16px" letter_spacing="1.5px"]MORE ON DRIBBBLE[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" typography_style="light" bg_style="stretch" css=".vc_custom_1546829612076{padding-top: 75px !important;padding-bottom: 25px !important;background: #777777 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk2d.jpg?id=35) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="Clientele" tag="h2" text_align="center" font_size="32px"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="40px"][vcex_image_grid post_gallery="" thumbnail_link="none" img_rendering="" img_width="175" img_height="53" image_ids="10,11,12,13"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1651615304245{margin-bottom: 20px !important;padding-top: 85px !important;padding-bottom: 100px !important;}" local_scroll_id="home-team"][vc_column][vcex_heading text="The Team" tag="h2" text_align="center" font_size="32px"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="25px"][vc_column_text]</p>
+<p style="text-align: center;">Sesame snaps caramels cheesecake jelly-o. Gummies bonbon cookie apple pie caramels. Carrot cake applicake candy lollipop chupa chups sweet roll muffin macaroon. Ice cream chocolate jelly jelly gummies bear claw. Tootsie roll liquorice cupcake bonbon soufflé brownie applicake candy canes candy. Sesame snaps cotton candy candy gummies candy croissant fruitcake tootsie roll. Liquorice dragée gummi bears marshmallow liquorice.</p>
+<p>[/vc_column_text][vcex_spacing size="70px"][vcex_grid_container align_items="strech" columns_lg="" columns_md="3" gap="25px"][vcex_icon_box heading="BRADLEY/founder" style="four" icon="star" heading_type="h2" heading_weight="400" image="7" border_color="#dddddd" image_width="150" image_height="150"]Chocolate bar cotton candy jujubes jelly beans dessert cheesecake chocolate cake. Gingerbread jelly topping.[/vcex_icon_box][vcex_icon_box heading="LISA/marketing" style="four" icon="star" heading_type="h2" image="8" border_color="#dddddd" image_width="150" image_height="150"]Chupa chups cake chupa chups brownie. Fruitcake bear claw halvah candy canes cupcake marzipan apple pie soufflé.[/vcex_icon_box][vcex_icon_box heading="ADAM/developer" style="four" icon="star" heading_type="h2" image="9" border_color="#dddddd" image_width="150" image_height="150"]Cheesecake cupcake chupa chups icing tiramisu apple pie. Bonbon sour gummi bears cookie caramel brownies.[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row full_width="stretch_row" wpex_bg_overlay="color" remove_bottom_col_margin="true" typography_style="white" style="light" css=".vc_custom_1651615175036{padding-top: 100px !important;padding-bottom: 100px !important;background: #777777 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="home-testimonials" wpex_bg_overlay_opacity="0.45"][vc_column][vcex_heading text="Testimonials" tag="h2" text_align="center" font_size="32px"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px" margin_bottom="20px"][vcex_testimonials_slider animation="slide" animation_speed="600" slideshow_speed="5000" auto_height="false" skin="light" count="3" order="DESC" orderby="date" rating="false" display_author_name="no" img_width="70" img_height="70" img_border_radius="50%" custom_excerpt_trim="true" background_style="stretch" padding_top="25px"][/vc_column][/vc_row][vc_row css=".vc_custom_1651615309645{padding-top: 85px !important;padding-bottom: 20px !important;}" local_scroll_id="home-contact"][vc_column][vcex_heading text="Contact Us" tag="h2" text_align="center" font_size="32px"][vcex_divider color="#ef5c32" width="10%" height="3px" icon_color="#000000" icon_size="14px" margin_top="15px"][/vc_column][/vc_row][vc_row css=".vc_custom_1651615243792{padding-bottom: 60px !important;}"][vc_column width="1/4"][vcex_heading text="ADDRESS" font_size="18px" font_family="Roboto"][vcex_spacing size="10px"][vc_column_text]<em>555 West Main Street</em><br />
+<em> Anytown, USA 12345</em>[/vc_column_text][vcex_spacing size="25px"][vcex_list_item icon="phone" url_target="self" color="#ef5c32"](800) 555-5555[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="fax" url_target="self" color="#ef5c32"](800) 444-4444[/vcex_list_item][vcex_spacing size="5px"][vcex_list_item icon="envelope" url_target="self" color="#ef5c32"]example@example.com[/vcex_list_item][vcex_spacing size="25px"][vcex_heading text="FOLLOW US" font_size="18px" font_family="Roboto"][vcex_spacing size="10px"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2FWPExplorer%22%7D%2C%7B%22site%22%3A%22pinterest%22%2C%22link%22%3A%22https%3A%2F%2Fdribbble.com%2Faj-clarke%22%7D%2C%7B%22site%22%3A%22github%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22email%22%2C%22link%22%3A%22mailto%3Aemail%40site.com%22%7D%5D" style="black-rounded" twitter="https://twitter.com/WPExplorer" pinterest="https://dribbble.com/aj-clarke" size="13px" github="https://github.com/wpexplorer/" email="mailto:dummy@wpexplorer.com"][/vc_column][vc_column width="3/4"][vcex_contact_form enable_placeholders="true" enable_privacy_check="false" enable_recaptcha="false" button_text="Submit Form"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" typography_style="none" style="light" css=".vc_custom_1651615319949{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #333333 !important;}"][vc_column][vcex_button url="https://total.wpexplorer.com/" rel="nofollow" target="blank" title="Buy Total Today" style="outline" align="center" color="white" font_weight="normal" font_size="16px" letter_spacing="1.5px" custom_hover_background="#ef5c32" custom_hover_color="#ffffff"]BUILD YOUR OWN FREELANCER WEBSITE TODAY[/vcex_button][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-21 23:49:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-21 23:49:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-03 22:02:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-03 22:02:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -698,212 +741,53 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1651614839351{padding-top: 100px !important;padding-bottom: 100px !important;background: #292929 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/chair-n.jpg?id=48) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615289148{padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651614898894{padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk1d.jpg?id=34) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615293636{padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651615031814{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #ef5c32 !important;}.vc_custom_1651615298900{padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651615068360{padding-top: 50px !important;padding-bottom: 50px !important;}.vc_custom_1546829612076{padding-top: 75px !important;padding-bottom: 25px !important;background: #777777 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk2d.jpg?id=35) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615304245{margin-bottom: 20px !important;padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651615175036{padding-top: 100px !important;padding-bottom: 100px !important;background: #777777 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615309645{padding-top: 85px !important;padding-bottom: 20px !important;}.vc_custom_1651615243792{padding-bottom: 60px !important;}.vc_custom_1651615319949{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #333333 !important;}.vc_custom_1476670533960{background-color: #222222 !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1651614839351{padding-top: 100px !important;padding-bottom: 100px !important;background: #292929 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/chair-n.jpg?id=48) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615289148{padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651614898894{padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk1d.jpg?id=34) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615293636{padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651615031814{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #ef5c32 !important;}.vc_custom_1651615298900{padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651615068360{padding-top: 50px !important;padding-bottom: 50px !important;}.vc_custom_1546829612076{padding-top: 75px !important;padding-bottom: 25px !important;background: #777777 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk2d.jpg?id=35) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615304245{margin-bottom: 20px !important;padding-top: 85px !important;padding-bottom: 100px !important;}.vc_custom_1651615175036{padding-top: 100px !important;padding-bottom: 100px !important;background: #777777 url(https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1651615309645{padding-top: 85px !important;padding-bottom: 20px !important;}.vc_custom_1651615243792{padding-bottom: 60px !important;}.vc_custom_1651615319949{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #333333 !important;}.vc_custom_1476670533960{background-color: #222222 !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_logo_scroll_top]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enable]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1504576103512{padding-top: 100px !important;padding-bottom: 100px !important;background: #292929 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg?id=48) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489874303438{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1489874345280{padding-top: 200px !important;padding-bottom: 200px !important;background-image: url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1d.jpg?id=34) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1492983903093{padding-top: 60px !important;padding-bottom: 30px !important;}.vc_custom_1489874798349{padding-bottom: 40px !important;}.vc_custom_1489874811011{padding-top: 100px !important;padding-bottom: 50px !important;background-color: #ef5c32 !important;}.vc_custom_1489874820833{padding-top: 60px !important;padding-bottom: 70px !important;}.vc_custom_1489874840365{padding-top: 50px !important;padding-bottom: 50px !important;}.vc_custom_1489874850611{padding-top: 75px !important;padding-bottom: 25px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk2d.jpg?id=35) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489874866982{margin-bottom: 20px !important;padding-top: 60px !important;}.vc_custom_1489874872833{padding-bottom: 40px !important;}.vc_custom_1489874879962{padding-top: 75px !important;background: #777777 url(http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489874891557{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1489874902266{padding-bottom: 25px !important;}.vc_custom_1489874906965{padding-top: 100px !important;padding-bottom: 50px !important;background-color: #333333 !important;}.vc_custom_1476670533960{background-color: #222222 !important;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_logo_scroll_top]]></wp:meta_key>
-			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact form 1</title>
-		<link>http://totaltheme.wpengine.com/freelancer/?post_type=wpcf7_contact_form&#038;p=4</link>
-		<pubDate>Wed, 21 Jan 2015 23:51:49 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?post_type=wpcf7_contact_form&#038;p=4</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p class="one-half first">[text* your-name placeholder "Your Name"]</p>
-
-<p class="one-half">[email* your-email placeholder "Your Email"]</p>
-
-<p class="one-half first">[tel your-tel placeholder "Your Phone Number"]</p>
-
-<p class="one-half">[text* your-subject placeholder "Message Subject"]</p>
-
-<p>[textarea your-message placeholder "Type Your Message Here..."] </p>
-
-<p>[submit "Submit Form"]</p>
-1
-[your-subject]
-[your-name] <wordpress@totaltheme.wpengine.com>
-dummy@wpexplorer.com
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)
-Reply-To: [your-email]
-
-
-
-
-[your-subject]
-Freelancer <wordpress@totaltheme.wpengine.com>
-[your-email]
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengine.com/freelancer)
-Reply-To: sympleworkz@gmail.com
-
-
-
-Your message was sent successfully. Thanks.
-Failed to send your message. Please try later or contact the administrator by another method.
-Validation errors occurred. Please confirm the fields and submit it again.
-Failed to send your message. Please try later or contact the administrator by another method.
-Please accept the terms to proceed.
-Please fill the required field.
-The field is too long.
-The field is too short.
-Date format seems invalid.
-This date is too early.
-This date is too late.
-Failed to upload file.
-This file type is not allowed.
-This file is too large.
-Failed to upload file. Error occurred.
-Number format seems invalid.
-This number is too small.
-This number is too large.
-Your answer is not correct.
-Your entered code is incorrect.
-Email address seems invalid.
-URL seems invalid.
-Telephone number seems invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-21 23:51:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-21 23:51:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<p class="one-half first">[text* your-name placeholder "Your Name"]</p>
-
-<p class="one-half">[email* your-email placeholder "Your Email"]</p>
-
-<p class="one-half first">[tel your-tel placeholder "Your Phone Number"]</p>
-
-<p class="one-half">[text* your-subject placeholder "Message Subject"]</p>
-
-<p>[textarea your-message placeholder "Type Your Message Here..."] </p>
-
-<p>[submit "Submit Form"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:9:"recipient";s:20:"dummy@wpexplorer.com";s:4:"body";s:187:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Corporate (http://totaltheme.wpengine.com/corporate)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:46:"Freelancer <wordpress@totaltheme.wpengine.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:131:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengine.com/freelancer)";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:31:"Please fill the required field.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Great</title>
-		<link>http://totaltheme.wpengine.com/freelancer/testimonial/great/</link>
+							</item>
+					<item>
+		<title><![CDATA[Great]]></title>
+		<link>https://total.wpexplorer.com/freelancer/testimonial/great/</link>
 		<pubDate>Thu, 22 Jan 2015 00:55:31 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?post_type=testimonials&#038;p=14</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/?post_type=testimonials&#038;p=14</guid>
 		<description></description>
-		<content:encoded><![CDATA[cing powder carrot cake jujubes pastry chocolate cake. Jelly-o cheesecake marshmallow candy gummies carrot cake jelly powder. Tart dragée candy cotton candy chocolate bar unerdwear.com bonbon!]]></content:encoded>
+		<content:encoded><![CDATA[cing powder carrot cake jujubes pastry chocolate cake. Jelly-o cheesecake marshmallow candy gummies carrot cake jelly powder. Tart dragée candy cotton candy chocolate bar bonbon!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:55:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:55:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-27 22:57:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-27 22:57:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[great]]></wp:post_name>
@@ -913,31 +797,25 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
+		<wp:meta_value><![CDATA[MADELINE]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
-			<wp:meta_value><![CDATA[MADELINE]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Awesome</title>
-		<link>http://totaltheme.wpengine.com/freelancer/testimonial/awesome/</link>
+							</item>
+					<item>
+		<title><![CDATA[Awesome]]></title>
+		<link>https://total.wpexplorer.com/freelancer/testimonial/awesome/</link>
 		<pubDate>Thu, 22 Jan 2015 00:56:08 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?post_type=testimonials&#038;p=15</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/?post_type=testimonials&#038;p=15</guid>
 		<description></description>
-		<content:encoded><![CDATA[Pudding muffin unerdwear.com caramels! Gummies jelly carrot cake cake cookie lollipop jelly-o chocolate cake cupcake. Carrot cake tiramisu macaroon bear claw tootsie roll sesame snaps toffee!]]></content:encoded>
+		<content:encoded><![CDATA[Pudding muffin caramels! Gummies jelly carrot cake cake cookie lollipop jelly-o chocolate cake cupcake. Carrot cake tiramisu macaroon bear claw tootsie roll sesame snaps toffee!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:56:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:56:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-27 22:57:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-27 22:57:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[awesome]]></wp:post_name>
@@ -947,31 +825,25 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
+		<wp:meta_value><![CDATA[VINCENT]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
-			<wp:meta_value><![CDATA[VINCENT]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Superb</title>
-		<link>http://totaltheme.wpengine.com/freelancer/testimonial/superb/</link>
+							</item>
+					<item>
+		<title><![CDATA[Superb]]></title>
+		<link>https://total.wpexplorer.com/freelancer/testimonial/superb/</link>
 		<pubDate>Thu, 22 Jan 2015 00:56:47 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?post_type=testimonials&#038;p=17</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/?post_type=testimonials&#038;p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lollipop biscuit gummies cotton candy cheesecake. Jelly-o chocolate cake soufflé oat cake lemon drops muffin. Sesame snaps sweet roll croissant... Topping lollipop marshmallow sugar plum sweet roll muffin cookie!!!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:56:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:56:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 00:56:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 00:56:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[superb]]></wp:post_name>
@@ -981,31 +853,25 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
+		<wp:meta_value><![CDATA[CHRISTINE]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
-			<wp:meta_value><![CDATA[CHRISTINE]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Dandy</title>
-		<link>http://totaltheme.wpengine.com/freelancer/testimonial/dandy/</link>
+							</item>
+					<item>
+		<title><![CDATA[Dandy]]></title>
+		<link>https://total.wpexplorer.com/freelancer/testimonial/dandy/</link>
 		<pubDate>Thu, 22 Jan 2015 00:57:20 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?post_type=testimonials&#038;p=18</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/?post_type=testimonials&#038;p=18</guid>
 		<description></description>
-		<content:encoded><![CDATA[Dessert dessert topping. Chocolate bar tootsie roll candy cotton candy cookie sweet bonbon lemon drops. Toffee dragée bonbon. Gingerbread soufflé sweet roll unerdwear.com cheesecake dragée gummies caramels.]]></content:encoded>
+		<content:encoded><![CDATA[Dessert dessert topping. Chocolate bar tootsie roll candy cotton candy cookie sweet bonbon lemon drops. Toffee dragée bonbon. Gingerbread soufflé sweet roll cheesecake dragée gummies caramels.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 00:57:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 00:57:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-27 22:57:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-27 22:57:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dandy]]></wp:post_name>
@@ -1015,31 +881,25 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
+		<wp:meta_value><![CDATA[LANDON]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
-			<wp:meta_value><![CDATA[LANDON]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>desk-d</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/desk-d/</link>
+							</item>
+					<item>
+		<title><![CDATA[desk-d]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/desk-d/</link>
 		<pubDate>Thu, 22 Jan 2015 02:32:38 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk-d.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk-d.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:32:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:32:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:32:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:32:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[desk-d]]></wp:post_name>
@@ -1049,28 +909,30 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk-d.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/desk-d.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk-d.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/desk-d.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:18:"2015/01/desk-d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk-d-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:18:"2015/01/desk-d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk-d-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>desk1d</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/desk1d/</link>
+							</item>
+					<item>
+		<title><![CDATA[desk1d]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/desk1d/</link>
 		<pubDate>Thu, 22 Jan 2015 02:39:56 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1d.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk1d.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:39:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:39:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:39:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:39:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[desk1d]]></wp:post_name>
@@ -1080,28 +942,30 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk1d.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/desk1d.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk1d.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/desk1d.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk1d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk1d-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk1d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk1d-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>desk2d</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/desk2d/</link>
+							</item>
+					<item>
+		<title><![CDATA[desk2d]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/desk2d/</link>
 		<pubDate>Thu, 22 Jan 2015 02:42:18 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk2d.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk2d.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:42:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:42:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:42:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:42:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[desk2d]]></wp:post_name>
@@ -1111,28 +975,30 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/desk2d.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/desk2d.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/desk2d.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/desk2d.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk2d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk2d-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:18:"2015/01/desk2d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"desk2d-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>coffee-d</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/coffee-d/</link>
+							</item>
+					<item>
+		<title><![CDATA[coffee-d]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/coffee-d/</link>
 		<pubDate>Thu, 22 Jan 2015 02:43:37 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/coffee-d.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-22 02:43:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-22 02:43:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-01-22 02:43:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-01-22 02:43:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[coffee-d]]></wp:post_name>
@@ -1142,30 +1008,32 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/coffee-d.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/coffee-d.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/coffee-d.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/coffee-d.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:20:"2015/01/coffee-d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:20:"coffee-d-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1300;s:4:"file";s:20:"2015/01/coffee-d.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:20:"coffee-d-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>About</title>
-		<link>http://totaltheme.wpengine.com/freelancer/about/</link>
-		<pubDate>Thu, 22 Jan 2015 21:51:07 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?p=38</guid>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://total.wpexplorer.com/freelancer/about/</link>
+		<pubDate>Sun, 30 Dec 2018 00:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/about/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 21:51:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 21:51:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-28 21:43:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 00:16:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-28 21:43:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-28 21:43:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1173,58 +1041,60 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[38]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#home-about]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://total.wpexplorer.com/freelancer/#home-about]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-30]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Services</title>
-		<link>http://totaltheme.wpengine.com/freelancer/services/</link>
-		<pubDate>Thu, 22 Jan 2015 21:51:07 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?p=39</guid>
+							</item>
+					<item>
+		<title><![CDATA[Services]]></title>
+		<link>https://total.wpexplorer.com/freelancer/services/</link>
+		<pubDate>Sun, 30 Dec 2018 00:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/services/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 21:51:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 21:51:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-28 21:43:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 00:16:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-28 21:43:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-28 21:43:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1232,58 +1102,60 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[39]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[38]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#home-services]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://total.wpexplorer.com/freelancer/#home-services]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-30]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Projects</title>
-		<link>http://totaltheme.wpengine.com/freelancer/projects/</link>
-		<pubDate>Thu, 22 Jan 2015 21:51:07 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?p=40</guid>
+							</item>
+					<item>
+		<title><![CDATA[Projects]]></title>
+		<link>https://total.wpexplorer.com/freelancer/projects/</link>
+		<pubDate>Sun, 30 Dec 2018 00:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/projects/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 21:51:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 21:51:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-28 21:43:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 00:16:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-28 21:43:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-28 21:43:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[projects]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1291,58 +1163,60 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[40]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[39]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#home-projects]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://total.wpexplorer.com/freelancer/#home-projects]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-30]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Testimonials</title>
-		<link>http://totaltheme.wpengine.com/freelancer/testimonials/</link>
-		<pubDate>Thu, 22 Jan 2015 21:51:07 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?p=41</guid>
+							</item>
+					<item>
+		<title><![CDATA[Testimonials]]></title>
+		<link>https://total.wpexplorer.com/freelancer/testimonials/</link>
+		<pubDate>Sun, 30 Dec 2018 00:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/testimonials/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 21:51:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 21:51:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-28 21:43:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 00:16:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-28 21:43:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-28 21:43:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testimonials]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1350,58 +1224,60 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[41]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#home-testimonials]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://total.wpexplorer.com/freelancer/#home-testimonials]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-30]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact</title>
-		<link>http://totaltheme.wpengine.com/freelancer/contact/</link>
-		<pubDate>Thu, 22 Jan 2015 21:51:07 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?p=42</guid>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://total.wpexplorer.com/freelancer/contact/</link>
+		<pubDate>Sun, 30 Dec 2018 00:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2015-01-22 21:51:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-01-22 21:51:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_id>41</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-28 21:43:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 00:16:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-28 21:43:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-28 21:43:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1409,58 +1285,60 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[41]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#home-contact]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://total.wpexplorer.com/freelancer/#home-contact]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-30]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Team</title>
-		<link>http://totaltheme.wpengine.com/freelancer/team/</link>
-		<pubDate>Mon, 04 May 2015 21:46:04 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/?p=46</guid>
+							</item>
+					<item>
+		<title><![CDATA[Team]]></title>
+		<link>https://total.wpexplorer.com/freelancer/team/</link>
+		<pubDate>Sun, 30 Dec 2018 00:16:37 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/team/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2015-05-04 21:46:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-05-04 21:46:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2022-04-28 21:43:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 00:16:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-28 21:43:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-28 21:43:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1468,56 +1346,58 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#home-team]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://total.wpexplorer.com/freelancer/#home-team]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-30]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>chair-n</title>
-		<link>http://totaltheme.wpengine.com/freelancer/homepage/chair-n/</link>
+							</item>
+					<item>
+		<title><![CDATA[chair-n]]></title>
+		<link>https://total.wpexplorer.com/freelancer/homepage/chair-n/</link>
 		<pubDate>Tue, 11 Oct 2016 00:40:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/chair-n.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-11 00:40:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-11 00:40:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-11 00:40:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-11 00:40:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[chair-n]]></wp:post_name>
@@ -1527,15 +1407,16 @@ This e-mail was sent from a contact form on Freelancer (http://totaltheme.wpengi
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/freelancer/wp-content/uploads/sites/22/2015/01/chair-n.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/01/chair-n.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/freelancer/wp-content/uploads/sites/32/2015/01/chair-n.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/01/chair-n.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1200;s:4:"file";s:19:"2015/01/chair-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:19:"chair-n-768x461.jpg";s:5:"width";i:768;s:6:"height";i:461;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1200;s:4:"file";s:19:"2015/01/chair-n.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:19:"chair-n-768x461.jpg";s:5:"width";i:768;s:6:"height";i:461;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+				</channel>
 </rss>
+	

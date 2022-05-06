@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-03-30 19:31" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-03 19:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,41 +27,44 @@
 
 <channel>
 	<title>eBook</title>
-	<link>http://totaltheme.wpengine.com/ebook</link>
+	<link>https://total.wpexplorer.com/ebook</link>
 	<description>Just another Total Theme Demo site</description>
-	<pubDate>Thu, 30 Mar 2017 19:31:07 +0000</pubDate>
+	<pubDate>Tue, 03 May 2022 19:43:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
-	<wp:base_blog_url>http://totaltheme.wpengine.com/ebook</wp:base_blog_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_blog_url>https://total.wpexplorer.com/ebook</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[ebook-main]]></wp:term_slug><wp:term_name><![CDATA[eBook main]]></wp:term_name>
+					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[ebook-main]]></wp:term_slug><wp:term_name><![CDATA[eBook main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
-	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/ebook/</link>
+		<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://total.wpexplorer.com/ebook/</link>
 		<pubDate>Wed, 25 May 2016 20:41:49 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" css=".vc_custom_1489865541350{padding-top: 90px !important;padding-bottom: 60px !important;background: #333333 url(http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/pattern.png?id=16) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column][vcex_heading text="FREE EBOOK OF THE MONTH: ULTIMATE LEARNING" tag="h1" font_weight="bold" text_align="center" font_size="36px" color="#ffffff" letter_spacing="2px"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489865528628{padding-top: 90px !important;background-color: #ee8a29 !important;}"][vc_column width="1/2" css=".vc_custom_1465436856205{margin-bottom: 0px !important;}"][vc_single_image image="15"][/vc_column][vc_column width="1/2"][vcex_spacing size="60px"][vcex_heading text="WE KNOW YOU'LL LOVE THIS" tag="h2" font_weight="normal" font_size="30px" color="#ffffff" letter_spacing="2px" css=".vc_custom_1476763150994{padding-bottom: 20px !important;}"][vc_column_text color="#ffffff"]Knowledge is power and with our FREE ebook you'll be able to cultivate and harness that power in your life. and since it's free you have nothing to loose! Just download the ebook, read through and use the included checklist to put what you learn into practice.[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Get The Book" style="outline" color="white" text_transform="uppercase" font_weight="normal" border_radius="10px" custom_hover_color="#ee8a29"]Get The Book[/vcex_button][vcex_spacing size="40px"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489865551610{padding-top: 90px !important;padding-bottom: 60px !important;background-color: #8a77ab !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][vc_column][vcex_heading text="BEST SELLING &amp; AWARD WINNING AUTHORS" tag="h2" font_weight="normal" text_align="center" font_size="30px" color="#ffffff" letter_spacing="2px" css=".vc_custom_1476763156886{padding-bottom: 20px !important;}"][vc_column_text color="#ffffff"]
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1651606777918{padding-top: 150px !important;padding-bottom: 150px !important;background: #333333 url(https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/pattern.png?id=16) !important;background-position: 0 0 !important;background-repeat: repeat !important;}"][vc_column][vcex_heading text="FREE EBOOK OF THE MONTH: ULTIMATE LEARNING" tag="h1" font_weight="bold" text_align="center" font_size="36px" color="#ffffff" letter_spacing="2px"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1651606769311{padding-top: 150px !important;background-color: #ee8a29 !important;}"][vc_column width="1/2"][vcex_image image_id="15"][/vc_column][vc_column width="1/2"][vcex_spacing size="60px"][vcex_heading text="WE KNOW YOU'LL LOVE THIS" tag="h2" font_weight="normal" font_size="30px" color="#ffffff" letter_spacing="2px" css=".vc_custom_1476763150994{padding-bottom: 20px !important;}"][vc_column_text color="#ffffff"]Knowledge is power and with our FREE ebook you'll be able to cultivate and harness that power in your life. and since it's free you have nothing to loose! Just download the ebook, read through and use the included checklist to put what you learn into practice.[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplorer.com/out/total" rel="sponsored" title="Get The Book" style="outline" color="white" text_transform="uppercase" font_weight="normal" border_radius="10px" custom_hover_color="#ee8a29" text_source="custom_text" target="blank"]Get The Book[/vcex_button][vcex_spacing size="40px"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1651606742278{padding-top: 150px !important;padding-bottom: 150px !important;background-color: #8a77ab !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][vc_column][vcex_heading text="BEST SELLING &amp; AWARD WINNING AUTHORS" tag="h2" font_weight="normal" text_align="center" font_size="30px" color="#ffffff" letter_spacing="2px" css=".vc_custom_1476763156886{padding-bottom: 20px !important;}"][vc_column_text color="#ffffff"]</p>
 <p style="text-align: center;">We receive and publish submissions from best selling, award winning authors who are experts in their fields. This way you get the absolute best information you possibly can.</p>
-[/vc_column_text][vcex_spacing][vc_single_image image="8" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1489865559497{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2"][vcex_heading text="NEW EBOOK EACH MONTH" font_weight="normal" font_size="30px" letter_spacing="2px" css=".vc_custom_1465419456905{padding-bottom: 20px !important;}"][vc_column_text]Every month we share an all new ebook with our readers. Best of all, they’re yours to keep! Just remember to download them. Once you do you’re free to read theme as many times as your wish - and you can even transfer your books to other devices.[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Learn More" style="outline" color="black" text_transform="uppercase" font_weight="normal" border_radius="10px"]Learn More[/vcex_button][/vc_column][vc_column width="1/2"][vcex_spacing size="15px" visibility="hidden-phone"][vc_video link="https://www.youtube.com/watch?v=J3z29b7en14"][/vc_column][/vc_row][vc_row full_width="stretch_row" tablet_fullwidth_cols="yes" css=".vc_custom_1489865564856{padding-top: 90px !important;padding-bottom: 75px !important;background-color: #ec5642 !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Huge Variety" heading_weight="normal" heading_transform="uppercase" font_color="#ffffff" heading_color="#ffffff" heading_size="30px" heading_letter_spacing="2px" image="11"]We really do write a bit about everything. Self help. Real estate. Web design and marketing. Just be sure to check back each month for our latest ebook.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Easy Reads" heading_weight="normal" heading_transform="uppercase" font_color="#ffffff" heading_color="#ffffff" heading_size="30px" heading_letter_spacing="2px" image="12"]We mentioned it before, but once you download them these books are yours. Feel free to load them on your tables, phones, desktops or anything else![/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Always Free" heading_weight="normal" heading_transform="uppercase" font_color="#ffffff" heading_color="#ffffff" heading_size="30px" heading_letter_spacing="2px" image="13"]And our books are always free. We’re here to help make you into a better version of you. With more knowledge, focus and drive then you’ve ever had before.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1489865579983{padding-top: 90px !important;padding-bottom: 75px !important;}"][vc_column width="1/2"][vc_single_image image="14" alignment="center"][/vc_column][vc_column width="1/2"][vcex_heading text="GET YOUR FREE EBOOK" font_weight="normal" font_size="30px" letter_spacing="2px" css=".vc_custom_1465436927278{padding-bottom: 20px !important;}"][vc_column_text]Stop thinking about it and just download our free ebook already. It costs nothing - just click the button below to download.[/vc_column_text][vcex_spacing][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22https%3A%2F%2Fwww.facebook.com%2Fwpexplorer-themes%2F%22%7D%2C%7B%22site%22%3A%22googleplus%22%2C%22link%22%3A%22https%3A%2F%2Fplus.google.com%2F108390417049649826323%2Fposts%22%7D%2C%7B%22site%22%3A%22pinterest%22%2C%22link%22%3A%22https%3A%2F%2Fwww.pinterest.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22dribbble%22%2C%22link%22%3A%22https%3A%2F%2Fdribbble.com%2Faj-clarke%22%7D%2C%7B%22site%22%3A%22linkedin%22%2C%22link%22%3A%22https%3A%2F%2Fwww.linkedin.com%2F%22%7D%2C%7B%22site%22%3A%22youtube%22%2C%22link%22%3A%22https%3A%2F%2Fwww.youtube.com%2Fuser%2Fwpexplorertv%22%7D%5D" style="none" twitter="https://twitter.com/wpexplorer/" facebook="https://www.facebook.com/wpexplorer-themes/" googleplus="https://plus.google.com/108390417049649826323/posts" pinterest="https://www.pinterest.com/wpexplorer/" dribbble="https://dribbble.com/aj-clarke" linkedin="https://www.linkedin.com/" youtube="https://www.youtube.com/user/wpexplorertv" size="24px" hover_color="#6dbd70" color="#000000"][vcex_spacing][vc_column_text]And if you like what you read feel free to share a link to this page with your friends - and remember to come back next month for our newest free ebook![/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Download" style="outline" color="black" text_transform="uppercase" font_weight="normal" border_radius="10px"]Download[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
+<p>[/vc_column_text][vcex_spacing][vcex_image align="center" image_id="9"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1651606733404{padding-top: 150px !important;padding-bottom: 150px !important;}"][vc_column width="1/2"][vcex_heading text="NEW EBOOK EACH MONTH" font_weight="normal" font_size="30px" letter_spacing="2px" css=".vc_custom_1465419456905{padding-bottom: 20px !important;}"][vc_column_text]Every month we share an all new ebook with our readers. Best of all, they’re yours to keep! Just remember to download them. Once you do you’re free to read theme as many times as your wish - and you can even transfer your books to other devices.[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplorer.com/out/total" rel="sponsored" title="Learn More" style="outline" color="black" text_transform="uppercase" font_weight="normal" border_radius="10px" text_source="custom_text" target="blank"]Learn More[/vcex_button][/vc_column][vc_column width="1/2"][vcex_image overlay_style="video-icon_4" onclick="lightbox_video" image_id="17" onclick_url="https://www.youtube.com/watch?v=J3z29b7en14"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" tablet_fullwidth_cols="yes" css=".vc_custom_1651606858993{padding-top: 150px !important;padding-bottom: 150px !important;background-color: #ec5642 !important;}"][vc_column][vcex_grid_container columns_lg="" columns_md="3" gap="50px"][vcex_icon_box heading="Huge Variety" style="two" heading_weight="normal" heading_transform="uppercase" font_color="#ffffff" heading_color="#ffffff" heading_size="30px" heading_letter_spacing="2px" image="11"]We really do write a bit about everything. Self help. Real estate. Web design and marketing. Just be sure to check back each month for our latest ebook.[/vcex_icon_box][vcex_icon_box heading="Easy Reads" style="two" heading_weight="normal" heading_transform="uppercase" font_color="#ffffff" heading_color="#ffffff" heading_size="30px" heading_letter_spacing="2px" image="12"]We mentioned it before, but once you download them these books are yours. Feel free to load them on your tables, phones, desktops or anything else![/vcex_icon_box][vcex_icon_box heading="Always Free" style="two" heading_weight="normal" heading_transform="uppercase" font_color="#ffffff" heading_color="#ffffff" heading_size="30px" heading_letter_spacing="2px" image="13"]And our books are always free. We’re here to help make you into a better version of you. With more knowledge, focus and drive then you’ve ever had before.[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1651606892245{padding-top: 150px !important;padding-bottom: 150px !important;}"][vc_column width="1/2"][vcex_image image_id="14"][/vc_column][vc_column width="1/2"][vcex_heading text="GET YOUR FREE EBOOK" font_weight="normal" font_size="30px" letter_spacing="2px" css=".vc_custom_1465436927278{padding-bottom: 20px !important;}"][vc_column_text]Stop thinking about it and just download our free ebook already. It costs nothing - just click the button below to download.[/vc_column_text][vcex_spacing][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22https%3A%2F%2Fwww.facebook.com%2Fwpexplorer-themes%2F%22%7D%2C%7B%22site%22%3A%22googleplus%22%2C%22link%22%3A%22https%3A%2F%2Fplus.google.com%2F108390417049649826323%2Fposts%22%7D%2C%7B%22site%22%3A%22pinterest%22%2C%22link%22%3A%22https%3A%2F%2Fwww.pinterest.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22dribbble%22%2C%22link%22%3A%22https%3A%2F%2Fdribbble.com%2Faj-clarke%22%7D%2C%7B%22site%22%3A%22youtube%22%2C%22link%22%3A%22https%3A%2F%2Fwww.youtube.com%2Fuser%2Fwpexplorertv%22%7D%5D" style="none" twitter="https://twitter.com/wpexplorer/" facebook="https://www.facebook.com/wpexplorer-themes/" googleplus="https://plus.google.com/108390417049649826323/posts" pinterest="https://www.pinterest.com/wpexplorer/" dribbble="https://dribbble.com/aj-clarke" linkedin="https://www.linkedin.com/" youtube="https://www.youtube.com/user/wpexplorertv" size="24px" hover_color="#6dbd70" color="#000000"][vcex_spacing][vc_column_text]And if you like what you read feel free to share a link to this page with your friends - and remember to come back next month for our newest free ebook![/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplorer.com/out/total" rel="sponsored" title="Download" style="outline" color="black" text_transform="uppercase" font_weight="normal" border_radius="10px" text_source="custom_text" target="blank"]Download[/vcex_button][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-05-25 20:41:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-05-25 20:41:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-03 19:41:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-03 19:41:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -71,83 +74,65 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1651606777918{padding-top: 150px !important;padding-bottom: 150px !important;background: #333333 url(https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/pattern.png?id=16) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1651606769311{padding-top: 150px !important;background-color: #ee8a29 !important;}.vc_custom_1651606742278{padding-top: 150px !important;padding-bottom: 150px !important;background-color: #8a77ab !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1651606733404{padding-top: 150px !important;padding-bottom: 150px !important;}.vc_custom_1651606858993{padding-top: 150px !important;padding-bottom: 150px !important;background-color: #ec5642 !important;}.vc_custom_1651606892245{padding-top: 150px !important;padding-bottom: 150px !important;}.vc_custom_1476763150994{padding-bottom: 20px !important;}.vc_custom_1476763156886{padding-bottom: 20px !important;}.vc_custom_1465419456905{padding-bottom: 20px !important;}.vc_custom_1465436927278{padding-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1651606777918{padding-top: 150px !important;padding-bottom: 150px !important;background: #333333 url(https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/pattern.png?id=16) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1651606769311{padding-top: 150px !important;background-color: #ee8a29 !important;}.vc_custom_1651606742278{padding-top: 150px !important;padding-bottom: 150px !important;background-color: #8a77ab !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1651606733404{padding-top: 150px !important;padding-bottom: 150px !important;}.vc_custom_1651606858993{padding-top: 150px !important;padding-bottom: 150px !important;background-color: #ec5642 !important;}.vc_custom_1651606892245{padding-top: 150px !important;padding-bottom: 150px !important;}.vc_custom_1476763150994{padding-bottom: 20px !important;}.vc_custom_1476763156886{padding-bottom: 20px !important;}.vc_custom_1465419456905{padding-bottom: 20px !important;}.vc_custom_1465436927278{padding-bottom: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_864e9c6d6b84afd9bf30e5c58af1e11b]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe src="https://player.vimeo.com/video/51589652" width="980" height="551" frameborder="0" title="Timelapse - Lighthouse (Oct 2012)" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_864e9c6d6b84afd9bf30e5c58af1e11b]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1465249546]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_c1160d9fbe6c5a41a0f0263f011dea74]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe width="980" height="551" src="https://www.youtube.com/embed/J3z29b7en14?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_c1160d9fbe6c5a41a0f0263f011dea74]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1465249550]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489865541350{padding-top: 90px !important;padding-bottom: 60px !important;background: #333333 url(http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/pattern.png?id=16) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1489865528628{padding-top: 90px !important;background-color: #ee8a29 !important;}.vc_custom_1489865551610{padding-top: 90px !important;padding-bottom: 60px !important;background-color: #8a77ab !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1489865559497{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1489865564856{padding-top: 90px !important;padding-bottom: 75px !important;background-color: #ec5642 !important;}.vc_custom_1489865579983{padding-top: 90px !important;padding-bottom: 75px !important;}.vc_custom_1465436856205{margin-bottom: 0px !important;}.vc_custom_1476763150994{padding-bottom: 20px !important;}.vc_custom_1476763156886{padding-bottom: 20px !important;}.vc_custom_1465419456905{padding-bottom: 20px !important;}.vc_custom_1465436927278{padding-bottom: 20px !important;}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_864e9c6d6b84afd9bf30e5c58af1e11b]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe src="https://player.vimeo.com/video/51589652" width="980" height="551" frameborder="0" title="Timelapse - Lighthouse (Oct 2012)" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_footer_widgets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_864e9c6d6b84afd9bf30e5c58af1e11b]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1465249546]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_c1160d9fbe6c5a41a0f0263f011dea74]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<iframe width="980" height="551" src="https://www.youtube.com/embed/J3z29b7en14?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_oembed_time_c1160d9fbe6c5a41a0f0263f011dea74]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1465249550]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_footer_widgets]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>CLUB</title>
-		<link>http://totaltheme.wpengine.com/ebook/2016/06/06/club/</link>
-		<pubDate>Mon, 06 Jun 2016 21:05:55 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/?p=4</guid>
+							</item>
+					<item>
+		<title><![CDATA[CLUB]]></title>
+		<link>https://total.wpexplorer.com/ebook/club/</link>
+		<pubDate>Mon, 31 Dec 2018 01:24:18 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/club/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 21:05:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 21:05:55]]></wp:post_date_gmt>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-31 01:24:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-31 01:24:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:11:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:11:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[club]]></wp:post_name>
@@ -157,52 +142,54 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#club]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#club]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>SELECTION</title>
-		<link>http://totaltheme.wpengine.com/ebook/2016/06/06/selection/</link>
-		<pubDate>Mon, 06 Jun 2016 21:05:55 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/?p=5</guid>
+							</item>
+					<item>
+		<title><![CDATA[SELECTION]]></title>
+		<link>https://total.wpexplorer.com/ebook/selection/</link>
+		<pubDate>Mon, 31 Dec 2018 01:24:18 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/selection/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 21:05:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 21:05:55]]></wp:post_date_gmt>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-31 01:24:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-31 01:24:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:11:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:11:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[selection]]></wp:post_name>
@@ -212,52 +199,54 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#selection]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#selection]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>FEATURES</title>
-		<link>http://totaltheme.wpengine.com/ebook/2016/06/06/features/</link>
-		<pubDate>Mon, 06 Jun 2016 21:05:55 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/?p=6</guid>
+							</item>
+					<item>
+		<title><![CDATA[FEATURES]]></title>
+		<link>https://total.wpexplorer.com/ebook/features/</link>
+		<pubDate>Mon, 31 Dec 2018 01:24:18 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 21:05:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 21:05:55]]></wp:post_date_gmt>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-31 01:24:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-31 01:24:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:11:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:11:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[features]]></wp:post_name>
@@ -267,52 +256,54 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#features]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#features]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>OFFER</title>
-		<link>http://totaltheme.wpengine.com/ebook/2016/06/06/offer/</link>
-		<pubDate>Mon, 06 Jun 2016 21:05:55 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/?p=7</guid>
+							</item>
+					<item>
+		<title><![CDATA[OFFER]]></title>
+		<link>https://total.wpexplorer.com/ebook/offer/</link>
+		<pubDate>Mon, 31 Dec 2018 01:24:18 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/offer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 21:05:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 21:05:55]]></wp:post_date_gmt>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-31 01:24:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-31 01:24:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:11:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:11:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[offer]]></wp:post_name>
@@ -322,52 +313,54 @@
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+										<category domain="nav_menu" nicename="ebook-main"><![CDATA[eBook main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#offer]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#offer]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>ebook-logo</title>
-		<link>http://totaltheme.wpengine.com/ebook/ebook-logo/</link>
+							</item>
+					<item>
+		<title><![CDATA[ebook-logo]]></title>
+		<link>https://total.wpexplorer.com/ebook/ebook-logo/</link>
 		<pubDate>Mon, 06 Jun 2016 21:08:23 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/06/ebook-logo.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/06/ebook-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
+		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 21:08:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 21:08:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 21:08:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 21:08:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ebook-logo]]></wp:post_name>
@@ -377,149 +370,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/06/ebook-logo.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/ebook-logo.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/06/ebook-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/ebook-logo.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:165;s:4:"file";s:22:"2016/06/ebook-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:165;s:4:"file";s:22:"2016/06/ebook-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact form 1</title>
-		<link>http://totaltheme.wpengine.com/ebook/?post_type=wpcf7_contact_form&#038;p=9</link>
-		<pubDate>Mon, 06 Jun 2016 21:19:37 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/?post_type=wpcf7_contact_form&#038;p=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>Your Name (required)<br />
-    [text* your-name] </p>
-
-<p>Your Email (required)<br />
-    [email* your-email] </p>
-
-<p>Subject<br />
-    [text your-subject] </p>
-
-<p>Your Message<br />
-    [textarea your-message] </p>
-
-<p>[submit "Send"]</p>
-eBook "[your-subject]"
-[your-name] <wordpress@totaltheme.wpengine.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.com/ebook)
-sympleworkz@gmail.com
-Reply-To: [your-email]
-
-0
-0
-
-eBook "[your-subject]"
-eBook <wordpress@totaltheme.wpengine.com>
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.com/ebook)
-[your-email]
-Reply-To: sympleworkz@gmail.com
-
-0
-0
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 21:19:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 21:19:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<p>Your Name (required)<br />
-    [text* your-name] </p>
-
-<p>Your Email (required)<br />
-    [email* your-email] </p>
-
-<p>Subject<br />
-    [text your-subject] </p>
-
-<p>Your Message<br />
-    [textarea your-message] </p>
-
-<p>[submit "Send"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:22:"eBook "[your-subject]"";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:179:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.com/ebook)";s:9:"recipient";s:21:"sympleworkz@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:22:"eBook "[your-subject]"";s:6:"sender";s:41:"eBook <wordpress@totaltheme.wpengine.com>";s:4:"body";s:121:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.com/ebook)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>shelf</title>
-		<link>http://totaltheme.wpengine.com/ebook/home/shelf/</link>
+							</item>
+					<item>
+		<title><![CDATA[shelf]]></title>
+		<link>https://total.wpexplorer.com/ebook/home/shelf/</link>
 		<pubDate>Mon, 06 Jun 2016 21:24:03 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/shelf.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/shelf.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 21:24:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 21:24:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 21:24:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 21:24:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shelf]]></wp:post_name>
@@ -529,28 +403,30 @@ This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.co
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/shelf.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/05/shelf.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/shelf.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/shelf.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:256;s:6:"height";i:256;s:4:"file";s:17:"2016/05/shelf.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:256;s:6:"height";i:256;s:4:"file";s:17:"2016/05/shelf.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>mobile</title>
-		<link>http://totaltheme.wpengine.com/ebook/home/mobile/</link>
+							</item>
+					<item>
+		<title><![CDATA[mobile]]></title>
+		<link>https://total.wpexplorer.com/ebook/home/mobile/</link>
 		<pubDate>Mon, 06 Jun 2016 21:24:04 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/mobile.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/mobile.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 21:24:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 21:24:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 21:24:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 21:24:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mobile]]></wp:post_name>
@@ -560,28 +436,30 @@ This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.co
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/mobile.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/05/mobile.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/mobile.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/mobile.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:256;s:6:"height";i:256;s:4:"file";s:18:"2016/05/mobile.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:256;s:6:"height";i:256;s:4:"file";s:18:"2016/05/mobile.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>checkbox</title>
-		<link>http://totaltheme.wpengine.com/ebook/home/checkbox/</link>
+							</item>
+					<item>
+		<title><![CDATA[checkbox]]></title>
+		<link>https://total.wpexplorer.com/ebook/home/checkbox/</link>
 		<pubDate>Mon, 06 Jun 2016 21:24:05 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/checkbox.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/checkbox.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 21:24:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 21:24:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 21:24:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 21:24:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[checkbox]]></wp:post_name>
@@ -591,28 +469,30 @@ This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.co
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/checkbox.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/05/checkbox.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/checkbox.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/checkbox.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:256;s:6:"height";i:256;s:4:"file";s:20:"2016/05/checkbox.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:256;s:6:"height";i:256;s:4:"file";s:20:"2016/05/checkbox.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>books</title>
-		<link>http://totaltheme.wpengine.com/ebook/home/books/</link>
+							</item>
+					<item>
+		<title><![CDATA[books]]></title>
+		<link>https://total.wpexplorer.com/ebook/home/books/</link>
 		<pubDate>Mon, 06 Jun 2016 21:24:08 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/books.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/books.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 21:24:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 21:24:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 21:24:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 21:24:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[books]]></wp:post_name>
@@ -622,28 +502,30 @@ This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.co
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/books.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/05/books.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/books.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/books.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:360;s:6:"height";i:449;s:4:"file";s:17:"2016/05/books.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:360;s:6:"height";i:449;s:4:"file";s:17:"2016/05/books.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>ebook-img</title>
-		<link>http://totaltheme.wpengine.com/ebook/home/ebook-img/</link>
+							</item>
+					<item>
+		<title><![CDATA[ebook-img]]></title>
+		<link>https://total.wpexplorer.com/ebook/home/ebook-img/</link>
 		<pubDate>Wed, 08 Jun 2016 20:57:16 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/ebook-img.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/ebook-img.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-08 20:57:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-08 20:57:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-08 20:57:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-08 20:57:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ebook-img]]></wp:post_name>
@@ -653,28 +535,30 @@ This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.co
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/ebook-img.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/05/ebook-img.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/ebook-img.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/ebook-img.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:560;s:6:"height";i:550;s:4:"file";s:21:"2016/05/ebook-img.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:560;s:6:"height";i:550;s:4:"file";s:21:"2016/05/ebook-img.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>pattern</title>
-		<link>http://totaltheme.wpengine.com/ebook/home/pattern/</link>
+							</item>
+					<item>
+		<title><![CDATA[pattern]]></title>
+		<link>https://total.wpexplorer.com/ebook/home/pattern/</link>
 		<pubDate>Wed, 08 Jun 2016 23:49:37 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/pattern.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/pattern.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-08 23:49:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-08 23:49:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-08 23:49:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-08 23:49:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pattern]]></wp:post_name>
@@ -684,15 +568,49 @@ This e-mail was sent from a contact form on eBook (http://totaltheme.wpengine.co
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/ebook/wp-content/uploads/sites/77/2016/05/pattern.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/05/pattern.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2016/05/pattern.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/05/pattern.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:500;s:4:"file";s:19:"2016/05/pattern.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:500;s:4:"file";s:19:"2016/05/pattern.png";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:19:"pattern-768x256.png";s:5:"width";i:768;s:6:"height";i:256;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+					<item>
+		<title><![CDATA[video-thumb]]></title>
+		<link>https://total.wpexplorer.com/ebook/home/video-thumb/</link>
+		<pubDate>Tue, 03 May 2022 19:38:05 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2022/05/video-thumb.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2022-05-03 19:38:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-05-03 19:38:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-03 19:38:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-03 19:38:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[video-thumb]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/ebook/wp-content/uploads/sites/47/2022/05/video-thumb.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/05/video-thumb.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:23:"2022/05/video-thumb.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:23:"video-thumb-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
 </rss>
+	

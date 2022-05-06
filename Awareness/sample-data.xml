@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-05 22:22" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-02 23:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Awareness</title>
 	<link>https://total.wpexplorer.com/awareness</link>
 	<description>Just another Total Theme Demo site</description>
-	<pubDate>Tue, 05 Jan 2021 22:22:04 +0000</pubDate>
+	<pubDate>Mon, 02 May 2022 23:24:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
 	<wp:base_blog_url>https://total.wpexplorer.com/awareness</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totalthememain]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -44,18 +44,18 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 		<item>
-		<title>Homepage</title>
+		<title><![CDATA[Homepage]]></title>
 		<link>https://total.wpexplorer.com/awareness/</link>
 		<pubDate>Sat, 03 Oct 2015 16:45:28 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/awareness/?page_id=2</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/awareness/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1546919835716{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg1-woman.jpg?id=12) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" css=".vc_custom_1489539310938{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}"][vcex_image image_id="19"][vcex_heading text="Fight against cancer." tag="h2" font_family="Georgia, serif" font_size="48px" color="#c72b77" css=".vc_custom_1489955392192{margin-top: 30px !important;margin-bottom: 10px !important;}" line_height="1.2" font_weight="normal"][vc_column_text]Breast cancer affects 1 in 8 women. Don’t sit by while this disease takes hold of you or someone you love. Get up and get moving for a cure.[/vc_column_text][vcex_spacing][vcex_button url="http://apps.komen.org/raceforthecure/FindARacefortheCure.aspx" target="blank" title="Join the race" font_family="Georgia, serif" custom_background="#c72b77" custom_hover_background="#ea7eb1" font_size="24px" letter_spacing="1px" border_radius="5px"]Join the race[/vcex_button][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1546919852029{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg2-baby.jpg?id=13) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2"][/vc_column][vc_column width="1/2" css=".vc_custom_1489539206829{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}"][vcex_heading text="There is HOPE." tag="h2" font_family="Georgia, serif" text_align="right" font_size="48px" color="#ea7eb1" css=".vc_custom_1489955399808{margin-bottom: 10px !important;}" line_height="1.2" font_weight="normal"][vc_column_text]</p>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1546919835716{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg1-woman.jpg?id=12) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" css=".vc_custom_1489539310938{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}"][vcex_image image_id="19"][vcex_heading text="Fight against cancer." tag="h2" font_family="Georgia, serif" font_size="48px" color="#c72b77" css=".vc_custom_1489955392192{margin-top: 30px !important;margin-bottom: 10px !important;}" line_height="1.2" font_weight="normal"][vc_column_text]Breast cancer affects 1 in 8 women. Don’t sit by while this disease takes hold of you or someone you love. Get up and get moving for a cure.[/vc_column_text][vcex_spacing][vcex_button url="https://www.komen.org/" target="blank" title="Join the race" font_family="Georgia, serif" custom_background="#c72b77" custom_hover_background="#ea7eb1" font_size="24px" letter_spacing="1px" border_radius="5px" text_source="custom_text"]Join the race[/vcex_button][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1546919852029{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg2-baby.jpg?id=13) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2"][/vc_column][vc_column width="1/2" css=".vc_custom_1489539206829{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}"][vcex_heading text="There is HOPE." tag="h2" font_family="Georgia, serif" text_align="right" font_size="48px" color="#ea7eb1" css=".vc_custom_1489955399808{margin-bottom: 10px !important;}" line_height="1.2" font_weight="normal"][vc_column_text]</p>
 <p style="text-align: right;">Check yourself and get screened regularly. Want to do more? Consider making a donation to fund research and help put an end to breast cancer.</p>
-<p>[/vc_column_text][vcex_spacing][vcex_button url="https://secure.info-komen.org/site/Donation2?df_id=17567&amp;17567.donation=form1&amp;_ga=1.94583836.1091803259.1443894615" target="blank" title="Donate today" align="right" font_family="Georgia, serif" custom_background="#ea7eb1" custom_hover_background="#c72b77" font_size="24px" letter_spacing="1px" border_radius="5px"]Donate today[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1546919868909{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg3-bra.jpg?id=14) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_column_text line_height="1.5"]</p>
+<p>[/vc_column_text][vcex_spacing][vcex_button url="https://www.komen.org/how-to-help/donate/other-ways/" target="blank" title="Donate today" align="right" font_family="Georgia, serif" custom_background="#ea7eb1" custom_hover_background="#c72b77" font_size="24px" letter_spacing="1px" border_radius="5px" text_source="custom_text"]Donate today[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1546919868909{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg3-bra.jpg?id=14) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_column_text line_height="1.5"]</p>
 <p style="text-align: center;"><span style="font-size: 48px; color: #c72b77; font-family: Georgia, serif;">“Keep your sunny side up, keep yourself beautiful, and indulge yourself!”</span></p>
 <p style="text-align: center;"><span style="font-size: 36px; color: #c72b77; font-family: Georgia, serif;">~betsy johnson~</span></p>
 <p>[/vc_column_text][/vc_column][/vc_row]</p>
@@ -64,6 +64,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 16:45:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-10-03 16:45:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-29 01:42:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-29 01:42:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -82,14 +84,6 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
@@ -105,20 +99,12 @@
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1546919835716{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg1-woman.jpg?id=12) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1546919852029{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg2-baby.jpg?id=13) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1546919868909{background-image: url(https://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg3-bra.jpg?id=14) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489539310938{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}.vc_custom_1489955392192{margin-top: 30px !important;margin-bottom: 10px !important;}.vc_custom_1489539206829{padding: 30px !important;background-color: rgba(255,255,255,0.65) !important;*background-color: rgb(255,255,255) !important;}.vc_custom_1489955399808{margin-bottom: 10px !important;}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg1-woman</title>
+		<title><![CDATA[bg1-woman]]></title>
 		<link>https://total.wpexplorer.com/awareness/homepage/bg1-woman/</link>
 		<pubDate>Sat, 03 Oct 2015 17:38:05 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg1-woman.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -126,6 +112,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 17:38:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-10-03 17:38:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-10-03 17:38:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-10-03 17:38:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg1-woman]]></wp:post_name>
@@ -146,10 +134,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg2-baby</title>
+		<title><![CDATA[bg2-baby]]></title>
 		<link>https://total.wpexplorer.com/awareness/homepage/bg2-baby/</link>
 		<pubDate>Sat, 03 Oct 2015 17:38:06 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg2-baby.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -157,6 +145,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 17:38:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-10-03 17:38:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-10-03 17:38:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-10-03 17:38:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg2-baby]]></wp:post_name>
@@ -177,10 +167,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg3-bra</title>
+		<title><![CDATA[bg3-bra]]></title>
 		<link>https://total.wpexplorer.com/awareness/homepage/bg3-bra/</link>
 		<pubDate>Sat, 03 Oct 2015 17:38:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/bg3-bra.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -188,6 +178,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 17:38:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-10-03 17:38:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-10-03 17:38:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-10-03 17:38:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg3-bra]]></wp:post_name>
@@ -208,10 +200,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pinkribbon</title>
+		<title><![CDATA[pinkribbon]]></title>
 		<link>https://total.wpexplorer.com/awareness/homepage/pinkribbon/</link>
 		<pubDate>Sat, 03 Oct 2015 19:20:47 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/awareness/wp-content/uploads/sites/41/2015/10/pinkribbon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -219,6 +211,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2015-10-03 19:20:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-10-03 19:20:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-10-03 19:20:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-10-03 19:20:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pinkribbon]]></wp:post_name>
@@ -239,10 +233,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Layout - Footer</title>
+		<title><![CDATA[Layout - Footer]]></title>
 		<link>https://total.wpexplorer.com/awareness/templatera/layout-footer/</link>
 		<pubDate>Tue, 05 Jan 2021 22:10:56 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/awareness/templatera/layout-footer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" css=".vc_custom_1443901947561{padding-top: 75px !important;padding-bottom: 40px !important;background-color: #ea7eb1 !important;}"][vc_column width="1/3"][vcex_heading text="Learn more." font_family="Georgia, serif" font_size="36px" color="#ffffff" css=".vc_custom_1443895694714{margin-bottom: 15px !important;}"][vcex_heading text="komen.org" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fww5.komen.org%2F|title:komen.org|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="the3day.org" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.the3day.org%2F|title:the3day.org|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="cancer.org" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.cancer.org%2Fhealthy%2Fmorewaysacshelpsyoustaywell%2Fbreastcancer|title:cancer.org|target:%20_blank" color_hover="#f8d6e6"][/vc_column][vc_column width="1/3"][vcex_heading text="Helpful tips." font_family="Georgia, serif" font_size="36px" color="#ffffff" css=".vc_custom_1443895704772{margin-bottom: 15px !important;}"][vcex_heading text="risk calculator" font_size="24px" color="#ffffff" link="url:https%3A%2F%2Fwww.yahoo.com%2Fhealth%2Fthis-online-calculator-predicts-your-risk-of-171711821.html|title:risk%20calculator|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="inspiring celebrities" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.huffingtonpost.com%2F2014%2F10%2F01%2Finspiring-quotes-from-rea_n_5701406.html|title:inspiring%20celebrities|target:%20_blank" color_hover="#f8d6e6"][vcex_heading text="reducing your risk" font_size="24px" color="#ffffff" link="url:http%3A%2F%2Fwww.cbsnews.com%2Fmedia%2Fbreast-cancer-6-ways-to-reduce-your-risk%2F|title:reducing%20your%20risk|target:%20_blank" color_hover="#f8d6e6"][/vc_column][vc_column width="1/3"][vcex_heading text="Follow us." font_family="Georgia, serif" font_size="36px" color="#ffffff" css=".vc_custom_1443895711320{margin-bottom: 15px !important;}"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2FSusanGKomen%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22https%3A%2F%2Fwww.facebook.com%2FSusanGKomen%22%7D%2C%7B%22site%22%3A%22pinterest%22%2C%22link%22%3A%22https%3A%2F%2Fwww.pinterest.com%2Fsusangkomen%22%7D%2C%7B%22site%22%3A%22instagram%22%2C%22link%22%3A%22http%3A%2F%2Finstagram.com%2Fsusangkomen%22%7D%2C%7B%22site%22%3A%22linkedin%22%2C%22link%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fcompany%2F14555%3Ftrk%3Dtyah%26trkInfo%3Didx%3A2-1-6%2CtarId%3A1423068188594%2Ctas%3Asusan%2B%22%7D%2C%7B%22site%22%3A%22flickr%22%2C%22link%22%3A%22http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fsusangkomenforthecure%22%7D%2C%7B%22site%22%3A%22youtube%22%2C%22link%22%3A%22http%3A%2F%2Fyoutube.com%2Fkomenforthecure%22%7D%2C%7B%22site%22%3A%22rss%22%2C%22link%22%3A%22http%3A%2F%2Fblog.komen.org%2F%3Ffeed%3Drss2%22%7D%5D" twitter="https://twitter.com/SusanGKomen" facebook="https://www.facebook.com/SusanGKomen" pinterest="https://www.pinterest.com/susangkomen" instagram="http://instagram.com/susangkomen" linkedin="https://www.linkedin.com/company/14555?trk=tyah&amp;trkInfo=idx:2-1-6,tarId:1423068188594,tas:susan+" flickr="http://www.flickr.com/photos/susangkomenforthecure" youtube="http://youtube.com/komenforthecure" rss="http://blog.komen.org/?feed=rss2" css=".vc_custom_1609885196611{background-color: #ef9bc3 !important;}" width="50px" height="50px" style="black"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1443901548694{background-color: #ea7eb1 !important;}"][vc_column][vcex_divider color="#ef9bc3" icon="ticon ticon-heart" height="2px" icon_color="#ffffff" icon_size="18px"][vcex_spacing][vc_column_text text_align="center" color="#ffffff" font_size="0.8em"]Theme demo created with Total WP Theme[/vc_column_text][/vc_column][/vc_row]</p>
@@ -251,6 +245,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 22:10:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 22:10:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 22:21:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 22:21:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[layout-footer]]></wp:post_name>
@@ -263,14 +259,6 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1443901947561{padding-top: 75px !important;padding-bottom: 40px !important;background-color: #ea7eb1 !important;}.vc_custom_1443901548694{background-color: #ea7eb1 !important;}.vc_custom_1443895694714{margin-bottom: 15px !important;}.vc_custom_1443895704772{margin-bottom: 15px !important;}.vc_custom_1443895711320{margin-bottom: 15px !important;}.vc_custom_1609885196611{background-color: #ef9bc3 !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

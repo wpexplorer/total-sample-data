@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-23 01:17" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-05 22:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Square Media</title>
 	<link>https://total.wpexplorer.com/square-media</link>
 	<description>Better Web Design</description>
-	<pubDate>Sat, 23 Jan 2021 01:17:44 +0000</pubDate>
+	<pubDate>Thu, 05 May 2022 22:42:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
 	<wp:base_blog_url>https://total.wpexplorer.com/square-media</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totalthememain]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>6</wp:term_id>
@@ -64,39 +64,18 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-				<wp:term>
-		<wp:term_id>7</wp:term_id>
-		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[design]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Design]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>8</wp:term_id>
-		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[marketing]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Marketing]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>9</wp:term_id>
-		<wp:term_taxonomy><![CDATA[portfolio_category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[seo]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[SEO]]></wp:term_name>
-	</wp:term>
-			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
+					<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer]]></wp:term_slug><wp:term_name><![CDATA[Footer]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 		<item>
-		<title>best-hosting</title>
+		<title><![CDATA[best-hosting]]></title>
 		<link>https://total.wpexplorer.com/square-media/the-best-wordpress-hosting-for-your-website/best-hosting/</link>
 		<pubDate>Wed, 20 Jan 2021 01:16:27 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/best-hosting.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -104,6 +83,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 01:16:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 01:16:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 01:16:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 01:16:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-hosting]]></wp:post_name>
@@ -124,10 +105,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>choosing-a-theme</title>
+		<title><![CDATA[choosing-a-theme]]></title>
 		<link>https://total.wpexplorer.com/square-media/how-to-choose-the-best-wordpress-theme/choosing-a-theme/</link>
 		<pubDate>Wed, 20 Jan 2021 01:17:12 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/choosing-a-theme.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -135,6 +116,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 01:17:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 01:17:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 01:17:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 01:17:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[choosing-a-theme]]></wp:post_name>
@@ -155,10 +138,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>james-jackson</title>
+		<title><![CDATA[james-jackson]]></title>
 		<link>https://total.wpexplorer.com/square-media/homepage/james-jackson/</link>
 		<pubDate>Wed, 20 Jan 2021 02:56:23 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/james-jackson.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -166,6 +149,8 @@
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 02:56:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 02:56:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 02:56:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 02:56:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[james-jackson]]></wp:post_name>
@@ -186,10 +171,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>person10</title>
+		<title><![CDATA[person10]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/angela-reading/person10/</link>
 		<pubDate>Wed, 20 Jan 2021 19:05:10 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/person10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -197,6 +182,8 @@
 		<wp:post_id>133</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:05:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:05:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:05:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:05:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[person10]]></wp:post_name>
@@ -217,10 +204,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>person2</title>
+		<title><![CDATA[person2]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/jake-monroe/person2/</link>
 		<pubDate>Wed, 20 Jan 2021 19:12:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/person2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -228,6 +215,8 @@
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:12:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:12:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:12:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:12:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[person2]]></wp:post_name>
@@ -248,10 +237,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>person15</title>
+		<title><![CDATA[person15]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/liza-carrington/person15/</link>
 		<pubDate>Wed, 20 Jan 2021 19:14:03 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/person15.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -259,6 +248,8 @@
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:14:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:14:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:14:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:14:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[person15]]></wp:post_name>
@@ -279,10 +270,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>person6</title>
+		<title><![CDATA[person6]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/phil-johnston/person6/</link>
 		<pubDate>Wed, 20 Jan 2021 19:14:48 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/person6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -290,6 +281,8 @@
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:14:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:14:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:14:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:14:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[person6]]></wp:post_name>
@@ -310,10 +303,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>person5</title>
+		<title><![CDATA[person5]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/jane-mason/person5/</link>
 		<pubDate>Wed, 20 Jan 2021 19:15:20 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/person5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -321,6 +314,8 @@
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:15:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:15:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:15:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:15:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[person5]]></wp:post_name>
@@ -341,10 +336,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>person4</title>
+		<title><![CDATA[person4]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/eric-obrian/person4/</link>
 		<pubDate>Wed, 20 Jan 2021 19:16:04 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/person4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -352,6 +347,8 @@
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:16:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:16:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:16:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:16:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[person4]]></wp:post_name>
@@ -372,10 +369,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-1</title>
+		<title><![CDATA[portfolio-1]]></title>
 		<link>https://total.wpexplorer.com/square-media/portfolio-1/</link>
 		<pubDate>Wed, 20 Jan 2021 19:43:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/portfolio-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -383,6 +380,8 @@
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:43:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:43:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:43:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:43:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-1]]></wp:post_name>
@@ -399,14 +398,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:23:"2021/01/portfolio-1.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:23:"portfolio-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:23:"portfolio-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_500x500";a:5:{s:4:"file";s:23:"portfolio-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:23:"2021/01/portfolio-1.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:23:"portfolio-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:23:"portfolio-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_500x500";a:5:{s:4:"file";s:23:"portfolio-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_500x500@2x";a:5:{s:4:"file";s:26:"portfolio-1-500x500@2x.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-2</title>
+		<title><![CDATA[portfolio-2]]></title>
 		<link>https://total.wpexplorer.com/square-media/portfolio-2/</link>
 		<pubDate>Wed, 20 Jan 2021 19:44:01 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/portfolio-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -414,6 +413,8 @@
 		<wp:post_id>157</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:44:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:44:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:44:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:44:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-2]]></wp:post_name>
@@ -434,10 +435,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portfolio-10</title>
+		<title><![CDATA[portfolio-10]]></title>
 		<link>https://total.wpexplorer.com/square-media/work/portfolio-10/</link>
 		<pubDate>Wed, 20 Jan 2021 20:05:19 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/portfolio-10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -445,6 +446,8 @@
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 20:05:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 20:05:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 20:05:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 20:05:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio-10]]></wp:post_name>
@@ -465,10 +468,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>square-media-2x</title>
+		<title><![CDATA[square-media-2x]]></title>
 		<link>https://total.wpexplorer.com/square-media/square-media-2x/</link>
 		<pubDate>Thu, 21 Jan 2021 01:35:29 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/square-media-2x.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -476,6 +479,8 @@
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 01:35:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 01:35:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 01:35:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 01:35:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[square-media-2x]]></wp:post_name>
@@ -496,10 +501,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>what-is-wordpress</title>
+		<title><![CDATA[what-is-wordpress]]></title>
 		<link>https://total.wpexplorer.com/square-media/what-is-wordpress-and-how-to-get-started/what-is-wordpress/</link>
 		<pubDate>Thu, 21 Jan 2021 02:27:50 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/what-is-wordpress.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -507,6 +512,8 @@
 		<wp:post_id>193</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:27:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:27:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:27:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:27:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-is-wordpress]]></wp:post_name>
@@ -527,10 +534,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>musthave-plugins</title>
+		<title><![CDATA[musthave-plugins]]></title>
 		<link>https://total.wpexplorer.com/square-media/must-have-wordpress-plugins-for-every-website/musthave-plugins/</link>
 		<pubDate>Thu, 21 Jan 2021 02:36:24 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/musthave-plugins.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -538,6 +545,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:36:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:36:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:36:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:36:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[musthave-plugins]]></wp:post_name>
@@ -558,10 +567,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>total-wordpress-theme</title>
+		<title><![CDATA[total-wordpress-theme]]></title>
 		<link>https://total.wpexplorer.com/square-media/how-to-choose-the-best-wordpress-theme/total-wordpress-theme/</link>
 		<pubDate>Thu, 21 Jan 2021 02:40:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/total-wordpress-theme.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -569,6 +578,8 @@
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:40:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:40:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:40:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:40:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total-wordpress-theme]]></wp:post_name>
@@ -589,10 +600,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>wpengine</title>
+		<title><![CDATA[wpengine]]></title>
 		<link>https://total.wpexplorer.com/square-media/the-best-wordpress-hosting-for-your-website/wpengine/</link>
 		<pubDate>Thu, 21 Jan 2021 02:41:57 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/wpengine.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -600,6 +611,8 @@
 		<wp:post_id>197</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:41:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:41:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:41:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:41:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wpengine]]></wp:post_name>
@@ -620,10 +633,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cloudways</title>
+		<title><![CDATA[cloudways]]></title>
 		<link>https://total.wpexplorer.com/square-media/the-best-wordpress-hosting-for-your-website/cloudways/</link>
 		<pubDate>Thu, 21 Jan 2021 02:42:05 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/cloudways.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -631,6 +644,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:42:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:42:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:42:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:42:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cloudways]]></wp:post_name>
@@ -651,10 +666,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bluehost</title>
+		<title><![CDATA[bluehost]]></title>
 		<link>https://total.wpexplorer.com/square-media/the-best-wordpress-hosting-for-your-website/bluehost/</link>
 		<pubDate>Thu, 21 Jan 2021 02:42:11 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/bluehost.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -662,6 +677,8 @@
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:42:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:42:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:42:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:42:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bluehost]]></wp:post_name>
@@ -682,10 +699,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>website-seo</title>
+		<title><![CDATA[website-seo]]></title>
 		<link>https://total.wpexplorer.com/square-media/everything-you-need-to-know-about-seo/website-seo/</link>
 		<pubDate>Thu, 21 Jan 2021 03:19:56 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/website-seo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -693,6 +710,8 @@
 		<wp:post_id>211</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 03:19:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 03:19:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:19:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:19:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[website-seo]]></wp:post_name>
@@ -713,17 +732,20 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://total.wpexplorer.com/square-media/contact/</link>
 		<pubDate>Tue, 19 Jan 2021 23:44:28 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=26</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row gap="20"][vc_column width="2/3"][vcex_image image_id="223"][/vc_column][vc_column width="1/3"][vcex_spacing size="100px" visibility="hidden-phone"][vcex_heading text="Get in Touch Today" bottom_margin="20px" font_size="28px"][vc_column_text]Need a quote or just looking to say hi? Don't be scared to send us a message![/vc_column_text][vcex_spacing size="20px"][vcex_button url="mailto:dummy@wpexplorer.com" style="plain-text" font_size="24px" custom_color="#111111" font_weight="300"]dummy@wpexplorer.com[/vcex_button][vcex_spacing size="40px"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22https%3A%2F%2Fwww.facebook.com%2FWPExplorerThemes%2F%22%7D%2C%7B%22site%22%3A%22linkedin%22%2C%22link%22%3A%22https%3A%2F%2Fwww.linkedin.com%2F%22%7D%5D" spacing="15px" style="black-ch" size="16px" width="40px" height="35px" line_height="35px"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[<p>[vc_row content_placement="middle" gap="20"][vc_column width="2/3"][vcex_image image_id="223"][/vc_column][vc_column width="1/3"][vcex_heading text="Get in Touch Today" bottom_margin="20px" font_size="28px"][vc_column_text]Need a quote or just looking to say hi? Don't be scared to send us a message![/vc_column_text][vcex_spacing size="20px"][vcex_button url="mailto:dummy@wpexplorer.com" style="plain-text" font_size="d:24px|tp:16px" custom_color="#111111" font_weight="300" text_source="custom_text"]dummy@wpexplorer.com[/vcex_button][vcex_spacing size="40px"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22https%3A%2F%2Fwww.facebook.com%2FWPExplorerThemes%2F%22%7D%2C%7B%22site%22%3A%22linkedin%22%2C%22link%22%3A%22https%3A%2F%2Fwww.linkedin.com%2F%22%7D%5D" spacing="15px" style="black-ch" size="16px" width="40px" height="35px" line_height="35px"][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:44:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:44:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:46:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:46:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -734,20 +756,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -755,10 +765,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Employement</title>
+		<title><![CDATA[Employement]]></title>
 		<link>https://total.wpexplorer.com/square-media/28/</link>
 		<pubDate>Tue, 19 Jan 2021 23:45:51 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -766,6 +776,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:45:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:45:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:18:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:18:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[28]]></wp:post_name>
@@ -810,10 +822,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/square-media/29/</link>
 		<pubDate>Tue, 19 Jan 2021 23:45:51 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=29</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -821,6 +833,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:45:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:45:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:18:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:18:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[29]]></wp:post_name>
@@ -865,10 +879,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>RSS Feed</title>
+		<title><![CDATA[RSS Feed]]></title>
 		<link>https://total.wpexplorer.com/square-media/rss-feed/</link>
 		<pubDate>Tue, 19 Jan 2021 23:45:51 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -876,6 +890,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:45:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:45:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:18:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:18:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rss-feed]]></wp:post_name>
@@ -920,40 +936,31 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Total</title>
+		<title><![CDATA[Total]]></title>
 		<link>https://total.wpexplorer.com/square-media/total/</link>
 		<pubDate>Tue, 19 Jan 2021 23:48:04 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* Underline certain links */
-.navbar-style-one .dropdown-menu > li.menu-item > a:hover > .link-inner,
-.vcex-post-meta a,
-a.theme-txt-link,
-.sqm-copyright a,
-.single .vcex-post-content-c a,
-.vcex-icon-box-content a,
-.author-bio-title a { text-decoration: underline; }
-
-/* Copyright Link Edits */
+		<content:encoded><![CDATA[/* Copyright Link Edits */
 .square-media-copyright a { color: inherit; }
 
-/* Slim down hamburger mobile menu */
-.wpex-bars { width: 30px; }
-.wpex-bars > span,
-.wpex-bars > span::before,
-.wpex-bars > span::after {
-	height: 1px;
-}
-
-/* Make mobile menu links white */
+/* Remove hover opacity on mobile menu */
 .full-screen-overlay-nav.black a {
 	opacity: 1;
+}
+
+/* Remove breadcrumbs underline on links */
+.vcex-breadcrumbs {
+	--wpex-link-text-decoration: none;
+	--wpex-hover-link-text-decoration: none;
 }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:48:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:48:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-26 23:13:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-26 23:13:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -965,10 +972,10 @@ a.theme-txt-link,
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/square-media/39/</link>
 		<pubDate>Wed, 20 Jan 2021 00:17:21 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=39</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -976,6 +983,8 @@ a.theme-txt-link,
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:17:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:17:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:18:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:18:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[39]]></wp:post_name>
@@ -1020,10 +1029,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/square-media/42/</link>
 		<pubDate>Wed, 20 Jan 2021 00:17:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=42</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1031,6 +1040,8 @@ a.theme-txt-link,
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:17:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:17:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:17:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:17:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[42]]></wp:post_name>
@@ -1075,10 +1086,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/square-media/44/</link>
 		<pubDate>Wed, 20 Jan 2021 00:18:11 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1086,6 +1097,8 @@ a.theme-txt-link,
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:18:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:18:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:17:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:17:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[44]]></wp:post_name>
@@ -1130,10 +1143,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/square-media/47/</link>
 		<pubDate>Wed, 20 Jan 2021 00:18:47 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1141,6 +1154,8 @@ a.theme-txt-link,
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:18:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:18:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:17:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:17:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[47]]></wp:post_name>
@@ -1185,10 +1200,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/square-media/48/</link>
 		<pubDate>Wed, 20 Jan 2021 00:18:47 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1196,6 +1211,8 @@ a.theme-txt-link,
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:18:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:18:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:18:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:18:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[48]]></wp:post_name>
@@ -1240,10 +1257,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>make-money</title>
+		<title><![CDATA[make-money]]></title>
 		<link>https://total.wpexplorer.com/square-media/learn-how-to-make-money-online/make-money/</link>
 		<pubDate>Thu, 21 Jan 2021 03:22:50 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/make-money.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1251,6 +1268,8 @@ a.theme-txt-link,
 		<wp:post_id>213</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 03:22:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 03:22:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:22:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:22:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[make-money]]></wp:post_name>
@@ -1271,10 +1290,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>azonpress</title>
+		<title><![CDATA[azonpress]]></title>
 		<link>https://total.wpexplorer.com/square-media/learn-how-to-make-money-online/azonpress/</link>
 		<pubDate>Thu, 21 Jan 2021 03:23:50 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/azonpress.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1282,6 +1301,8 @@ a.theme-txt-link,
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 03:23:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 03:23:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:23:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[azonpress]]></wp:post_name>
@@ -1302,10 +1323,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woocommerce</title>
+		<title><![CDATA[woocommerce]]></title>
 		<link>https://total.wpexplorer.com/square-media/learn-how-to-make-money-online/woocommerce/</link>
 		<pubDate>Thu, 21 Jan 2021 03:24:07 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/woocommerce.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1313,6 +1334,8 @@ a.theme-txt-link,
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 03:24:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 03:24:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:24:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:24:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woocommerce]]></wp:post_name>
@@ -1333,10 +1356,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://total.wpexplorer.com/square-media/home/</link>
 		<pubDate>Thu, 21 Jan 2021 04:17:30 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1344,6 +1367,8 @@ a.theme-txt-link,
 		<wp:post_id>219</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 04:17:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 04:17:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:17:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:17:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1388,10 +1413,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>services</title>
+		<title><![CDATA[services]]></title>
 		<link>https://total.wpexplorer.com/square-media/services/services-3/</link>
 		<pubDate>Thu, 21 Jan 2021 04:28:46 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/services-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1399,6 +1424,8 @@ a.theme-txt-link,
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 04:28:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 04:28:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services-3]]></wp:post_name>
@@ -1419,10 +1446,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>services-2</title>
+		<title><![CDATA[services-2]]></title>
 		<link>https://total.wpexplorer.com/square-media/services/services-2/</link>
 		<pubDate>Thu, 21 Jan 2021 04:31:38 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/services-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1430,6 +1457,8 @@ a.theme-txt-link,
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 04:31:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 04:31:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:31:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:31:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services-2]]></wp:post_name>
@@ -1450,10 +1479,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact</title>
+		<title><![CDATA[contact]]></title>
 		<link>https://total.wpexplorer.com/square-media/contact/contact-2/</link>
 		<pubDate>Thu, 21 Jan 2021 04:45:45 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/contact.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1461,6 +1490,8 @@ a.theme-txt-link,
 		<wp:post_id>223</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 04:45:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 04:45:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:45:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:45:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-2]]></wp:post_name>
@@ -1481,10 +1512,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>employement</title>
+		<title><![CDATA[employement]]></title>
 		<link>https://total.wpexplorer.com/square-media/jobs/employement/</link>
 		<pubDate>Thu, 21 Jan 2021 05:08:49 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/employement.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1492,6 +1523,8 @@ a.theme-txt-link,
 		<wp:post_id>224</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 05:08:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 05:08:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:08:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:08:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[employement]]></wp:post_name>
@@ -1512,10 +1545,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Jobs</title>
+		<title><![CDATA[Jobs]]></title>
 		<link>https://total.wpexplorer.com/square-media/jobs/</link>
 		<pubDate>Thu, 21 Jan 2021 05:18:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/jobs/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1523,6 +1556,8 @@ a.theme-txt-link,
 		<wp:post_id>227</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 05:18:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 05:18:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:18:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:18:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jobs]]></wp:post_name>
@@ -1567,10 +1602,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>shapes</title>
+		<title><![CDATA[shapes]]></title>
 		<link>https://total.wpexplorer.com/square-media/homepage/shapes/</link>
 		<pubDate>Thu, 21 Jan 2021 22:22:06 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/shapes.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1578,6 +1613,8 @@ a.theme-txt-link,
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 22:22:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 22:22:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 22:22:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 22:22:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shapes]]></wp:post_name>
@@ -1598,10 +1635,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Jobs</title>
+		<title><![CDATA[Jobs]]></title>
 		<link>https://total.wpexplorer.com/square-media/jobs/</link>
 		<pubDate>Tue, 19 Jan 2021 23:45:24 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row columns_right="yes"][vc_column width="1/2"][vcex_image align="center" image_id="224" img_width="1000" img_height="1000"][/vc_column][vc_column width="1/2"][vcex_heading style="bottom-border" text="Open Positions" bottom_margin="50px" border_width="1" border_color="#0a0a0a" el_class="wpex-inline-block" font_weight="bold" font_size="24px"][vcex_icon_box bottom_margin="50px" icon_spacing="40px" heading="Graphic Designer" icon="ticon ticon-tint" heading_type="h2" heading_weight="semibold" heading_size="18px" icon_background="#eeeeee" icon_width="60px" icon_height="60px" icon_color="#444444" icon_border_radius="9999px"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
@@ -1615,6 +1652,8 @@ a.theme-txt-link,
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:45:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:45:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:18:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:18:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jobs]]></wp:post_name>
@@ -1625,20 +1664,8 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -1646,10 +1673,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Homepage</title>
+		<title><![CDATA[Homepage]]></title>
 		<link>https://total.wpexplorer.com/square-media/</link>
 		<pubDate>Wed, 20 Jan 2021 00:11:05 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1611268159459{padding-top: 40px !important;padding-bottom: 40px !important;background: #0a0a0a url(https://total.wpexplorer.com/square-media/wp-content/uploads/sites/58/2021/01/shapes.png?id=236) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}" wpex_bg_position="90% top" wpex_bg_size="30%"][vc_column][vcex_spacing size="160px" visibility="hide-at-mm-breakpoint"][vcex_heading text="We are Square Media" bottom_margin="20px" tag="h1" font_size="d:58px|tp:34px" color="#ffffff"][vc_column_text font_size="d:24px|tp:18px" color="#ffffff" font_weight="500" width="900px" align="left"]Located in the heart of Las Vegas we create beautiful websites and powerful WordPress themes. Check out our latest work below.[/vc_column_text][vcex_spacing size="80px" visibility="hide-at-mm-breakpoint"][/vc_column][/vc_row][vc_row css=".vc_custom_1611110937030{margin-top: 100px !important;}"][vc_column width="1/3"][vcex_icon_box style="two" heading="Out of this World" icon="ticon ticon-grav" icon_size="60px"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Modern Design" icon="ticon ticon-tint" icon_size="60px"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Preferred Security" icon="ticon ticon-shield" icon_size="60px"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vcex_icon_box][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1611172512970{margin-top: 60px !important;padding-top: 80px !important;padding-right: 20px !important;padding-bottom: 80px !important;padding-left: 20px !important;background-color: #f4f4f4 !important;}"][vc_column][vc_column_text text_align="center" font_size="2em" font_family="Abril Fatface"]"My favorite template from years ago, and it’s always better."[/vc_column_text][vcex_spacing][vc_column_text text_align="center" color="#666666"]- James Blunt[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1611109543331{margin-top: 60px !important;}"][vc_column][vcex_heading text="Latest from the blog" bottom_margin="30px" tag="h2" font_size="24px"][wpex_post_cards posts_per_page="3" card_style="blog_8" grid_spacing="35"][/vc_column][/vc_row]</p>
@@ -1658,6 +1685,8 @@ a.theme-txt-link,
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:11:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:11:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 22:29:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 22:29:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -1668,20 +1697,8 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
@@ -1693,10 +1710,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://total.wpexplorer.com/square-media/blog/</link>
 		<pubDate>Wed, 20 Jan 2021 00:11:18 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1704,6 +1721,8 @@ a.theme-txt-link,
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:11:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:11:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:11:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:11:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1714,20 +1733,8 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -1735,10 +1742,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Team</title>
+		<title><![CDATA[Team]]></title>
 		<link>https://total.wpexplorer.com/square-media/team/</link>
 		<pubDate>Wed, 20 Jan 2021 00:17:36 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=41</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row][vc_column][wpex_post_cards post_types="staff" thumbnail_size="staff_entry" card_style="staff_1" grid_spacing="40" grid_columns_responsive_settings="tp:2|pl:2|pp:1"][/vc_column][/vc_row]</p>
@@ -1747,6 +1754,8 @@ a.theme-txt-link,
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:17:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:17:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:57:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:57:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team]]></wp:post_name>
@@ -1757,20 +1766,8 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -1778,10 +1775,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services</title>
+		<title><![CDATA[Services]]></title>
 		<link>https://total.wpexplorer.com/square-media/services/</link>
 		<pubDate>Wed, 20 Jan 2021 00:17:58 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row columns_right="yes"][vc_column width="2/3"][vcex_image image_id="221" img_width="1000" img_height="800"][/vc_column][vc_column width="1/3"][vcex_heading style="bottom-border" text="Web Design" bottom_margin="20px" border_color="#0a0a0a" tag="h2" el_class="wpex-inline-block"][vc_column_text]Suspendisse vehicula tortor ut egestas placerat. Vestibulum sed feugiat enim. Cras at elit nunc. Aliquam vulputate libero nec nibh efficitur mollis. Aenean massa velit, lacinia maximus suscipit mattis, egestas sit amet elit. Duis nec nunc eleifend, lobortis odio nec, pretium felis.[/vc_column_text][vcex_spacing size="60px"][vcex_heading style="bottom-border" text="Online Marketing" bottom_margin="20px" border_color="#0a0a0a" tag="h2" el_class="wpex-inline-block"][vc_column_text]Suspendisse vehicula tortor ut egestas placerat. Vestibulum sed feugiat enim. Cras at elit nunc. Aliquam vulputate libero nec nibh efficitur mollis. Aenean massa velit, lacinia maximus suscipit mattis, egestas sit amet elit. Duis nec nunc eleifend, lobortis odio nec, pretium felis.[/vc_column_text][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1611203702928{padding-top: 60px !important;padding-bottom: 100px !important;}"][vc_column][vc_column_text width="800px" align="center" color="#000000" font_size="24px" font_weight="normal" font_family="Abril Fatface" text_align="center"]"Don't look any further, Square Media has your back and will get your site up and running in no time and in a professional manner."[/vc_column_text][/vc_column][/vc_row][vc_row columns_right="yes"][vc_column width="2/3"][vcex_image image_id="222"][/vc_column][vc_column width="1/3"][vcex_heading style="bottom-border" text="Social Media" bottom_margin="20px" border_color="#0a0a0a" tag="h2" el_class="wpex-inline-block"][vc_column_text]Suspendisse vehicula tortor ut egestas placerat. Vestibulum sed feugiat enim. Cras at elit nunc. Aliquam vulputate libero nec nibh efficitur mollis. Aenean massa velit, lacinia maximus suscipit mattis, egestas sit amet elit. Duis nec nunc eleifend, lobortis odio nec, pretium felis.[/vc_column_text][vcex_spacing size="60px"][vcex_heading style="bottom-border" text="Branding" bottom_margin="20px" border_color="#0a0a0a" tag="h2" el_class="wpex-inline-block"][vc_column_text]Suspendisse vehicula tortor ut egestas placerat. Vestibulum sed feugiat enim. Cras at elit nunc. Aliquam vulputate libero nec nibh efficitur mollis. Aenean massa velit, lacinia maximus suscipit mattis, egestas sit amet elit. Duis nec nunc eleifend, lobortis odio nec, pretium felis.[/vc_column_text][/vc_column][/vc_row]</p>
@@ -1790,6 +1787,8 @@ a.theme-txt-link,
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:17:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:17:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 04:52:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 04:52:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -1800,20 +1799,8 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
@@ -1825,18 +1812,19 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Work</title>
+		<title><![CDATA[Work]]></title>
 		<link>https://total.wpexplorer.com/square-media/work/</link>
 		<pubDate>Wed, 20 Jan 2021 00:18:16 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=45</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row gap="20" remove_bottom_col_margin="true" css=".vc_custom_1611205290139{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}"][vc_column width="1/3"][vcex_image image_id="156" img_width="500" img_height="500"][vcex_spacing visibility="visible-phone"][/vc_column][vc_column width="2/3"][vcex_heading text="Copyrighting for Forbes.com" bottom_margin="20px" tag="h2" font_size="28px"][vc_column_text]Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com/" target="blank" icon_right="ticon ticon-angle-double-right"]Visit site[/vcex_button][/vc_column][/vc_row][vc_row gap="20" remove_bottom_col_margin="true" columns_right="yes" css=".vc_custom_1611198488073{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}"][vc_column width="1/3"][vcex_image image_id="157" img_width="500" img_height="500"][vcex_spacing visibility="visible-phone"][/vc_column][vc_column width="2/3"][vcex_heading text="Scheduling System for Envato.com" bottom_margin="20px" tag="h2" font_size="28px"][vc_column_text]Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com/" target="blank" icon_right="ticon ticon-angle-double-right"]Visit site[/vcex_button][/vc_column][/vc_row][vc_row gap="20" remove_bottom_col_margin="true" css=".vc_custom_1611198499143{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}"][vc_column width="1/3"][vcex_image image_id="161" img_width="500" img_height="500"][vcex_spacing visibility="visible-phone"][/vc_column][vc_column width="2/3"][vcex_heading text="Site Translation for WPExplorer.com" bottom_margin="20px" tag="h2" font_size="28px"][vc_column_text]Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com/" target="blank" icon_right="ticon ticon-angle-double-right"]Visit site[/vcex_button][/vc_column][/vc_row]</p>
-]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row gap="20" remove_bottom_col_margin="true" css=".vc_custom_1642112244418{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}"][vc_column width="1/3"][vcex_image image_id="156" img_width="500" img_height="500"][vcex_spacing visibility="visible-phone"][/vc_column][vc_column width="2/3"][vcex_heading text="Copyrighting for Forbes.com" bottom_margin="20px" tag="h2" font_size="28px"][vc_column_text]Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com/" target="blank" icon_right="ticon ticon-angle-double-right"]Visit site[/vcex_button][/vc_column][/vc_row][vc_row gap="20" remove_bottom_col_margin="true" columns_right="yes" css=".vc_custom_1611198488073{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}"][vc_column width="1/3"][vcex_image image_id="157" img_width="500" img_height="500"][vcex_spacing visibility="visible-phone"][/vc_column][vc_column width="2/3"][vcex_heading text="Scheduling System for Envato.com" bottom_margin="20px" tag="h2" font_size="28px"][vc_column_text]Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com/" target="blank" icon_right="ticon ticon-angle-double-right"]Visit site[/vcex_button][/vc_column][/vc_row][vc_row gap="20" remove_bottom_col_margin="true" css=".vc_custom_1611198499143{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}"][vc_column width="1/3"][vcex_image image_id="161" img_width="500" img_height="500"][vcex_spacing visibility="visible-phone"][/vc_column][vc_column width="2/3"][vcex_heading text="Site Translation for WPExplorer.com" bottom_margin="20px" tag="h2" font_size="28px"][vc_column_text]Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com/" target="blank" icon_right="ticon ticon-angle-double-right"]Visit site[/vcex_button][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:18:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:18:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-13 22:22:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-13 22:22:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[work]]></wp:post_name>
@@ -1847,24 +1835,12 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1611205290139{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}.vc_custom_1611198488073{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}.vc_custom_1611198499143{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1642112244418{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}.vc_custom_1611198488073{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}.vc_custom_1611198499143{margin-right: 5px !important;margin-bottom: 60px !important;margin-left: 5px !important;padding-top: 80px !important;padding-right: 4% !important;padding-bottom: 80px !important;padding-left: 4% !important;background-color: #f4f4f4 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -1872,10 +1848,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>404 Page</title>
+		<title><![CDATA[404 Page]]></title>
 		<link>https://total.wpexplorer.com/square-media/404-page/</link>
 		<pubDate>Wed, 20 Jan 2021 00:39:13 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=61</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_height="yes"][vc_column][vcex_heading text="404" tag="h1" font_size="d:200px|tp:100px" color="#ffffff" text_align="center"][vc_column_text width="700px" text_align="center" font_size="1.5em" color="#ffffff" align="center"]The page you were looking for was moved, removed, renamed or may have never existed! <a href="./">Go home</a>.[/vc_column_text][/vc_column][/vc_row]</p>
@@ -1884,6 +1860,8 @@ a.theme-txt-link,
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:39:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:39:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 00:45:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 00:45:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[404-page]]></wp:post_name>
@@ -1894,20 +1872,8 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -1939,10 +1905,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Coming Soon</title>
+		<title><![CDATA[Coming Soon]]></title>
 		<link>https://total.wpexplorer.com/square-media/coming-soon/</link>
 		<pubDate>Wed, 20 Jan 2021 00:46:10 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?page_id=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_height="yes" css=".vc_custom_1611103802590{margin-right: 20px !important;margin-left: 20px !important;}"][vc_column][vcex_icon icon="ticon ticon-cogs" align="center" color="#ffffff" custom_size="64px"][vcex_heading text="Coming Soon" responsive_text="true" tag="h1" font_size="120px" color="#ffffff" text_align="center" min_font_size="54px"][vc_column_text width="600px" text_align="center" font_size="d:1.2em|tp:1em" color="#ffffff" align="center"]We are currently under construction, please check back later. In the meantime you can follow us on <a href="https://www.facebook.com/WPExplorerThemes/">Facebook</a> and <a href="https://twitter.com/wpexplorer/">Twitter</a>.[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
@@ -1950,6 +1916,8 @@ a.theme-txt-link,
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 00:46:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 00:46:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-23 01:17:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-23 01:17:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[coming-soon]]></wp:post_name>
@@ -1960,16 +1928,8 @@ a.theme-txt-link,
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_disable_top_bar]]></wp:meta_key>
@@ -1982,10 +1942,6 @@ a.theme-txt-link,
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_disable_footer_callout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
@@ -2009,10 +1965,10 @@ a.theme-txt-link,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Best WordPress Hosting for Your Website</title>
+		<title><![CDATA[The Best WordPress Hosting for Your Website]]></title>
 		<link>https://total.wpexplorer.com/square-media/the-best-wordpress-hosting-for-your-website/</link>
 		<pubDate>Wed, 20 Jan 2021 01:02:49 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[When you decide to create a website there are three important things to decide when you get started. First- what you want to name your website (your URL). Second - what you want to use to build your website (WordPress, obviously). And third - where you want to host your website.
@@ -2046,6 +2002,8 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 01:02:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 01:02:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:42:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:42:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-wordpress-hosting-for-your-website]]></wp:post_name>
@@ -2057,27 +2015,15 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="lists"><![CDATA[Lists]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[80]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:17:50]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:17:50]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Integer tristique quis nunc non posuere. Nullam quis commodo purus. Integer vitae consectetur nulla. Donec orci nibh, pharetra quis sapien id, consequat efficitur justo. Vivamus viverra ante lacus, ac ornare risus dignissim vitae. Cras eget elit ipsum. Sed imperdiet leo ultrices sapien luctus, commodo pretium urna placerat. Proin ornare feugiat massa. Phasellus euismod facilisis aliquet. In luctus id nisl sit amet vulputate. Aenean vel felis quam. Vivamus ac ultricies est. Nam hendrerit nulla nisi, ac congue purus mollis in. Duis nec malesuada lectus, vitae ullamcorper est.]]></wp:comment_content>
@@ -2089,9 +2035,9 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 					<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:17:54]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:17:54]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Suspendisse vehicula tortor ut egestas placerat. Vestibulum sed feugiat enim. Cras at elit nunc. Aliquam vulputate libero nec nibh efficitur mollis. Aenean massa velit, lacinia maximus suscipit mattis, egestas sit amet elit. Duis nec nunc eleifend, lobortis odio nec, pretium felis. Proin accumsan aliquet risus vitae malesuada. Pellentesque tempus at mi non tristique. Quisque velit nulla, gravida aliquet purus vitae, ultrices pulvinar augue. Proin vitae turpis odio. Mauris id nulla eget justo congue hendrerit. Ut purus ante, mollis ultrices felis dignissim, tincidunt sagittis orci. Curabitur vel enim id metus mollis luctus.]]></wp:comment_content>
@@ -2103,9 +2049,9 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 					<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:18:06]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:18:06]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra nulla. Praesent sit amet hendrerit augue. Sed non ipsum vulputate, bibendum mauris ut, consequat massa. Aliquam vitae ultrices mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed porttitor luctus neque, nec posuere mi sagittis feugiat. Donec ut leo neque. Nulla quis orci ut nulla cursus tincidunt. Pellentesque quis ante erat. Sed elementum facilisis euismod. Pellentesque maximus porttitor est, eu tempus purus ullamcorper ac. Suspendisse ornare accumsan mi non tempor. Integer sed metus justo.]]></wp:comment_content>
@@ -2116,10 +2062,10 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 							</wp:comment>
 					</item>
 					<item>
-		<title>How to Choose The Best WordPress Theme</title>
+		<title><![CDATA[How to Choose The Best WordPress Theme]]></title>
 		<link>https://total.wpexplorer.com/square-media/how-to-choose-the-best-wordpress-theme/</link>
 		<pubDate>Wed, 20 Jan 2021 01:17:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=81</guid>
 		<description></description>
 		<content:encoded><![CDATA[You might not be sure what the best WordPress themes might be for your website. It's a hard question. And it really depends on what your website is about as well as your own personal style. Do you need a sidebar? What about e-commerce? Whatever your needs - you can use this guide for help.
@@ -2171,6 +2117,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 01:17:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 01:17:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 02:41:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 02:41:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-choose-the-best-wordpress-theme]]></wp:post_name>
@@ -2182,20 +2130,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="tutorials"><![CDATA[Tutorials]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[82]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -2203,10 +2139,10 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Angela Reading</title>
+		<title><![CDATA[Angela Reading]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/angela-reading/</link>
 		<pubDate>Wed, 20 Jan 2021 19:05:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=staff&#038;p=132</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.]]></content:encoded>
@@ -2214,6 +2150,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:05:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:05:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:13:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:13:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[angela-reading]]></wp:post_name>
@@ -2224,20 +2162,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[133]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_twitter]]></wp:meta_key>
@@ -2261,10 +2187,10 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Jake Monroe</title>
+		<title><![CDATA[Jake Monroe]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/jake-monroe/</link>
 		<pubDate>Wed, 20 Jan 2021 19:12:37 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=staff&#038;p=137</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.]]></content:encoded>
@@ -2272,6 +2198,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:12:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:12:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:09:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:09:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jake-monroe]]></wp:post_name>
@@ -2282,20 +2210,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[139]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
@@ -2319,10 +2235,10 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Liza Carrington</title>
+		<title><![CDATA[Liza Carrington]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/liza-carrington/</link>
 		<pubDate>Wed, 20 Jan 2021 19:14:16 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=staff&#038;p=140</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.]]></content:encoded>
@@ -2330,6 +2246,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:14:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:14:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:14:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:14:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[liza-carrington]]></wp:post_name>
@@ -2340,16 +2258,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[141]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_twitter]]></wp:meta_key>
@@ -2371,16 +2281,12 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Accountant]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>Phil Johnston</title>
+		<title><![CDATA[Phil Johnston]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/phil-johnston/</link>
 		<pubDate>Wed, 20 Jan 2021 19:14:57 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=staff&#038;p=142</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.]]></content:encoded>
@@ -2388,6 +2294,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:14:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:14:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:14:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:14:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[phil-johnston]]></wp:post_name>
@@ -2398,16 +2306,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[143]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_twitter]]></wp:meta_key>
@@ -2429,16 +2329,12 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Videographer]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>Jane Mason</title>
+		<title><![CDATA[Jane Mason]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/jane-mason/</link>
 		<pubDate>Wed, 20 Jan 2021 19:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=staff&#038;p=144</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.]]></content:encoded>
@@ -2446,6 +2342,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:15:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:15:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:15:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:15:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jane-mason]]></wp:post_name>
@@ -2456,16 +2354,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[145]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_twitter]]></wp:meta_key>
@@ -2483,16 +2373,12 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[VP of Sales]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>Eric O’Brian</title>
+		<title><![CDATA[Eric O’Brian]]></title>
 		<link>https://total.wpexplorer.com/square-media/staff-member/eric-obrian/</link>
 		<pubDate>Wed, 20 Jan 2021 19:16:26 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=staff&#038;p=146</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nunc ultrices tellus non justo sollicitudin convallis. Ut ultricies bibendum pulvinar. Cras efficitur ante quis dapibus efficitur. Duis eu massa vulputate, auctor justo tincidunt, scelerisque nibh. In euismod elementum nisl, ac eleifend tortor lobortis ut. Praesent porta risus nec tellus tempor hendrerit. Aenean orci risus, eleifend ac eleifend vel, varius in mi. Vestibulum faucibus arcu id lorem sodales, non ornare urna vestibulum. Cras fringilla eget felis vitae finibus. Pellentesque lacus massa, elementum sit amet purus nec, vestibulum interdum urna.]]></content:encoded>
@@ -2500,6 +2386,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_id>146</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:16:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:16:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:16:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:16:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[eric-obrian]]></wp:post_name>
@@ -2510,16 +2398,8 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[147]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_twitter]]></wp:meta_key>
@@ -2541,16 +2421,12 @@ With Total you can build any website you can dream up. Or take advantage of one 
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[CEO]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>What is WordPress and How to Get Started</title>
+		<title><![CDATA[What is WordPress and How to Get Started]]></title>
 		<link>https://total.wpexplorer.com/square-media/what-is-wordpress-and-how-to-get-started/</link>
 		<pubDate>Thu, 21 Jan 2021 02:29:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[So you want to build a website. We'll you're in luck - WordPress is awesome! And it can do everything you need to build the website of your dreams!
@@ -2594,6 +2470,8 @@ While this is just the beginning, you should have a basic understanding of how t
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:29:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:29:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 05:28:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 05:28:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-is-wordpress-and-how-to-get-started]]></wp:post_name>
@@ -2606,20 +2484,8 @@ While this is just the beginning, you should have a basic understanding of how t
 										<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="category" nicename="tutorials"><![CDATA[Tutorials]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[193]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_8a383fe8e8b8435e06739667185a70b5]]></wp:meta_key>
@@ -2632,9 +2498,9 @@ While this is just the beginning, you should have a basic understanding of how t
 							<wp:comment>
 			<wp:comment_id>15</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 05:21:12]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 05:21:12]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Suspendisse vehicula tortor ut egestas placerat. Vestibulum sed feugiat enim. Cras at elit nunc. Aliquam vulputate libero nec nibh efficitur mollis. Aenean massa velit, lacinia maximus suscipit mattis, egestas sit amet elit. Duis nec nunc eleifend, lobortis odio nec, pretium felis. Proin accumsan aliquet risus vitae malesuada. Pellentesque tempus at mi non tristique. Quisque velit nulla, gravida aliquet purus vitae, ultrices pulvinar augue. Proin vitae turpis odio. Mauris id nulla eget justo congue hendrerit. Ut purus ante, mollis ultrices felis dignissim, tincidunt sagittis orci. Curabitur vel enim id metus mollis luctus.]]></wp:comment_content>
@@ -2646,9 +2512,9 @@ While this is just the beginning, you should have a basic understanding of how t
 					<wp:comment>
 			<wp:comment_id>16</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 05:21:18]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 05:21:18]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[In hac habitasse platea dictumst. Aliquam erat volutpat. Praesent at purus tempor, placerat ipsum eu, porta nisl. Curabitur a nunc tortor. Nam tortor justo, venenatis ut scelerisque vel, molestie at risus. In bibendum feugiat massa, nec molestie odio eleifend mattis. Phasellus eleifend neque eget massa feugiat gravida.]]></wp:comment_content>
@@ -2660,9 +2526,9 @@ While this is just the beginning, you should have a basic understanding of how t
 					<wp:comment>
 			<wp:comment_id>17</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 05:21:24]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 05:21:24]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Integer tristique quis nunc non posuere. Nullam quis commodo purus. Integer vitae consectetur nulla. Donec orci nibh, pharetra quis sapien id, consequat efficitur justo. Vivamus viverra ante lacus, ac ornare risus dignissim vitae. Cras eget elit ipsum. Sed imperdiet leo ultrices sapien luctus, commodo pretium urna placerat. Proin ornare feugiat massa. Phasellus euismod facilisis aliquet. In luctus id nisl sit amet vulputate. Aenean vel felis quam. Vivamus ac ultricies est. Nam hendrerit nulla nisi, ac congue purus mollis in. Duis nec malesuada lectus, vitae ullamcorper est.]]></wp:comment_content>
@@ -2673,10 +2539,10 @@ While this is just the beginning, you should have a basic understanding of how t
 							</wp:comment>
 					</item>
 					<item>
-		<title>Must Have WordPress Plugins for Every Website</title>
+		<title><![CDATA[Must Have WordPress Plugins for Every Website]]></title>
 		<link>https://total.wpexplorer.com/square-media/must-have-wordpress-plugins-for-every-website/</link>
 		<pubDate>Thu, 21 Jan 2021 02:37:19 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=194</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra porta rhoncus. Etiam bibendum arcu at nibh faucibus, non semper ligula pellentesque. Aenean a ornare turpis, ac cursus diam. Nam condimentum nisl sit amet facilisis convallis. Fusce ultricies rhoncus nibh. Cras venenatis orci enim, at maximus urna aliquet eget. Fusce ullamcorper placerat elit, at mollis erat tempor tincidunt. Vestibulum malesuada egestas mollis. Morbi pellentesque, ipsum at semper congue, nisl lorem commodo urna, quis iaculis metus ipsum vel massa. Maecenas nec elit fermentum lectus mattis efficitur. Vestibulum rhoncus consequat tempus. Mauris dignissim vulputate purus. Nam eleifend fermentum tempus. Phasellus odio ipsum, aliquet et venenatis non, euismod et velit. Vivamus iaculis tortor aliquam lorem elementum, eu sagittis tellus fermentum.
@@ -2700,6 +2566,8 @@ Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 02:37:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 02:37:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:25:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:25:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[must-have-wordpress-plugins-for-every-website]]></wp:post_name>
@@ -2711,27 +2579,15 @@ Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="lists"><![CDATA[Lists]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[195]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:11:25]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:11:25]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Nunc nec placerat mauris. Etiam vehicula ante ut justo viverra fringilla. Nam feugiat urna mauris. Phasellus sagittis vestibulum augue, nec interdum lectus sodales ut. Cras id volutpat purus, non gravida risus. In hac habitasse platea dictumst. Maecenas semper finibus ullamcorper. Duis interdum placerat ante, a ornare orci faucibus id. Nullam tempor pulvinar mattis.]]></wp:comment_content>
@@ -2743,9 +2599,9 @@ Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra
 					<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:11:32]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:11:32]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Sed porttitor luctus neque, nec posuere mi sagittis feugiat. Donec ut leo neque. Nulla quis orci ut nulla cursus tincidunt. Pellentesque quis ante erat. Sed elementum facilisis euismod. Pellentesque maximus porttitor est, eu tempus purus ullamcorper ac. Suspendisse ornare accumsan mi non tempor. Integer sed metus justo.]]></wp:comment_content>
@@ -2757,9 +2613,9 @@ Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra
 					<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:15:34]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:15:34]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Aenean sodales dictum porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In condimentum, diam nec aliquet commodo, orci nibh varius purus, ultrices rutrum felis urna nec nibh. Praesent vel felis luctus, eleifend massa a, ornare orci. Integer at dui nec lorem bibendum rutrum.]]></wp:comment_content>
@@ -2770,10 +2626,10 @@ Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra
 							</wp:comment>
 					</item>
 					<item>
-		<title>Everything You Need to Know About SEO</title>
+		<title><![CDATA[Everything You Need to Know About SEO]]></title>
 		<link>https://total.wpexplorer.com/square-media/everything-you-need-to-know-about-seo/</link>
 		<pubDate>Thu, 21 Jan 2021 01:21:07 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=210</guid>
 		<description></description>
 		<content:encoded><![CDATA[You have a website - great! But that's just the beginning. Now you need to create great content that ranks in search engines to build traffic. And that's what we'll be covering today. Learn everything you need to know about <a href="https://www.wpexplorer.com/wordpress-seo/">WordPress SEO</a> so your website ranks in search engines.
@@ -2807,6 +2663,8 @@ The easiest way to integrate Google's services with your WordPress site is with 
 		<wp:post_id>210</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 01:21:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 01:21:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:25:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:25:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[everything-you-need-to-know-about-seo]]></wp:post_name>
@@ -2818,27 +2676,15 @@ The easiest way to integrate Google's services with your WordPress site is with 
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[211]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:21:52]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:21:52]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Integer tristique quis nunc non posuere. Nullam quis commodo purus. Integer vitae consectetur nulla. Donec orci nibh, pharetra quis sapien id, consequat efficitur justo. Vivamus viverra ante lacus, ac ornare risus dignissim vitae. Cras eget elit ipsum. Sed imperdiet leo ultrices sapien luctus, commodo pretium urna placerat. Proin ornare feugiat massa. Phasellus euismod facilisis aliquet. In luctus id nisl sit amet vulputate. Aenean vel felis quam. Vivamus ac ultricies est. Nam hendrerit nulla nisi, ac congue purus mollis in. Duis nec malesuada lectus, vitae ullamcorper est.]]></wp:comment_content>
@@ -2850,9 +2696,9 @@ The easiest way to integrate Google's services with your WordPress site is with 
 					<wp:comment>
 			<wp:comment_id>10</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:21:58]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:21:58]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[In hac habitasse platea dictumst. Aliquam erat volutpat. Praesent at purus tempor, placerat ipsum eu, porta nisl. Curabitur a nunc tortor. Nam tortor justo, venenatis ut scelerisque vel, molestie at risus. In bibendum feugiat massa, nec molestie odio eleifend mattis. Phasellus eleifend neque eget massa feugiat gravida.]]></wp:comment_content>
@@ -2864,9 +2710,9 @@ The easiest way to integrate Google's services with your WordPress site is with 
 					<wp:comment>
 			<wp:comment_id>11</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:22:03]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:22:03]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra nulla. Praesent sit amet hendrerit augue. Sed non ipsum vulputate, bibendum mauris ut, consequat massa. Aliquam vitae ultrices mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed porttitor luctus neque, nec posuere mi sagittis feugiat. Donec ut leo neque. Nulla quis orci ut nulla cursus tincidunt. Pellentesque quis ante erat. Sed elementum facilisis euismod. Pellentesque maximus porttitor est, eu tempus purus ullamcorper ac. Suspendisse ornare accumsan mi non tempor. Integer sed metus justo.]]></wp:comment_content>
@@ -2877,10 +2723,10 @@ The easiest way to integrate Google's services with your WordPress site is with 
 							</wp:comment>
 					</item>
 					<item>
-		<title>Follow These Steps to Make Money Online</title>
+		<title><![CDATA[Follow These Steps to Make Money Online]]></title>
 		<link>https://total.wpexplorer.com/square-media/learn-how-to-make-money-online/</link>
 		<pubDate>Thu, 21 Jan 2021 03:24:17 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?p=212</guid>
 		<description></description>
 		<content:encoded><![CDATA[Many people make money online - and you can be one of them. It's easy to get started. And in this post you'll learn how to <a href="https://www.wpexplorer.com/make-money-with-wordpress/">make money online with WordPress</a>.
@@ -2910,6 +2756,8 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>212</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 03:24:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 03:24:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 03:25:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 03:25:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[learn-how-to-make-money-online]]></wp:post_name>
@@ -2921,20 +2769,8 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[213]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -2943,9 +2779,9 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 							<wp:comment>
 			<wp:comment_id>12</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:25:13]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:25:13]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Curabitur varius aliquet enim. Donec sed mauris iaculis, tempor dui sed, viverra nulla. Praesent sit amet hendrerit augue. Sed non ipsum vulputate, bibendum mauris ut, consequat massa. Aliquam vitae ultrices mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed porttitor luctus neque, nec posuere mi sagittis feugiat. Donec ut leo neque. Nulla quis orci ut nulla cursus tincidunt. Pellentesque quis ante erat. Sed elementum facilisis euismod. Pellentesque maximus porttitor est, eu tempus purus ullamcorper ac. Suspendisse ornare accumsan mi non tempor. Integer sed metus justo.]]></wp:comment_content>
@@ -2957,9 +2793,9 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 					<wp:comment>
 			<wp:comment_id>13</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:25:22]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:25:22]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Integer tristique quis nunc non posuere. Nullam quis commodo purus. Integer vitae consectetur nulla. Donec orci nibh, pharetra quis sapien id, consequat efficitur justo. Vivamus viverra ante lacus, ac ornare risus dignissim vitae. Cras eget elit ipsum. Sed imperdiet leo ultrices sapien luctus, commodo pretium urna placerat. Proin ornare feugiat massa. Phasellus euismod facilisis aliquet. In luctus id nisl sit amet vulputate. Aenean vel felis quam. Vivamus ac ultricies est. Nam hendrerit nulla nisi, ac congue purus mollis in. Duis nec malesuada lectus, vitae ullamcorper est.]]></wp:comment_content>
@@ -2971,9 +2807,9 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 					<wp:comment>
 			<wp:comment_id>14</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-21 03:25:28]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-21 03:25:28]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Suspendisse vehicula tortor ut egestas placerat. Vestibulum sed feugiat enim. Cras at elit nunc. Aliquam vulputate libero nec nibh efficitur mollis. Aenean massa velit, lacinia maximus suscipit mattis, egestas sit amet elit. Duis nec nunc eleifend, lobortis odio nec, pretium felis. Proin accumsan aliquet risus vitae malesuada. Pellentesque tempus at mi non tristique. Quisque velit nulla, gravida aliquet purus vitae, ultrices pulvinar augue. Proin vitae turpis odio. Mauris id nulla eget justo congue hendrerit. Ut purus ante, mollis ultrices felis dignissim, tincidunt sagittis orci. Curabitur vel enim id metus mollis luctus.]]></wp:comment_content>
@@ -2984,10 +2820,10 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 							</wp:comment>
 					</item>
 					<item>
-		<title>Layout - Footer</title>
+		<title><![CDATA[Layout - Footer]]></title>
 		<link>https://total.wpexplorer.com/square-media/templatera/layout-footer/</link>
 		<pubDate>Tue, 19 Jan 2021 23:19:45 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1611204714922{margin-top: 40px !important;margin-bottom: 100px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #0a0a0a !important;}"][vc_column][vcex_heading text="What are you waiting for, get started today!" bottom_margin="40px" text_align="center" color="#ffffff" font_size="2.4em"][vcex_button url="https://www.wpexplorer.com/out/total" target="blank" rel="nofollow" style="minimal-border" color="white" align="center" border="2px solid #fff" border_radius="0px" font_padding="top:10px|right:30px|bottom:10px|left:30px" font_size="1.4em"]Get your license →[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1611194755451{margin-bottom: 20px !important;}" local_scroll_id="newsletter-section"][vc_column][vcex_heading text="Keep in touch, sign up for our Newsletter." bottom_margin="20px" text_align="center"][vcex_newsletter_form bottom_margin="40px" input_align="center" fullwidth_mobile="true" submit_text="Subscribe" input_width="600px" input_border_color="#0a0a0a"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22https%3A%2F%2Ftwitter.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22https%3A%2F%2Fwww.facebook.com%2FWPExplorerThemes%2F%22%7D%2C%7B%22site%22%3A%22instagram%22%2C%22link%22%3A%22https%3A%2F%2Fwww.instagram.com%2Fwpexplorer%2F%22%7D%2C%7B%22site%22%3A%22github%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2Fwpexplorer%2F%22%7D%5D" bottom_margin="25px" spacing="15px" style="black-round" align="center" size="15px" hover_bg="#555555" width="30px" height="30px" line_height="30px"][vcex_navbar bottom_margin="20px" button_style="plain-text" menu="3" align="center" css=".vc_custom_1611108779669{margin-right: 20px !important;}" color="#0a0a0a"][vc_column_text text_align="center" color="#787878" el_class="sqm-copyright"]© [current_year] All rights reserved. <a href="https://total.wpexplorer.com/" target="_blank" rel="noopener">Total Theme</a> for Wordpress by <a href="https://www.wpexplorer.com/">WExplorer.com</a>[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
@@ -2995,6 +2831,8 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:19:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:19:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 22:32:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 22:32:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[layout-footer]]></wp:post_name>
@@ -3005,30 +2843,25 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1611204714922{margin-top: 40px !important;margin-bottom: 100px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #0a0a0a !important;}.vc_custom_1611194755451{margin-bottom: 20px !important;}.vc_custom_1611108779669{margin-right: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Single - Blog Posts</title>
+		<title><![CDATA[Single - Blog Posts]]></title>
 		<link>https://total.wpexplorer.com/square-media/templatera/single-blog-posts/</link>
 		<pubDate>Wed, 20 Jan 2021 01:08:32 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=71</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1611198813282{padding-top: 15px !important;padding-bottom: 15px !important;background-color: #f4f4f4 !important;}"][vc_column width="2/3"][vcex_breadcrumbs font_size="14px" color="#444444"][/vc_column][vc_column visibility="hidden-phone" width="1/3" el_class="wpex-md-text-right"][vcex_button url="https://feeds.feedburner.com/wpexplorer-feed" target="blank" font_size="13px" font_weight="bold" icon_right="ticon ticon-rss" custom_background="#ff9100" letter_spacing="0.5px" font_padding="top:5px|right:20px|bottom:5px|left:20px" border_radius="9999px"]RSS[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1611198786756{margin-top: 60px !important;}"][vc_column][vcex_heading source="post_title" bottom_margin="20px" align="center" text_align="center" font_size="3.2em" font_weight="bold" line_height="normal" font_family="system-ui" tag="h1" width="800px"][vcex_post_meta sections="%5B%7B%22type%22%3A%22date%22%2C%22label%22%3A%22Published%20on%22%7D%2C%7B%22type%22%3A%22post_terms%22%2C%22label%22%3A%22Under%22%2C%22taxonomy%22%3A%22category%22%7D%5D" bottom_margin="40px" align="center"][vcex_post_media img_width="1100" img_height="600" classes="wpex-text-center"][/vc_column][/vc_row][vc_row css=".vc_custom_1611194295044{margin-bottom: 60px !important;}" el_class="wpex-lg-w-80 wpex-m-auto"][vc_column][vcex_post_content font_family="system-ui" font_size="18px"][vcex_spacing size="60px"][vcex_divider color="#dddddd"][vcex_spacing size="60px"][vcex_author_bio][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1611105860768{margin-bottom: 60px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f4f4f4 !important;}"][vc_column][vcex_heading text="Latest Articles" bottom_margin="40px" tag="h3" text_align="center" font_size="2em"][wpex_post_cards custom_query="true" card_style="blog_8" custom_query_args="posts_per_page=3&amp;post_type=post&amp;post__not_in=current_post"][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-m-auto"][vc_column][vcex_heading text="Discussion" bottom_margin="50px" tag="h3" text_align="center" font_size="2em"][vcex_post_comments][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1611198813282{padding-top: 15px !important;padding-bottom: 15px !important;background-color: #f4f4f4 !important;}"][vc_column width="2/3"][vcex_breadcrumbs font_size="13px" color="#444444"][/vc_column][vc_column visibility="hidden-phone" width="1/3" el_class="wpex-md-text-right"][vcex_button url="https://feeds.feedburner.com/wpexplorer-feed" target="blank" font_size="13px" font_weight="bold" icon_right="ticon ticon-rss" custom_background="#ff9100" letter_spacing="0.5px" font_padding="top:5px|right:20px|bottom:5px|left:20px" border_radius="9999px"]RSS[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1611198786756{margin-top: 60px !important;}"][vc_column][vcex_heading source="post_title" bottom_margin="20px" align="center" text_align="center" font_size="3.2em" font_weight="bold" line_height="normal" font_family="system-ui" tag="h1" width="800px"][vcex_post_meta sections="%5B%7B%22type%22%3A%22date%22%2C%22label%22%3A%22Published%20on%22%7D%2C%7B%22type%22%3A%22post_terms%22%2C%22label%22%3A%22Under%22%2C%22taxonomy%22%3A%22category%22%7D%5D" bottom_margin="40px" align="center"][vcex_post_media img_width="1100" img_height="600" classes="wpex-text-center"][/vc_column][/vc_row][vc_row css=".vc_custom_1611194295044{margin-bottom: 60px !important;}" el_class="wpex-lg-w-80 wpex-m-auto"][vc_column][vcex_post_content font_family="system-ui" font_size="18px"][vcex_spacing size="60px"][vcex_divider color="#dddddd"][vcex_spacing size="60px"][vcex_author_bio][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1611105860768{margin-bottom: 60px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f4f4f4 !important;}"][vc_column][vcex_heading text="Latest Articles" bottom_margin="40px" tag="h3" text_align="center" font_size="2em"][wpex_post_cards custom_query="true" card_style="blog_8" custom_query_args="posts_per_page=3&amp;post_type=post&amp;post__not_in=current_post"][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-m-auto"][vc_column][vcex_heading text="Discussion" bottom_margin="50px" tag="h3" text_align="center" font_size="2em"][vcex_post_comments][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 01:08:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 01:08:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-16 21:28:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-16 21:28:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-blog-posts]]></wp:post_name>
@@ -3039,23 +2872,15 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1611198813282{padding-top: 15px !important;padding-bottom: 15px !important;background-color: #f4f4f4 !important;}.vc_custom_1611198786756{margin-top: 60px !important;}.vc_custom_1611194295044{margin-bottom: 60px !important;}.vc_custom_1611105860768{margin-bottom: 60px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f4f4f4 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Single - Staff</title>
+		<title><![CDATA[Single - Staff]]></title>
 		<link>https://total.wpexplorer.com/square-media/templatera/single-staff/</link>
 		<pubDate>Wed, 20 Jan 2021 19:03:10 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=131</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column width="1/2"][vcex_image source="featured" bottom_margin="20px"][/vc_column][vc_column width="1/2"][vcex_post_content][vcex_spacing size="10px"][staff_social style="black-round" icon_margin="right:10px" font_size="15px"][/vc_column][/vc_row]]]></content:encoded>
@@ -3063,6 +2888,8 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:03:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:03:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 19:39:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 19:39:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-staff]]></wp:post_name>
@@ -3072,20 +2899,12 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_type><![CDATA[templatera]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
-		<title>Archive - Search Results</title>
+		<title><![CDATA[Archive - Search Results]]></title>
 		<link>https://total.wpexplorer.com/square-media/templatera/archive-search-results/</link>
 		<pubDate>Thu, 21 Jan 2021 01:42:21 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=173</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1611193734297{margin-bottom: 30px !important;}"][vc_column][vc_column_text text_align="center" font_size="21px"]Didn't find what you were looking for? Try again![/vc_column_text][vcex_spacing][vcex_searchbar wrap_float="center" wrap_width="700px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true"][vc_column][wpex_post_cards auto_query="true" card_style="blog_8" grid_spacing="35"][/vc_column][/vc_row]]]></content:encoded>
@@ -3093,6 +2912,8 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 01:42:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 01:42:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 22:31:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 22:31:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive-search-results]]></wp:post_name>
@@ -3103,14 +2924,6 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1611193734297{margin-bottom: 30px !important;}]]></wp:meta_value>
 		</wp:postmeta>

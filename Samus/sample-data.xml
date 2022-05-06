@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-03-24 04:22" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-05 21:08" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Samus</title>
 	<link>https://total.wpexplorer.com/samus</link>
 	<description>Total Theme Demo</description>
-	<pubDate>Tue, 24 Mar 2020 04:22:58 +0000</pubDate>
+	<pubDate>Thu, 05 May 2022 21:08:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
 	<wp:base_blog_url>https://total.wpexplorer.com/samus</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totalthememain]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -66,13 +66,13 @@
 	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 		<item>
-		<title>photo-1427434846691-47fc561d1179</title>
+		<title><![CDATA[photo-1427434846691-47fc561d1179]]></title>
 		<link>https://total.wpexplorer.com/samus/farmers-farm-things/photo-1427434846691-47fc561d1179/</link>
 		<pubDate>Sun, 31 May 2015 00:15:36 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1427434846691-47fc561d1179.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -80,6 +80,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:15:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:15:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:15:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:15:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1427434846691-47fc561d1179]]></wp:post_name>
@@ -100,10 +102,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1428342319217-5fdaf6d7898e</title>
+		<title><![CDATA[photo-1428342319217-5fdaf6d7898e]]></title>
 		<link>https://total.wpexplorer.com/samus/the-golden-gate-bridge/photo-1428342319217-5fdaf6d7898e/</link>
 		<pubDate>Sun, 31 May 2015 00:22:35 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1428342319217-5fdaf6d7898e.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -111,6 +113,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:22:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:22:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:22:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:22:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1428342319217-5fdaf6d7898e]]></wp:post_name>
@@ -131,10 +135,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1423483641154-5411ec9c0ddf</title>
+		<title><![CDATA[photo-1423483641154-5411ec9c0ddf]]></title>
 		<link>https://total.wpexplorer.com/samus/grapes-are-delicious/photo-1423483641154-5411ec9c0ddf/</link>
 		<pubDate>Sun, 31 May 2015 00:24:05 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1423483641154-5411ec9c0ddf.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -142,6 +146,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:24:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:24:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:24:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:24:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1423483641154-5411ec9c0ddf]]></wp:post_name>
@@ -162,10 +168,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1423753623104-718aaace6772</title>
+		<title><![CDATA[photo-1423753623104-718aaace6772]]></title>
 		<link>https://total.wpexplorer.com/samus/take-the-total-journey/photo-1423753623104-718aaace6772/</link>
 		<pubDate>Sun, 31 May 2015 00:24:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1423753623104-718aaace6772.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -173,6 +179,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:24:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:24:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:24:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:24:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1423753623104-718aaace6772]]></wp:post_name>
@@ -193,10 +201,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1421098518790-5a14be02b243</title>
+		<title><![CDATA[photo-1421098518790-5a14be02b243]]></title>
 		<link>https://total.wpexplorer.com/samus/take-the-total-journey/photo-1421098518790-5a14be02b243/</link>
 		<pubDate>Sun, 31 May 2015 00:25:30 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1421098518790-5a14be02b243.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -204,6 +212,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:25:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:25:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:25:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:25:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1421098518790-5a14be02b243]]></wp:post_name>
@@ -224,10 +234,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1423683249427-8ca22bd873e0</title>
+		<title><![CDATA[photo-1423683249427-8ca22bd873e0]]></title>
 		<link>https://total.wpexplorer.com/samus/take-the-total-journey/photo-1423683249427-8ca22bd873e0/</link>
 		<pubDate>Sun, 31 May 2015 00:25:31 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1423683249427-8ca22bd873e0.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -235,6 +245,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:25:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:25:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:25:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:25:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1423683249427-8ca22bd873e0]]></wp:post_name>
@@ -255,10 +267,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>QTrNn7DETWGsjyS5L2n5__MG_8345</title>
+		<title><![CDATA[QTrNn7DETWGsjyS5L2n5__MG_8345]]></title>
 		<link>https://total.wpexplorer.com/samus/take-the-total-journey/qtrnn7detwgsjys5l2n5__mg_8345/</link>
 		<pubDate>Sun, 31 May 2015 00:25:32 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/QTrNn7DETWGsjyS5L2n5__MG_8345.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -266,6 +278,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:25:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:25:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:25:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:25:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[qtrnn7detwgsjys5l2n5__mg_8345]]></wp:post_name>
@@ -286,10 +300,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1417128281290-30a42da46277</title>
+		<title><![CDATA[photo-1417128281290-30a42da46277]]></title>
 		<link>https://total.wpexplorer.com/samus/take-the-total-journey/photo-1417128281290-30a42da46277/</link>
 		<pubDate>Sun, 31 May 2015 00:25:33 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1417128281290-30a42da46277.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -297,6 +311,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:25:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:25:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:25:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:25:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1417128281290-30a42da46277]]></wp:post_name>
@@ -317,10 +333,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1422222948315-28aadb7a2cb8</title>
+		<title><![CDATA[photo-1422222948315-28aadb7a2cb8]]></title>
 		<link>https://total.wpexplorer.com/samus/take-the-total-journey/photo-1422222948315-28aadb7a2cb8/</link>
 		<pubDate>Sun, 31 May 2015 00:25:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/photo-1422222948315-28aadb7a2cb8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -328,6 +344,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:25:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:25:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:25:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:25:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1422222948315-28aadb7a2cb8]]></wp:post_name>
@@ -348,10 +366,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>total-theme</title>
+		<title><![CDATA[total-theme]]></title>
 		<link>https://total.wpexplorer.com/samus/total-theme/</link>
 		<pubDate>Sun, 31 May 2015 00:38:07 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/total-theme.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -359,6 +377,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:38:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:38:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:38:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:38:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[total-theme]]></wp:post_name>
@@ -379,10 +399,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>girl</title>
+		<title><![CDATA[girl]]></title>
 		<link>https://total.wpexplorer.com/samus/team/matt/girl/</link>
 		<pubDate>Sun, 31 May 2015 01:20:50 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/girl.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -390,6 +410,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:20:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:20:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:20:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:20:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[girl]]></wp:post_name>
@@ -410,10 +432,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>chica</title>
+		<title><![CDATA[chica]]></title>
 		<link>https://total.wpexplorer.com/samus/team/matt/chica/</link>
 		<pubDate>Sun, 31 May 2015 01:20:51 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/chica.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -421,6 +443,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:20:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:20:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:20:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:20:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[chica]]></wp:post_name>
@@ -441,10 +465,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>chicken</title>
+		<title><![CDATA[chicken]]></title>
 		<link>https://total.wpexplorer.com/samus/team/matt/chicken/</link>
 		<pubDate>Sun, 31 May 2015 01:20:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/chicken.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -452,6 +476,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:20:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:20:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:20:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:20:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[chicken]]></wp:post_name>
@@ -472,10 +498,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>dude</title>
+		<title><![CDATA[dude]]></title>
 		<link>https://total.wpexplorer.com/samus/team/matt/dude/</link>
 		<pubDate>Sun, 31 May 2015 01:20:53 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/dude.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -483,6 +509,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:20:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:20:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:20:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:20:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dude]]></wp:post_name>
@@ -503,10 +531,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bro</title>
+		<title><![CDATA[bro]]></title>
 		<link>https://total.wpexplorer.com/samus/team/matt/bro/</link>
 		<pubDate>Sun, 31 May 2015 01:20:54 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/bro.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -514,6 +542,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:20:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:20:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:20:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:20:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[bro]]></wp:post_name>
@@ -534,10 +564,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>guy</title>
+		<title><![CDATA[guy]]></title>
 		<link>https://total.wpexplorer.com/samus/team/matt/guy/</link>
 		<pubDate>Sun, 31 May 2015 01:20:55 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/guy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -545,6 +575,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:20:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:20:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:20:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:20:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[guy]]></wp:post_name>
@@ -565,10 +597,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>mobileresponsive</title>
+		<title><![CDATA[mobileresponsive]]></title>
 		<link>https://total.wpexplorer.com/samus/mobileresponsive/</link>
 		<pubDate>Sun, 31 May 2015 01:44:53 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/mobileresponsive.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -576,6 +608,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:44:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:44:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:44:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:44:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[mobileresponsive]]></wp:post_name>
@@ -596,10 +630,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>welcome</title>
+		<title><![CDATA[welcome]]></title>
 		<link>https://total.wpexplorer.com/samus/home/welcome-2/</link>
 		<pubDate>Sun, 31 May 2015 02:01:36 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/welcome1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -607,6 +641,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 02:01:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 02:01:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 02:01:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 02:01:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[welcome-2]]></wp:post_name>
@@ -627,10 +663,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pagebuilder</title>
+		<title><![CDATA[pagebuilder]]></title>
 		<link>https://total.wpexplorer.com/samus/home/pagebuilder/</link>
 		<pubDate>Sun, 31 May 2015 02:07:42 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/pagebuilder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -638,6 +674,8 @@
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 02:07:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 02:07:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 02:07:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 02:07:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[pagebuilder]]></wp:post_name>
@@ -658,10 +696,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woocommerce-500x150</title>
+		<title><![CDATA[woocommerce-500x150]]></title>
 		<link>https://total.wpexplorer.com/samus/services/woocommerce-500x150/</link>
 		<pubDate>Mon, 01 Jun 2015 20:42:37 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/woocommerce-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -669,6 +707,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-01 20:42:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-01 20:42:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-01 20:42:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-01 20:42:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[woocommerce-500x150]]></wp:post_name>
@@ -689,10 +729,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>envato-500x150</title>
+		<title><![CDATA[envato-500x150]]></title>
 		<link>https://total.wpexplorer.com/samus/services/envato-500x150/</link>
 		<pubDate>Mon, 01 Jun 2015 20:42:37 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/envato-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -700,6 +740,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-01 20:42:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-01 20:42:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-01 20:42:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-01 20:42:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[envato-500x150]]></wp:post_name>
@@ -720,10 +762,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>wpengine-500x150</title>
+		<title><![CDATA[wpengine-500x150]]></title>
 		<link>https://total.wpexplorer.com/samus/services/wpengine-500x150/</link>
 		<pubDate>Mon, 01 Jun 2015 20:42:38 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/wpengine-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -731,6 +773,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-01 20:42:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-01 20:42:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-01 20:42:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-01 20:42:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[wpengine-500x150]]></wp:post_name>
@@ -751,10 +795,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jquery-500x150</title>
+		<title><![CDATA[jquery-500x150]]></title>
 		<link>https://total.wpexplorer.com/samus/services/jquery-500x150/</link>
 		<pubDate>Mon, 01 Jun 2015 20:42:38 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/jquery-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -762,6 +806,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-01 20:42:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-01 20:42:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-01 20:42:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-01 20:42:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[jquery-500x150]]></wp:post_name>
@@ -782,10 +828,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bbpress-500x150</title>
+		<title><![CDATA[bbpress-500x150]]></title>
 		<link>https://total.wpexplorer.com/samus/services/bbpress-500x150/</link>
 		<pubDate>Mon, 01 Jun 2015 20:42:39 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/bbpress-500x150.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -793,6 +839,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-01 20:42:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-01 20:42:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-01 20:42:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-01 20:42:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[bbpress-500x150]]></wp:post_name>
@@ -813,10 +861,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woo-shop</title>
+		<title><![CDATA[woo-shop]]></title>
 		<link>https://total.wpexplorer.com/samus/home/woo-shop/</link>
 		<pubDate>Mon, 01 Jun 2015 20:50:03 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/woo-shop.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -824,6 +872,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-01 20:50:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-01 20:50:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-01 20:50:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-01 20:50:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[woo-shop]]></wp:post_name>
@@ -844,10 +894,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>mainbg</title>
+		<title><![CDATA[mainbg]]></title>
 		<link>https://total.wpexplorer.com/samus/home/mainbg/</link>
 		<pubDate>Mon, 01 Jun 2015 21:57:03 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/mainbg.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -855,6 +905,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-01 21:57:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-01 21:57:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-01 21:57:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-01 21:57:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[mainbg]]></wp:post_name>
@@ -875,10 +927,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>phone</title>
+		<title><![CDATA[phone]]></title>
 		<link>https://total.wpexplorer.com/samus/services/phone/</link>
 		<pubDate>Sat, 15 Oct 2016 20:08:04 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/phone.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -886,6 +938,8 @@
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:08:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:08:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:08:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:08:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[phone]]></wp:post_name>
@@ -906,10 +960,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>weights</title>
+		<title><![CDATA[weights]]></title>
 		<link>https://total.wpexplorer.com/samus/services/weights/</link>
 		<pubDate>Sat, 15 Oct 2016 20:08:15 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/weights.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -917,6 +971,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:08:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:08:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:08:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:08:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[weights]]></wp:post_name>
@@ -937,10 +993,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>keyboard</title>
+		<title><![CDATA[keyboard]]></title>
 		<link>https://total.wpexplorer.com/samus/services/keyboard/</link>
 		<pubDate>Sat, 15 Oct 2016 20:08:23 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/keyboard.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -948,6 +1004,8 @@
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:08:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:08:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:08:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:08:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[keyboard]]></wp:post_name>
@@ -968,10 +1026,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>texting</title>
+		<title><![CDATA[texting]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/texting-is-fun/texting/</link>
 		<pubDate>Sat, 15 Oct 2016 20:09:01 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/texting.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -979,6 +1037,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:09:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[texting]]></wp:post_name>
@@ -995,14 +1055,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:19:"2015/05/texting.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"texting-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"texting-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"texting-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"texting-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x400";a:5:{s:4:"file";s:19:"texting-700x400.jpg";s:5:"width";i:700;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_300x200";a:5:{s:4:"file";s:19:"texting-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:21:"texting-1500x1000.jpg";s:5:"width";i:1500;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_700x400@2x";a:5:{s:4:"file";s:22:"texting-700x400@2x.jpg";s:5:"width";i:1400;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x200@2x";a:5:{s:4:"file";s:22:"texting-300x200@2x.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:19:"texting-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:22:"texting-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:19:"2015/05/texting.jpg";s:5:"sizes";a:13:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"texting-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"texting-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"texting-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"texting-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x400";a:5:{s:4:"file";s:19:"texting-700x400.jpg";s:5:"width";i:700;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_300x200";a:5:{s:4:"file";s:19:"texting-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:21:"texting-1500x1000.jpg";s:5:"width";i:1500;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_700x400@2x";a:5:{s:4:"file";s:22:"texting-700x400@2x.jpg";s:5:"width";i:1400;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x200@2x";a:5:{s:4:"file";s:22:"texting-300x200@2x.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:19:"texting-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:22:"texting-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:19:"texting-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:20:"portfolio_related@2x";a:5:{s:4:"file";s:22:"texting-700x450@2x.jpg";s:5:"width";i:1400;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>plate</title>
+		<title><![CDATA[plate]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/dont-forget-to-eat/plate/</link>
 		<pubDate>Sat, 15 Oct 2016 20:09:10 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/plate.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1010,6 +1070,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:09:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:09:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:09:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:09:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plate]]></wp:post_name>
@@ -1030,10 +1092,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>landscape</title>
+		<title><![CDATA[landscape]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/responsive-design/landscape/</link>
 		<pubDate>Sat, 15 Oct 2016 20:09:18 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/landscape.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1041,6 +1103,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:09:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:09:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:09:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:09:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[landscape]]></wp:post_name>
@@ -1057,14 +1121,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:21:"2015/05/landscape.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"landscape-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"landscape-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"landscape-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"landscape-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x400";a:5:{s:4:"file";s:21:"landscape-700x400.jpg";s:5:"width";i:700;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_300x200";a:5:{s:4:"file";s:21:"landscape-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:21:"landscape-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:23:"landscape-1500x1000.jpg";s:5:"width";i:1500;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_700x400@2x";a:5:{s:4:"file";s:24:"landscape-700x400@2x.jpg";s:5:"width";i:1400;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x200@2x";a:5:{s:4:"file";s:24:"landscape-300x200@2x.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:20:"portfolio_related@2x";a:5:{s:4:"file";s:24:"landscape-700x450@2x.jpg";s:5:"width";i:1400;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:21:"2015/05/landscape.jpg";s:5:"sizes";a:13:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"landscape-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"landscape-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"landscape-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"landscape-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x400";a:5:{s:4:"file";s:21:"landscape-700x400.jpg";s:5:"width";i:700;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_300x200";a:5:{s:4:"file";s:21:"landscape-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"portfolio_related";a:5:{s:4:"file";s:21:"landscape-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:8:"lightbox";a:5:{s:4:"file";s:23:"landscape-1500x1000.jpg";s:5:"width";i:1500;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_700x400@2x";a:5:{s:4:"file";s:24:"landscape-700x400@2x.jpg";s:5:"width";i:1400;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_300x200@2x";a:5:{s:4:"file";s:24:"landscape-300x200@2x.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:20:"portfolio_related@2x";a:5:{s:4:"file";s:24:"landscape-700x450@2x.jpg";s:5:"width";i:1400;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:21:"landscape-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:24:"landscape-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tablet</title>
+		<title><![CDATA[tablet]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/ipads-are-fun-for-stuff/tablet/</link>
 		<pubDate>Sat, 15 Oct 2016 20:09:24 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/tablet.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1072,6 +1136,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:09:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:09:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:09:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:09:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tablet]]></wp:post_name>
@@ -1092,10 +1158,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>shoes</title>
+		<title><![CDATA[shoes]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/boots-are-made-for-walking/shoes/</link>
 		<pubDate>Sat, 15 Oct 2016 20:09:30 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/shoes.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1103,6 +1169,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-15 20:09:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-15 20:09:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-15 20:09:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-15 20:09:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shoes]]></wp:post_name>
@@ -1123,17 +1191,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Total</title>
+		<title><![CDATA[Total]]></title>
 		<link>https://total.wpexplorer.com/samus/total/</link>
 		<pubDate>Tue, 14 Mar 2017 22:34:37 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/*ACCENT COLOR*//*ACCENT COLOR*/.wpex-carousel-woocommerce .wpex-carousel-entry-details,a,.wpex-accent-color,#site-navigation .dropdown-menu a:hover,#site-navigation .dropdown-menu &gt;.current-menu-item &gt;a,#site-navigation .dropdown-menu &gt;.current-menu-parent &gt;a,h1 a:hover,h2 a:hover,a:hover h2,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.entry-title a:hover,.modern-menu-widget a:hover,.theme-button.outline,.theme-button.clean{color:#2ea3f2}.vcex-skillbar-bar,.vcex-icon-box.style-five.link-wrap:hover,.vcex-icon-box.style-four.link-wrap:hover,.vcex-recent-news-date span.month,.vcex-pricing.featured .vcex-pricing-header,.vcex-testimonials-fullslider .sp-button:hover,.vcex-testimonials-fullslider .sp-selected-button,.vcex-social-links a:hover,.vcex-testimonials-fullslider.light-skin .sp-button:hover,.vcex-testimonials-fullslider.light-skin .sp-selected-button,.vcex-divider-dots span,.wpex-accent-bg,.background-highlight,input[type="submit"],.theme-button,button,.theme-button.outline:hover,.active .theme-button,.theme-button.active,#main .tagcloud a:hover,.post-tags a:hover,.wpex-carousel .owl-dot.active,.navbar-style-one .menu-button &gt;a &gt;span.link-inner,.wpex-carousel .owl-prev,.wpex-carousel .owl-next,body #header-two-search #header-two-search-submit,.theme-button:hover,.modern-menu-widget li.current-menu-item a,#sidebar .widget_nav_menu .current-menu-item &gt;a,#wp-calendar caption,#site-scroll-top:hover,input[type="submit"]:hover,button:hover,.wpex-carousel .owl-prev:hover,.wpex-carousel .owl-next:hover,#site-navigation .menu-button &gt;a &gt;span.link-inner,#site-navigation .menu-button &gt;a &gt;span.link-inner:hover,.navbar-style-six .dropdown-menu &gt;.current-menu-item &gt;a,.navbar-style-six .dropdown-menu &gt;.current-menu-parent &gt;a{background-color:#2ea3f2}.vcex-heading-bottom-border-w-color .vcex-heading-inner{border-bottom-color:#2ea3f2}.wpb_tabs.tab-style-alternative-two .wpb_tabs_nav li.ui-tabs-active a{border-bottom-color:#2ea3f2}.theme-button.outline{border-color:#2ea3f2}#searchform-dropdown{border-color:#2ea3f2}.toggle-bar-btn:hover{border-top-color:#2ea3f2;border-right-color:#2ea3f2}body #site-navigation-wrap.nav-dropdown-top-border .dropdown-menu &gt;li &gt;ul{border-top-color:#2ea3f2}.theme-heading.border-w-color span.text{border-bottom-color:#2ea3f2}/*TYPOGRAPHY*/body{font-family:"Open Sans";font-size:14px}#site-logo a.site-logo-text{font-family:"Raleway";letter-spacing:1px;text-transform:uppercase}#site-navigation .dropdown-menu a{font-size:14px}h1,h2,h3,h4,h5,h6,.theme-heading,.page-header-title,.heading-typography,.widget-title,.wpex-widget-recent-posts-title,.comment-reply-title,.vcex-heading,.entry-title,.sidebar-box .widget-title,.search-entry h2{font-weight:400}.sidebar-box .widget-title{font-weight:400;font-size:16px}.entry h2{font-size:21px}.footer-widget .widget-title{font-size:16px;color:#2291eb}/*ADVANCED STYLING CSS*/.is-sticky #site-header{border-color:transparent}body{ -moz-osx-font-smoothing: grayscale; }]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-14 22:34:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-14 22:34:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-15 23:23:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-15 23:23:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -1143,16 +1213,12 @@
 		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
-		<title>total-video</title>
+		<title><![CDATA[total-video]]></title>
 		<link>https://total.wpexplorer.com/samus/home/total-video/</link>
 		<pubDate>Tue, 05 Sep 2017 02:25:10 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/total-video.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1160,6 +1226,8 @@
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2017-09-05 02:25:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-09-05 02:25:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-09-05 02:25:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-09-05 02:25:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total-video]]></wp:post_name>
@@ -1180,10 +1248,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/116/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1191,6 +1259,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[116]]></wp:post_name>
@@ -1235,10 +1305,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/117/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1246,6 +1316,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[117]]></wp:post_name>
@@ -1290,10 +1362,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/118/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1301,6 +1373,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[118]]></wp:post_name>
@@ -1345,10 +1419,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/119/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1356,6 +1430,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[119]]></wp:post_name>
@@ -1400,18 +1476,20 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Portfolio</title>
+		<title><![CDATA[Portfolio]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio/</link>
 		<pubDate>Sat, 30 May 2015 21:47:21 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?page_id=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489785860076{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column][vcex_heading text="Our Work Speaks For Itself" link_local_scroll="" tag="h1" font_weight="normal" text_align="center" font_size="32px"][vc_empty_space height="5px"][vcex_heading text="Don't trust us have a look at the beautiful things we've made" link_local_scroll="" tag="h2" font_weight="normal" text_align="center" font_size="18px" color="#878787"][/vc_column][/vc_row][vc_row css=".vc_custom_1489784831080{padding-top: 50px !important;}"][vc_column][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-diamond" link_local_scroll="" float="center" color="#9b59b6" custom_size="52px"][vc_empty_space height="10px"][vcex_heading text="Built-in Portfolio Custom Post Type" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider width="50px" height="2px" margin="top:30px|bottom:60px"][vcex_portfolio_grid read_more="false" columns_gap="30" img_rendering="" img_width="700" img_height="400"][/vc_column][/vc_row][vc_row][vc_column][vcex_divider color="#eeeeee" margin_bottom="60px" margin_top="20px"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-bubble" link_local_scroll="" float="center" color="#9b59b6" custom_size="52px"][vc_empty_space height="10px"][vcex_heading text="Real Customer Testimonials" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider margin_top="30px" width="50px" height="2px"][vcex_testimonials_slider animation="slide" animation_speed="600" slideshow_speed="5000" height_animation="0.0" count="3"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489784790141{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #2ecc71 !important;}"][vc_column][vcex_heading text="Stop Waiting, Get Started Today!" link_local_scroll="" tag="h1" text_align="center" color="#ffffff" font_size="28px"][vc_empty_space height="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" target="blank" title="Purchase Total" style="outline" align="center" color="white" font_weight="semibold" font_size="16px" font_padding="8px 40px"]Purchase Total[/vcex_button][/vc_column][/vc_row]</p>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489785860076{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column][vcex_heading text="Our Work Speaks For Itself" link_local_scroll="" tag="h1" font_weight="normal" text_align="center" font_size="32px"][vc_empty_space height="5px"][vcex_heading text="Don't trust us have a look at the beautiful things we've made" link_local_scroll="" tag="h2" font_weight="normal" text_align="center" font_size="18px" color="#878787"][/vc_column][/vc_row][vc_row css=".vc_custom_1489784831080{padding-top: 50px !important;}"][vc_column][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-diamond" float="center" link_local_scroll="" color="#9b59b6" custom_size="52px"][vc_empty_space height="10px"][vcex_heading text="Built-in Portfolio Custom Post Type" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider width="50px" height="2px" margin="top:30px|bottom:60px"][vcex_portfolio_grid read_more="false" columns_gap="30" img_rendering="" img_width="700" img_height="400" content_heading_weight="semibold"][/vc_column][/vc_row][vc_row][vc_column][vcex_divider color="#eeeeee" margin_bottom="60px" margin_top="20px"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-bubble" float="center" link_local_scroll="" color="#9b59b6" custom_size="52px"][vc_empty_space height="10px"][vcex_heading text="Real Customer Testimonials" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider margin_top="30px" width="50px" height="2px"][vcex_testimonials_slider animation="slide" animation_speed="600" slideshow_speed="5000" height_animation="0.0" count="3"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489784790141{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #2ecc71 !important;}"][vc_column][vcex_heading text="Stop Waiting, Get Started Today!" link_local_scroll="" tag="h1" text_align="center" color="#ffffff" font_size="28px"][vc_empty_space height="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" target="blank" title="Purchase Total" style="outline" align="center" color="white" font_weight="semibold" font_size="16px" font_padding="8px 40px"]Purchase Total[/vcex_button][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-30 21:47:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-30 21:47:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-02 21:39:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-02 21:39:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
@@ -1430,14 +1508,6 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
@@ -1446,31 +1516,25 @@
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1489785860076{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489784831080{padding-top: 50px !important;}.vc_custom_1489784790141{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #2ecc71 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Team</title>
+		<title><![CDATA[Team]]></title>
 		<link>https://total.wpexplorer.com/samus/team/</link>
 		<pubDate>Sat, 30 May 2015 21:47:27 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?page_id=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489786565348{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column][vcex_heading text="Quality Team" tag="h1" font_weight="normal" text_align="center" font_size="32px"][vc_empty_space height="5px"][vcex_heading text="We are a group of people that care" tag="h2" font_weight="normal" text_align="center" font_size="18px" color="#878787"][/vc_column][/vc_row][vc_row css=".vc_custom_1489786556428{padding-top: 50px !important;}"][vc_column][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-user" link_local_scroll="" float="center" color="#d35400" custom_size="52px"][vcex_spacing size="10px"][vcex_heading text="Built-in Staff Custom Post Type" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider margin_top="30px" margin_bottom="60px" width="50px" height="2px"][vcex_staff_grid posts_per_page="6" thumb_link="nowhere" img_size="full" title_link="nowhere" position="true" excerpt="false" read_more="false" content_alignment="center" columns_gap="30" content_heading_weight="400" img_rendering="" position_color="#d35400" position_size="14px"][/vc_column][/vc_row][vc_row css=".vc_custom_1489786550317{padding-top: 10px !important;padding-bottom: 40px !important;}"][vc_column][vcex_divider color="#eeeeee" margin_bottom="60px" margin_top="20px"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-food" link_local_scroll="" float="center" color="#d35400" custom_size="52px"][vcex_spacing size="10px"][vcex_heading text="Our Latest Creations" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider margin_top="30px" margin_bottom="60px" width="50px" height="2px"][vcex_portfolio_carousel excerpt="false" arrows="false" dots="true" items_margin="20" content_heading_weight="normal" content_alignment="center" img_rendering="" content_heading_size="16px" img_width="300px" img_height="200px"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489786539213{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #16a085 !important;}"][vc_column][vcex_heading text="Need Some Assistance?" link_local_scroll="" tag="h1" text_align="center" color="#ffffff" font_size="28px"][vc_empty_space height="20px"][vcex_button url="https://total.wpexplorer.com/samus/contact/" title="Contact Us" style="outline" align="center" color="white" font_weight="semibold" font_size="16px" font_padding="8px 40px"]Contact Us[/vcex_button][/vc_column][/vc_row]</p>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489786565348{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column][vcex_heading text="Quality Team" tag="h1" font_weight="normal" text_align="center" font_size="32px"][vc_empty_space height="5px"][vcex_heading text="We are a group of people that care" tag="h2" font_weight="normal" text_align="center" font_size="18px" color="#878787"][/vc_column][/vc_row][vc_row css=".vc_custom_1489786556428{padding-top: 50px !important;}"][vc_column][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-user" float="center" link_local_scroll="" color="#d35400" custom_size="52px"][vcex_spacing size="10px"][vcex_heading text="Built-in Staff Custom Post Type" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider margin_top="30px" margin_bottom="60px" width="50px" height="2px"][vcex_staff_grid content_alignment="center" posts_per_page="6" thumb_link="nowhere" img_size="full" title_link="nowhere" position="true" excerpt="false" read_more="false" columns_gap="30" content_heading_weight="semibold" img_rendering="" position_color="#d35400" position_size="14px"][/vc_column][/vc_row][vc_row css=".vc_custom_1489786550317{padding-top: 10px !important;padding-bottom: 40px !important;}"][vc_column][vcex_divider color="#eeeeee" margin_bottom="60px" margin_top="20px"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-food" float="center" link_local_scroll="" color="#d35400" custom_size="52px"][vcex_spacing size="10px"][vcex_heading text="Our Latest Creations" link_local_scroll="" text_align="center" font_size="28px"][vcex_divider margin_top="30px" margin_bottom="60px" width="50px" height="2px"][vcex_portfolio_carousel content_alignment="center" excerpt="false" arrows="false" dots="true" items_margin="20" content_heading_weight="normal" img_rendering="" content_heading_size="16px" img_width="300px" img_height="200px"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489786539213{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #16a085 !important;}"][vc_column][vcex_heading text="Need Some Assistance?" link_local_scroll="" tag="h1" text_align="center" color="#ffffff" font_size="28px"][vc_empty_space height="20px"][vcex_button url="https://total.wpexplorer.com/samus/contact/" title="Contact Us" style="outline" align="center" color="white" font_weight="semibold" font_size="16px" font_padding="8px 40px"]Contact Us[/vcex_button][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-30 21:47:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-30 21:47:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-02 21:40:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-02 21:40:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[team]]></wp:post_name>
@@ -1489,14 +1553,6 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
@@ -1505,31 +1561,25 @@
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1489786565348{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489786556428{padding-top: 50px !important;}.vc_custom_1489786550317{padding-top: 10px !important;padding-bottom: 40px !important;}.vc_custom_1489786539213{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #16a085 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://total.wpexplorer.com/samus/contact/</link>
 		<pubDate>Sat, 30 May 2015 21:48:19 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?page_id=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" css=".vc_custom_1489784402011{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #2c3e50 !important;}"][vc_column width="1/2"][vcex_icon_box style="two" heading="Email Us" icon_type="linecons" url_wrap="true" heading_weight="semibold" css=".vc_custom_1544417704030{margin-bottom: 0px !important;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #34495e !important;}" icon_color="#ffffff" icon_linecons="vc_li vc_li-mail" icon_size="52px" hover_background="#3498db" url="mailto:example@wpexplorer.com" font_size="18px" heading_size="24px" font_color="#ffffff" heading_color="#ffffff"]Click this box if you wish to email us.[/vcex_icon_box][/vc_column][vc_column width="1/2"][vcex_icon_box style="two" heading="Call Us" icon="fa fa-phone" url_wrap="true" heading_weight="semibold" css=".vc_custom_1484608686110{margin-bottom: 0px !important;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #34495e !important;}" icon_color="#ffffff" icon_size="52px" hover_background="#3498db" url="tel:#" font_size="18px" heading_size="24px" font_color="#ffffff" heading_color="#ffffff"]Click this box if you wish to call us.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489784419248{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column][vcex_icon icon="fa fa-comments-o" float="center" custom_size="52px" color="#3498db"][vcex_spacing size="10px"][vcex_heading text="Contact Form 7 Example" text_align="center" font_size="24px"][vcex_divider margin_top="30" margin_bottom="30" width="40px" height="2px"][vcex_form_shortcode full_width="true"][contact-form-7 id="75" title="Contact form 1"][/vcex_form_shortcode][/vc_column][/vc_row]</p>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" css=".vc_custom_1489784402011{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #2c3e50 !important;}"][vc_column width="1/2"][vcex_icon_box heading="Email Us" style="two" icon_type="linecons" url_wrap="true" heading_weight="semibold" css=".vc_custom_1544417704030{margin-bottom: 0px !important;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #34495e !important;}" icon_color="#ffffff" icon_linecons="vc_li vc_li-mail" icon_size="52px" hover_background="#3498db" url="mailto:example@wpexplorer.com" font_size="18px" heading_size="24px" font_color="#ffffff" heading_color="#ffffff"]Click this box if you wish to email us.[/vcex_icon_box][/vc_column][vc_column width="1/2"][vcex_icon_box heading="Call Us" style="two" icon="fa fa-phone" url_wrap="true" heading_weight="semibold" css=".vc_custom_1484608686110{margin-bottom: 0px !important;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #34495e !important;}" icon_color="#ffffff" icon_size="52px" hover_background="#3498db" url="tel:#" font_size="18px" heading_size="24px" font_color="#ffffff" heading_color="#ffffff"]Click this box if you wish to call us.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489784419248{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column][vcex_icon icon="fa fa-comments-o" float="center" custom_size="52px" color="#3498db"][vcex_spacing size="10px"][vcex_heading text="Contact Form 7 Example" text_align="center" font_size="24px"][vcex_divider margin_top="30" margin_bottom="30" width="40px" height="2px"][vcex_contact_form enable_privacy_check="false" label_required="(required)"][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-30 21:48:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-30 21:48:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-05 21:06:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-05 21:06:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1548,14 +1598,6 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
@@ -1567,20 +1609,12 @@
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1489784402011{padding-top: 60px !important;padding-bottom: 20px !important;background-color: #2c3e50 !important;}.vc_custom_1489784419248{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1544417704030{margin-bottom: 0px !important;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #34495e !important;}.vc_custom_1484608686110{margin-bottom: 0px !important;padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #34495e !important;}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>Pricing</title>
+		<title><![CDATA[Pricing]]></title>
 		<link>https://total.wpexplorer.com/samus/pricing/</link>
 		<pubDate>Sat, 30 May 2015 21:48:26 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489785837543{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column][vcex_heading text="Options For Everyone" tag="h1" font_weight="normal" text_align="center" font_size="32px"][vc_empty_space height="5px"][vcex_heading text="We offer various plans to best suit your needs" tag="h2" font_weight="normal" text_align="center" font_size="18px" color="#878787"][/vc_column][/vc_row][vc_row css=".vc_custom_1489784958231{padding-top: 50px !important;}"][vc_column][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-banknote" float="center" custom_size="52px" color="#f1c40f"][vcex_spacing size="10px"][vcex_heading text="Pricing Plans Below" link_local_scroll="" text_align="center" font_size="32px"][vc_column_text]</p>
@@ -1615,6 +1649,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-30 21:48:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-30 21:48:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-24 04:18:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-24 04:18:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pricing]]></wp:post_name>
@@ -1633,14 +1669,6 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
@@ -1649,23 +1677,15 @@
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1489785837543{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489784958231{padding-top: 50px !important;}.vc_custom_1489784952459{padding-bottom: 60px !important;}.vc_custom_1489784947012{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 60px !important;padding-bottom: 20px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://total.wpexplorer.com/samus/blog/</link>
 		<pubDate>Sat, 30 May 2015 21:48:41 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1673,6 +1693,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-30 21:48:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-30 21:48:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-30 21:48:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-30 21:48:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1686,16 +1708,12 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://total.wpexplorer.com/samus/</link>
 		<pubDate>Sat, 30 May 2015 21:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" bg_style="stretch" css=".vc_custom_1489784692939{padding-top: 100px !important;background: #222222 url(https://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/mainbg.jpg?id=98) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="Welcome Samus" tag="h1" text_align="center" color="#2291eb" font_size="38px"][vc_empty_space height="20px"][vc_column_text width="600px" color="#ffffff" font_size="18px"]</p>
@@ -1710,6 +1728,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-30 21:50:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-30 21:50:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-24 04:15:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-24 04:15:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1726,14 +1746,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
@@ -1776,14 +1788,6 @@
 		<wp:meta_value><![CDATA[1457291141]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1489784692939{padding-top: 100px !important;background: #222222 url(https://total.wpexplorer.com/samus/wp-content/uploads/sites/6/2015/05/mainbg.jpg?id=98) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489784672323{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1489784665591{padding-bottom: 40px !important;}.vc_custom_1585018595991{margin-top: 20px !important;padding-top: 60px !important;padding-bottom: 100px !important;background-color: #3498db !important;}.vc_custom_1489784644316{padding-top: 60px !important;}.vc_custom_1489784638499{padding-top: 20px !important;padding-bottom: 20px !important;}.vc_custom_1489784632820{padding-bottom: 40px !important;}.vc_custom_1585018584697{margin-top: 20px !important;padding-top: 60px !important;background-color: #9b59b6 !important;}.vc_custom_1585018008714{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1489784569647{padding-bottom: 40px !important;}.vc_custom_1489784453719{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #2ecc71 !important;}]]></wp:meta_value>
 		</wp:postmeta>
@@ -1797,10 +1801,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Boots Are Made For Walking</title>
+		<title><![CDATA[Boots Are Made For Walking]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/boots-are-made-for-walking/</link>
 		<pubDate>Sun, 31 May 2015 00:49:10 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=portfolio&#038;p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ex arcu. Sed id feugiat turpis. Aliquam imperdiet facilisis justo ut posuere. Duis feugiat tellus eu libero feugiat efficitur. Phasellus accumsan sed dolor nec imperdiet. Morbi rutrum fringilla nunc. Nulla facilisi. Nullam elementum ligula non nunc suscipit, ac aliquet justo malesuada. Duis id risus nec leo efficitur condimentum vel ac nisl. Nulla non magna et ante sagittis rhoncus quis eget tortor. Nulla eu eros ac tellus dignissim porttitor. Duis maximus pulvinar sem, molestie congue lorem porta vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec luctus mauris vitae sem lacinia pulvinar.
@@ -1812,6 +1816,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:49:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:49:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:49:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:49:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[boots-are-made-for-walking]]></wp:post_name>
@@ -1826,31 +1832,15 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[111]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ipads Are Fun For Stuff</title>
+		<title><![CDATA[Ipads Are Fun For Stuff]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/ipads-are-fun-for-stuff/</link>
 		<pubDate>Sun, 31 May 2015 00:53:41 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=portfolio&#038;p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ex arcu. Sed id feugiat turpis. Aliquam imperdiet facilisis justo ut posuere. Duis feugiat tellus eu libero feugiat efficitur. Phasellus accumsan sed dolor nec imperdiet. Morbi rutrum fringilla nunc. Nulla facilisi. Nullam elementum ligula non nunc suscipit, ac aliquet justo malesuada. Duis id risus nec leo efficitur condimentum vel ac nisl. Nulla non magna et ante sagittis rhoncus quis eget tortor. Nulla eu eros ac tellus dignissim porttitor. Duis maximus pulvinar sem, molestie congue lorem porta vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec luctus mauris vitae sem lacinia pulvinar.
@@ -1862,6 +1852,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:53:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:53:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:53:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:53:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[ipads-are-fun-for-stuff]]></wp:post_name>
@@ -1876,31 +1868,15 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[110]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Responsive Design</title>
+		<title><![CDATA[Responsive Design]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/responsive-design/</link>
 		<pubDate>Sun, 31 May 2015 00:54:27 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=portfolio&#038;p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ex arcu. Sed id feugiat turpis. Aliquam imperdiet facilisis justo ut posuere. Duis feugiat tellus eu libero feugiat efficitur. Phasellus accumsan sed dolor nec imperdiet. Morbi rutrum fringilla nunc. Nulla facilisi. Nullam elementum ligula non nunc suscipit, ac aliquet justo malesuada. Duis id risus nec leo efficitur condimentum vel ac nisl. Nulla non magna et ante sagittis rhoncus quis eget tortor. Nulla eu eros ac tellus dignissim porttitor. Duis maximus pulvinar sem, molestie congue lorem porta vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec luctus mauris vitae sem lacinia pulvinar.
@@ -1912,6 +1888,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:54:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:54:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:54:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:54:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[responsive-design]]></wp:post_name>
@@ -1926,31 +1904,15 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Some Models Are Cute</title>
+		<title><![CDATA[Some Models Are Cute]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/some-models-are-cute/</link>
 		<pubDate>Sun, 31 May 2015 00:54:55 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=portfolio&#038;p=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ex arcu. Sed id feugiat turpis. Aliquam imperdiet facilisis justo ut posuere. Duis feugiat tellus eu libero feugiat efficitur. Phasellus accumsan sed dolor nec imperdiet. Morbi rutrum fringilla nunc. Nulla facilisi. Nullam elementum ligula non nunc suscipit, ac aliquet justo malesuada. Duis id risus nec leo efficitur condimentum vel ac nisl. Nulla non magna et ante sagittis rhoncus quis eget tortor. Nulla eu eros ac tellus dignissim porttitor. Duis maximus pulvinar sem, molestie congue lorem porta vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec luctus mauris vitae sem lacinia pulvinar.
@@ -1962,6 +1924,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:54:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:54:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:54:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:54:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[some-models-are-cute]]></wp:post_name>
@@ -1980,19 +1944,15 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[models-are-cute]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Don&#039;t Forget To Eat</title>
+		<title><![CDATA[Don't Forget To Eat]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/dont-forget-to-eat/</link>
 		<pubDate>Sun, 31 May 2015 00:55:22 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=portfolio&#038;p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ex arcu. Sed id feugiat turpis. Aliquam imperdiet facilisis justo ut posuere. Duis feugiat tellus eu libero feugiat efficitur. Phasellus accumsan sed dolor nec imperdiet. Morbi rutrum fringilla nunc. Nulla facilisi. Nullam elementum ligula non nunc suscipit, ac aliquet justo malesuada. Duis id risus nec leo efficitur condimentum vel ac nisl. Nulla non magna et ante sagittis rhoncus quis eget tortor. Nulla eu eros ac tellus dignissim porttitor. Duis maximus pulvinar sem, molestie congue lorem porta vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec luctus mauris vitae sem lacinia pulvinar.
@@ -2004,6 +1964,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:55:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:55:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:55:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:55:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dont-forget-to-eat]]></wp:post_name>
@@ -2018,31 +1980,15 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[108]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Texting Is Fun</title>
+		<title><![CDATA[Texting Is Fun]]></title>
 		<link>https://total.wpexplorer.com/samus/portfolio-item/texting-is-fun/</link>
 		<pubDate>Sun, 31 May 2015 00:57:21 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=portfolio&#038;p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ex arcu. Sed id feugiat turpis. Aliquam imperdiet facilisis justo ut posuere. Duis feugiat tellus eu libero feugiat efficitur. Phasellus accumsan sed dolor nec imperdiet. Morbi rutrum fringilla nunc. Nulla facilisi. Nullam elementum ligula non nunc suscipit, ac aliquet justo malesuada. Duis id risus nec leo efficitur condimentum vel ac nisl. Nulla non magna et ante sagittis rhoncus quis eget tortor. Nulla eu eros ac tellus dignissim porttitor. Duis maximus pulvinar sem, molestie congue lorem porta vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec luctus mauris vitae sem lacinia pulvinar.
@@ -2054,6 +2000,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:57:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:57:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:57:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:57:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[texting-is-fun]]></wp:post_name>
@@ -2068,24 +2016,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[sexting-is-fun]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -2093,24 +2025,26 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Services</title>
+		<title><![CDATA[Services]]></title>
 		<link>https://total.wpexplorer.com/samus/services/</link>
 		<pubDate>Sun, 31 May 2015 02:17:40 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?page_id=78</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489786445201{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column][vcex_heading text="Quality Services For All Customers" link_local_scroll="" tag="h1" font_weight="normal" text_align="center" font_size="32px"][vc_empty_space height="5px"][vcex_heading text="Browse through our services below" link_local_scroll="" tag="h2" font_weight="normal" text_align="center" font_size="18px" color="#878787"][/vc_column][/vc_row][vc_row css=".vc_custom_1489786451474{padding-top: 80px !important;padding-bottom: 40px !important;}"][vc_column width="1/4"][vcex_icon_box style="two" heading="Develop Plan" icon="fa fa-cubes" url_target="" hover_white_text="" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]We work together to come up with a good plan for your site.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Mockup" icon="fa fa-crop" url_target="" hover_white_text="" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]Next we'll work together to create a good mockup.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Execute" icon="fa fa-rocket" url_target="" hover_white_text="" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]Once approved we'll go a head and develop and launch your project.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Perfect" icon="fa fa-heart-o" url_target="" hover_white_text="" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]We'll continue tweaking things to make sure you love the result.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" tablet_fullwidth_cols="yes" wpex_shape_divider_top="arrow" css=".vc_custom_1585020957494{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #2291eb !important;}"][vc_column width="1/4"][vcex_icon_box style="two" heading="Great Staff" icon_type="linecons" url_target="" hover_white_text="" heading_weight="normal" css=".vc_custom_1433192303661{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-user" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="Customizable" icon_type="linecons" url_target="" hover_white_text="" heading_weight="normal" css=".vc_custom_1433192379614{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-params" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="High Rated" icon_type="linecons" url_target="" hover_white_text="" heading_weight="normal" css=".vc_custom_1433192398915{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-star" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box style="two" heading="WooCommerce" icon_type="linecons" url_target="" hover_white_text="" heading_weight="normal" css=".vc_custom_1433192365241{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-shop" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1489786469439{padding-top: 80px !important;padding-bottom: 40px !important;}"][vc_column][vcex_heading text="Trusted By many" link_local_scroll="" font_weight="normal" text_align="center" font_size="24px"][vcex_divider_dots margin="top:10px|bottom:20px"][vcex_image_carousel animation_speed="150" arrows="false" auto_play="true" timeout_duration="3000" items_margin="40" img_rendering="" image_ids="90,91,92,93,94" img_filter="grayscale"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489786484705{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f7f7f7 !important;}"][vc_column width="1/3"][vc_single_image image="104" img_size="700x500"][vc_empty_space height="20px"][vcex_heading text="Mobile Ready" link_local_scroll="" text_align="center"][vcex_divider color="#2291eb" width="30px" margin="top:20px|bottom:20px"][vc_column_text]</p>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="0px" css=".vc_custom_1489786445201{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}"][vc_column][vcex_heading text="Quality Services For All Customers" link_local_scroll="" tag="h1" font_weight="normal" text_align="center" font_size="32px"][vc_empty_space height="5px"][vcex_heading text="Browse through our services below" link_local_scroll="" tag="h2" font_weight="normal" text_align="center" font_size="18px" color="#878787"][/vc_column][/vc_row][vc_row css=".vc_custom_1489786451474{padding-top: 80px !important;padding-bottom: 40px !important;}"][vc_column width="1/4"][vcex_icon_box heading="Develop Plan" style="two" hover_white_text="" icon="fa fa-cubes" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]We work together to come up with a good plan for your site.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Mockup" style="two" hover_white_text="" icon="fa fa-crop" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]Next we'll work together to create a good mockup.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Execute" style="two" hover_white_text="" icon="fa fa-rocket" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]Once approved we'll go a head and develop and launch your project.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Perfect" style="two" hover_white_text="" icon="fa fa-heart-o" heading_weight="normal" heading_size="18px" icon_background="#2291eb" icon_border_radius="50%" icon_width="80px" icon_height="80px" icon_color="#ffffff"]We'll continue tweaking things to make sure you love the result.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" tablet_fullwidth_cols="yes" wpex_shape_divider_top="arrow" css=".vc_custom_1585020957494{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #2291eb !important;}"][vc_column width="1/4"][vcex_icon_box heading="Great Staff" style="two" hover_white_text="" icon_type="linecons" heading_weight="normal" css=".vc_custom_1433192303661{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-user" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Customizable" style="two" hover_white_text="" icon_type="linecons" heading_weight="normal" css=".vc_custom_1433192379614{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-params" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="High Rated" style="two" hover_white_text="" icon_type="linecons" heading_weight="normal" css=".vc_custom_1433192398915{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-star" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="WooCommerce" style="two" hover_white_text="" icon_type="linecons" heading_weight="normal" css=".vc_custom_1433192365241{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}" border_radius="6px" heading_size="18px" icon_size="34px" icon_linecons="vc_li vc_li-shop" icon_color="#2291eb"]Lorem ipsum dolor sit amet, consectetur adipiscing elit.[/vcex_icon_box][/vc_column][/vc_row][vc_row css=".vc_custom_1489786469439{padding-top: 80px !important;padding-bottom: 40px !important;}"][vc_column][vcex_heading text="Trusted By many" link_local_scroll="" font_weight="normal" text_align="center" font_size="24px"][vcex_divider_dots margin="top:10px|bottom:20px"][vcex_image_carousel arrows="false" auto_play="true" timeout_duration="3000" animation_speed="150" items_margin="40" img_rendering="" image_ids="90,91,92,93,94" img_filter="grayscale"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489786484705{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f7f7f7 !important;}"][vc_column width="1/3"][vc_single_image image="104" img_size="700x500"][vc_empty_space height="20px"][vcex_heading text="Mobile Ready" link_local_scroll="" text_align="center"][vcex_divider color="#2291eb" width="30px" margin="top:20px|bottom:20px"][vc_column_text]</p>
 <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
 <p>[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image image="105" img_size="700x500"][vc_empty_space height="20px"][vcex_heading text="Strong Framework" link_local_scroll="" text_align="center"][vcex_divider color="#2291eb" width="30px" margin="top:20px|bottom:20px"][vc_column_text]</p>
 <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
 <p>[/vc_column_text][/vc_column][vc_column width="1/3"][vc_single_image image="106" img_size="700x500"][vc_empty_space height="20px"][vcex_heading text="Easy To Use" link_local_scroll="" text_align="center"][vcex_divider color="#2291eb" width="30px" margin="top:20px|bottom:20px"][vc_column_text]</p>
 <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" css=".vc_custom_1585022168935{padding-top: 50px !important;background-color: #e74c3c !important;}"][vc_column width="3/4"][vcex_heading text="Stop Waiting And Get The Total WP Theme Today!" link_local_scroll="" color="#ffffff" font_size="24px"][/vc_column][vc_column width="1/4"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" target="blank" layout="expanded" color="white" font_weight="semibold" font_padding="20px" font_size="16px" custom_hover_color="#c0392b"]Purchase Now[/vcex_button][/vc_column][/vc_row]</p>
+<p>[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1650756571611{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #e74c3c !important;}"][vc_column width="3/4"][vcex_heading text="Stop Waiting And Get The Total WP Theme Today!" link_local_scroll="" color="#ffffff" font_size="24px"][/vc_column][vc_column width="1/4"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" layout="expanded" target="blank" color="white" font_weight="semibold" font_padding="20px" font_size="16px" custom_hover_color="#c0392b"]Purchase Now[/vcex_button][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 02:17:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 02:17:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-04-23 23:29:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-23 23:29:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -2122,19 +2056,11 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1489786445201{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489786451474{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1585020957494{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #2291eb !important;}.vc_custom_1489786469439{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1489786484705{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f7f7f7 !important;}.vc_custom_1585022168935{padding-top: 50px !important;background-color: #e74c3c !important;}.vc_custom_1433192303661{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192379614{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192398915{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192365241{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1489786445201{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489786451474{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1585020957494{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #2291eb !important;}.vc_custom_1489786469439{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1489786484705{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f7f7f7 !important;}.vc_custom_1650756571611{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #e74c3c !important;}.vc_custom_1433192303661{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192379614{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192398915{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192365241{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
@@ -2162,22 +2088,14 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1489786445201{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489786451474{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1585020957494{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #2291eb !important;}.vc_custom_1489786469439{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1489786484705{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f7f7f7 !important;}.vc_custom_1585022168935{padding-top: 50px !important;background-color: #e74c3c !important;}.vc_custom_1433192303661{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192379614{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192398915{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192365241{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1489786445201{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fcfcfc !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}.vc_custom_1489786451474{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1585020957494{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #2291eb !important;}.vc_custom_1489786469439{padding-top: 80px !important;padding-bottom: 40px !important;}.vc_custom_1489786484705{padding-top: 100px !important;padding-bottom: 60px !important;background-color: #f7f7f7 !important;}.vc_custom_1650756571611{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #e74c3c !important;}.vc_custom_1433192303661{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192379614{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192398915{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}.vc_custom_1433192365241{padding-top: 40px !important;padding-right: 40px !important;padding-bottom: 40px !important;padding-left: 40px !important;background-color: #ffffff !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/120/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2185,6 +2103,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[120]]></wp:post_name>
@@ -2229,10 +2149,10 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/121/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2240,6 +2160,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[121]]></wp:post_name>
@@ -2284,10 +2206,10 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/122/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:44 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2295,6 +2217,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[122]]></wp:post_name>
@@ -2339,10 +2263,10 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Purchase</title>
+		<title><![CDATA[Purchase]]></title>
 		<link>https://total.wpexplorer.com/samus/purchase/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:44 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/purchase/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2350,6 +2274,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[purchase]]></wp:post_name>
@@ -2394,10 +2320,10 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/124/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:45 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/124/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2405,6 +2331,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[124]]></wp:post_name>
@@ -2449,10 +2377,10 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/125/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:45 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/125/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2460,6 +2388,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[125]]></wp:post_name>
@@ -2504,10 +2434,10 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/samus/126/</link>
 		<pubDate>Tue, 20 Nov 2018 03:13:45 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/samus/2018/11/20/126/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2515,6 +2445,8 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		<wp:post_id>126</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-20 03:13:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-20 03:13:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-20 03:13:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-20 03:13:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[126]]></wp:post_name>
@@ -2559,10 +2491,10 @@ Sed gravida nulla nulla, ut maximus lectus sollicitudin vel. Aliquam vel arcu sa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Farmers Farm Things</title>
+		<title><![CDATA[Farmers Farm Things]]></title>
 		<link>https://total.wpexplorer.com/samus/farmers-farm-things/</link>
 		<pubDate>Sat, 30 May 2015 21:46:23 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus velit diam, quis fringilla nunc bibendum sed. Fusce mauris leo, luctus ac ultricies et, eleifend quis tortor. Donec dictum metus ac convallis rhoncus. In a turpis in nibh maximus convallis ac eget felis. Praesent vel leo sapien. Curabitur sagittis vitae tortor ut ultrices. Duis pellentesque ullamcorper molestie. Sed quis nisi aliquam, cursus augue nec, viverra risus. Morbi sed quam dictum, eleifend nunc ac, cursus dui. Integer non pulvinar nisl. Donec ac justo volutpat felis elementum sollicitudin sollicitudin id nisi. Cras et auctor quam, sit amet condimentum felis. Curabitur efficitur sem eget mauris gravida, sit amet auctor justo imperdiet. In nec nisi tincidunt, eleifend lacus imperdiet, pulvinar nisi. Nullam a lorem sit amet lacus semper scelerisque.
@@ -2576,6 +2508,8 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-30 21:46:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-30 21:46:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-30 21:46:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-30 21:46:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[farmers-farm-things]]></wp:post_name>
@@ -2600,16 +2534,12 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Golden Gate Bridge</title>
+		<title><![CDATA[The Golden Gate Bridge]]></title>
 		<link>https://total.wpexplorer.com/samus/the-golden-gate-bridge/</link>
 		<pubDate>Sun, 31 May 2015 00:22:54 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus velit diam, quis fringilla nunc bibendum sed. Fusce mauris leo, luctus ac ultricies et, eleifend quis tortor. Donec dictum metus ac convallis rhoncus. In a turpis in nibh maximus convallis ac eget felis. Praesent vel leo sapien. Curabitur sagittis vitae tortor ut ultrices. Duis pellentesque ullamcorper molestie. Sed quis nisi aliquam, cursus augue nec, viverra risus. Morbi sed quam dictum, eleifend nunc ac, cursus dui. Integer non pulvinar nisl. Donec ac justo volutpat felis elementum sollicitudin sollicitudin id nisi. Cras et auctor quam, sit amet condimentum felis. Curabitur efficitur sem eget mauris gravida, sit amet auctor justo imperdiet. In nec nisi tincidunt, eleifend lacus imperdiet, pulvinar nisi. Nullam a lorem sit amet lacus semper scelerisque.
@@ -2623,6 +2553,8 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:22:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:22:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:22:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:22:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-golden-gate-bridge]]></wp:post_name>
@@ -2643,16 +2575,12 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title>Grapes Are Delicious</title>
+		<title><![CDATA[Grapes Are Delicious]]></title>
 		<link>https://total.wpexplorer.com/samus/grapes-are-delicious/</link>
 		<pubDate>Sun, 31 May 2015 00:24:13 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus velit diam, quis fringilla nunc bibendum sed. Fusce mauris leo, luctus ac ultricies et, eleifend quis tortor. Donec dictum metus ac convallis rhoncus. In a turpis in nibh maximus convallis ac eget felis. Praesent vel leo sapien. Curabitur sagittis vitae tortor ut ultrices. Duis pellentesque ullamcorper molestie. Sed quis nisi aliquam, cursus augue nec, viverra risus. Morbi sed quam dictum, eleifend nunc ac, cursus dui. Integer non pulvinar nisl. Donec ac justo volutpat felis elementum sollicitudin sollicitudin id nisi. Cras et auctor quam, sit amet condimentum felis. Curabitur efficitur sem eget mauris gravida, sit amet auctor justo imperdiet. In nec nisi tincidunt, eleifend lacus imperdiet, pulvinar nisi. Nullam a lorem sit amet lacus semper scelerisque.
@@ -2666,6 +2594,8 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:24:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:24:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:24:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:24:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[grapes-are-delicious]]></wp:post_name>
@@ -2686,58 +2616,54 @@ Curabitur pulvinar, dolor id feugiat tristique, felis ex pretium magna, ac ultri
 		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-07-27 03:01:41]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2016-07-27 03:01:41]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Nulla eu eleifend nisl. Maecenas aliquam arcu et orci luctus, suscipit finibus sapien malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent hendrerit vestibulum nisl, sed convallis mauris feugiat nec. Etiam volutpat ut nisi sit amet tincidunt. Vestibulum elementum mattis iaculis.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-07-27 03:01:47]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2016-07-27 03:01:47]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Cras et auctor quam, sit amet condimentum felis. Curabitur efficitur sem eget mauris gravida, sit amet auctor justo imperdiet. In nec nisi tincidunt, eleifend lacus imperdiet, pulvinar nisi. Nullam a lorem sit amet lacus semper scelerisque.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-07-27 03:01:58]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2016-07-27 03:01:58]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Donec et tempus ipsum. Duis lacus enim, luctus et finibus et, pharetra in neque. Fusce nec vehicula lacus. Nunc feugiat cursus mauris, non dignissim justo aliquet id.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>3</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
 					<item>
-		<title>Take The Total Journey</title>
+		<title><![CDATA[Take The Total Journey]]></title>
 		<link>https://total.wpexplorer.com/samus/take-the-total-journey/</link>
 		<pubDate>Sun, 31 May 2015 00:25:04 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?p=36</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempus velit diam, quis fringilla nunc bibendum sed. Fusce mauris leo, luctus ac ultricies et, eleifend quis tortor. Donec dictum metus ac convallis rhoncus. In a turpis in nibh maximus convallis ac eget felis. Praesent vel leo sapien. Curabitur sagittis vitae tortor ut ultrices. Duis pellentesque ullamcorper molestie. Sed quis nisi aliquam, cursus augue nec, viverra risus.
@@ -2765,6 +2691,8 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 00:25:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 00:25:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 00:25:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 00:25:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[take-the-total-journey]]></wp:post_name>
@@ -2785,58 +2713,54 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-10-05 01:40:15]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2016-10-05 01:40:15]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem ligula, at ultrices est vulputate feugiat. Aliquam ut ante nisi. Sed rhoncus lobortis arcu, id scelerisque nulla tristique vitae. Nam feugiat fringilla neque eget fringilla.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-10-05 01:40:24]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2016-10-05 01:40:24]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Etiam vestibulum tincidunt sapien ut sodales. Donec dapibus maximus orci, id dignissim purus faucibus sit amet. Vestibulum volutpat quis arcu eu imperdiet. Cras sit amet vulputate lectus. Mauris nec lacus vel risus hendrerit semper. Proin eleifend tincidunt neque, non molestie eros.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>6</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2016-10-05 01:40:32]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2016-10-05 01:40:32]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Cras et auctor quam, sit amet condimentum felis. Curabitur efficitur sem eget mauris gravida, sit amet auctor justo imperdiet. In nec nisi tincidunt, eleifend lacus imperdiet, pulvinar nisi. Nullam a lorem sit amet lacus semper scelerisque.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
 					<item>
-		<title>Love it</title>
+		<title><![CDATA[Love it]]></title>
 		<link>https://total.wpexplorer.com/samus/testimonial/love-it/</link>
 		<pubDate>Sun, 31 May 2015 01:01:20 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=testimonials&#038;p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[Great coding, so flexible and makes it possible to develop and deliver unique websites for clients very quickly. Love the customer support too.]]></content:encoded>
@@ -2844,6 +2768,8 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:01:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:01:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:01:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:01:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[love-it]]></wp:post_name>
@@ -2859,10 +2785,10 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Very Happy</title>
+		<title><![CDATA[Very Happy]]></title>
 		<link>https://total.wpexplorer.com/samus/testimonial/very-happy/</link>
 		<pubDate>Sun, 31 May 2015 01:02:42 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=testimonials&#038;p=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[Very happy with this theme. Easy to setup and customize settings. Including visual composer within the theme should be the standard for all themes. Jam packed with options to build a great responsive website. A+ theme.]]></content:encoded>
@@ -2870,6 +2796,8 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:02:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:02:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:02:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:02:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[very-happy]]></wp:post_name>
@@ -2885,10 +2813,10 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Highly Recommended</title>
+		<title><![CDATA[Highly Recommended]]></title>
 		<link>https://total.wpexplorer.com/samus/testimonial/highly-recommended/</link>
 		<pubDate>Sun, 31 May 2015 01:03:57 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=testimonials&#038;p=58</guid>
 		<description></description>
 		<content:encoded><![CDATA[Love the support with this theme! It's always quick and easy to follow. We picked this theme for the drag'n'drop feature, so that our employees of all levels of experience are able to make updates. Highly recommended theme by OIMP.]]></content:encoded>
@@ -2896,6 +2824,8 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:03:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:03:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:03:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:03:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[highly-recommended]]></wp:post_name>
@@ -2911,10 +2841,10 @@ In in enim pulvinar, scelerisque elit eu, convallis felis. Nunc fringilla sem li
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Matt Tucker</title>
+		<title><![CDATA[Matt Tucker]]></title>
 		<link>https://total.wpexplorer.com/samus/team/matt/</link>
 		<pubDate>Sun, 31 May 2015 01:22:42 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=staff&#038;p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquam ultrices risus, eget accumsan arcu efficitur pellentesque. Sed rutrum facilisis leo sit amet sodales. Vestibulum et fermentum arcu, vel convallis lacus. Nullam porttitor elementum neque et consequat. Etiam varius ante sed luctus feugiat. Proin vehicula dolor nibh, ut tempor leo hendrerit non. Pellentesque vehicula mattis magna in malesuada.
@@ -2926,6 +2856,8 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:22:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:22:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:22:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:22:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[matt]]></wp:post_name>
@@ -2944,19 +2876,15 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[The Chicken]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Melissa Robertson</title>
+		<title><![CDATA[Melissa Robertson]]></title>
 		<link>https://total.wpexplorer.com/samus/team/melissa-robertson/</link>
 		<pubDate>Sun, 31 May 2015 01:25:51 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=staff&#038;p=67</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquam ultrices risus, eget accumsan arcu efficitur pellentesque. Sed rutrum facilisis leo sit amet sodales. Vestibulum et fermentum arcu, vel convallis lacus. Nullam porttitor elementum neque et consequat. Etiam varius ante sed luctus feugiat. Proin vehicula dolor nibh, ut tempor leo hendrerit non. Pellentesque vehicula mattis magna in malesuada.
@@ -2968,6 +2896,8 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:25:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:25:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:25:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:25:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[melissa-robertson]]></wp:post_name>
@@ -2986,19 +2916,15 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Social Media]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Brian Brown</title>
+		<title><![CDATA[Brian Brown]]></title>
 		<link>https://total.wpexplorer.com/samus/team/brian-brown/</link>
 		<pubDate>Sun, 31 May 2015 01:27:28 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=staff&#038;p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquam ultrices risus, eget accumsan arcu efficitur pellentesque. Sed rutrum facilisis leo sit amet sodales. Vestibulum et fermentum arcu, vel convallis lacus. Nullam porttitor elementum neque et consequat. Etiam varius ante sed luctus feugiat. Proin vehicula dolor nibh, ut tempor leo hendrerit non. Pellentesque vehicula mattis magna in malesuada.
@@ -3010,6 +2936,8 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:27:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:27:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:27:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:27:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[brian-brown]]></wp:post_name>
@@ -3028,19 +2956,15 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Manager]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shaina Johnson</title>
+		<title><![CDATA[Shaina Johnson]]></title>
 		<link>https://total.wpexplorer.com/samus/team/shaina-johnson/</link>
 		<pubDate>Sun, 31 May 2015 01:28:12 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=staff&#038;p=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquam ultrices risus, eget accumsan arcu efficitur pellentesque. Sed rutrum facilisis leo sit amet sodales. Vestibulum et fermentum arcu, vel convallis lacus. Nullam porttitor elementum neque et consequat. Etiam varius ante sed luctus feugiat. Proin vehicula dolor nibh, ut tempor leo hendrerit non. Pellentesque vehicula mattis magna in malesuada.
@@ -3052,6 +2976,8 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:28:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:28:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:28:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:28:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[shaina-johnson]]></wp:post_name>
@@ -3070,19 +2996,15 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Secretary]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Aiden Cooper</title>
+		<title><![CDATA[Aiden Cooper]]></title>
 		<link>https://total.wpexplorer.com/samus/team/aiden-cooper/</link>
 		<pubDate>Sun, 31 May 2015 01:28:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=staff&#038;p=71</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquam ultrices risus, eget accumsan arcu efficitur pellentesque. Sed rutrum facilisis leo sit amet sodales. Vestibulum et fermentum arcu, vel convallis lacus. Nullam porttitor elementum neque et consequat. Etiam varius ante sed luctus feugiat. Proin vehicula dolor nibh, ut tempor leo hendrerit non. Pellentesque vehicula mattis magna in malesuada.
@@ -3094,6 +3016,8 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:28:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:28:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:28:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:28:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[aiden-cooper]]></wp:post_name>
@@ -3112,19 +3036,15 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[President]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Brian Brown</title>
+		<title><![CDATA[Brian Brown]]></title>
 		<link>https://total.wpexplorer.com/samus/team/brian-brown-2/</link>
 		<pubDate>Sun, 31 May 2015 01:29:37 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=staff&#038;p=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquam ultrices risus, eget accumsan arcu efficitur pellentesque. Sed rutrum facilisis leo sit amet sodales. Vestibulum et fermentum arcu, vel convallis lacus. Nullam porttitor elementum neque et consequat. Etiam varius ante sed luctus feugiat. Proin vehicula dolor nibh, ut tempor leo hendrerit non. Pellentesque vehicula mattis magna in malesuada.
@@ -3136,6 +3056,8 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2015-05-31 01:29:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-05-31 01:29:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-05-31 01:29:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-05-31 01:29:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[brian-brown-2]]></wp:post_name>
@@ -3154,135 +3076,8 @@ Nunc feugiat interdum faucibus. Aliquam pulvinar justo finibus, ornare nisl in, 
 		<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_staff_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Web Developer]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact form 1</title>
-		<link>https://total.wpexplorer.com/samus/?post_type=wpcf7_contact_form&#038;p=75</link>
-		<pubDate>Sun, 31 May 2015 01:57:03 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/samus/?post_type=wpcf7_contact_form&#038;p=75</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="wpex-row clr">
-<p class="col span_1_of_2">Your Name (required)<br />
-    [text* your-name] </p>
-<p class="col span_1_of_2">Your Email (required)<br />
-    [email* your-email] </p>
-</div><!-- .wpex-row -->
-<p>Your Message<br />[textarea your-message]</p>
-<p>[submit "Submit Form"]</p>
-1
-[your-subject]
-[your-name] <wordpress@total.wpexplorer.com>
-example@wpexplorer.com
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Samus (http://totaltheme.wpengine.com/samus)
-Reply-To: [your-email]
-
-
-
-
-[your-subject]
-Samus <wordpress@totaltheme.wpengine.com>
-[your-email]
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Samus (http://totaltheme.wpengine.com/samus)
-Reply-To: sympleworkz@gmail.com
-
-
-
-Your message was sent successfully. Thanks.
-Failed to send your message. Please try later or contact the administrator by another method.
-Validation errors occurred. Please confirm the fields and submit it again.
-Failed to send your message. Please try later or contact the administrator by another method.
-Please accept the terms to proceed.
-Please fill in the required field.
-This input is too long.
-This input is too short.
-Date format seems invalid.
-This date is too early.
-This date is too late.
-Failed to upload file.
-This file type is not allowed.
-This file is too large.
-Failed to upload file. Error occurred.
-Number format seems invalid.
-This number is too small.
-This number is too large.
-Your answer is not correct.
-Your entered code is incorrect.
-Email address seems invalid.
-URL seems invalid.
-Telephone number seems invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>75</wp:post_id>
-		<wp:post_date><![CDATA[2015-05-31 01:57:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-05-31 01:57:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<div class="wpex-row clr">
-<p class="col span_1_of_2">Your Name (required)<br />
-    [text* your-name] </p>
-<p class="col span_1_of_2">Your Email (required)<br />
-    [email* your-email] </p>
-</div><!-- .wpex-row -->
-<p>Your Message<br />[textarea your-message]</p>
-<p>[submit "Submit Form"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:44:"[your-name] <wordpress@total.wpexplorer.com>";s:9:"recipient";s:22:"example@wpexplorer.com";s:4:"body";s:179:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Samus (http://totaltheme.wpengine.com/samus)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:41:"Samus <wordpress@totaltheme.wpengine.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:121:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Samus (http://totaltheme.wpengine.com/samus)";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:34:"Please fill in the required field.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

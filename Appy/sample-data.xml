@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-05 01:00" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-02 23:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Appy</title>
 	<link>https://total.wpexplorer.com/appy</link>
 	<description>Just another Total Theme Demo site</description>
-	<pubDate>Tue, 05 Jan 2021 01:00:43 +0000</pubDate>
+	<pubDate>Mon, 02 May 2022 23:11:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
 	<wp:base_blog_url>https://total.wpexplorer.com/appy</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totalthememain]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -43,26 +43,29 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-				
-	<generator>https://wordpress.org/?v=5.6</generator>
+					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-social]]></wp:term_slug><wp:term_name><![CDATA[Footer Social]]></wp:term_name>
+</wp:term>
+
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 		<item>
-		<title>Homepage</title>
+		<title><![CDATA[Homepage]]></title>
 		<link>https://total.wpexplorer.com/appy/</link>
 		<pubDate>Tue, 10 Feb 2015 01:11:57 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/appy/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" column_spacing="30" bg_style="stretch" css=".vc_custom_1609807999192{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}"][vc_column width="1/2"][vcex_image image_id="8"][/vc_column][vc_column width="1/2"][vcex_spacing size="70px" visibility="visible-desktop"][vcex_icon icon_type="linecons" icon_linecons="vc_li vc_li-lab" custom_size="60px" color="#ffffff" width="100px" height="100px" border_radius="100px" border="6px solid #fff"][vcex_spacing][vcex_heading text="Turn that frown upside down." font_weight="normal" color="#ffffff" font_family="Lato" font_size="d:36|tl:30|tp:24|pl:24|pp:24"][vcex_heading text="#E-8_Q29tZSUyMG9uJTJDJTIwJTNDc3BhbiUyMGNsYXNzJTNEJTIyd3BleC1iZy1hY2NlbnQlMjB3cGV4LXB4LTUlMjIlM0VnZXQlMjBBcHB5JTNDJTJGc3BhbiUzRS4=" font_weight="normal" color="#ffffff" font_family="Lato" font_size="d:36|tl:30|tp:24|pl:24|pp:24"][vcex_spacing size="20px"][vc_column_text color="#ffffff" font_size="18"]Our app is the perfect solution. Whether you need to find a restaurant, send your mom a card, set a reminder or something else just use Appy. It can do anything.[/vc_column_text][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vcex_heading text="The app that does just about everything." bottom_margin="10px" tag="h2" text_align="center" font_size="24px" font_weight="bold" color="#005ba7"][vc_column_text]</p>
-<p style="text-align: center;">We built in tons of great features that you're sure to love.<br />
-We're onto something here - check it out.[/vc_column_text][vcex_spacing][vcex_multi_buttons buttons="%5B%7B%22text%22%3A%22App%20Store%20%5Bticon%20icon%3D%5C%22apple%5C%22%20margin_left%3D%5C%2210px%5C%22%5D%22%2C%22link%22%3A%22url%3Ahttp%253A%252F%252Fapple.com%7Ctarget%3A_blank%22%2C%22css_animation%22%3A%22none%22%2C%22style%22%3A%22flat%22%2C%22local_scroll%22%3A%22false%22%2C%22download_attribute%22%3A%22false%22%7D%2C%7B%22text%22%3A%22Google%20Play%20%5Bticon%20icon%3D%5C%22play%5C%22%20margin_left%3D%5C%2210px%5C%22%5D%22%2C%22link%22%3A%22url%3Ahttps%253A%252F%252Fplay.google.com%252Fstore%7Ctarget%3A_blank%22%2C%22css_animation%22%3A%22none%22%2C%22style%22%3A%22flat%22%2C%22local_scroll%22%3A%22false%22%2C%22download_attribute%22%3A%22false%22%7D%5D" font_weight="500"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}"][vc_column][vc_single_image image="19" alignment="center" lightbox_iframe_type="video_embed" lightbox_video="https://www.youtube.com/watch?v=2JyW4yAyTl0"][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vcex_heading text="It's as easy as 1, 2, 3, 4..." bottom_margin="10px" tag="h2" text_align="center" font_size="24px" font_weight="bold" color="#005ba7"][vc_column_text]</p>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" content_placement="middle" column_spacing="30" bg_style="stretch" css=".vc_custom_1634702976512{padding-top: 60px !important;padding-bottom: 20px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="wpex-accent-bg"][vc_column width="1/2" css=".vc_custom_1634701396044{padding-right: 40px !important;padding-left: 40px !important;}"][vcex_heading text="Turn that frown upside down. Come on, get Appy." bottom_margin="20px" color="#ffffff" font_size="d:32px|pl:28px" font_weight="600"][vc_column_text color="#ffffff"]Our app is the perfect solution. Whether you need to find a restaurant, send your mom a card, set a reminder or something else just use Appy. It can do anything.[/vc_column_text][vcex_spacing size="40px"][vcex_button style="flat" color="white" border_radius="9999px" icon_left="ticon ticon-apple" font_weight="600"]Download on iTunes[/vcex_button][vcex_spacing visibility="visible-phone"][/vc_column][vc_column width="1/2"][vcex_image image_id="8"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1634702497330{padding-top: 100px !important;padding-bottom: 100px !important;}"][vc_column][vcex_heading text="The App That Does Just About Everything!" bottom_margin="25px" tag="h2" text_align="center" font_size="28px"][vc_column_text text_align="center" font_family="PT Serif" font_size="18px" align="center" width="500px"]"This app is unlike anything I have ever used before and has helped me save thousands" - John Doe[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1634702429463{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f3f4f6 !important;}"][vc_column width="1/2"][vcex_image align="center" overlay_style="video-icon_4" onclick="lightbox_video" image_id="45" img_width="500px" img_height="500px" onclick_url="https://www.youtube.com/watch?v=2UlWughT6QE"][/vc_column][vc_column width="1/2"][vcex_heading text="Powerful Features" bottom_margin="10px" tag="h2"][vc_column_text]We built in tons of great features that you're sure to love.<br />
+We're onto something here.[/vc_column_text][vcex_spacing size="40px"][vcex_list_item bottom_margin="20px" flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="accent" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Free for personal use.[/vcex_list_item][vcex_list_item bottom_margin="20px" flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="accent" icon_background="#e9edfa" font_size="16px" font_family="Inter"]User statistics and data.[/vcex_list_item][vcex_list_item bottom_margin="20px" flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="accent" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Upgrade at anytime.[/vcex_list_item][vcex_list_item bottom_margin="20px" flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="accent" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Works with all modern devices.[/vcex_list_item][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1634703753781{padding-top: 80px !important;padding-bottom: 65px !important;}" max_width_custom="1000px" max_width_align="center"][vc_column][vcex_heading text="It's as easy as 1, 2, 3" bottom_margin="10px" tag="h2" text_align="center"][vc_column_text]</p>
 <p style="text-align: center;">Download the app. Sign up for an account.<br />
-Do things. Then to more things.[/vc_column_text][vcex_spacing size="45px" visibility="hidden-phone"][vcex_image_grid responsive_columns="false" thumbnail_link="none" visibility="hidden-phone" img_width="226" img_height="9999" image_ids="9,10,11,12"][/vc_column][/vc_row][vc_row full_width="stretch_row" wpex_bg_overlay="dark" css=".vc_custom_1609808125906{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_opacity=".3"][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Device" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-phone" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794415356{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Our app has been developer to work on every mobile device.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Place" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-location" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794434557{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]Access your data no matter where you are in the world.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box style="two" heading="Any Time" icon_type="linecons" heading_weight="normal" icon_linecons="vc_li vc_li-calendar" icon_color="#ffffff" icon_size="60" heading_letter_spacing="1px" css=".vc_custom_1426794803333{margin-bottom: 0px !important;}" heading_color="#ffffff" font_color="#ffffff"]You can sign up and cancel your membership at anytime.[/vcex_icon_box][/vc_column][/vc_row][vc_row padding_top="45px"][vc_column][vcex_heading text="Get Started Today with Appy" bottom_margin="10px" tag="h2" text_align="center" font_size="24px" font_weight="bold" color="#005ba7"][vc_column_text text_align="center"]Don't wait any longer, download the Appy app today![/vc_column_text][vcex_spacing size="20px"][vcex_button url="https://www.wpexplorer.com/out/total" size="small" title="Learn More" align="center" custom_background="#24bf75" border_radius="2px" custom_hover_background="#1c945b"]Get Started[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" column_spacing="30" remove_bottom_col_margin="true" css=".vc_custom_1609808329485{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}"][vc_column][vcex_spacing size="10px" visibility="visible-desktop"][vcex_heading text="Sign up to day to receive access to Appy exclusives!" bottom_margin="10px" tag="h2" font_size="24px" font_weight="bold" color="#005ba7" text_align="center"][vc_column_text text_align="center"]You'll be the first to know about updates and more. You know you want to.[/vc_column_text][vcex_spacing][vcex_newsletter_form form_action="//wpexplorer.us1.list-manage.com/subscribe/post?u=9b7568b7c032f9a6738a9cf4d&id=7056c37ddf" input_align="center" input_width="500px"][/vc_column][/vc_row]</p>
+Do things. Then to more things.[/vc_column_text][vcex_spacing size="45px" visibility="hidden-phone"][vcex_image_grid columns="3" responsive_columns="false" image_ids="48,49,47" img_width="500px" img_height="450px" columns_gap="40"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1634704009843{padding-top: 80px !important;padding-bottom: 80px !important;}" el_class="wpex-bg-accent"][vc_column][vcex_heading text="Join our Newsletter" text_align="center" tag="h2" font_size="28px" color="#ffffff" el_class="wpex-align-top" font_weight="600"][vcex_spacing size="20px"][vc_column_text width="650px" align="center" text_align="center" color="#ffffff"]Subscribe to the newsletter to receive our latest tips, tricks, tutorials and news directly in your inbox. We will not spam and you can cancel at anytime.[/vc_column_text][vcex_spacing size="35px"][vcex_newsletter_form input_align="center" fullwidth_mobile="true" gap="15px" input_width="550px" submit_bg="#1f2937" submit_color="#ffffff" input_border="0px" input_font_size=".9em" submit_font_size=".75em" submit_letter_spacing="1px" submit_text_transform="uppercase"][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-10 01:11:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-10 01:11:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:04:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:04:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -74,19 +77,11 @@ Do things. Then to more things.[/vc_column_text][vcex_spacing size="45px" visibi
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1609807999192{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}.vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1609808125906{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1609808329485{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1426794415356{margin-bottom: 0px !important;}.vc_custom_1426794434557{margin-bottom: 0px !important;}.vc_custom_1426794803333{margin-bottom: 0px !important;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1634702976512{padding-top: 60px !important;padding-bottom: 20px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1634702497330{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1634702429463{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f3f4f6 !important;}.vc_custom_1634703753781{padding-top: 80px !important;padding-bottom: 65px !important;}.vc_custom_1634704009843{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1634701396044{padding-right: 40px !important;padding-left: 40px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
@@ -118,119 +113,14 @@ Do things. Then to more things.[/vc_column_text][vcex_spacing size="45px" visibi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1609807999192{border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 90px !important;background: #41a8ff url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;border-left-color: #2187de !important;border-left-style: solid !important;border-right-color: #2187de !important;border-right-style: solid !important;border-top-color: #2187de !important;border-top-style: solid !important;border-bottom-color: #2187de !important;border-bottom-style: solid !important;}.vc_custom_1489542321252{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 1px !important;border-left-width: 0px !important;padding-top: 45px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1609808125906{padding-top: 50px !important;padding-bottom: 10px !important;background: #2496e2 url(https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1609808329485{border-top-width: 1px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #fbfbfb !important;border-left-color: #f1f1f1 !important;border-left-style: solid !important;border-right-color: #f1f1f1 !important;border-right-style: solid !important;border-top-color: #f1f1f1 !important;border-top-style: solid !important;border-bottom-color: #f1f1f1 !important;border-bottom-style: solid !important;}.vc_custom_1426794415356{margin-bottom: 0px !important;}.vc_custom_1426794434557{margin-bottom: 0px !important;}.vc_custom_1426794803333{margin-bottom: 0px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1634702976512{padding-top: 60px !important;padding-bottom: 20px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1634702497330{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1634702429463{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f3f4f6 !important;}.vc_custom_1634703753781{padding-top: 80px !important;padding-bottom: 65px !important;}.vc_custom_1634704009843{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1634701396044{padding-right: 40px !important;padding-left: 40px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Carolyn Meyer // Designer</title>
-		<link>https://total.wpexplorer.com/appy/homepage/girl/</link>
-		<pubDate>Tue, 10 Feb 2015 02:13:04 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/girl.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 02:13:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 02:13:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[girl]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/girl.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/girl.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:16:"2015/02/girl.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"girl-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Ben Baker // Developer</title>
-		<link>https://total.wpexplorer.com/appy/homepage/guy/</link>
-		<pubDate>Tue, 10 Feb 2015 02:13:22 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/guy.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 02:13:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 02:13:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[guy]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/guy.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/guy.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:15:"2015/02/guy.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:15:"guy-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>phone1</title>
-		<link>https://total.wpexplorer.com/appy/homepage/phone1/</link>
-		<pubDate>Tue, 10 Feb 2015 02:45:16 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/phone1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 02:45:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 02:45:16]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[phone1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/phone1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/phone1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:18:"2015/02/phone1.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:18:"phone1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>phones</title>
+		<title><![CDATA[phones]]></title>
 		<link>https://total.wpexplorer.com/appy/homepage/phones/</link>
 		<pubDate>Tue, 10 Feb 2015 02:47:26 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/phones.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -238,6 +128,8 @@ Do things. Then to more things.[/vc_column_text][vcex_spacing size="45px" visibi
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-10 02:47:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-10 02:47:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-10 02:47:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-10 02:47:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[phones]]></wp:post_name>
@@ -258,189 +150,366 @@ Do things. Then to more things.[/vc_column_text][vcex_spacing size="45px" visibi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>step1</title>
-		<link>https://total.wpexplorer.com/appy/homepage/step1/</link>
-		<pubDate>Tue, 10 Feb 2015 03:00:33 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step1.jpg</guid>
+		<title><![CDATA[Total]]></title>
+		<link>https://total.wpexplorer.com/appy/total/</link>
+		<pubDate>Wed, 20 Oct 2021 02:12:34 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/total/</guid>
+		<description></description>
+		<content:encoded><![CDATA[/* Add box shadow to site */
+.boxed-main-layout #wrap {
+    box-shadow: 0 0 100px 0 rgba(0,0,0,0.1);
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 02:12:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 02:12:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 02:12:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 02:12:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[total]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[balazs-ketyi-L0nipfx-Ry4-unsplash]]></title>
+		<link>https://total.wpexplorer.com/appy/homepage/balazs-ketyi-l0nipfx-ry4-unsplash/</link>
+		<pubDate>Wed, 20 Oct 2021 03:52:29 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-L0nipfx-Ry4-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 03:00:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:33]]></wp:post_date_gmt>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 03:52:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 03:52:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 03:52:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 03:52:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[step1]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[balazs-ketyi-l0nipfx-ry4-unsplash]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-L0nipfx-Ry4-unsplash.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/step1.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/10/balazs-ketyi-L0nipfx-Ry4-unsplash.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step1.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step1-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1074;s:4:"file";s:45:"2021/10/balazs-ketyi-L0nipfx-Ry4-unsplash.png";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:45:"balazs-ketyi-L0nipfx-Ry4-unsplash-768x412.png";s:5:"width";i:768;s:6:"height";i:412;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:46:"balazs-ketyi-L0nipfx-Ry4-unsplash-1536x825.png";s:5:"width";i:1536;s:6:"height";i:825;s:9:"mime-type";s:9:"image/png";}s:12:"wpex_600x600";a:5:{s:4:"file";s:45:"balazs-ketyi-L0nipfx-Ry4-unsplash-600x600.png";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_500x500";a:5:{s:4:"file";s:45:"balazs-ketyi-L0nipfx-Ry4-unsplash-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_500x500@2x";a:5:{s:4:"file";s:48:"balazs-ketyi-L0nipfx-Ry4-unsplash-500x500@2x.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>step2</title>
-		<link>https://total.wpexplorer.com/appy/homepage/step2/</link>
-		<pubDate>Tue, 10 Feb 2015 03:00:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step2.jpg</guid>
+		<title><![CDATA[balazs-ketyi-b9rPuUQ_YSs-unsplash]]></title>
+		<link>https://total.wpexplorer.com/appy/homepage/balazs-ketyi-b9rpuuq_yss-unsplash/</link>
+		<pubDate>Wed, 20 Oct 2021 04:17:03 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-b9rPuUQ_YSs-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 03:00:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:34]]></wp:post_date_gmt>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 04:17:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 04:17:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 04:17:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 04:17:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[step2]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[balazs-ketyi-b9rpuuq_yss-unsplash]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-b9rPuUQ_YSs-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/step2.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/10/balazs-ketyi-b9rPuUQ_YSs-unsplash.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step2.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step2-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:743;s:4:"file";s:45:"2021/10/balazs-ketyi-b9rPuUQ_YSs-unsplash.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:45:"balazs-ketyi-b9rPuUQ_YSs-unsplash-768x571.jpg";s:5:"width";i:768;s:6:"height";i:571;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_226x168";a:5:{s:4:"file";s:45:"balazs-ketyi-b9rPuUQ_YSs-unsplash-226x168.jpg";s:5:"width";i:226;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_226x168@2x";a:5:{s:4:"file";s:48:"balazs-ketyi-b9rPuUQ_YSs-unsplash-226x168@2x.jpg";s:5:"width";i:452;s:6:"height";i:336;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:45:"balazs-ketyi-b9rPuUQ_YSs-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_500x450";a:5:{s:4:"file";s:45:"balazs-ketyi-b9rPuUQ_YSs-unsplash-500x450.jpg";s:5:"width";i:500;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>step3</title>
-		<link>https://total.wpexplorer.com/appy/homepage/step3/</link>
-		<pubDate>Tue, 10 Feb 2015 03:00:35 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step3.jpg</guid>
+		<title><![CDATA[balazs-ketyi-JKAixP_jPPo-unsplash]]></title>
+		<link>https://total.wpexplorer.com/appy/homepage/balazs-ketyi-jkaixp_jppo-unsplash/</link>
+		<pubDate>Wed, 20 Oct 2021 04:17:03 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-JKAixP_jPPo-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 03:00:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:35]]></wp:post_date_gmt>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 04:17:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 04:17:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 04:17:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 04:17:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[step3]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[balazs-ketyi-jkaixp_jppo-unsplash]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-JKAixP_jPPo-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/step3.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/10/balazs-ketyi-JKAixP_jPPo-unsplash.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step3.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step3-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:45:"2021/10/balazs-ketyi-JKAixP_jPPo-unsplash.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:45:"balazs-ketyi-JKAixP_jPPo-unsplash-768x960.jpg";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_226x283";a:5:{s:4:"file";s:45:"balazs-ketyi-JKAixP_jPPo-unsplash-226x283.jpg";s:5:"width";i:226;s:6:"height";i:283;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_226x283@2x";a:5:{s:4:"file";s:48:"balazs-ketyi-JKAixP_jPPo-unsplash-226x283@2x.jpg";s:5:"width";i:452;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:45:"balazs-ketyi-JKAixP_jPPo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_500x450";a:5:{s:4:"file";s:45:"balazs-ketyi-JKAixP_jPPo-unsplash-500x450.jpg";s:5:"width";i:500;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_500x450@2x";a:5:{s:4:"file";s:48:"balazs-ketyi-JKAixP_jPPo-unsplash-500x450@2x.jpg";s:5:"width";i:1000;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>step4</title>
-		<link>https://total.wpexplorer.com/appy/homepage/step4/</link>
-		<pubDate>Tue, 10 Feb 2015 03:00:36 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step4.jpg</guid>
+		<title><![CDATA[balazs-ketyi-KvoMDHvCttg-unsplash]]></title>
+		<link>https://total.wpexplorer.com/appy/homepage/balazs-ketyi-kvomdhvcttg-unsplash/</link>
+		<pubDate>Wed, 20 Oct 2021 04:17:05 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-KvoMDHvCttg-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 03:00:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 03:00:36]]></wp:post_date_gmt>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 04:17:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 04:17:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 04:17:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 04:17:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[step4]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[balazs-ketyi-kvomdhvcttg-unsplash]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/step4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-KvoMDHvCttg-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/step4.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/10/balazs-ketyi-KvoMDHvCttg-unsplash.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:426;s:6:"height";i:426;s:4:"file";s:17:"2015/02/step4.jpg";s:5:"sizes";a:1:{s:12:"wpex_226x226";a:5:{s:4:"file";s:17:"step4-226x226.jpg";s:5:"width";i:226;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:45:"2021/10/balazs-ketyi-KvoMDHvCttg-unsplash.jpg";s:5:"sizes";a:6:{s:12:"medium_large";a:4:{s:4:"file";s:45:"balazs-ketyi-KvoMDHvCttg-unsplash-768x960.jpg";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_226x283";a:5:{s:4:"file";s:45:"balazs-ketyi-KvoMDHvCttg-unsplash-226x283.jpg";s:5:"width";i:226;s:6:"height";i:283;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_226x283@2x";a:5:{s:4:"file";s:48:"balazs-ketyi-KvoMDHvCttg-unsplash-226x283@2x.jpg";s:5:"width";i:452;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:45:"balazs-ketyi-KvoMDHvCttg-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_500x450";a:5:{s:4:"file";s:45:"balazs-ketyi-KvoMDHvCttg-unsplash-500x450.jpg";s:5:"width";i:500;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_500x450@2x";a:5:{s:4:"file";s:48:"balazs-ketyi-KvoMDHvCttg-unsplash-500x450@2x.jpg";s:5:"width";i:1000;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>team</title>
-		<link>https://total.wpexplorer.com/appy/homepage/team/</link>
-		<pubDate>Tue, 10 Feb 2015 03:28:39 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg</guid>
+		<title><![CDATA[balazs-ketyi-sScmok4Iq1o-unsplash]]></title>
+		<link>https://total.wpexplorer.com/appy/homepage/balazs-ketyi-sscmok4iq1o-unsplash/</link>
+		<pubDate>Wed, 20 Oct 2021 04:17:05 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-sScmok4Iq1o-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 03:28:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 03:28:39]]></wp:post_date_gmt>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 04:17:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 04:17:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 04:17:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 04:17:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[team]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[balazs-ketyi-sscmok4iq1o-unsplash]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>2</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/team.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2021/10/balazs-ketyi-sScmok4Iq1o-unsplash.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/team.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/10/balazs-ketyi-sScmok4Iq1o-unsplash.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:1150;s:4:"file";s:16:"2015/02/team.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:16:"team-768x465.jpg";s:5:"width";i:768;s:6:"height";i:465;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:750;s:4:"file";s:45:"2021/10/balazs-ketyi-sScmok4Iq1o-unsplash.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:45:"balazs-ketyi-sScmok4Iq1o-unsplash-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_226x170";a:5:{s:4:"file";s:45:"balazs-ketyi-sScmok4Iq1o-unsplash-226x170.jpg";s:5:"width";i:226;s:6:"height";i:170;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_226x170@2x";a:5:{s:4:"file";s:48:"balazs-ketyi-sScmok4Iq1o-unsplash-226x170@2x.jpg";s:5:"width";i:452;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:45:"balazs-ketyi-sScmok4Iq1o-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_500x450";a:5:{s:4:"file";s:45:"balazs-ketyi-sScmok4Iq1o-unsplash-500x450.jpg";s:5:"width";i:500;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>play</title>
-		<link>https://total.wpexplorer.com/appy/homepage/play/</link>
-		<pubDate>Tue, 10 Feb 2015 03:32:53 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/play.jpg</guid>
+		<title><![CDATA[Facebook]]></title>
+		<link>https://total.wpexplorer.com/appy/facebook/</link>
+		<pubDate>Wed, 20 Oct 2021 04:29:08 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-10 03:32:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2015-02-10 03:32:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[play]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 04:29:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 04:29:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 04:29:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 04:29:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[facebook]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/appy/wp-content/uploads/sites/48/2015/02/play.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2015/02/play.jpg]]></wp:meta_value>
+										<category domain="nav_menu" nicename="footer-social"><![CDATA[Footer Social]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:350;s:4:"file";s:16:"2015/02/play.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.facebook.com/WPExplorerThemes/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Twitter]]></title>
+		<link>https://total.wpexplorer.com/appy/twitter/</link>
+		<pubDate>Wed, 20 Oct 2021 04:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/twitter/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 04:30:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 04:30:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 04:30:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 04:30:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[twitter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-social"><![CDATA[Footer Social]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://twitter.com/wpexplorer]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Instagram]]></title>
+		<link>https://total.wpexplorer.com/appy/instagram/</link>
+		<pubDate>Wed, 20 Oct 2021 04:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/appy/instagram/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2021-10-20 04:30:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-10-20 04:30:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-10-20 04:30:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-10-20 04:30:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[instagram]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-social"><![CDATA[Footer Social]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.instagram.com/wpexplorer/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

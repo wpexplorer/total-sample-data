@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-04-03 02:11" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-06 00:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,39 +27,41 @@
 
 <channel>
 	<title>Zoo</title>
-	<link>http://totaltheme.wpengine.com/zoo</link>
-	<description>A Total Drag &#38; Drop WordPress Theme Demo</description>
-	<pubDate>Mon, 03 Apr 2017 02:11:26 +0000</pubDate>
+	<link>https://total.wpexplorer.com/zoo</link>
+	<description>Just another Total Theme Demo site</description>
+	<pubDate>Fri, 06 May 2022 00:56:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
-	<wp:base_blog_url>http://totaltheme.wpengine.com/zoo</wp:base_blog_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_blog_url>https://total.wpexplorer.com/zoo</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
+					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
-	<item>
-		<title>zoo-logo</title>
-		<link>http://totaltheme.wpengine.com/zoo/zoo-logo/</link>
+		<item>
+		<title><![CDATA[zoo-logo]]></title>
+		<link>https://total.wpexplorer.com/zoo/zoo-logo/</link>
 		<pubDate>Sun, 05 Jun 2016 19:10:34 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/zoo-logo.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/zoo-logo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:10:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:10:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:10:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:10:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[zoo-logo]]></wp:post_name>
@@ -69,28 +71,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/zoo-logo.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/zoo-logo.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/zoo-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/zoo-logo.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:122;s:6:"height";i:98;s:4:"file";s:20:"2016/06/zoo-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:122;s:6:"height";i:98;s:4:"file";s:20:"2016/06/zoo-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>african-lion</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/african-lion/</link>
+							</item>
+					<item>
+		<title><![CDATA[african-lion]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/african-lion/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:10 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/african-lion.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/african-lion.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[african-lion]]></wp:post_name>
@@ -100,28 +104,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/african-lion.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/african-lion.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/african-lion.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/african-lion.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:24:"2016/06/african-lion.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:24:"african-lion-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:24:"2016/06/african-lion.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:24:"african-lion-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:24:"african-lion-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:22:"african-lion-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>bear</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/bear/</link>
+							</item>
+					<item>
+		<title><![CDATA[bear]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/bear/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:11 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/bear.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/bear.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bear]]></wp:post_name>
@@ -131,28 +137,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/bear.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/bear.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/bear.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/bear.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:16:"2016/06/bear.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:16:"bear-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:16:"2016/06/bear.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:16:"bear-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:16:"bear-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:14:"bear-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>flamingo</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/flamingo/</link>
+							</item>
+					<item>
+		<title><![CDATA[flamingo]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/flamingo/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:12 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/flamingo.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/flamingo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[flamingo]]></wp:post_name>
@@ -162,28 +170,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/flamingo.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/flamingo.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/flamingo.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/flamingo.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/flamingo.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"flamingo-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/flamingo.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:20:"flamingo-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"flamingo-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:18:"flamingo-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>giraffe</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/giraffe/</link>
+							</item>
+					<item>
+		<title><![CDATA[giraffe]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/giraffe/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:14 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/giraffe.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/giraffe.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[giraffe]]></wp:post_name>
@@ -193,28 +203,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/giraffe.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/giraffe.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/giraffe.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/giraffe.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/giraffe.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:19:"giraffe-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/giraffe.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:19:"giraffe-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:19:"giraffe-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:17:"giraffe-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>lemur</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/lemur/</link>
+							</item>
+					<item>
+		<title><![CDATA[lemur]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/lemur/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:15 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/lemur.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/lemur.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lemur]]></wp:post_name>
@@ -224,28 +236,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/lemur.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/lemur.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/lemur.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/lemur.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/lemur.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:17:"lemur-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/lemur.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"lemur-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:17:"lemur-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"lemur-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>leopard</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/leopard/</link>
+							</item>
+					<item>
+		<title><![CDATA[leopard]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/leopard/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:16 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/leopard.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/leopard.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[leopard]]></wp:post_name>
@@ -255,28 +269,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/leopard.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/leopard.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/leopard.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/leopard.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/leopard.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:19:"leopard-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:19:"2016/06/leopard.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:19:"leopard-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:19:"leopard-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:17:"leopard-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>mandrill</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/mandrill/</link>
+							</item>
+					<item>
+		<title><![CDATA[mandrill]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/mandrill/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:17 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/mandrill.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/mandrill.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mandrill]]></wp:post_name>
@@ -286,28 +302,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/mandrill.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/mandrill.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/mandrill.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/mandrill.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/mandrill.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"mandrill-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/mandrill.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:20:"mandrill-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"mandrill-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:18:"mandrill-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>parrot</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/parrot/</link>
+							</item>
+					<item>
+		<title><![CDATA[parrot]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/parrot/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:18 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/parrot.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/parrot.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[parrot]]></wp:post_name>
@@ -317,28 +335,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/parrot.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/parrot.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/parrot.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/parrot.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:18:"2016/06/parrot.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:18:"parrot-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:18:"2016/06/parrot.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"parrot-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:18:"parrot-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:16:"parrot-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>sea-lion</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/sea-lion/</link>
+							</item>
+					<item>
+		<title><![CDATA[sea-lion]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/sea-lion/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:19 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/sea-lion.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/sea-lion.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sea-lion]]></wp:post_name>
@@ -348,28 +368,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/sea-lion.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/sea-lion.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/sea-lion.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/sea-lion.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/sea-lion.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"sea-lion-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:20:"2016/06/sea-lion.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:20:"sea-lion-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:20:"sea-lion-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:18:"sea-lion-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>snake</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/snake/</link>
+							</item>
+					<item>
+		<title><![CDATA[snake]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/snake/</link>
 		<pubDate>Sun, 05 Jun 2016 19:37:20 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/snake.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/snake.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 19:37:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 19:37:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 19:37:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 19:37:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[snake]]></wp:post_name>
@@ -379,28 +401,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/snake.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/snake.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/snake.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/snake.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/snake.jpg";s:5:"sizes";a:1:{s:12:"wpex_490x340";a:5:{s:4:"file";s:17:"snake-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:900;s:6:"height";i:595;s:4:"file";s:17:"2016/06/snake.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:17:"snake-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_490x340";a:5:{s:4:"file";s:17:"snake-490x340.jpg";s:5:"width";i:490;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"wpex_80x80";a:5:{s:4:"file";s:15:"snake-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>animals-bg</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/animals-bg/</link>
+							</item>
+					<item>
+		<title><![CDATA[animals-bg]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/animals-bg/</link>
 		<pubDate>Sun, 05 Jun 2016 20:05:11 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/animals-bg.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 20:05:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 20:05:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 20:05:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 20:05:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[animals-bg]]></wp:post_name>
@@ -410,28 +434,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/animals-bg.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/animals-bg.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/animals-bg.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1800;s:6:"height";i:600;s:4:"file";s:22:"2016/06/animals-bg.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1800;s:6:"height";i:600;s:4:"file";s:22:"2016/06/animals-bg.png";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:22:"animals-bg-768x256.png";s:5:"width";i:768;s:6:"height";i:256;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>encounters-o</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/encounters-o/</link>
+							</item>
+					<item>
+		<title><![CDATA[encounters-o]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/encounters-o/</link>
 		<pubDate>Sun, 05 Jun 2016 21:06:39 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/encounters-o.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/encounters-o.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 21:06:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 21:06:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-05 21:06:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-05 21:06:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[encounters-o]]></wp:post_name>
@@ -441,28 +467,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/encounters-o.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/encounters-o.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/encounters-o.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/encounters-o.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:375;s:4:"file";s:24:"2016/06/encounters-o.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:375;s:4:"file";s:24:"2016/06/encounters-o.png";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:24:"encounters-o-768x288.png";s:5:"width";i:768;s:6:"height";i:288;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>diet</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/diet/</link>
+							</item>
+					<item>
+		<title><![CDATA[diet]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/diet/</link>
 		<pubDate>Mon, 06 Jun 2016 00:35:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/diet.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/diet.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 00:35:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 00:35:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 00:35:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 00:35:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[diet]]></wp:post_name>
@@ -472,28 +500,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/diet.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/diet.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/diet.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/diet.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:455;s:4:"file";s:16:"2016/06/diet.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:455;s:4:"file";s:16:"2016/06/diet.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>enrichment</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/enrichment/</link>
+							</item>
+					<item>
+		<title><![CDATA[enrichment]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/enrichment/</link>
 		<pubDate>Mon, 06 Jun 2016 00:57:42 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/enrichment.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/enrichment.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 00:57:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 00:57:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 00:57:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 00:57:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[enrichment]]></wp:post_name>
@@ -503,28 +533,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/enrichment.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/enrichment.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/enrichment.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/enrichment.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:460;s:4:"file";s:22:"2016/06/enrichment.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:460;s:4:"file";s:22:"2016/06/enrichment.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>nutrition</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/nutrition/</link>
+							</item>
+					<item>
+		<title><![CDATA[nutrition]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/nutrition/</link>
 		<pubDate>Mon, 06 Jun 2016 00:57:43 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/nutrition.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/nutrition.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 00:57:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 00:57:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 00:57:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 00:57:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nutrition]]></wp:post_name>
@@ -534,28 +566,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/nutrition.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/nutrition.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/nutrition.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/nutrition.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:460;s:4:"file";s:21:"2016/06/nutrition.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:460;s:4:"file";s:21:"2016/06/nutrition.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>habitat</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/habitat/</link>
+							</item>
+					<item>
+		<title><![CDATA[habitat]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/habitat/</link>
 		<pubDate>Mon, 06 Jun 2016 00:57:44 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/habitat.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/habitat.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 00:57:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 00:57:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 00:57:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 00:57:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[habitat]]></wp:post_name>
@@ -565,28 +599,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/habitat.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/habitat.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/habitat.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/habitat.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:460;s:4:"file";s:19:"2016/06/habitat.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:460;s:4:"file";s:19:"2016/06/habitat.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>membership</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/membership/</link>
+							</item>
+					<item>
+		<title><![CDATA[membership]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/membership/</link>
 		<pubDate>Mon, 06 Jun 2016 01:15:07 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/membership.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/membership.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-06 01:15:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-06 01:15:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-06 01:15:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-06 01:15:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[membership]]></wp:post_name>
@@ -596,28 +632,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/membership.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/membership.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/membership.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/membership.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:450;s:6:"height";i:490;s:4:"file";s:22:"2016/06/membership.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:450;s:6:"height";i:490;s:4:"file";s:22:"2016/06/membership.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>ostrich</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/ostrich/</link>
+							</item>
+					<item>
+		<title><![CDATA[ostrich]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/ostrich/</link>
 		<pubDate>Wed, 22 Jun 2016 00:19:22 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/ostrich.png</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/ostrich.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-22 00:19:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-22 00:19:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-22 00:19:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-22 00:19:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ostrich]]></wp:post_name>
@@ -627,28 +665,30 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/ostrich.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/ostrich.png]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/ostrich.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/ostrich.png]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:950;s:6:"height";i:445;s:4:"file";s:19:"2016/06/ostrich.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:950;s:6:"height";i:445;s:4:"file";s:19:"2016/06/ostrich.png";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:19:"ostrich-768x360.png";s:5:"width";i:768;s:6:"height";i:360;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>elephant</title>
-		<link>http://totaltheme.wpengine.com/zoo/home/elephant/</link>
+							</item>
+					<item>
+		<title><![CDATA[elephant]]></title>
+		<link>https://total.wpexplorer.com/zoo/home/elephant/</link>
 		<pubDate>Wed, 22 Jun 2016 00:27:31 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/elephant.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-22 00:27:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-22 00:27:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-06-22 00:27:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-06-22 00:27:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[elephant]]></wp:post_name>
@@ -658,64 +698,64 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/06/elephant.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/elephant.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/06/elephant.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1450;s:6:"height";i:400;s:4:"file";s:20:"2016/06/elephant.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1450;s:6:"height";i:400;s:4:"file";s:20:"2016/06/elephant.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:20:"elephant-768x212.jpg";s:5:"width";i:768;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/zoo/</link>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://total.wpexplorer.com/zoo/</link>
 		<pubDate>Sun, 05 Jun 2016 18:05:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" css=".vc_custom_1489541652853{background-image: url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}" el_class="textcenter" local_scroll_id="welcome" wpex_bg_position="center bottom"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Welcome to the all NEW Local Zoo!" tag="h1" text_align="center" font_size="28px" css=".vc_custom_1489708265167{margin-bottom: 20px !important;}"][vc_column_text]
-<p style="text-align: center;">Do you love animals?
-Want to learn more about them?
-Would you like to meet some in person?
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" css=".vc_custom_1546915936669{background-image: url(https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}" el_class="textcenter" local_scroll_id="welcome" wpex_bg_position="center bottom"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Welcome to the all NEW Local Zoo!" tag="h1" text_align="center" font_size="28px" css=".vc_custom_1489708265167{margin-bottom: 20px !important;}"][vc_column_text]</p>
+<p style="text-align: center;">Do you love animals?<br />
+Want to learn more about them?<br />
+Would you like to meet some in person?<br />
 And (most importantly) do you want to help save them?</p>
-<p style="text-align: center;">Come to the all NEW Local Zoo. We've made a lot of changes you'll love!
-New enclosures. New research programs. New conservation.</p>
-[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="What's New" target="blank" size="medium" custom_background="#f78f1e" custom_hover_background="#e5761b" letter_spacing="1px" classes="margin-right-10px"]What's New[/vcex_button][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Learn More" target="blank" size="medium" custom_background="#009bc9" custom_hover_background="#0081a8" letter_spacing="1px"]Learn More[/vcex_button][vcex_spacing size="60px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column css=".vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_grid columns="5" pagination="false" lightbox_title="false" lightbox_caption="false" overlay_style="magnifying-hover" columns_gap="none" img_hover_style="grow" image_ids="10,11,12,13,14,15,16,17,18,19" img_width="490" img_height="340"][/vc_column][/vc_row][vc_row column_spacing="40" center_row="yes" css=".vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}" local_scroll_id="visit"][vc_column width="1/3"][vcex_heading text="Now Open" tag="h3" icon="fa fa-clock-o" style="bottom-border-w-color" inner_bottom_border_color="#f78f1e" font_size="24px" css=".vc_custom_1489708244512{margin-bottom: 20px !important;}"][vc_column_text]Yes - we're officially open for business! Come by any day of the week:
+<p style="text-align: center;">Come to the all NEW Local Zoo. We've made a lot of changes you'll love!<br />
+New enclosures. New research programs. New conservation.[/vc_column_text][vcex_spacing][vcex_button url="https://1.envato.market/YYN7j" size="medium" target="blank" title="What's New" custom_background="#f78f1e" custom_hover_background="#e5761b" letter_spacing="1px" classes="margin-right-10px"]What's New[/vcex_button][vcex_button url="https://1.envato.market/YYN7j" size="medium" target="blank" title="Learn More" custom_background="#009bc9" custom_hover_background="#0081a8" letter_spacing="1px"]Learn More[/vcex_button][vcex_spacing size="60px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column css=".vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}"][vcex_image_grid columns="5" pagination="false" lightbox_title="false" lightbox_caption="false" overlay_style="magnifying-hover" columns_gap="none" img_hover_style="grow" image_ids="10,11,12,13,14,15,16,17,18,19" img_width="490" img_height="340"][/vc_column][/vc_row][vc_row column_spacing="40" center_row="yes" css=".vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}" local_scroll_id="visit"][vc_column width="1/3"][vcex_heading text="Now Open" style="bottom-border-w-color" tag="h3" icon="fa fa-clock-o" inner_bottom_border_color="#f78f1e" font_size="24px" css=".vc_custom_1489708244512{margin-bottom: 20px !important;}"][vc_column_text]Yes - we're officially open for business! Come by any day of the week:</p>
 <ul>
- 	<li>M-F 9am-7pm</li>
- 	<li>Sat 9am-10pm</li>
- 	<li>Sun 10am-7pm</li>
+<li>M-F 9am-7pm</li>
+<li>Sat 9am-10pm</li>
+<li>Sun 10am-7pm</li>
 </ul>
-[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="We're Close" tag="h3" icon="fa fa-map-marker" style="bottom-border-w-color" inner_bottom_border_color="#009bc9" font_size="24px" css=".vc_custom_1489708249964{margin-bottom: 20px !important;}"][vc_column_text]We're conveniently located off of the main highway right here in town:
-<p style="padding-left: 30px;"><strong>Local Zoo</strong>
-1234 Zoo Way
-Anytown, USA</p>
-[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="Come Visit" tag="h2" icon="fa fa-ticket" style="bottom-border-w-color" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1489708254543{margin-bottom: 20px !important;}"][vc_column_text]We'd love to see you! Tickets are available at the gate as well as right here online. Or call us for discounted group rates![/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Get Zoo Tickets" target="blank" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Get Zoo Tickets[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541455763{background-color: #009bc9 !important;}" local_scroll_id="animals"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Get a close look at Animal Encounters" tag="h2" text_align="center" font_size="28px" css=".vc_custom_1489708283287{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]
+<p>[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="We're Close" style="bottom-border-w-color" tag="h3" icon="fa fa-map-marker" inner_bottom_border_color="#009bc9" font_size="24px" css=".vc_custom_1489708249964{margin-bottom: 20px !important;}"][vc_column_text]We're conveniently located off of the main highway right here in town:</p>
+<p style="padding-left: 30px;"><strong>Local Zoo</strong><br />
+1234 Zoo Way<br />
+Anytown, USA[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="Come Visit" style="bottom-border-w-color" tag="h2" icon="fa fa-ticket" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1489708254543{margin-bottom: 20px !important;}"][vc_column_text]We'd love to see you! Tickets are available at the gate as well as right here online. Or call us for discounted group rates![/vc_column_text][vcex_spacing size="20px"][vcex_button url="https://1.envato.market/YYN7j" target="blank" title="Get Zoo Tickets" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Get Zoo Tickets[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541455763{background-color: #009bc9 !important;}" local_scroll_id="animals"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Get a close look at Animal Encounters" tag="h2" text_align="center" font_size="28px" css=".vc_custom_1489708283287{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]</p>
 <p style="text-align: center;">Now you can meet some of our feathered and furry friends up close and personal. You and your kids can shake hands with a kangaroo, give a crowned crane a snack or even go on a scavenger hunt with a lemur. It's a great way to learn about our animal ambassadors and to see some of their natural behaviors in action. Encounters change daily, so check your park map to see which friends are out today!</p>
-[/vc_column_text][vcex_spacing size="45px"][vc_single_image image="30"][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row content_placement="middle" center_row="yes" css=".vc_custom_1489541757535{padding-top: 40px !important;padding-bottom: 40px !important;}" local_scroll_id="membership"][vc_column width="1/2"][vc_single_image image="35"][/vc_column][vc_column width="1/2"][vcex_heading text="Become A Member" icon="fa fa-user-plus" style="bottom-border-w-color" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1465175789912{margin-bottom: 20px !important;}"][vc_column_text]Want to come to our zoo all year long? We'd love to see you! So sign up for a membership. With a Local Zoo membership you'll receive all of the following
+<p>[/vc_column_text][vcex_spacing size="45px"][vc_single_image image="30"][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row content_placement="middle" center_row="yes" css=".vc_custom_1489541757535{padding-top: 40px !important;padding-bottom: 40px !important;}" local_scroll_id="membership"][vc_column width="1/2"][vc_single_image image="35"][/vc_column][vc_column width="1/2"][vcex_heading text="Become A Member" style="bottom-border-w-color" icon="fa fa-user-plus" inner_bottom_border_color="#a5c645" font_size="24px" css=".vc_custom_1465175789912{margin-bottom: 20px !important;}"][vc_column_text]Want to come to our zoo all year long? We'd love to see you! So sign up for a membership. With a Local Zoo membership you'll receive all of the following</p>
 <ul>
- 	<li>Yearly Membership</li>
- 	<li>5% Discount on Tours</li>
- 	<li>10% Discount at Gift Shop</li>
- 	<li>20% Discount at Food Court</li>
- 	<li>Exclusive Member Newsletter</li>
- 	<li>Early Notification of Events</li>
- 	<li>Upgrade to Sponsor an Animal!</li>
+<li>Yearly Membership</li>
+<li>5% Discount on Tours</li>
+<li>10% Discount at Gift Shop</li>
+<li>20% Discount at Food Court</li>
+<li>Exclusive Member Newsletter</li>
+<li>Early Notification of Events</li>
+<li>Upgrade to Sponsor an Animal!</li>
 </ul>
-[/vc_column_text][vcex_spacing size="20px"][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Join Today" target="blank" size="medium" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Join Today[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541474365{background-color: #f0672f !important;}" local_scroll_id="sponsorship"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Support your favorite animal with a Sponsorship" tag="h2" text_align="center" font_size="28px" css=".vc_custom_1489708288675{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]
+<p>[/vc_column_text][vcex_spacing size="20px"][vcex_button url="https://1.envato.market/YYN7j" size="medium" target="blank" title="Join Today" custom_background="#a5c645" custom_hover_background="#8db23e" letter_spacing="1px"]Join Today[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541474365{background-color: #f0672f !important;}" local_scroll_id="sponsorship"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Support your favorite animal with a Sponsorship" tag="h2" text_align="center" font_size="28px" css=".vc_custom_1489708288675{margin-bottom: 20px !important;}" color="#ffffff"][vc_column_text color="#ffffff"]</p>
 <p style="text-align: center;">We have many residents here at our zoo and we appreciate your support via tickets, food sales and gift shop purchases. But if you want to really help your favorite animal you can become one of their Sponsors! Contact our donations department to make your gift and we'll put your name on the enclosure plaque as well as invite you to exclusive behind the scenes animal encounters.</p>
-[/vc_column_text][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=WPExplorer" title="Become an Animal Sponsor" target="blank" size="medium" style="outline" align="center" color="white" letter_spacing="1px" custom_hover_color="#f0672f"]Become an Animal Sponsor[/vcex_button][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_row center_row="yes" local_scroll_id="tours"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Learn more about our animals Behind The Scenes" tag="h2" text_align="center" font_size="28px" css=".vc_custom_1489708295504{margin-bottom: 20px !important;}"][vc_column_text]
+<p>[/vc_column_text][vcex_spacing][vcex_button url="https://1.envato.market/YYN7j" size="medium" target="blank" title="Become an Animal Sponsor" style="outline" align="center" color="white" letter_spacing="1px" custom_hover_color="#f0672f"]Become an Animal Sponsor[/vcex_button][vcex_spacing size="45px" visibility="hidden-phone"][/vc_column][/vc_row][vc_section local_scroll_id="tours"][vc_row center_row="yes"][vc_column][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Learn more about our animals Behind The Scenes" tag="h2" text_align="center" font_size="28px" css=".vc_custom_1489708295504{margin-bottom: 20px !important;}"][vc_column_text]</p>
 <p style="text-align: center;">Want to know what we feed our residents each day? Or maybe you want to help pick out the toys for one of our more active animal guests? With our "Behind The Scenes" tours you'll be guided by one of our talent zookeepers as they teach you about animal nutrition, enrichment or habitats. Space is limited so be sure to call at least 24 hours in advance to make your reservation.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1489541548333{margin-top: 30px !important;margin-bottom: 50px !important;}"][vc_column width="1/3"][vc_single_image image="33" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="32" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="34" alignment="center"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541489993{background-color: #a5c645 !important;}" local_scroll_id="contact"][vc_column css=".vc_custom_1489541718736{margin-bottom: 0px !important;}"][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Join the Flock" tag="h2" text_align="center" font_size="28px" color="#ffffff"][vcex_heading text="Connect with us via Social Media!" text_align="center" font_size="24px" css=".vc_custom_1466554626213{margin-bottom: 20px !important;}" color="#f9ca26"][vc_column_text color="#ffffff"]
-<p style="text-align: center;">We're on social media - so feel free follow us and send us a tweet, message or just a good ole' thumbs up!
-Share photos from your experience visiting our Zoom and stay in the loop for any upcoming events.</p>
-[/vc_column_text][vcex_spacing][vcex_social_links style="flat-color-rounded" align="center" twitter="https://twitter.com/wpexplorer/" facebook="https://www.facebook.com/wpexplorer-themes/" googleplus="https://plus.google.com/108390417049649826323/posts" pinterest="https://www.pinterest.com/wpexplorer/" youtube="https://www.youtube.com/user/wpexplorertv" rss="http://feeds.feedburner.com/wpexplorer-feed" size="24px" css=".vc_custom_1465178794489{margin-right: 5px !important;}"][vcex_spacing size="54px"][vc_single_image image="50"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489541508588{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="sponsorship"][vc_column][vcex_heading text="We can't wait to see you!" text_align="center" font_size="28px" color="#ffffff"][/vc_column][/vc_row]]]></content:encoded>
+<p>[/vc_column_text][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1489541548333{margin-top: 30px !important;margin-bottom: 50px !important;}"][vc_column width="1/3"][vc_single_image image="33" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="32" alignment="center"][/vc_column][vc_column width="1/3"][vc_single_image image="34" alignment="center"][/vc_column][/vc_row][/vc_section][vc_row full_width="stretch_row" css=".vc_custom_1489541489993{background-color: #a5c645 !important;}" local_scroll_id="contact"][vc_column css=".vc_custom_1489541718736{margin-bottom: 0px !important;}"][vcex_spacing][vcex_spacing size="45px" visibility="hidden-phone"][vcex_heading text="Join the Flock" tag="h2" text_align="center" font_size="28px" color="#ffffff"][vcex_heading text="Connect with us via Social Media!" text_align="center" font_size="24px" css=".vc_custom_1466554626213{margin-bottom: 20px !important;}" color="#f9ca26"][vc_column_text color="#ffffff"]</p>
+<p style="text-align: center;">We're on social media - so feel free follow us and send us a tweet, message or just a good ole' thumbs up!<br />
+Share photos from your experience visiting our Zoom and stay in the loop for any upcoming events.[/vc_column_text][vcex_spacing][vcex_social_links style="flat-color-rounded" align="center" twitter="https://twitter.com/wpexplorer/" facebook="https://www.facebook.com/wpexplorer-themes/" googleplus="https://plus.google.com/108390417049649826323/posts" pinterest="https://www.pinterest.com/wpexplorer/" youtube="https://www.youtube.com/user/wpexplorertv" rss="http://feeds.feedburner.com/wpexplorer-feed" size="24px" css=".vc_custom_1465178794489{margin-right: 5px !important;}"][vcex_spacing size="54px"][vc_single_image image="50"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1546915958007{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" local_scroll_id="sponsorship"][vc_column][vcex_heading text="We can't wait to see you!" text_align="center" font_size="28px" color="#ffffff"][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-06-05 18:05:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-06-05 18:05:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-01-15 19:44:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-15 19:44:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -725,122 +765,109 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1546915936669{background-image: url(https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}.vc_custom_1489541455763{background-color: #009bc9 !important;}.vc_custom_1489541757535{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1489541474365{background-color: #f0672f !important;}.vc_custom_1489541489993{background-color: #a5c645 !important;}.vc_custom_1546915958007{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489708265167{margin-bottom: 20px !important;}.vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1489708244512{margin-bottom: 20px !important;}.vc_custom_1489708249964{margin-bottom: 20px !important;}.vc_custom_1489708254543{margin-bottom: 20px !important;}.vc_custom_1489708283287{margin-bottom: 20px !important;}.vc_custom_1465175789912{margin-bottom: 20px !important;}.vc_custom_1489708288675{margin-bottom: 20px !important;}.vc_custom_1489541548333{margin-top: 30px !important;margin-bottom: 50px !important;}.vc_custom_1489708295504{margin-bottom: 20px !important;}.vc_custom_1489541718736{margin-bottom: 0px !important;}.vc_custom_1466554626213{margin-bottom: 20px !important;}.vc_custom_1465178794489{margin-right: 5px !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1546915936669{background-image: url(https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}.vc_custom_1489541455763{background-color: #009bc9 !important;}.vc_custom_1489541757535{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1489541474365{background-color: #f0672f !important;}.vc_custom_1489541489993{background-color: #a5c645 !important;}.vc_custom_1546915958007{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(https://total.wpexplorer.com/zoo/wp-content/uploads/sites/37/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489708265167{margin-bottom: 20px !important;}.vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1489708244512{margin-bottom: 20px !important;}.vc_custom_1489708249964{margin-bottom: 20px !important;}.vc_custom_1489708254543{margin-bottom: 20px !important;}.vc_custom_1489708283287{margin-bottom: 20px !important;}.vc_custom_1465175789912{margin-bottom: 20px !important;}.vc_custom_1489708288675{margin-bottom: 20px !important;}.vc_custom_1489541548333{margin-top: 30px !important;margin-bottom: 50px !important;}.vc_custom_1489708295504{margin-bottom: 20px !important;}.vc_custom_1489541718736{margin-bottom: 0px !important;}.vc_custom_1466554626213{margin-bottom: 20px !important;}.vc_custom_1465178794489{margin-right: 5px !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.margin-right-10px { margin-right: 10px; }]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489541652853{background-image: url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/animals-bg.png?id=22) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1465236022316{padding-top: 60px !important;padding-bottom: 30px !important;}.vc_custom_1489541455763{background-color: #009bc9 !important;}.vc_custom_1489541757535{padding-top: 40px !important;padding-bottom: 40px !important;}.vc_custom_1489541474365{background-color: #f0672f !important;}.vc_custom_1489541548333{margin-top: 30px !important;margin-bottom: 50px !important;}.vc_custom_1489541489993{background-color: #a5c645 !important;}.vc_custom_1489541508588{padding-top: 100px !important;padding-bottom: 60px !important;background: #000000 url(http://totaltheme.wpengine.com/zoo/wp-content/uploads/sites/78/2016/06/elephant.jpg?id=51) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489708265167{margin-bottom: 20px !important;}.vc_custom_1476659146056{margin-bottom: 0px !important;background-color: #000000 !important;}.vc_custom_1489708244512{margin-bottom: 20px !important;}.vc_custom_1489708249964{margin-bottom: 20px !important;}.vc_custom_1489708254543{margin-bottom: 20px !important;}.vc_custom_1489708283287{margin-bottom: 20px !important;}.vc_custom_1465175789912{margin-bottom: 20px !important;}.vc_custom_1489708288675{margin-bottom: 20px !important;}.vc_custom_1489708295504{margin-bottom: 20px !important;}.vc_custom_1489541718736{margin-bottom: 0px !important;}.vc_custom_1466554626213{margin-bottom: 20px !important;}.vc_custom_1465178794489{margin-right: 5px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.margin-right-10px { margin-right: 10px; }]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Welcome</title>
-		<link>http://totaltheme.wpengine.com/zoo/welcome/</link>
-		<pubDate>Mon, 06 Jun 2016 01:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=37</guid>
+							</item>
+					<item>
+		<title><![CDATA[Total]]></title>
+		<link>https://total.wpexplorer.com/zoo/total/</link>
+		<pubDate>Sun, 30 Dec 2018 19:38:56 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/welcome/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:50:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:50:29]]></wp:post_date_gmt>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-30 19:38:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 19:38:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-06 00:51:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-06 00:51:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[welcome]]></wp:post_name>
+		<wp:post_name><![CDATA[total]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[37]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#welcome]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#welcome]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[welcome]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Visit</title>
-		<link>http://totaltheme.wpengine.com/zoo/visit/</link>
-		<pubDate>Mon, 06 Jun 2016 01:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=38</guid>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[total-2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Visit]]></title>
+		<link>https://total.wpexplorer.com/zoo/visit/</link>
+		<pubDate>Sun, 30 Dec 2018 19:38:56 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/visit/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:50:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:50:29]]></wp:post_date_gmt>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-30 19:38:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 19:38:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:14:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:14:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[visit]]></wp:post_name>
@@ -850,56 +877,54 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[38]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#visit]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#visit]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Animals</title>
-		<link>http://totaltheme.wpengine.com/zoo/animals/</link>
-		<pubDate>Mon, 06 Jun 2016 01:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=39</guid>
+							</item>
+					<item>
+		<title><![CDATA[Animals]]></title>
+		<link>https://total.wpexplorer.com/zoo/animals/</link>
+		<pubDate>Sun, 30 Dec 2018 19:38:56 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/animals/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:50:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:50:29]]></wp:post_date_gmt>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-30 19:38:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 19:38:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:14:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:14:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[animals]]></wp:post_name>
@@ -909,56 +934,54 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[39]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#animals]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#animals]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Membership</title>
-		<link>http://totaltheme.wpengine.com/zoo/membership/</link>
-		<pubDate>Mon, 06 Jun 2016 01:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=40</guid>
+							</item>
+					<item>
+		<title><![CDATA[Membership]]></title>
+		<link>https://total.wpexplorer.com/zoo/membership/</link>
+		<pubDate>Sun, 30 Dec 2018 19:38:57 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/membership/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:50:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:50:29]]></wp:post_date_gmt>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-30 19:38:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 19:38:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:14:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:14:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[membership]]></wp:post_name>
@@ -968,56 +991,54 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[40]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#membership]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#membership]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Sponsorship</title>
-		<link>http://totaltheme.wpengine.com/zoo/sponsorship/</link>
-		<pubDate>Mon, 06 Jun 2016 01:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=41</guid>
+							</item>
+					<item>
+		<title><![CDATA[Sponsorship]]></title>
+		<link>https://total.wpexplorer.com/zoo/sponsorship/</link>
+		<pubDate>Sun, 30 Dec 2018 19:38:57 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/sponsorship/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:50:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:50:29]]></wp:post_date_gmt>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-30 19:38:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 19:38:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:14:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:14:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sponsorship]]></wp:post_name>
@@ -1027,56 +1048,54 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[41]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#sponsorship]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#sponsorship]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Tours</title>
-		<link>http://totaltheme.wpengine.com/zoo/tours/</link>
-		<pubDate>Mon, 06 Jun 2016 01:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=42</guid>
+							</item>
+					<item>
+		<title><![CDATA[Tours]]></title>
+		<link>https://total.wpexplorer.com/zoo/tours/</link>
+		<pubDate>Sun, 30 Dec 2018 19:38:57 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/tours/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:50:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:50:29]]></wp:post_date_gmt>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-30 19:38:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 19:38:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:14:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:14:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tours]]></wp:post_name>
@@ -1086,56 +1105,54 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[57]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#tours]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#tours]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact</title>
-		<link>http://totaltheme.wpengine.com/zoo/contact/</link>
-		<pubDate>Mon, 06 Jun 2016 01:50:59 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/?p=43</guid>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://total.wpexplorer.com/zoo/contact/</link>
+		<pubDate>Sun, 30 Dec 2018 19:38:57 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/zoo/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date><![CDATA[2016-06-06 01:50:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-06-06 01:50:59]]></wp:post_date_gmt>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-30 19:38:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-30 19:38:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-08 05:14:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-08 05:14:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1145,70 +1162,40 @@ Share photos from your experience visiting our Zoom and stay in the loop for any
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[43]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:12:"local-scroll";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://[menu_site_url]#contact]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#contact]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Total</title>
-		<link>http://totaltheme.wpengine.com/zoo/total/</link>
-		<pubDate>Tue, 14 Mar 2017 22:34:12 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/zoo/total/</guid>
-		<description></description>
-		<content:encoded><![CDATA[/*remove menu bottom border*/
-.navbar-style-four, #site-navigation-sticky-wrapper.is-sticky #site-navigation-wrap { border: 0; }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2017-03-14 22:34:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-03-14 22:34:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[total]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+				</channel>
 </rss>
+	

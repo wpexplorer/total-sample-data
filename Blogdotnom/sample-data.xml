@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-26 02:50" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-03 02:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Blog.nom</title>
 	<link>https://total.wpexplorer.com/blogdotnom</link>
 	<description>Just another Total Theme Demo site</description>
-	<pubDate>Tue, 26 Jan 2021 02:50:40 +0000</pubDate>
+	<pubDate>Tue, 03 May 2022 02:04:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
 	<wp:base_blog_url>https://total.wpexplorer.com/blogdotnom</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totalthememain]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -109,13 +109,13 @@
 			<wp:term><wp:term_id>13</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 		<item>
-		<title>nom11-2</title>
+		<title><![CDATA[nom11-2]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/nom11-2/</link>
 		<pubDate>Mon, 02 Mar 2015 18:46:25 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom11-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -123,6 +123,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:46:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:46:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:46:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:46:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom11-2]]></wp:post_name>
@@ -143,10 +145,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom11-3</title>
+		<title><![CDATA[nom11-3]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/nom11-3/</link>
 		<pubDate>Mon, 02 Mar 2015 18:46:26 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom11-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -154,6 +156,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:46:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:46:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:46:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:46:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom11-3]]></wp:post_name>
@@ -174,10 +178,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom10</title>
+		<title><![CDATA[nom10]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/easy-salty-smoked-salmon-recipe/nom10/</link>
 		<pubDate>Mon, 02 Mar 2015 18:51:48 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -185,6 +189,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:51:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:51:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:51:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:51:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom10]]></wp:post_name>
@@ -205,10 +211,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom9</title>
+		<title><![CDATA[nom9]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/carb-love-the-best-bakery-pretty-much-ever/nom9/</link>
 		<pubDate>Mon, 02 Mar 2015 18:55:53 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom9.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -216,6 +222,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:55:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:55:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:55:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:55:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom9]]></wp:post_name>
@@ -232,14 +240,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:750;s:4:"file";s:16:"2015/03/nom9.jpg";s:5:"sizes";a:7:{s:12:"medium_large";a:4:{s:4:"file";s:16:"nom9-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:17:"nom9-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"nom9-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"nom9-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:17:"nom9-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_250x200";a:5:{s:4:"file";s:16:"nom9-250x200.jpg";s:5:"width";i:250;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_250x200@2x";a:5:{s:4:"file";s:19:"nom9-250x200@2x.jpg";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:750;s:4:"file";s:16:"2015/03/nom9.jpg";s:5:"sizes";a:8:{s:12:"medium_large";a:4:{s:4:"file";s:16:"nom9-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:17:"nom9-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"nom9-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"nom9-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:17:"nom9-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_250x200";a:5:{s:4:"file";s:16:"nom9-250x200.jpg";s:5:"width";i:250;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_250x200@2x";a:5:{s:4:"file";s:19:"nom9-250x200@2x.jpg";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:17:"nom9-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom9-2</title>
+		<title><![CDATA[nom9-2]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/carb-love-the-best-bakery-pretty-much-ever/nom9-2/</link>
 		<pubDate>Mon, 02 Mar 2015 18:55:54 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom9-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -247,6 +255,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:55:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:55:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:55:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:55:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom9-2]]></wp:post_name>
@@ -263,14 +273,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:605;s:4:"file";s:18:"2015/03/nom9-2.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:18:"nom9-2-768x465.jpg";s:5:"width";i:768;s:6:"height";i:465;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"nom9-2-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:605;s:4:"file";s:18:"2015/03/nom9-2.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"nom9-2-768x465.jpg";s:5:"width";i:768;s:6:"height";i:465;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"nom9-2-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:19:"nom9-2-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom9-3</title>
+		<title><![CDATA[nom9-3]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/carb-love-the-best-bakery-pretty-much-ever/nom9-3/</link>
 		<pubDate>Mon, 02 Mar 2015 18:55:55 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom9-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -278,6 +288,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:55:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:55:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:55:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:55:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom9-3]]></wp:post_name>
@@ -294,14 +306,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:737;s:4:"file";s:18:"2015/03/nom9-3.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:18:"nom9-3-768x566.jpg";s:5:"width";i:768;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"nom9-3-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:737;s:4:"file";s:18:"2015/03/nom9-3.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"nom9-3-768x566.jpg";s:5:"width";i:768;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"nom9-3-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:19:"nom9-3-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom9-4</title>
+		<title><![CDATA[nom9-4]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/carb-love-the-best-bakery-pretty-much-ever/nom9-4/</link>
 		<pubDate>Mon, 02 Mar 2015 18:55:56 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom9-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -309,6 +321,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:55:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:55:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:55:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:55:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom9-4]]></wp:post_name>
@@ -325,14 +339,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:718;s:4:"file";s:18:"2015/03/nom9-4.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:18:"nom9-4-768x551.jpg";s:5:"width";i:768;s:6:"height";i:551;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"nom9-4-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:718;s:4:"file";s:18:"2015/03/nom9-4.jpg";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:18:"nom9-4-768x551.jpg";s:5:"width";i:768;s:6:"height";i:551;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"nom9-4-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:19:"nom9-4-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom9-5</title>
+		<title><![CDATA[nom9-5]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/carb-love-the-best-bakery-pretty-much-ever/nom9-5/</link>
 		<pubDate>Mon, 02 Mar 2015 18:56:01 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom9-5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -340,6 +354,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:56:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:56:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:56:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:56:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom9-5]]></wp:post_name>
@@ -360,10 +376,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom8</title>
+		<title><![CDATA[nom8]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/where-to-get-awesome-coffee/nom8/</link>
 		<pubDate>Mon, 02 Mar 2015 18:57:07 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -371,6 +387,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:57:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:57:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:57:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:57:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom8]]></wp:post_name>
@@ -391,10 +409,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom7</title>
+		<title><![CDATA[nom7]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/simple-szechuan-veggie-stir-fry/nom7/</link>
 		<pubDate>Mon, 02 Mar 2015 18:58:50 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -402,6 +420,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:58:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:58:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:58:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:58:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom7]]></wp:post_name>
@@ -422,10 +442,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom7-2</title>
+		<title><![CDATA[nom7-2]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/simple-szechuan-veggie-stir-fry/nom7-2/</link>
 		<pubDate>Mon, 02 Mar 2015 18:59:01 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom7-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -433,6 +453,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 18:59:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 18:59:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 18:59:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 18:59:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom7-2]]></wp:post_name>
@@ -453,10 +475,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom6</title>
+		<title><![CDATA[nom6]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/where-to-get-delicious-tapas/nom6/</link>
 		<pubDate>Mon, 02 Mar 2015 19:00:20 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -464,6 +486,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:00:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:00:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 19:00:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 19:00:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom6]]></wp:post_name>
@@ -480,14 +504,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2015/03/nom6.jpg";s:5:"sizes";a:9:{s:12:"medium_large";a:4:{s:4:"file";s:16:"nom6-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_250x200";a:5:{s:4:"file";s:16:"nom6-250x200.jpg";s:5:"width";i:250;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:17:"nom6-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_250x200@2x";a:5:{s:4:"file";s:19:"nom6-250x200@2x.jpg";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"nom6-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"nom6-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_100x100";a:5:{s:4:"file";s:16:"nom6-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_100x100@2x";a:5:{s:4:"file";s:19:"nom6-100x100@2x.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:17:"nom6-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2015/03/nom6.jpg";s:5:"sizes";a:10:{s:12:"medium_large";a:4:{s:4:"file";s:16:"nom6-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_250x200";a:5:{s:4:"file";s:16:"nom6-250x200.jpg";s:5:"width";i:250;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:17:"nom6-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_250x200@2x";a:5:{s:4:"file";s:19:"nom6-250x200@2x.jpg";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"nom6-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:19:"nom6-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_100x100";a:5:{s:4:"file";s:16:"nom6-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_100x100@2x";a:5:{s:4:"file";s:19:"nom6-100x100@2x.jpg";s:5:"width";i:200;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:17:"nom6-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:17:"nom6-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom5</title>
+		<title><![CDATA[nom5]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/sammiches-my-favorite-food/nom5/</link>
 		<pubDate>Mon, 02 Mar 2015 19:01:35 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -495,6 +519,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:01:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:01:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 19:01:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 19:01:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom5]]></wp:post_name>
@@ -515,10 +541,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom3-1</title>
+		<title><![CDATA[nom3-1]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/nom3-1/</link>
 		<pubDate>Mon, 02 Mar 2015 19:12:55 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom3-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -526,6 +552,8 @@
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:12:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:12:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 19:12:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 19:12:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom3-1]]></wp:post_name>
@@ -546,10 +574,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom3-3</title>
+		<title><![CDATA[nom3-3]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/nom3-3/</link>
 		<pubDate>Mon, 02 Mar 2015 19:12:57 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom3-3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -557,6 +585,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:12:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:12:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 19:12:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 19:12:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom3-3]]></wp:post_name>
@@ -577,10 +607,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom3-4</title>
+		<title><![CDATA[nom3-4]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/nom3-4/</link>
 		<pubDate>Mon, 02 Mar 2015 19:12:58 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom3-4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -588,6 +618,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:12:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:12:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 19:12:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 19:12:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom3-4]]></wp:post_name>
@@ -608,10 +640,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom2</title>
+		<title><![CDATA[nom2]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/is-it-donut-or-doughnut/nom2/</link>
 		<pubDate>Mon, 02 Mar 2015 19:14:18 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -619,6 +651,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:14:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:14:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 19:14:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 19:14:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom2]]></wp:post_name>
@@ -639,10 +673,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom1</title>
+		<title><![CDATA[nom1]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/where-to-eat-for-restaurant-week/nom1/</link>
 		<pubDate>Mon, 02 Mar 2015 19:14:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -650,6 +684,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:14:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:14:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 19:14:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 19:14:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom1]]></wp:post_name>
@@ -670,10 +706,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom1-2</title>
+		<title><![CDATA[nom1-2]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/where-to-eat-for-restaurant-week/nom1-2/</link>
 		<pubDate>Mon, 02 Mar 2015 20:58:58 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom1-2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -681,6 +717,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 20:58:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 20:58:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 20:58:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 20:58:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom1-2]]></wp:post_name>
@@ -701,10 +739,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>coffee</title>
+		<title><![CDATA[coffee]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/coffee/</link>
 		<pubDate>Mon, 02 Mar 2015 21:52:27 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/coffee.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -712,6 +750,8 @@
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 21:52:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 21:52:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-03-02 21:52:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-03-02 21:52:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[coffee]]></wp:post_name>
@@ -732,10 +772,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>recipies</title>
+		<title><![CDATA[recipies]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/recipies-2/</link>
 		<pubDate>Wed, 17 Jun 2015 22:59:30 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/recipies1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -743,6 +783,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-17 22:59:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-17 22:59:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-17 22:59:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-17 22:59:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[recipies-2]]></wp:post_name>
@@ -763,10 +805,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>restaurants</title>
+		<title><![CDATA[restaurants]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/restaurants/</link>
 		<pubDate>Wed, 17 Jun 2015 23:02:23 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/restaurants.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -774,6 +816,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-17 23:02:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-17 23:02:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-17 23:02:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-17 23:02:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[restaurants]]></wp:post_name>
@@ -794,10 +838,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>reflect</title>
+		<title><![CDATA[reflect]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/reflect/</link>
 		<pubDate>Wed, 17 Jun 2015 23:02:39 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/reflect.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -805,6 +849,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-17 23:02:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-17 23:02:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-17 23:02:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-17 23:02:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[reflect]]></wp:post_name>
@@ -825,10 +871,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>fork</title>
+		<title><![CDATA[fork]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/fork/</link>
 		<pubDate>Thu, 18 Jun 2015 01:19:07 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/fork.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -836,6 +882,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-18 01:19:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-18 01:19:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-18 01:19:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-18 01:19:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fork]]></wp:post_name>
@@ -856,10 +904,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>delicious</title>
+		<title><![CDATA[delicious]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/delicious/</link>
 		<pubDate>Tue, 23 Jun 2015 23:21:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/delicious.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -867,6 +915,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-23 23:21:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-23 23:21:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-23 23:21:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-23 23:21:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[delicious]]></wp:post_name>
@@ -887,10 +937,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>easy</title>
+		<title><![CDATA[easy]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/easy/</link>
 		<pubDate>Tue, 23 Jun 2015 23:28:37 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/easy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -898,6 +948,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-23 23:28:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-23 23:28:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-23 23:28:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-23 23:28:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[easy]]></wp:post_name>
@@ -918,10 +970,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>food</title>
+		<title><![CDATA[food]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/food/</link>
 		<pubDate>Tue, 23 Jun 2015 23:28:50 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/food.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -929,6 +981,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-23 23:28:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-23 23:28:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-23 23:28:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-23 23:28:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[food]]></wp:post_name>
@@ -949,10 +1003,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>healthy</title>
+		<title><![CDATA[healthy]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/healthy/</link>
 		<pubDate>Tue, 23 Jun 2015 23:29:08 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/healthy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -960,6 +1014,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-23 23:29:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-23 23:29:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-23 23:29:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-23 23:29:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[healthy]]></wp:post_name>
@@ -980,10 +1036,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>snack</title>
+		<title><![CDATA[snack]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/snack/</link>
 		<pubDate>Tue, 23 Jun 2015 23:29:19 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/snack.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -991,6 +1047,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-23 23:29:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-23 23:29:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-23 23:29:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-23 23:29:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[snack]]></wp:post_name>
@@ -1011,10 +1069,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tasty</title>
+		<title><![CDATA[tasty]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/tasty/</link>
 		<pubDate>Tue, 23 Jun 2015 23:29:31 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/tasty.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1022,6 +1080,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-23 23:29:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-23 23:29:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-23 23:29:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-23 23:29:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[tasty]]></wp:post_name>
@@ -1042,10 +1102,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>yum</title>
+		<title><![CDATA[yum]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/yum/</link>
 		<pubDate>Tue, 23 Jun 2015 23:29:42 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/06/yum.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1053,6 +1113,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2015-06-23 23:29:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-06-23 23:29:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-06-23 23:29:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-06-23 23:29:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[yum]]></wp:post_name>
@@ -1073,10 +1135,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom3-7n</title>
+		<title><![CDATA[nom3-7n]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/nom3-7n/</link>
 		<pubDate>Tue, 11 Oct 2016 00:12:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/02/nom3-7n.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1084,6 +1146,8 @@
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-11 00:12:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-11 00:12:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-11 00:12:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-11 00:12:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom3-7n]]></wp:post_name>
@@ -1104,10 +1168,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom3-2n</title>
+		<title><![CDATA[nom3-2n]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/nom3-2n/</link>
 		<pubDate>Tue, 11 Oct 2016 00:16:56 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/02/nom3-2n.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1115,6 +1179,8 @@
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-11 00:16:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-11 00:16:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-11 00:16:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-11 00:16:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom3-2n]]></wp:post_name>
@@ -1135,10 +1201,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom3-5n</title>
+		<title><![CDATA[nom3-5n]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/nom3-5n/</link>
 		<pubDate>Tue, 11 Oct 2016 00:16:57 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/02/nom3-5n.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1146,6 +1212,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-11 00:16:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-11 00:16:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-11 00:16:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-11 00:16:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom3-5n]]></wp:post_name>
@@ -1166,10 +1234,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom3-6n</title>
+		<title><![CDATA[nom3-6n]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/nom3-6n/</link>
 		<pubDate>Tue, 11 Oct 2016 00:16:58 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/02/nom3-6n.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1177,6 +1245,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-11 00:16:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-11 00:16:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-11 00:16:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-11 00:16:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom3-6n]]></wp:post_name>
@@ -1197,10 +1267,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>nom11n</title>
+		<title><![CDATA[nom11n]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/fresh-from-the-local-farmers-market/nom11n/</link>
 		<pubDate>Tue, 11 Oct 2016 00:21:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/01/nom11n.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1208,6 +1278,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-11 00:21:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-11 00:21:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-11 00:21:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-11 00:21:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nom11n]]></wp:post_name>
@@ -1228,10 +1300,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>rachel-park-hrlvr2ZlUNk-unsplash</title>
+		<title><![CDATA[rachel-park-hrlvr2ZlUNk-unsplash]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/rachel-park-hrlvr2zlunk-unsplash/</link>
 		<pubDate>Mon, 25 Jan 2021 21:11:25 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2021/01/rachel-park-hrlvr2ZlUNk-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1239,6 +1311,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 21:11:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 21:11:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:11:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:11:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rachel-park-hrlvr2zlunk-unsplash]]></wp:post_name>
@@ -1259,10 +1333,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>lily-banse--YHSwy6uqvk-unsplash</title>
+		<title><![CDATA[lily-banse--YHSwy6uqvk-unsplash]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/lily-banse-yhswy6uqvk-unsplash/</link>
 		<pubDate>Mon, 25 Jan 2021 21:12:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2020/02/lily-banse-YHSwy6uqvk-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1270,6 +1344,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 21:12:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 21:12:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:12:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:12:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lily-banse-yhswy6uqvk-unsplash]]></wp:post_name>
@@ -1290,10 +1366,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>carolina-marinelli-PkbyxvkGWcU-unsplash</title>
+		<title><![CDATA[carolina-marinelli-PkbyxvkGWcU-unsplash]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/homepage/carolina-marinelli-pkbyxvkgwcu-unsplash/</link>
 		<pubDate>Mon, 25 Jan 2021 22:43:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2021/01/carolina-marinelli-PkbyxvkGWcU-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1301,6 +1377,8 @@
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 22:43:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 22:43:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 22:43:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 22:43:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[carolina-marinelli-pkbyxvkgwcu-unsplash]]></wp:post_name>
@@ -1321,10 +1399,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>yeh-xintong-VVnA3OfPT1M-unsplash</title>
+		<title><![CDATA[yeh-xintong-VVnA3OfPT1M-unsplash]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/the-creamiest-ice-cream-recipe/yeh-xintong-vvna3ofpt1m-unsplash/</link>
 		<pubDate>Tue, 26 Jan 2021 02:03:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/02/yeh-xintong-VVnA3OfPT1M-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1332,6 +1410,8 @@
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-26 02:03:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-26 02:03:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 02:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 02:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[yeh-xintong-vvna3ofpt1m-unsplash]]></wp:post_name>
@@ -1348,15 +1428,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:662;s:4:"file";s:44:"2015/02/yeh-xintong-VVnA3OfPT1M-unsplash.jpg";s:5:"sizes";a:8:{s:12:"medium_large";a:4:{s:4:"file";s:44:"yeh-xintong-VVnA3OfPT1M-unsplash-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:45:"yeh-xintong-VVnA3OfPT1M-unsplash-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:44:"yeh-xintong-VVnA3OfPT1M-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:47:"yeh-xintong-VVnA3OfPT1M-unsplash-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_250x200";a:5:{s:4:"file";s:44:"yeh-xintong-VVnA3OfPT1M-unsplash-250x200.jpg";s:5:"width";i:250;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_250x200@2x";a:5:{s:4:"file";s:47:"yeh-xintong-VVnA3OfPT1M-unsplash-250x200@2x.jpg";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:45:"yeh-xintong-VVnA3OfPT1M-unsplash-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:45:"yeh-xintong-VVnA3OfPT1M-unsplash-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:662;s:4:"file";s:44:"2015/02/yeh-xintong-VVnA3OfPT1M-unsplash.jpg";s:5:"sizes";a:10:{s:12:"medium_large";a:4:{s:4:"file";s:44:"yeh-xintong-VVnA3OfPT1M-unsplash-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:45:"yeh-xintong-VVnA3OfPT1M-unsplash-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_150x150";a:5:{s:4:"file";s:44:"yeh-xintong-VVnA3OfPT1M-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_150x150@2x";a:5:{s:4:"file";s:47:"yeh-xintong-VVnA3OfPT1M-unsplash-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_250x200";a:5:{s:4:"file";s:44:"yeh-xintong-VVnA3OfPT1M-unsplash-250x200.jpg";s:5:"width";i:250;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_250x200@2x";a:5:{s:4:"file";s:47:"yeh-xintong-VVnA3OfPT1M-unsplash-250x200@2x.jpg";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:45:"yeh-xintong-VVnA3OfPT1M-unsplash-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:45:"yeh-xintong-VVnA3OfPT1M-unsplash-1000x600.jpg";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"yeh-xintong-VVnA3OfPT1M-unsplash-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:17:"search_results@2x";a:5:{s:4:"file";s:47:"yeh-xintong-VVnA3OfPT1M-unsplash-125x125@2x.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Fresh From The Local Farmers Market</title>
+		<title><![CDATA[Fresh From The Local Farmers Market]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/fresh-from-the-local-farmers-market/</link>
 		<pubDate>Thu, 01 Jan 2015 18:47:06 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=4</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[Beef ribs meatloaf short loin spare ribs. Venison bacon picanha, jerky cupim corned beef bresaola ball tip ground round turducken. Pork chop pork filet mignon ribeye brisket alcatra, pancetta short ribs capicola hamburger salami beef ribs doner. Picanha chicken salami pork belly porchetta. Pork loin turkey pastrami prosciutto. Landjaeger beef ribs ham swine. Leberkas bresaola tri-tip andouille picanha, salami swine.
 
@@ -1371,6 +1451,8 @@ Tenderloin sirloin capicola salami, leberkas ham strip steak. T-bone porchetta a
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-01 18:47:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-01 18:47:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fresh-from-the-local-farmers-market]]></wp:post_name>
@@ -1389,35 +1471,15 @@ Tenderloin sirloin capicola salami, leberkas ham strip steak. T-bone porchetta a
 		<wp:meta_value><![CDATA[76,6,7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[76]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:40:08]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:40:08]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Picanha chicken salami pork belly porchetta. Pork loin turkey pastrami prosciutto. Landjaeger beef ribs ham swine.]]></wp:comment_content>
@@ -1429,9 +1491,9 @@ Tenderloin sirloin capicola salami, leberkas ham strip steak. T-bone porchetta a
 					<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:41:45]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:41:45]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Picanha porchetta alcatra cupim. Jerky chicken prosciutto, pastrami shoulder tail corned beef bacon shankle short ribs meatball.]]></wp:comment_content>
@@ -1442,11 +1504,11 @@ Tenderloin sirloin capicola salami, leberkas ham strip steak. T-bone porchetta a
 							</wp:comment>
 					</item>
 					<item>
-		<title>Easy Salty Smoked Salmon Recipe</title>
+		<title><![CDATA[Easy Salty Smoked Salmon Recipe]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/easy-salty-smoked-salmon-recipe/</link>
 		<pubDate>Sat, 10 Jan 2015 18:54:51 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=10</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[Porchetta frankfurter kielbasa, jerky leberkas strip steak rump. Prosciutto biltong meatball ham doner sausage pork chuck strip steak short ribs alcatra ground round. Cupim venison ground round, capicola sausage drumstick meatball jerky. Meatball frankfurter beef tenderloin pork ham hock drumstick. Bresaola jowl ham boudin shankle andouille pork loin pastrami. Bacon shankle rump jowl meatball. Alcatra jowl pork chop pork loin.
 
@@ -1471,6 +1533,8 @@ Fatback t-bone boudin shankle pork chop sausage pig landjaeger cow pork loin pro
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-10 18:54:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-10 18:54:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[easy-salty-smoked-salmon-recipe]]></wp:post_name>
@@ -1489,16 +1553,12 @@ Fatback t-bone boudin shankle pork chop sausage pig landjaeger cow pork loin pro
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:42:08]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:42:08]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Pork chop jerky porchetta sirloin prosciutto boudin landjaeger turkey shankle beef rump pork loin tri-tip.]]></wp:comment_content>
@@ -1509,11 +1569,11 @@ Fatback t-bone boudin shankle pork chop sausage pig landjaeger cow pork loin pro
 							</wp:comment>
 					</item>
 					<item>
-		<title>Carb Love: The Best Bakery (Pretty Much Ever)</title>
+		<title><![CDATA[Carb Love: The Best Bakery (Pretty Much Ever)]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/carb-love-the-best-bakery-pretty-much-ever/</link>
 		<pubDate>Fri, 16 Jan 2015 18:56:11 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=12</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[Ground round strip steak bresaola jerky pig, jowl turkey ball tip short loin tenderloin cupim alcatra venison shank. Beef ribs ham hock shankle kevin beef short loin biltong. Capicola shank venison boudin. Ribeye cupim strip steak, boudin shoulder doner swine filet mignon tri-tip. Chicken ham frankfurter, doner bresaola sausage salami. Meatloaf andouille shoulder alcatra short ribs picanha jerky boudin ham.
 
@@ -1526,6 +1586,8 @@ Ham hock boudin bacon shankle pork chop brisket, beef ball tip meatball short lo
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-16 18:56:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-16 18:56:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[carb-love-the-best-bakery-pretty-much-ever]]></wp:post_name>
@@ -1548,16 +1610,12 @@ Ham hock boudin bacon shankle pork chop brisket, beef ball tip meatball short lo
 		<wp:meta_key><![CDATA[_easy_image_gallery]]></wp:meta_key>
 		<wp:meta_value><![CDATA[13,14,15,16,17]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:42:18]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:42:18]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Tenderloin leberkas filet mignon capicola, corned beef pastrami prosciutto strip steak tri-tip alcatra rump drumstick biltong bresaola salami. Leberkas short loin shankle.]]></wp:comment_content>
@@ -1568,11 +1626,11 @@ Ham hock boudin bacon shankle pork chop brisket, beef ball tip meatball short lo
 							</wp:comment>
 					</item>
 					<item>
-		<title>Where To... Get Awesome Coffee</title>
+		<title><![CDATA[Where To... Get Awesome Coffee]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/where-to-get-awesome-coffee/</link>
 		<pubDate>Tue, 27 Jan 2015 18:57:16 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=18</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[Steak picanha pork loin, short loin short ribs jerky hamburger tri-tip shoulder meatball t-bone cow. Turducken short loin ham hock beef prosciutto, short ribs andouille pancetta tongue bresaola tail capicola. Turkey tenderloin ham doner porchetta turducken ball tip fatback tri-tip short ribs. Pork loin tongue t-bone tri-tip sausage porchetta. Fatback short loin pork chop pork belly beef ribs cow. Spare ribs beef doner filet mignon, porchetta pork chop tenderloin ham boudin ball tip tail chicken sausage.
 
@@ -1589,6 +1647,8 @@ Meatball drumstick meatloaf biltong chuck, jerky short ribs landjaeger picanha b
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-27 18:57:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-27 18:57:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-to-get-awesome-coffee]]></wp:post_name>
@@ -1607,16 +1667,12 @@ Meatball drumstick meatloaf biltong chuck, jerky short ribs landjaeger picanha b
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:40:13]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:40:13]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Picanha chicken salami pork belly porchetta. Pork loin turkey pastrami prosciutto. Landjaeger beef ribs ham swine.]]></wp:comment_content>
@@ -1628,9 +1684,9 @@ Meatball drumstick meatloaf biltong chuck, jerky short ribs landjaeger picanha b
 					<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:41:42]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:41:42]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Picanha porchetta alcatra cupim. Jerky chicken prosciutto, pastrami shoulder tail corned beef bacon shankle short ribs meatball.]]></wp:comment_content>
@@ -1642,9 +1698,9 @@ Meatball drumstick meatloaf biltong chuck, jerky short ribs landjaeger picanha b
 					<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:41:55]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:41:55]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Chicken ham frankfurter, doner bresaola sausage salami. Meatloaf andouille shoulder alcatra short ribs picanha jerky boudin ham.]]></wp:comment_content>
@@ -1655,39 +1711,41 @@ Meatball drumstick meatloaf biltong chuck, jerky short ribs landjaeger picanha b
 							</wp:comment>
 					</item>
 					<item>
-		<title>Simple Szechuan Veggie Stir Fry</title>
+		<title><![CDATA[Simple Szechuan Veggie Stir Fry]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/simple-szechuan-veggie-stir-fry/</link>
 		<pubDate>Fri, 06 Feb 2015 18:59:56 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=20</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[Biltong ribeye turkey, rump spare ribs meatball bacon. Sirloin frankfurter biltong, boudin tenderloin corned beef doner ham hock brisket pork chop kielbasa shankle chicken prosciutto. Pastrami alcatra cow tail. Corned beef shankle meatball chicken, biltong leberkas pork belly jowl picanha tenderloin venison.
 
 Pancetta ribeye drumstick shankle corned beef pork loin. Short loin ball tip turducken, meatball prosciutto picanha ham shank kevin cupim leberkas tail t-bone ground round. Chicken cow porchetta, ham hock bresaola doner venison beef ribs tenderloin. Ham jowl landjaeger pig filet mignon. Venison boudin salami drumstick, ribeye andouille chuck shank filet mignon t-bone shoulder. Kielbasa leberkas pork flank ribeye. Swine tail tongue leberkas kielbasa turkey landjaeger beef ribs salami andouille pork belly t-bone jerky kevin.
 
-<img class="alignnone size-full wp-image-23" src="https://totaltheme.wpengine.com/blogdotnom/wp-content/uploads/sites/31/2015/03/nom7-2.jpg" alt="nom7-2" width="1000" height="664" />
+<img class="alignnone size-full wp-image-23" src="https://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom7-2.jpg" alt="" width="1000" height="664" />
 
 Kevin beef jerky picanha filet mignon, tri-tip shankle. Meatloaf beef picanha brisket sirloin, leberkas meatball alcatra short loin fatback ground round landjaeger. Andouille hamburger pork chop fatback, turkey beef ribs cow pork loin kielbasa. Beef ribs corned beef tri-tip drumstick filet mignon shoulder andouille pork chop fatback. Turducken cow t-bone frankfurter strip steak, spare ribs picanha meatloaf ground round.
 <h2>Ingredients</h2>
 <ul>
-	<li>pork belly</li>
-	<li>tri-tip brisket</li>
-	<li>short loin</li>
-	<li>leberkas shank fatback</li>
-	<li>meatball andouille</li>
-	<li>ham hock</li>
-	<li>doner</li>
-	<li>hamburger</li>
+ 	<li>pork belly</li>
+ 	<li>tri-tip brisket</li>
+ 	<li>short loin</li>
+ 	<li>leberkas shank fatback</li>
+ 	<li>meatball andouille</li>
+ 	<li>ham hock</li>
+ 	<li>doner</li>
+ 	<li>hamburger</li>
 </ul>
 <h2>Directions</h2>
 <ol>
-	<li>Pig beef ribs pork loin ball tip shank porchetta jowl short loin ground round meatball cupim turducken doner sausage boudin. Filet mignon shoulder leberkas bacon drumstick spare ribs tenderloin hamburger jowl. Spare ribs porchetta shankle frankfurter cow.</li>
-	<li>Jerky pig ground round porchetta landjaeger. Salami prosciutto sirloin t-bone tri-tip alcatra, biltong swine landjaeger pork loin pork chop andouille jowl tenderloin ribeye. Tri-tip sausage strip steak doner corned beef pork loin flank t-bone. Drumstick meatloaf tail chicken pork loin ham tenderloin porchetta. Frankfurter filet mignon picanha, strip steak beef kielbasa landjaeger. Shoulder cupim boudin sausage pork ball tip pancetta alcatra fatback picanha turducken ground round.</li>
+ 	<li>Pig beef ribs pork loin ball tip shank porchetta jowl short loin ground round meatball cupim turducken doner sausage boudin. Filet mignon shoulder leberkas bacon drumstick spare ribs tenderloin hamburger jowl. Spare ribs porchetta shankle frankfurter cow.</li>
+ 	<li>Jerky pig ground round porchetta landjaeger. Salami prosciutto sirloin t-bone tri-tip alcatra, biltong swine landjaeger pork loin pork chop andouille jowl tenderloin ribeye. Tri-tip sausage strip steak doner corned beef pork loin flank t-bone. Drumstick meatloaf tail chicken pork loin ham tenderloin porchetta. Frankfurter filet mignon picanha, strip steak beef kielbasa landjaeger. Shoulder cupim boudin sausage pork ball tip pancetta alcatra fatback picanha turducken ground round.</li>
 </ol>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-06 18:59:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-06 18:59:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[simple-szechuan-veggie-stir-fry]]></wp:post_name>
@@ -1705,16 +1763,12 @@ Kevin beef jerky picanha filet mignon, tri-tip shankle. Meatloaf beef picanha br
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[22]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:39:47]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:39:47]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Turducken cow t-bone frankfurter strip steak, spare ribs picanha meatloaf ground round.]]></wp:comment_content>
@@ -1726,9 +1780,9 @@ Kevin beef jerky picanha filet mignon, tri-tip shankle. Meatloaf beef picanha br
 					<wp:comment>
 			<wp:comment_id>10</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:40:48]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:40:48]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Doner biltong ham, beef tenderloin filet mignon pork loin. Kielbasa frankfurter jerky, pastrami turducken picanha cow flank venison]]></wp:comment_content>
@@ -1739,11 +1793,11 @@ Kevin beef jerky picanha filet mignon, tri-tip shankle. Meatloaf beef picanha br
 							</wp:comment>
 					</item>
 					<item>
-		<title>Where To... Get Delicious Tapas</title>
+		<title><![CDATA[Where To... Get Delicious Tapas]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/where-to-get-delicious-tapas/</link>
 		<pubDate>Thu, 12 Feb 2015 19:01:05 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=24</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[Fatback ribeye pastrami strip steak, tongue doner spare ribs sirloin bresaola beef jowl short loin pig. Tenderloin shankle chicken, bresaola short ribs tri-tip salami chuck pork loin drumstick. Biltong ribeye strip steak meatloaf, jowl shoulder beef tri-tip ground round short ribs. Andouille short ribs drumstick, alcatra doner cupim sausage venison beef ribs. Landjaeger pork belly brisket shank, tail filet mignon chicken sirloin shoulder andouille spare ribs pig frankfurter. Andouille pancetta pork belly meatloaf chuck rump.
 
@@ -1758,6 +1812,8 @@ Cupim kevin pork belly, alcatra leberkas jerky beef fatback ribeye chuck turkey.
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-12 19:01:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-12 19:01:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-to-get-delicious-tapas]]></wp:post_name>
@@ -1775,16 +1831,12 @@ Cupim kevin pork belly, alcatra leberkas jerky beef fatback ribeye chuck turkey.
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[25]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>11</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:41:27]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:41:27]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Turkey shankle beef rump pork loin tri-tip. Hamburger shank ham, jowl swine prosciutto ribeye tri-tip strip steak ball tip tongue sirloin.]]></wp:comment_content>
@@ -1796,9 +1848,9 @@ Cupim kevin pork belly, alcatra leberkas jerky beef fatback ribeye chuck turkey.
 					<wp:comment>
 			<wp:comment_id>12</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:42:04]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:42:04]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Pork chop jerky porchetta sirloin prosciutto boudin landjaeger turkey shankle beef rump pork loin tri-tip.]]></wp:comment_content>
@@ -1809,11 +1861,11 @@ Cupim kevin pork belly, alcatra leberkas jerky beef fatback ribeye chuck turkey.
 							</wp:comment>
 					</item>
 					<item>
-		<title>Sammiches, My Favorite Food</title>
+		<title><![CDATA[Sammiches, My Favorite Food]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/sammiches-my-favorite-food/</link>
 		<pubDate>Tue, 17 Feb 2015 19:01:50 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=26</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[Ribeye beef t-bone chicken bresaola andouille leberkas kevin pork chop rump jerky. Bresaola frankfurter jerky ball tip pork pork chop short ribs pancetta chicken pork belly bacon. Swine ball tip pastrami shank pork loin drumstick. Strip steak prosciutto pancetta porchetta sausage andouille biltong alcatra short ribs brisket chicken beef ribs. Short loin porchetta shankle filet mignon kevin picanha beef ribs boudin sausage rump doner sirloin spare ribs.
 
@@ -1828,6 +1880,8 @@ Picanha tenderloin pastrami, filet mignon boudin andouille rump pork chop shank 
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-17 19:01:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-17 19:01:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sammiches-my-favorite-food]]></wp:post_name>
@@ -1846,16 +1900,12 @@ Picanha tenderloin pastrami, filet mignon boudin andouille rump pork chop shank 
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>13</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:40:02]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:40:02]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Salami prosciutto sirloin t-bone tri-tip alcatra, biltong swine landjaeger pork loin pork chop andouille jowl tenderloin ribeye. Tri-tip sausage strip steak doner corned beef pork loin flank t-bone.]]></wp:comment_content>
@@ -1866,11 +1916,11 @@ Picanha tenderloin pastrami, filet mignon boudin andouille rump pork chop shank 
 							</wp:comment>
 					</item>
 					<item>
-		<title>The Creamiest Ice Cream Recipe</title>
+		<title><![CDATA[The Creamiest Ice Cream Recipe]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/the-creamiest-ice-cream-recipe/</link>
 		<pubDate>Fri, 20 Feb 2015 19:03:48 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=28</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[Doner tongue swine short loin. Porchetta chuck spare ribs cupim fatback corned beef turducken capicola swine picanha alcatra venison strip steak beef pork. Pancetta ground round ham hock bresaola, picanha filet mignon ribeye meatloaf venison salami. Filet mignon fatback meatloaf, ball tip beef porchetta corned beef short ribs meatball tongue turkey.
 
@@ -1896,6 +1946,8 @@ Ham hock ball tip flank bresaola. Pastrami short ribs landjaeger shank. Short lo
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-20 19:03:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-20 19:03:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-creamiest-ice-cream-recipe]]></wp:post_name>
@@ -1913,24 +1965,12 @@ Ham hock ball tip flank bresaola. Pastrami short ribs landjaeger shank. Short lo
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[136]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>14</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:40:26]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:40:26]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Jowl t-bone pig corned beef, jerky pastrami doner shank porchetta cupim cow frankfurter sirloin.]]></wp:comment_content>
@@ -1942,9 +1982,9 @@ Ham hock ball tip flank bresaola. Pastrami short ribs landjaeger shank. Short lo
 					<wp:comment>
 			<wp:comment_id>15</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:41:06]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:41:06]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Swine picanha alcatra venison strip steak beef pork. Pancetta ground round ham hock bresaola.]]></wp:comment_content>
@@ -1955,11 +1995,11 @@ Ham hock ball tip flank bresaola. Pastrami short ribs landjaeger shank. Short lo
 							</wp:comment>
 					</item>
 					<item>
-		<title>Is It Donut Or Doughnut?</title>
+		<title><![CDATA[Is It Donut Or Doughnut?]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/is-it-donut-or-doughnut/</link>
 		<pubDate>Sun, 01 Mar 2015 19:14:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=38</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[Kevin beef jerky picanha filet mignon, tri-tip shankle. Meatloaf beef picanha brisket sirloin, leberkas meatball alcatra short loin fatback ground round landjaeger. Andouille hamburger pork chop fatback, turkey beef ribs cow pork loin kielbasa. Beef ribs corned beef tri-tip drumstick filet mignon shoulder andouille pork chop fatback. Turducken cow t-bone frankfurter strip steak, spare ribs picanha meatloaf ground round.
 
@@ -1976,6 +2016,8 @@ Ball tip landjaeger t-bone capicola kevin ribeye, chuck hamburger bacon meatball
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-01 19:14:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-01 19:14:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[is-it-donut-or-doughnut]]></wp:post_name>
@@ -1993,16 +2035,12 @@ Ball tip landjaeger t-bone capicola kevin ribeye, chuck hamburger bacon meatball
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[39]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>17</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:39:43]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:39:43]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Turducken cow t-bone frankfurter strip steak, spare ribs picanha meatloaf ground round.]]></wp:comment_content>
@@ -2014,9 +2052,9 @@ Ball tip landjaeger t-bone capicola kevin ribeye, chuck hamburger bacon meatball
 					<wp:comment>
 			<wp:comment_id>18</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:39:59]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:39:59]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Salami prosciutto sirloin t-bone tri-tip alcatra, biltong swine landjaeger pork loin pork chop andouille jowl tenderloin ribeye. Tri-tip sausage strip steak doner corned beef pork loin flank t-bone.]]></wp:comment_content>
@@ -2028,9 +2066,9 @@ Ball tip landjaeger t-bone capicola kevin ribeye, chuck hamburger bacon meatball
 					<wp:comment>
 			<wp:comment_id>19</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:40:31]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:40:31]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Jowl t-bone pig corned beef, jerky pastrami doner shank porchetta cupim cow frankfurter sirloin.]]></wp:comment_content>
@@ -2041,11 +2079,11 @@ Ball tip landjaeger t-bone capicola kevin ribeye, chuck hamburger bacon meatball
 							</wp:comment>
 					</item>
 					<item>
-		<title>Where To... Eat For Restaurant Week</title>
+		<title><![CDATA[Where To... Eat For Restaurant Week]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/where-to-eat-for-restaurant-week/</link>
 		<pubDate>Mon, 02 Mar 2015 19:15:06 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=40</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[Bacon ipsum dolor amet pork loin ground round ribeye short loin ball tip, capicola beef ribs brisket cupim hamburger kielbasa drumstick pork chop kevin tail. Beef ribs beef turducken, tenderloin bacon ham hock cupim capicola ball tip. Jerky corned beef flank, ball tip meatloaf pork belly pork chop biltong shoulder sausage jowl pancetta ham hock beef ribs. Filet mignon brisket bacon tri-tip, kielbasa venison jerky hamburger. Tongue landjaeger meatball jowl.
 
@@ -2053,7 +2091,7 @@ Prosciutto venison pork chop flank tail chuck boudin beef. Spare ribs picanha bo
 
 Tenderloin doner turkey pastrami swine pork belly kielbasa sirloin pancetta turducken. Jowl corned beef chicken brisket salami, beef ribs meatloaf short ribs andouille meatball strip steak ball tip. Filet mignon picanha shoulder pastrami beef drumstick, hamburger ham hock. Tri-tip meatloaf sausage turkey bacon filet mignon tail picanha tongue.
 
-<img class="alignnone size-full wp-image-44" src="https://totaltheme.wpengine.com/blogdotnom/wp-content/uploads/sites/31/2015/03/nom1-2.jpg" alt="nom1-2" width="1000" height="671" />
+<img class="alignnone size-full wp-image-44" src="https://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2015/03/nom1-2.jpg" alt="" width="1000" height="671" />
 
 Pork loin bacon ribeye porchetta pork belly picanha. Strip steak meatloaf ground round shoulder flank cupim pork biltong. Frankfurter chuck bacon, beef ham chicken turkey turducken cupim rump shankle pork chop prosciutto salami. Ham doner short ribs, pork brisket sausage filet mignon rump meatloaf beef chuck. Kielbasa tenderloin kevin, shoulder beef ribs turkey strip steak hamburger corned beef shankle. Tri-tip ribeye capicola shankle jowl, short ribs kielbasa pastrami ham venison frankfurter ham hock sausage strip steak bresaola. Porchetta biltong short loin, cupim chuck leberkas doner pancetta corned beef spare ribs.
 
@@ -2064,6 +2102,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2015-03-02 19:15:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-03-02 19:15:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-to-eat-for-restaurant-week]]></wp:post_name>
@@ -2083,16 +2123,12 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[41]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>20</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:38:39]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:38:39]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Beef ribs meatloaf short ribs andouille meatball strip steak ball tip. Filet mignon picanha shoulder pastrami beef drumstick.]]></wp:comment_content>
@@ -2104,9 +2140,9 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 					<wp:comment>
 			<wp:comment_id>21</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:38:51]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:38:51]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Meatball pork chop chuck rump corned beef andouille sausage cupim drumstick ham hock pork loin ribeye alcatra tenderloin porchetta.]]></wp:comment_content>
@@ -2117,11 +2153,11 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 							</wp:comment>
 					</item>
 					<item>
-		<title>Total</title>
+		<title><![CDATA[Total]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/total/</link>
 		<pubDate>Tue, 14 Mar 2017 22:30:52 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/total/</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/total/</guid>
 		<description></description>
 		<content:encoded><![CDATA[/* tweak mobile search padding */
 .sidr-class-mobile-menu-searchform input { padding-top: 10px; padding-bottom: 10px; }]]></content:encoded>
@@ -2129,6 +2165,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-14 22:30:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-14 22:30:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 19:54:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 19:54:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -2140,10 +2178,10 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/83/</link>
 		<pubDate>Sun, 30 Dec 2018 19:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2151,6 +2189,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-30 19:22:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-30 19:22:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[83]]></wp:post_name>
@@ -2195,10 +2235,10 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/84/</link>
 		<pubDate>Sun, 30 Dec 2018 19:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2206,6 +2246,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-30 19:22:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-30 19:22:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[84]]></wp:post_name>
@@ -2250,10 +2292,10 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/85/</link>
 		<pubDate>Sun, 30 Dec 2018 19:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2261,6 +2303,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-30 19:22:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-30 19:22:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[85]]></wp:post_name>
@@ -2305,23 +2349,25 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Download</title>
+		<title><![CDATA[Download]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/download/</link>
 		<pubDate>Sun, 30 Dec 2018 19:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/download/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>86</wp:post_id>
-		<wp:post_date><![CDATA[2018-12-30 19:22:09]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-11-03 17:19:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-30 19:22:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:19:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:19:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[download]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2356,14 +2402,18 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://total.wpexplorer.com/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-30]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Features</title>
+		<title><![CDATA[Features]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/features/</link>
 		<pubDate>Sun, 30 Dec 2018 19:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2371,6 +2421,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-30 19:22:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-30 19:22:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[features]]></wp:post_name>
@@ -2415,10 +2467,10 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>All Demos</title>
+		<title><![CDATA[All Demos]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/all-demos/</link>
 		<pubDate>Sun, 30 Dec 2018 19:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/all-demos/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2426,6 +2478,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-30 19:22:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-30 19:22:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -2470,10 +2524,10 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Theme Features</title>
+		<title><![CDATA[Theme Features]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/theme-features/</link>
 		<pubDate>Sun, 30 Dec 2018 19:22:09 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/theme-features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2481,6 +2535,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-30 19:22:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-30 19:22:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 21:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 21:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[theme-features]]></wp:post_name>
@@ -2525,10 +2581,10 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Nom Nom</title>
+		<title><![CDATA[Nom Nom]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/</link>
 		<pubDate>Mon, 25 Jan 2021 22:33:32 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/blogdotnom/?page_id=114</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2536,6 +2592,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 22:33:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 22:33:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:21:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:21:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -2546,20 +2604,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/blog.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
@@ -2567,10 +2613,10 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>photo-1520512202623-51c5c53957df</title>
+		<title><![CDATA[photo-1520512202623-51c5c53957df]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/photo-1520512202623-51c5c53957df/</link>
 		<pubDate>Tue, 26 Jan 2021 02:34:28 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/blogdotnom/wp-content/uploads/sites/36/2021/01/photo-1520512202623-51c5c53957df.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2578,6 +2624,8 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-26 02:34:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-26 02:34:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 02:34:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 02:34:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[photo-1520512202623-51c5c53957df]]></wp:post_name>
@@ -2598,11 +2646,11 @@ T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip str
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Weekend Adventure At The Hillside Winery</title>
+		<title><![CDATA[Weekend Adventure At The Hillside Winery]]></title>
 		<link>https://total.wpexplorer.com/blogdotnom/weekend-adventure-at-the-hillside-winery/</link>
 		<pubDate>Fri, 28 Feb 2020 19:13:12 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/blogdotnom/?p=30</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/blogdotnom/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip strip steak bresaola tri-tip tongue chicken landjaeger cupim turducken jerky flank. Short loin ham hock capicola landjaeger sausage. Pork pig fatback meatloaf.
 
@@ -2617,6 +2665,8 @@ Kielbasa tongue strip steak drumstick short ribs salami, ball tip pork loin jowl
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2020-02-28 19:13:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-02-28 19:13:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:20:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:20:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[weekend-adventure-at-the-hillside-winery]]></wp:post_name>
@@ -2635,35 +2685,15 @@ Kielbasa tongue strip steak drumstick short ribs salami, ball tip pork loin jowl
 		<wp:meta_value><![CDATA[105]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2015-02-28]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>16</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>http://totaltheme.wpengine.com</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[184.0.83.18]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2015-09-03 19:40:43]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2015-09-03 19:40:43]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Doner biltong ham, beef tenderloin filet mignon pork loin. Kielbasa frankfurter jerky, pastrami turducken picanha cow flank venison.]]></wp:comment_content>
@@ -2675,9 +2705,9 @@ Kielbasa tongue strip steak drumstick short ribs salami, ball tip pork loin jowl
 					<wp:comment>
 			<wp:comment_id>22</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-25 23:06:18]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-25 23:06:18]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Meatloaf pork loin pig fatback brisket. Kevin sausage meatloaf beef ribs. Turducken doner cupim ground round, tri-tip bresaola pancetta short ribs filet mignon. Andouille tail ham short loin chicken meatball pork belly t-bone pig beef ribs kevin frankfurter turducken bacon porchetta.]]></wp:comment_content>
@@ -2689,9 +2719,9 @@ Kielbasa tongue strip steak drumstick short ribs salami, ball tip pork loin jowl
 					<wp:comment>
 			<wp:comment_id>23</wp:comment_id>
 			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sympleworkz@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://www.wpexplorer.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2021-01-25 23:06:25]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-01-25 23:06:25]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[T-bone ribeye cupim fatback shankle corned beef strip steak. Turkey ball tip strip steak bresaola tri-tip tongue chicken landjaeger cupim turducken jerky flank. Short loin ham hock capicola landjaeger sausage. Pork pig fatback meatloaf.]]></wp:comment_content>

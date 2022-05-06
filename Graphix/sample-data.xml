@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.7.3" created="2017-04-03 01:08" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-03 22:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,48 +27,47 @@
 
 <channel>
 	<title>Graphix</title>
-	<link>http://totaltheme.wpengine.com/graphix</link>
-	<description>Web Design Specialist</description>
-	<pubDate>Mon, 03 Apr 2017 01:08:04 +0000</pubDate>
+	<link>https://total.wpexplorer.com/graphix</link>
+	<description>Just another Total Theme Demo site</description>
+	<pubDate>Tue, 03 May 2022 22:43:40 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://totaltheme.wpengine.com/</wp:base_site_url>
-	<wp:base_blog_url>http://totaltheme.wpengine.com/graphix</wp:base_blog_url>
+	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
+	<wp:base_blog_url>https://total.wpexplorer.com/graphix</wp:base_blog_url>
 
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totaltheme]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
-	<wp:category>
+		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
+				
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
-	<generator>https://wordpress.org/?v=4.7.3</generator>
-
-	<item>
-		<title>Home</title>
-		<link>http://totaltheme.wpengine.com/graphix/</link>
+		<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://total.wpexplorer.com/graphix/</link>
 		<pubDate>Sun, 01 Feb 2015 21:03:20 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/?page_id=2</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" column_spacing="0px"][vc_column][rev_slider_vc alias="graphix-home"][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870771071{margin-top: 50px !important;margin-bottom: 15px !important;}"][vc_column width="1/3"][vcex_heading text="STANDARDS" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]I am committed to providing you with the best website possible, all while adhering to the latest and greatest web coding standards and regulations.[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="QUALITY" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]Every project has my full attention. I make myself available to you 24/7 until your project is complete, and you are totally happy with the result.[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="RELEVANT" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]Every creation is fully responsive and designed to fit your individual needs. I creatively incorporate the modules you need into your design.[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="50" el_id="about" css=".vc_custom_1489870777691{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}"][vc_column width="1/3"][vc_single_image image="10" alignment="none"][/vc_column][vc_column width="2/3"][vcex_heading text="ABOUT ME" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]Web design is my passion. Whether I'm creating an e-commerce website for a brick and mortar store, designing a new interface for a learning management system, or re-branding a well established company I always dedicate myself 100% to my project.[/vc_column_text][vcex_spacing size="25px"][vcex_icon_box heading="Web Design" heading_type="h2" icon="globe" url_target="" hover_white_text="" heading_transform="uppercase"]I'll develop the website you've always wanted for your business.[/vcex_icon_box][vcex_spacing size="25px"][vcex_icon_box heading="REBRANDING" heading_type="h2" icon="rocket" url_target="" hover_white_text="" heading_transform="uppercase"]Create a brand that lasts, with my expert help.[/vcex_icon_box][vcex_spacing size="25px"][vcex_icon_box heading="TARGETED MARKETING" heading_type="h2" icon="smile-o" url_target="" hover_white_text="" heading_transform="uppercase"]Get more customers with my optimization techniques.[/vcex_icon_box][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870791428{margin-top: 50px !important;margin-bottom: 15px !important;}"][vc_column width="1/2"][vcex_heading text="SKILLS" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]No matter what project I'm working on, my solid skill set makes me capable of producing high quality work time after time. I'm very capable with Photoshop, HTML, CSS, PHP and MySQL. I'm also constantly attending conferences, camps, seminars and more to re-educate myself with current trends and tools.
-
-I'd really love to work on your next project. Send me a note and let's see if we can't work something out. I just might be the perfect designer/developer for your project.[/vc_column_text][vcex_spacing size="25px"][vcex_button url="#contact" title="Contact Me" target="local" style="outline" align="left" color="black" font_weight="bold" font_family="Lato" font_size="13px" custom_hover_color="#ffffff" letter_spacing="1.5px" font_padding="10px 20px"]CONTACT ME[/vcex_button][/vc_column][vc_column width="1/2"][vc_custom_heading text="PHOTOSHOP" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="92" box_shadow="false"][vcex_spacing size="25px"][vc_custom_heading text="HTML/CSS" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="95" show_icon="" box_shadow="false" color="#f2c43e"][vcex_spacing size="25px"][vc_custom_heading text="PHP/MYSQL" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="90" show_icon="" box_shadow="false" color="#f2c43e"][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="32" parallax_speed_bg="2.5" css=".vc_custom_1489870887952{padding-top: 50px !important;padding-bottom: 15px !important;background: #111111 url(http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur8.jpg?id=36);background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="MY RESUME" link_local_scroll="" text_align="center" font_family="Lato" color="#ffffff" font_size="28px"][vcex_spacing size="20px"][vc_column_text font_size="16px" color="#ffffff"]
-<p style="text-align: center;">How I got here is a very long story, but my resume sums it up nicely.
-You can see my accomplishments listed below, or download a copy to print.</p>
-[/vc_column_text][vcex_spacing][vcex_button url="http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2016/02/resume.pdf" title="Download" target="blank" style="outline" align="center" font_weight="bold" font_family="Lato" font_size="13px" custom_hover_color="#ffffff" letter_spacing="1.5px" font_padding="10px 20px"]DOWNLOAD[/vcex_button][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870894758{margin-top: 50px !important;}"][vc_column width="1/2"][vcex_heading text="EDUCATION" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]We all start somewhere, and for me that was school. I attended a four year college where I was a full-time student.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="BACHELORS OF COMPUTER SCIENCE" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]University of Southern California, 2006[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="MASTERS IN WEB APPLICATION DEVELOPMENT" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]Boston University, 2010[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row column_spacing="50"][vc_column width="1/2"][vcex_heading text="CERTIFICATION" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]In addition to all of that school I went above and beyond to better myself by receiving many prestigious certifications.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="CERTIFIED WEB DESIGNER" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]Association of Web Professionals[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="HTML DEVELOPER CERTIFICATE" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]World Wide Web Consortium[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="CERTIFIED TECHNOLOGY SPECIALIST" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]Microsoft[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="GLOBAL KNOWLEDGE WEBMASTER" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]Global Knowledge[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870929353{padding-bottom: 15px !important;}"][vc_column width="1/2"][vcex_heading text="EXPERIENCE" tag="h2" link_local_scroll="" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]Where you work and what you do can say a lot about you, and since I now work for myself I certainly have a lot to say.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="WEB DESIGN &amp; DEVELOPMENT SPECIALIST" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]Independent Contractor, 2010-Present[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DEVELOPMENT ASSISTANT MANAGER" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]Websites-R-Us LLC, 2006-2010[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DESIGN INTERN" tag="h2" link_local_scroll="" font_weight="bold" font_size="16px"][vc_column_text]A Really Cool Company, 2004-2006[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489870960703{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}"][vc_column][vcex_heading text="MY WORK" tag="h2" link_local_scroll="" font_weight="bold" text_align="center" font_size="26PX"][vcex_spacing size="20px"][vc_column_text font_size="16px"]
-<p style="text-align: center;">These examples are just a little bit of what I can do.
-If you want to see more, just send me an email for my full portfolio.</p>
-[/vc_column_text][vcex_spacing size="25px"][vcex_image_grid columns="3" lightbox_title="false" lightbox_caption="false" columns_gap="25" img_hover_style="fade-in" img_rendering="" img_width="400" img_height="300" image_ids="21,22,23,24,25,26,27,28,29"][/vc_column][/vc_row][vc_row full_width="stretch_row" typography_style="none" bg_style="stretch" style="light" el_id="contact" css=".vc_custom_1489870970377{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #222222 !important;}"][vc_column][vcex_heading text="CONTACT" tag="h2" link_local_scroll="" text_align="center" color="#ffffff" font_size="26px"][vcex_spacing size="25px"][vc_column_text color="#999999" font_size="16px"]
-<p style="text-align: center;">I'm always looking forward to my next adventure.
-Send me a note, and let's get started on your project today!</p>
-[/vc_column_text][vcex_spacing size="25px"][vcex_form_shortcode style="white" full_width="true"][contact-form-7 id="34" title="Homepage"][/vcex_form_shortcode][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1651617635124{background-image: url(https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/revslider/graphix-home/entrepreneur7.jpg?id=39) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_spacing responsive="true" size_responsive="d:250px|tp:150px"][vcex_heading text="GRAPHIX" css_animation="fadeInDown" tag="h1" font_size="d:72px|pl:50px" color="#ffffff" font_weight="900" text_align="center" line_height="tight" animation_duration=".5"][vcex_heading text="Web Design Specialist" css_animation="fadeInUp" tag="h2" font_size="d:21px|pl:18px" color="#ffffff" font_weight="700" text_align="center" text_transform="uppercase" animation_duration=".5" letter_spacing="wider"][vcex_spacing responsive="true" size_responsive="d:250px|tp:150px"][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870771071{margin-top: 50px !important;margin-bottom: 15px !important;}"][vc_column width="1/3"][vcex_heading text="STANDARDS" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]I am committed to providing you with the best website possible, all while adhering to the latest and greatest web coding standards and regulations.[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="QUALITY" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]Every project has my full attention. I make myself available to you 24/7 until your project is complete, and you are totally happy with the result.[/vc_column_text][/vc_column][vc_column width="1/3"][vcex_heading text="RELEVANT" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]Every creation is fully responsive and designed to fit your individual needs. I creatively incorporate the modules you need into your design.[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="50" el_id="about" css=".vc_custom_1489870777691{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}"][vc_column width="1/3"][vcex_image image_id="10"][/vc_column][vc_column width="2/3"][vcex_heading text="ABOUT ME" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="20px"][vc_column_text]Web design is my passion. Whether I'm creating an e-commerce website for a brick and mortar store, designing a new interface for a learning management system, or re-branding a well established company I always dedicate myself 100% to my project.[/vc_column_text][vcex_spacing size="25px"][vcex_icon_box heading="Web Design" hover_white_text="" icon="globe" heading_type="h2" heading_transform="uppercase"]I'll develop the website you've always wanted for your business.[/vcex_icon_box][vcex_spacing size="25px"][vcex_icon_box heading="REBRANDING" hover_white_text="" icon="rocket" heading_type="h2" heading_transform="uppercase"]Create a brand that lasts, with my expert help.[/vcex_icon_box][vcex_spacing size="25px"][vcex_icon_box heading="TARGETED MARKETING" hover_white_text="" icon="smile-o" heading_type="h2" heading_transform="uppercase"]Get more customers with my optimization techniques.[/vcex_icon_box][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870791428{margin-top: 50px !important;margin-bottom: 15px !important;}"][vc_column width="1/2"][vcex_heading text="SKILLS" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]No matter what project I'm working on, my solid skill set makes me capable of producing high quality work time after time. I'm very capable with Photoshop, HTML, CSS, PHP and MySQL. I'm also constantly attending conferences, camps, seminars and more to re-educate myself with current trends and tools.</p>
+<p>I'd really love to work on your next project. Send me a note and let's see if we can't work something out. I just might be the perfect designer/developer for your project.[/vc_column_text][vcex_spacing size="25px"][vcex_button url="#contact" target="local" title="Contact Me" style="outline" align="left" color="black" font_weight="bold" font_family="Lato" font_size="13px" custom_hover_color="#ffffff" letter_spacing="1.5px" font_padding="10px 20px"]CONTACT ME[/vcex_button][/vc_column][vc_column width="1/2"][vc_custom_heading text="PHOTOSHOP" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="92" box_shadow="false"][vcex_spacing size="25px"][vc_custom_heading text="HTML/CSS" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="95" box_shadow="false"][vcex_spacing size="25px"][vc_custom_heading text="PHP/MYSQL" font_container="tag:h2|font_size:16px|text_align:left" google_fonts="font_family:Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal" enqueue_font_style="false"][vcex_spacing size="10px"][vcex_skillbar percentage="90" box_shadow="false"][/vc_column][/vc_row][vc_row full_width="stretch_row" parallax="content-moving" parallax_image="32" parallax_speed_bg="2.5" remove_bottom_col_margin="true" css=".vc_custom_1651617357985{padding-top: 90px !important;padding-bottom: 100px !important;background: #111111 url(https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/entrepreneur8.jpg?id=36);background-position:center;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vcex_heading text="MY RESUME" link_local_scroll="" text_align="center" font_family="Lato" color="#ffffff" font_size="28px"][vcex_spacing size="20px"][vc_column_text font_size="16px" color="#ffffff"]</p>
+<p style="text-align: center;">How I got here is a very long story, but my resume sums it up nicely.<br />
+You can see my accomplishments listed below, or download a copy to print.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2016/02/resume.pdf" target="blank" title="Download" style="outline" align="center" font_weight="bold" font_family="Lato" font_size="13px" letter_spacing="1.5px" font_padding="10px 20px" text_source="custom_text"]DOWNLOAD[/vcex_button][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870894758{margin-top: 50px !important;}"][vc_column width="1/2"][vcex_heading text="EDUCATION" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]We all start somewhere, and for me that was school. I attended a four year college where I was a full-time student.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="BACHELORS OF COMPUTER SCIENCE" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]University of Southern California, 2006[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="MASTERS IN WEB APPLICATION DEVELOPMENT" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]Boston University, 2010[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row column_spacing="50"][vc_column width="1/2"][vcex_heading text="CERTIFICATION" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]In addition to all of that school I went above and beyond to better myself by receiving many prestigious certifications.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="CERTIFIED WEB DESIGNER" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]Association of Web Professionals[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="HTML DEVELOPER CERTIFICATE" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]World Wide Web Consortium[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="CERTIFIED TECHNOLOGY SPECIALIST" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]Microsoft[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="GLOBAL KNOWLEDGE WEBMASTER" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]Global Knowledge[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vcex_divider color="#eeeeee" width="100%" height="1px" icon_color="#000000" icon_size="14px"][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489870929353{padding-bottom: 15px !important;}"][vc_column width="1/2"][vcex_heading text="EXPERIENCE" link_local_scroll="" tag="h2" font_weight="bold"][vcex_spacing size="25px"][vc_column_text]Where you work and what you do can say a lot about you, and since I now work for myself I certainly have a lot to say.[/vc_column_text][/vc_column][vc_column width="1/2"][vcex_spacing size="55px" visibility="hidden-phone"][vcex_heading text="WEB DESIGN &amp; DEVELOPMENT SPECIALIST" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]Independent Contractor, 2010-Present[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DEVELOPMENT ASSISTANT MANAGER" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]Websites-R-Us LLC, 2006-2010[/vc_column_text][vcex_spacing size="25px"][vcex_heading text="WEB DESIGN INTERN" link_local_scroll="" tag="h2" font_weight="bold" font_size="16px"][vc_column_text]A Really Cool Company, 2004-2006[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1489870960703{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}"][vc_column][vcex_heading text="MY WORK" link_local_scroll="" tag="h2" font_weight="bold" text_align="center" font_size="26PX"][vcex_spacing size="20px"][vc_column_text font_size="16px"]</p>
+<p style="text-align: center;">These examples are just a little bit of what I can do.<br />
+If you want to see more, just send me an email for my full portfolio.[/vc_column_text][vcex_spacing size="25px"][vcex_image_grid columns="3" lightbox_title="false" lightbox_caption="false" columns_gap="25" img_hover_style="fade-in" img_rendering="" img_width="400" img_height="300" image_ids="21,22,23,24,25,26,27,28,29"][/vc_column][/vc_row][vc_row full_width="stretch_row" typography_style="none" bg_style="stretch" style="light" el_id="contact" css=".vc_custom_1489870970377{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #222222 !important;}"][vc_column][vcex_heading text="CONTACT" link_local_scroll="" tag="h2" text_align="center" color="#ffffff" font_size="26px"][vcex_spacing size="25px"][vc_column_text color="#999999" font_size="16px"]</p>
+<p style="text-align: center;">I'm always looking forward to my next adventure.<br />
+Send me a note, and let's get started on your project today![/vc_column_text][vcex_spacing size="25px"][vcex_form_shortcode style="white" full_width="true"][contact-form-7 id="34" title="Homepage"][/vcex_form_shortcode][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-01 21:03:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-01 21:03:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-03 22:42:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-03 22:42:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -78,95 +77,69 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1651617635124{background-image: url(https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/revslider/graphix-home/entrepreneur7.jpg?id=39) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489870771071{margin-top: 50px !important;margin-bottom: 15px !important;}.vc_custom_1489870777691{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}.vc_custom_1489870791428{margin-top: 50px !important;margin-bottom: 15px !important;}.vc_custom_1651617357985{padding-top: 90px !important;padding-bottom: 100px !important;background: #111111 url(https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/entrepreneur8.jpg?id=36);background-position:center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489870894758{margin-top: 50px !important;}.vc_custom_1489870929353{padding-bottom: 15px !important;}.vc_custom_1489870960703{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}.vc_custom_1489870970377{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #222222 !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_interface_version]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_footer_widgets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_header_margin]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_toggle_bar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_footer_widgets]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_top_bar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_toggle_bar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_breadcrumbs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_top_bar]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_breadcrumbs]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_disable_header]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1651617635124{background-image: url(https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/revslider/graphix-home/entrepreneur7.jpg?id=39) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489870771071{margin-top: 50px !important;margin-bottom: 15px !important;}.vc_custom_1489870777691{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}.vc_custom_1489870791428{margin-top: 50px !important;margin-bottom: 15px !important;}.vc_custom_1651617357985{padding-top: 90px !important;padding-bottom: 100px !important;background: #111111 url(https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/entrepreneur8.jpg?id=36);background-position:center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489870894758{margin-top: 50px !important;}.vc_custom_1489870929353{padding-bottom: 15px !important;}.vc_custom_1489870960703{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}.vc_custom_1489870970377{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #222222 !important;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[cpr_mtb_plg]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:11:"autoptimize";s:1:"1";s:14:"contact-form-7";s:1:"1";s:9:"revslider";s:1:"1";s:18:"wordpress-importer";s:1:"1";s:11:"js_composer";s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[light]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1489870771071{margin-top: 50px !important;margin-bottom: 15px !important;}.vc_custom_1489870777691{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}.vc_custom_1489870791428{margin-top: 50px !important;margin-bottom: 15px !important;}.vc_custom_1489870887952{padding-top: 50px !important;padding-bottom: 15px !important;background: #111111 url(http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur8.jpg?id=36);background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1489870894758{margin-top: 50px !important;}.vc_custom_1489870929353{padding-bottom: 15px !important;}.vc_custom_1489870960703{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #eeeeee !important;}.vc_custom_1489870970377{padding-top: 50px !important;padding-bottom: 15px !important;background-color: #222222 !important;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[wpex_overlay_header_dropdown_style]]></wp:meta_key>
-			<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>entrepreneur4</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/entrepreneur4/</link>
+							</item>
+					<item>
+		<title><![CDATA[entrepreneur4]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/entrepreneur4/</link>
 		<pubDate>Mon, 02 Feb 2015 00:13:52 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur4.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/entrepreneur4-e1422839283549.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:13:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:13:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:13:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:13:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[entrepreneur4]]></wp:post_name>
@@ -176,32 +149,34 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur4-e1422839283549.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/entrepreneur4-e1422839283549.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/entrepreneur4-e1422839283549.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/entrepreneur4-e1422839283549.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:479;s:6:"height";i:650;s:4:"file";s:40:"2015/02/entrepreneur4-e1422839283549.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:479;s:6:"height";i:650;s:4:"file";s:40:"2015/02/entrepreneur4-e1422839283549.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_backup_sizes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:9:"full-orig";a:3:{s:5:"width";i:518;s:6:"height";i:650;s:4:"file";s:17:"entrepreneur4.jpg";}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_backup_sizes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:9:"full-orig";a:3:{s:5:"width";i:518;s:6:"height";i:650;s:4:"file";s:17:"entrepreneur4.jpg";}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p1</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p1/</link>
+							</item>
+					<item>
+		<title><![CDATA[p1]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p1/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:25 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p1.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p1]]></wp:post_name>
@@ -211,28 +186,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p1.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p1.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p1.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p1.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p1-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p1.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p1-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p1-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p2</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p2/</link>
+							</item>
+					<item>
+		<title><![CDATA[p2]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p2/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:26 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p2.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p2]]></wp:post_name>
@@ -242,28 +219,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p2.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p2.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p2.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p2.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p2-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p2.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p2-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p2-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p3</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p3/</link>
+							</item>
+					<item>
+		<title><![CDATA[p3]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p3/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:26 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p3.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p3]]></wp:post_name>
@@ -273,28 +252,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p3.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p3.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p3.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p3.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p3-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p3.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p3-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p3-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p4</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p4/</link>
+							</item>
+					<item>
+		<title><![CDATA[p4]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p4/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:28 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p4.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p4]]></wp:post_name>
@@ -304,28 +285,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p4.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p4.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p4.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p4.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p4-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p4.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p4-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p4-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p5</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p5/</link>
+							</item>
+					<item>
+		<title><![CDATA[p5]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p5/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:29 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p5.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p5]]></wp:post_name>
@@ -335,28 +318,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p5.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p5.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p5.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p5.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p5.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p5-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p5.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p5-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p5-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p6</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p6/</link>
+							</item>
+					<item>
+		<title><![CDATA[p6]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p6/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:30 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p6.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p6]]></wp:post_name>
@@ -366,28 +351,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p6.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p6.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p6.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p6.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p6.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p6-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p6.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p6-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p6-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p7</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p7/</link>
+							</item>
+					<item>
+		<title><![CDATA[p7]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p7/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:31 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p7.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p7]]></wp:post_name>
@@ -397,28 +384,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p7.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p7.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p7.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p7.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p7.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p7-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p7.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p7-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p7-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p8</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p8/</link>
+							</item>
+					<item>
+		<title><![CDATA[p8]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p8/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:32 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p8.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p8]]></wp:post_name>
@@ -428,28 +417,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p8.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p8.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p8.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p8.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p8.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p8-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p8.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p8-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p8-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>p9</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/p9/</link>
+							</item>
+					<item>
+		<title><![CDATA[p9]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/p9/</link>
 		<pubDate>Mon, 02 Feb 2015 00:30:33 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p9.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p9.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-02 00:30:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-02 00:30:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2015-02-02 00:30:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2015-02-02 00:30:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[p9]]></wp:post_name>
@@ -459,28 +450,30 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/p9.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/p9.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/p9.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/p9.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p9.jpg";s:5:"sizes";a:1:{s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p9-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:529;s:4:"file";s:14:"2015/02/p9.jpg";s:5:"sizes";a:2:{s:12:"medium_large";a:4:{s:4:"file";s:14:"p9-768x508.jpg";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_400x300";a:5:{s:4:"file";s:14:"p9-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>resume</title>
-		<link>http://totaltheme.wpengine.com/graphix/resume/</link>
+							</item>
+					<item>
+		<title><![CDATA[resume]]></title>
+		<link>https://total.wpexplorer.com/graphix/resume/</link>
 		<pubDate>Sun, 21 Feb 2016 20:51:36 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2016/02/resume.pdf</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2016/02/resume.pdf</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2016-02-21 20:51:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-02-21 20:51:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-02-21 20:51:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-02-21 20:51:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[resume]]></wp:post_name>
@@ -490,32 +483,38 @@ Send me a note, and let's get started on your project today!</p>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2016/02/resume.pdf]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/02/resume.pdf]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2016/02/resume.pdf]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2016/02/resume.pdf]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Homepage</title>
-		<link>http://totaltheme.wpengine.com/graphix/?post_type=wpcf7_contact_form&#038;p=34</link>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:5:"sizes";a:1:{s:4:"full";a:4:{s:4:"file";s:14:"resume-pdf.jpg";s:5:"width";i:1088;s:6:"height";i:1408;s:9:"mime-type";s:10:"image/jpeg";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Homepage]]></title>
+		<link>https://total.wpexplorer.com/graphix/?post_type=wpcf7_contact_form&#038;p=34</link>
 		<pubDate>Wed, 31 Aug 2016 21:45:28 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/?post_type=wpcf7_contact_form&#038;p=34</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/?post_type=wpcf7_contact_form&#038;p=34</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p class="one-half first">[text* your-name "Your Name"]</p>
+		<content:encoded><![CDATA[<p class="one-half first">[text* your-name placeholder "Your Name"]</p>
 
-<p class="one-half">[email* your-email "Your Email"]</p>
+<p class="one-half">[email* your-email placeholder "Your Email"]</p>
 
-<p class="one-half first">[tel your-tel "Your Phone Number"]</p>
+<p class="one-half first">[tel your-tel placeholder "Your Phone Number"]</p>
 
-<p class="one-half">[text your-subject "Your Budget"]</p>
+<p class="one-half">[text your-subject placeholder "Your Budget"]</p>
 
-<p>[textarea your-message "Type Your Message Here..."] </p>
+<p>[textarea your-message placeholder "Type Your Message Here..."] </p>
 
 <p>[submit "SUBMIT FORM"]</p>
+1
 [your-subject] - Graphix
-[your-name] <wordpress@totaltheme.wpengine.com>
+[your-name] <dummy@example.com>
+dummy@example.com
 From: [your-name] <[your-email]>
 Subject: [your-subject]
 
@@ -523,8 +522,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.com/graphix)
-dummy@wpexplorer.com
+This e-mail was sent from a contact form on Graphix (https://total.wpexplorer.com/graphix)
 Reply-To: [your-email]
 
 
@@ -532,12 +530,12 @@ Reply-To: [your-email]
 
 Graphix "[your-subject]"
 Graphix <wordpress@totaltheme.wpengine.com>
+[your-email]
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.com/graphix)
-[your-email]
+This e-mail was sent from a contact form on Graphix (https://total.wpexplorer.com/graphix)
 Reply-To: sympleworkz@gmail.com
 
 
@@ -550,18 +548,17 @@ You must accept the terms and conditions before sending your message.
 The field is required.
 The field is too long.
 The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
 There was an unknown error uploading the file.
 You are not allowed to upload files of this type.
 The file is too big.
 There was an error uploading the file.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
 The number format is invalid.
 The number is smaller than the minimum allowed.
 The number is larger than the maximum allowed.
 The answer to the quiz is incorrect.
-Your entered code is incorrect.
 The e-mail address entered is invalid.
 The URL is invalid.
 The telephone number is invalid.]]></content:encoded>
@@ -569,6 +566,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-31 21:45:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-31 21:45:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-05-03 22:26:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-05-03 22:26:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -578,99 +577,70 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<p class="one-half first">[text* your-name "Your Name"]</p>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p class="one-half first">[text* your-name placeholder "Your Name"]</p>
 
-<p class="one-half">[email* your-email "Your Email"]</p>
+<p class="one-half">[email* your-email placeholder "Your Email"]</p>
 
-<p class="one-half first">[tel your-tel "Your Phone Number"]</p>
+<p class="one-half first">[tel your-tel placeholder "Your Phone Number"]</p>
 
-<p class="one-half">[text your-subject "Your Budget"]</p>
+<p class="one-half">[text your-subject placeholder "Your Budget"]</p>
 
-<p>[textarea your-message "Type Your Message Here..."] </p>
+<p>[textarea your-message placeholder "Type Your Message Here..."] </p>
 
 <p>[submit "SUBMIT FORM"]</p>]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:24:"[your-subject] - Graphix";s:6:"sender";s:47:"[your-name] <wordpress@totaltheme.wpengine.com>";s:4:"body";s:183:"From: [your-name] <[your-email]>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:24:"[your-subject] - Graphix";s:6:"sender";s:31:"[your-name] <dummy@example.com>";s:9:"recipient";s:17:"dummy@example.com";s:4:"body";s:183:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.com/graphix)";s:9:"recipient";s:20:"dummy@wpexplorer.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.com/graphix)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:24:"Graphix "[your-subject]"";s:6:"sender";s:43:"Graphix <wordpress@totaltheme.wpengine.com>";s:4:"body";s:125:"Message Body:
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:24:"Graphix "[your-subject]"";s:6:"sender";s:43:"Graphix <wordpress@totaltheme.wpengine.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:125:"Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.com/graphix)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.com/graphix)";s:18:"additional_headers";s:31:"Reply-To: sympleworkz@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>entrepreneur7</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/entrepreneur7/</link>
-		<pubDate>Fri, 14 Oct 2016 23:37:10 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur7.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2016-10-14 23:37:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-10-14 23:37:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[entrepreneur7]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur7.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/entrepreneur7.jpg]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:11:"mail.sender";a:1:{i:0;a:2:{s:4:"code";i:103;s:4:"args";a:3:{s:7:"message";s:0:"";s:6:"params";a:0:{}s:4:"link";s:70:"https://contactform7.com/configuration-errors/email-not-in-site-domain";}}}}]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:900;s:4:"file";s:25:"2015/02/entrepreneur7.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:25:"entrepreneur7-768x346.jpg";s:5:"width";i:768;s:6:"height";i:346;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>entrepreneur8</title>
-		<link>http://totaltheme.wpengine.com/graphix/home/entrepreneur8/</link>
+							</item>
+					<item>
+		<title><![CDATA[entrepreneur8]]></title>
+		<link>https://total.wpexplorer.com/graphix/home/entrepreneur8/</link>
 		<pubDate>Fri, 14 Oct 2016 23:37:11 +0000</pubDate>
-		<dc:creator><![CDATA[totaltheme]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur8.jpg</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/entrepreneur8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2016-10-14 23:37:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-10-14 23:37:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2016-10-14 23:37:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2016-10-14 23:37:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[entrepreneur8]]></wp:post_name>
@@ -680,22 +650,22 @@ This e-mail was sent from a contact form on Graphix (http://totaltheme.wpengine.
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://totaltheme.wpengine.com/graphix/wp-content/uploads/sites/25/2015/02/entrepreneur8.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/entrepreneur8.jpg]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2015/02/entrepreneur8.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2015/02/entrepreneur8.jpg]]></wp:meta_value>
 		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1135;s:4:"file";s:25:"2015/02/entrepreneur8.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:25:"entrepreneur8-768x454.jpg";s:5:"width";i:768;s:6:"height";i:454;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1135;s:4:"file";s:25:"2015/02/entrepreneur8.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:25:"entrepreneur8-768x454.jpg";s:5:"width";i:768;s:6:"height";i:454;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Total</title>
-		<link>http://totaltheme.wpengine.com/graphix/total/</link>
+							</item>
+					<item>
+		<title><![CDATA[Total]]></title>
+		<link>https://total.wpexplorer.com/graphix/total/</link>
 		<pubDate>Wed, 15 Mar 2017 00:15:58 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://totaltheme.wpengine.com/graphix/total/</guid>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/total/</guid>
 		<description></description>
 		<content:encoded><![CDATA[/* Tweak button font family */
 .theme-button,
@@ -711,6 +681,8 @@ button { font-family: 'Lato'; }
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-15 00:15:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-15 00:15:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-03-15 00:15:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-03-15 00:15:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -720,10 +692,73 @@ button { font-family: 'Lato'; }
 		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-</channel>
+							</item>
+					<item>
+		<title><![CDATA[graphix-home]]></title>
+		<link>https://total.wpexplorer.com/graphix/graphix-home/</link>
+		<pubDate>Sat, 29 Dec 2018 22:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2018/12/graphix-home.zip</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-29 22:02:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-29 22:02:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-12-29 22:02:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-12-29 22:02:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[graphix-home]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/2018/12/graphix-home.zip]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/12/graphix-home.zip]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[entrepreneur7.jpg]]></title>
+		<link>https://total.wpexplorer.com/graphix/entrepreneur7-jpg/</link>
+		<pubDate>Sat, 29 Dec 2018 22:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/revslider/graphix-home/entrepreneur7.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-29 22:02:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-29 22:02:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-12-29 22:02:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-12-29 22:02:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[entrepreneur7-jpg]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/graphix/wp-content/uploads/sites/27/revslider/graphix-home/entrepreneur7.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[revslider/graphix-home/entrepreneur7.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:900;s:4:"file";s:40:"revslider/graphix-home/entrepreneur7.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:25:"entrepreneur7-768x346.jpg";s:5:"width";i:768;s:6:"height";i:346;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
 </rss>
+	

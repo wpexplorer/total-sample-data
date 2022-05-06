@@ -1,29 +1,69 @@
 {
-    "agent":{
-        "import_file_name":"Agent",
-        "preview_url":"https://total.wpexplorer.com/agent/",
-        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/screenshot.jpg",
-        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/sample-data.xml",
-        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/customizer.dat",
-        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/widgets.json",
+    "Bolt":{
+        "import_file_name":"Bolt",
+        "preview_url":"https://total.wpexplorer.com/bolt/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bolt/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bolt/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bolt/customizer.dat",
+        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bolt/widgets.json",
         "nav_menu_locations":{
             "main_menu":"main"
         },
-        "homepage_slug":"home",
-        "shop_slug":"shop",
+        "homepage_slug":"homepage",
+        "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
-            "Slider Revolution",
-            "WooCommerce",
-            "Templatera"
+            "Templatera",
+            "WooCommerce"
         ],
-        "revsliders":{
-            "agent-home":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/revolution-sliders/agent-home.zip",
-            "agent-shop":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/revolution-sliders/agent-shop.zip"
-        },
         "categories":{
+           "agency":"Agency",
             "business":"Business",
+            "creative":"Creative"
+        }
+    },
+    "Bryce":{
+        "import_file_name":"Bryce",
+        "preview_url":"https://total.wpexplorer.com/bryce/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bryce/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bryce/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bryce/customizer.dat",
+        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Bryce/widgets.json",
+        "nav_menu_locations":{
+            "main_menu":"main"
+        },
+        "homepage_slug":"homepage",
+        "page_for_posts":"blog",
+        "plugins":[
+            "WPBakery Page Builder",
+            "Templatera",
+            "WooCommerce"
+        ],
+        "categories":{
+           "agency":"Agency",
+            "business":"Business",
+            "creative":"Creative",
+            "shop":"Shop"
+        }
+    },
+     "Amelia":{
+        "import_file_name":"Amelia",
+        "preview_url":"https://total.wpexplorer.com/amelia/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Amelia/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Amelia/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Amelia/customizer.dat",
+        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Amelia/widgets.json",
+        "nav_menu_locations":{
+            "main_menu":"main"
+        },
+        "homepage_slug":"shop",
+        "page_for_posts":"blog",
+        "plugins":[
+            "WPBakery Page Builder",
+            "Templatera",
+            "WooCommerce"
+        ],
+        "categories":{
             "shop":"Shop"
         }
     },
@@ -47,6 +87,71 @@
            "agency":"Agency",
             "business":"Business",
              "creative":"Creative"
+        }
+    },
+    "Synergy":{
+        "import_file_name":"Synergy",
+        "preview_url":"https://total.wpexplorer.com/synergy/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Synergy/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Synergy/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Synergy/customizer.dat",
+        "nav_menu_locations":{
+            "main_menu":"main"
+        },
+        "homepage_slug":"home",
+        "plugins":[
+            "WPBakery Page Builder",
+            "Templatera"
+        ],
+        "categories":{
+           "agency":"Agency",
+            "business":"Business",
+             "creative":"Creative"
+        }
+    },
+    "agent":{
+        "import_file_name":"Agent",
+        "preview_url":"https://total.wpexplorer.com/agent/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/customizer.dat",
+        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/widgets.json",
+        "nav_menu_locations":{
+            "main_menu":"main"
+        },
+        "homepage_slug":"home",
+        "shop_slug":"shop",
+        "plugins":[
+            "WPBakery Page Builder",
+            "Slider Revolution",
+            "WooCommerce"
+        ],
+        "revsliders":{
+            "agent-home":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/revolution-sliders/agent-home.zip",
+            "agent-shop":"https://totalwptheme.s3.amazonaws.com/sample-data/Agent/revolution-sliders/agent-shop.zip"
+        },
+        "categories":{
+            "business":"Business",
+            "shop":"Shop"
+        }
+    },
+    "olivia":{
+        "import_file_name":"Olivia",
+        "preview_url":"https://total.wpexplorer.com/olivia/",
+        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Olivia/screenshot.jpg",
+        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Olivia/sample-data.xml",
+        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Olivia/customizer.dat",
+        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Olivia/widgets.json",
+        "nav_menu_locations":{
+            "main_menu":"main"
+        },
+        "homepage_slug":"home",
+        "plugins":[
+            "WPBakery Page Builder",
+            "Templatera"
+        ],
+        "categories":{
+            "blog":"Blog"
         }
     },
     "Boomerang":{
@@ -88,7 +193,6 @@
         "homepage_slug":"home",
         "shop_slug":"shop",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "Slider Revolution",
             "WooCommerce"
@@ -116,10 +220,8 @@
         "homepage_slug":"home",
         "shop_slug":"shop",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "Slider Revolution",
-            "Templatera",
             "WooCommerce"
         ],
         "revsliders":{
@@ -144,7 +246,6 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "Slider Revolution"
         ],
@@ -189,13 +290,8 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
-            "WPBakery Page Builder",
-            "Slider Revolution"
+            "WPBakery Page Builder"
         ],
-        "revsliders":{
-            "construct-services":"https://totalwptheme.s3.amazonaws.com/sample-data/Construct/revolution-sliders/construct-services.zip"
-        },
         "categories":{
             "business":"Business",
             "other":"Other"
@@ -213,7 +309,7 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
+            "Templatera",
             "WPBakery Page Builder"
         ],
         "categories":[
@@ -230,12 +326,8 @@
         "homepage_slug":"home",
         "plugins":[
             "Contact Form 7",
-            "WPBakery Page Builder",
-            "Slider Revolution"
+            "WPBakery Page Builder"
         ],
-        "revsliders":{
-            "graphix-home":"https://totalwptheme.s3.amazonaws.com/sample-data/Graphix/revolution-sliders/graphix-home.zip"
-        },
         "categories":{
             "one-page":"One Page",
             "personal":"Personal"
@@ -253,7 +345,6 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder"
         ],
         "categories":{
@@ -274,7 +365,6 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder"
         ],
         "categories":[
@@ -361,8 +451,7 @@
         "plugins":[
             "Contact Form 7",
             "WPBakery Page Builder",
-            "Slider Revolution",
-            "Symple - JPEG Quality"
+            "Slider Revolution"
         ],
         "revsliders":{
             "dentistry-home":"https://totalwptheme.s3.amazonaws.com/sample-data/Dentistry/revolution-sliders/dentistry-home.zip"
@@ -386,7 +475,6 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder"
         ],
         "categories":{
@@ -407,7 +495,6 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "Slider Revolution"
         ],
@@ -433,7 +520,6 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "Total - Remove Query Strings"
         ],
@@ -453,7 +539,7 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
+            "Templatera",
             "WPBakery Page Builder"
         ],
         "categories":{
@@ -511,10 +597,8 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
-            "Slider Revolution",
-            "Symple - JPEG Quality"
+            "Slider Revolution"
         ],
         "revsliders":{
             "corporate-home":"https://totalwptheme.s3.amazonaws.com/sample-data/Corporate/revolution-sliders/corporate-home.zip"
@@ -537,7 +621,6 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "The Events Calendar"
         ],
@@ -561,13 +644,11 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
-            "WPBakery Page Builder",
-            "Total - Redirect Staff Posts"
+            "WPBakery Page Builder"
         ],
-        "categories":[
-
-        ]
+        "categories":{
+            "business":"Business"
+        }
     },
     "dezignr":{
         "import_file_name":"Dezignr",
@@ -635,7 +716,6 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder"
         ],
         "categories":{
@@ -749,8 +829,7 @@
         "homepage_slug":"home",
         "page_for_posts":"blog",
         "plugins":[
-            "WPBakery Page Builder",
-            "Slider Revolution"
+            "WPBakery Page Builder"
         ],
         "revsliders":{
             "boxed-folio-homepage":"https://totalwptheme.s3.amazonaws.com/sample-data/Boxed-Folio/revolution-sliders/boxed-folio-homepage.zip"
@@ -805,7 +884,6 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder"
         ],
         "categories":{
@@ -844,7 +922,6 @@
         },
         "homepage_slug":"home",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "Templatera"
         ],
@@ -913,37 +990,6 @@
 
         ]
     },
-    "base-lite":{
-        "import_file_name":"Base Lite",
-        "preview_url":"https://total.wpexplorer.com/base-lite/",
-        "import_preview_image_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/screenshot.jpg",
-        "import_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/sample-data.xml",
-        "import_customizer_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/customizer.dat",
-        "import_widget_file_url":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/widgets.json",
-        "nav_menu_locations":{
-            "main_menu":"main",
-            "footer_menu":"footer"
-        },
-        "homepage_slug":"home",
-        "shop_slug":"shop",
-        "plugins":[
-            "Contact Form 7",
-            "WPBakery Page Builder",
-            "Slider Revolution",
-            "WooCommerce"
-        ],
-        "revsliders":{
-            "slider_1":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_1.zip",
-            "slider_2":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_2.zip",
-            "slider_3":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_3.zip",
-            "slider_4":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_4.zip",
-            "slider_5":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_5.zip",
-            "slider_6":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_6.zip",
-            "slider_7":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_7.zip",
-            "slider_8":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_8.zip",
-            "slider_9":"https://totalwptheme.s3.amazonaws.com/sample-data/Base-Lite/revolution-sliders/slider_9.zip"
-        }
-    },
     "gym":{
         "import_file_name":"Gym",
         "preview_url":"https://total.wpexplorer.com/gym/",
@@ -1000,10 +1046,10 @@
         "homepage_slug":"home",
         "shop_slug":"shop",
         "plugins":[
-            "Contact Form 7",
             "WPBakery Page Builder",
             "Slider Revolution",
-            "WooCommerce"
+            "WooCommerce",
+            "Templatera"
         ],
         "revsliders":{
             "slider_1":"https://totalwptheme.s3.amazonaws.com/sample-data/Base/revolution-sliders/slider_1.zip",
