@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.3" created="2022-05-06 01:17" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-26 03:54" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Boomerang</title>
 	<link>https://total.wpexplorer.com/boomerang</link>
-	<description>Just another Your SUPER-powered WP Engine Multisite Install site</description>
-	<pubDate>Fri, 06 May 2022 01:17:11 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Fri, 26 May 2023 03:54:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
@@ -69,7 +69,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 		<item>
 		<title><![CDATA[what-is-wordpress]]></title>
@@ -1212,6 +1212,128 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://total.wpexplorer.com/boomerang/home/</link>
+		<pubDate>Tue, 23 Mar 2021 00:38:37 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/home/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>130</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-24 01:43:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-23 00:38:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-24 01:43:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-24 01:43:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://total.wpexplorer.com/boomerang/133/</link>
+		<pubDate>Tue, 23 Mar 2021 00:40:25 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/133/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>133</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-24 02:42:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-23 00:40:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-24 02:42:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-24 02:42:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[133]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-widget-quick-links"><![CDATA[Footer Widget Quick Links]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Total]]></title>
 		<link>https://total.wpexplorer.com/boomerang/total/</link>
 		<pubDate>Tue, 23 Mar 2021 00:42:17 +0000</pubDate>
@@ -1220,32 +1342,21 @@
 		<description></description>
 		<content:encoded><![CDATA[/* Remove footer widget menu borders */
 .footer-widget .menu-item {
-	padding: 0;
-	border: 0;
+	padding: 5px 0;
+	border: 0 !important;
 }
-
-/* Tweak pagination top margin */
-.wpex-pagination { margin-top: 10px; }
 
 /* Reset border radius on mobile for newsletter form */
 @media only screen and (max-width: 767px) {
 	.vcex-newsletter-form.vcex-fullwidth-mobile input[type="email"],
 	.vcex-newsletter-form.vcex-fullwidth-mobile .vcex-newsletter-form-button { border-radius: 6px !important; }
-}
-
-/* Hide potential empty p tags in templatera templates - this code will be added in v5.1.1 so it can be removed then */
-.templatera_shortcode > p:empty { display: none; }
-
-/* Alter minimal border button active background */
-.theme-button.minimal-border:hover, .active > .theme-button.minimal-border, .theme-button.minimal-border.active {
-	background: #f3f7fa;
 }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-23 00:42:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-23 00:42:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 02:47:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 02:47:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 03:51:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 03:51:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -1486,6 +1597,128 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
+		<link>https://total.wpexplorer.com/boomerang/195/</link>
+		<pubDate>Tue, 23 Mar 2021 05:37:43 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=195</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>195</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-24 01:43:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-23 05:37:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-24 01:43:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-24 01:43:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[195]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Get Started]]></title>
+		<link>https://total.wpexplorer.com/boomerang/197/</link>
+		<pubDate>Tue, 23 Mar 2021 05:38:08 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=197</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>197</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-24 01:43:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-23 05:38:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-24 01:43:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-24 01:43:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[197]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[196]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/boomerang/202/</link>
 		<pubDate>Tue, 23 Mar 2021 06:33:45 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
@@ -1608,222 +1841,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[total-row-width]]></title>
-		<link>https://total.wpexplorer.com/boomerang/docs/total-row-width/</link>
-		<pubDate>Wed, 24 Mar 2021 02:53:47 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/wp-content/uploads/sites/59/2021/03/total-row-width.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>220</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-24 02:53:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-24 02:53:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 02:53:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 02:53:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[total-row-width]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>208</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/boomerang/wp-content/uploads/sites/59/2021/03/total-row-width.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/03/total-row-width.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3306;s:6:"height";i:2058;s:4:"file";s:27:"2021/03/total-row-width.png";s:5:"sizes";a:3:{s:12:"medium_large";a:4:{s:4:"file";s:27:"total-row-width-768x478.png";s:5:"width";i:768;s:6:"height";i:478;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:28:"total-row-width-1536x956.png";s:5:"width";i:1536;s:6:"height";i:956;s:9:"mime-type";s:9:"image/png";}s:9:"2048x2048";a:4:{s:4:"file";s:29:"total-row-width-2048x1275.png";s:5:"width";i:2048;s:6:"height";i:1275;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/boomerang/?p=222</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=222</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>This is where your category description will be displayed so add something nice.</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>222</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-13 00:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-13 00:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1634083206]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/boomerang/?p=223</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=223</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>This is where your category description will be displayed so add something nice.</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>223</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-13 00:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-13 00:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1634083206]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/boomerang/?p=224</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=224</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>This is where your category description will be displayed so add something nice.</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>224</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-13 00:00:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-13 00:00:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1634083206]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Homepage]]></title>
 		<link>https://total.wpexplorer.com/boomerang/</link>
 		<pubDate>Wed, 27 Jan 2021 02:04:16 +0000</pubDate>
@@ -1858,6 +1875,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1616531348985{padding-top: 80px !important;padding-bottom: 60px !important;background-color: #f3fbfe !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1616456577835{margin-top: 60px !important;}.vc_custom_1616456804814{margin-top: 40px !important;margin-bottom: 40px !important;padding-top: 60px !important;padding-right: 30px !important;padding-bottom: 60px !important;padding-left: 30px !important;background-color: #f3f7fa !important;}.vc_custom_1616456653588{margin-top: 40px !important;}.vc_custom_1616531356757{padding-top: 60px !important;background-color: #f3fbfe !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1615929186514{border-radius: 10px !important;}.vc_custom_1615929109408{border-radius: 10px !important;}.vc_custom_1616550139084{border-radius: 10px !important;}.vc_custom_1615929251863{border-radius: 10px !important;}.vc_custom_1616457456155{padding-bottom: 60px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1899,6 +1920,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2015,6 +2040,10 @@
 		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
@@ -2060,6 +2089,10 @@
         margin-bottom: -150px;
     }
 }]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2275,125 +2308,196 @@ With Total you can build any website you can dream up. Or take advantage of one 
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://total.wpexplorer.com/boomerang/home/</link>
-		<pubDate>Tue, 23 Mar 2021 00:38:37 +0000</pubDate>
+		<title><![CDATA[Follow These Steps to Make Money Online]]></title>
+		<link>https://total.wpexplorer.com/boomerang/follow-these-steps-to-make-money-online/</link>
+		<pubDate>Tue, 23 Mar 2021 03:17:12 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/home/</guid>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[Many people make money online - and you can be one of them. It's easy to get started. And in this post you'll learn how to <a href="https://www.wpexplorer.com/make-money-with-wordpress/">make money online with WordPress</a>.
+<h2>1. Start A Blog</h2>
+The first thing you need to make money online is a blog. When you <a href="https://www.wpexplorer.com/get-started-wordpress-blogging/">start a blog</a> you can create your own content and posts. Choose something you're knowledgeable or passionate about.
+
+One of the most common ways to make money is to add advertisements to your sidebar. Signup for Google Adsense Or you can get paid to write posts (also called sponsored posts). Review products or add them to your articles for a fee.
+
+You can also offer services to other bloggers. Maybe you're great at creating content and want to write for other blogs, or perhaps you have a knack for styling a website with a theme. Create a list or "menu" of your services and add it to your website.
+<h2>2. Become an Affiliate</h2>
+Now that have a blog there you should consider becoming an affiliate for your favorite brands. This way you can make money when people click your links. Many companies offer affiliate programs, you just have to look for the "affiliate" or "partner" program link on their website. However, here are a few more general programs you might be interested in.
+<h3>ShareASale</h3>
+<a href="https://www.shareasale.com/r.cfm?B=70&amp;U=420839&amp;M=47&amp;urllink=" target="_blank" rel="nofollow sponsored noopener noreferrer">ShareASale</a> is a general affiliate marketing platform that many sellers use. This means that you can signup for an account once, then apply to a number of programs using the same account. Many big names participate such as One Kings Lane, StudioPress, ModCloth, Grammarly, Sun Basket, Reebok and more. Similar platforms include CJ affiliate and Impact.
+<h3>Amazon Affiliates</h3>
+<img class="alignnone size-full wp-image-162" src="https://total.wpexplorer.com/boomerang/wp-content/uploads/sites/59/2021/01/azonpress.jpg" alt="" width="1000" height="400" />
+
+When looking at affiliate programs do not forget Amazon. With Amazon you can create custom link to anything on their site - including products, ebooks, memberships and more. And you can even build an entire <a href="https://www.wpexplorer.com/amazon-affiliate-wordpress/">Amazon affiliate WordPress</a> site with the help of a plugin. With amazon the easiest plugin to import Amazon products to your site is <a href="https://wpmanageninja.com/azonpress/?ref=485" target="_blank" rel="nofollow sponsored noopener noreferrer">AzonPress</a>. In 2 minutes you can have AzonPress installed and connected to your Amazon Associate account. From there you can import products, add tables, allow for product comparisons and more.
+<h2>3. Build a WooCommerce Store</h2>
+<img class="alignnone size-full wp-image-163" src="https://total.wpexplorer.com/boomerang/wp-content/uploads/sites/59/2021/01/woocommerce.jpg" alt="" width="1000" height="400" />
+
+Instead of just promoting other peoples products you can sell your own! There are a few popular options when it comes to building a store with WordPress, but by and far <a href="https://woocommerce.com/?aff=5135" target="_blank" rel="nofollow sponsored noopener noreferrer">WooCommerce</a> is the top choice.
+
+This free plugin adds all the e-commerce features you need to your WordPress site. This includes the ability to add products (tangible or digital/downloadable), create coupon codes, add products images and categories, create product variations, accept payments, add taxes, manage shipping (though you might need to look to WooCommerce extensions for this).
+
+And with your a WooCommerce store setup you can even create your own affiliate program for other bloggers to sign up for. Bringing the site monetization full circle!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-23 03:17:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-23 03:17:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:28:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:28:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[follow-these-steps-to-make-money-online]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-01-27]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>7</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-23 04:20:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-23 04:20:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Praesent mollis est quis felis convallis faucibus. In lobortis est bibendum elit dictum dapibus. Mauris ultrices, leo ac egestas iaculis, arcu ex suscipit lectus, id facilisis mi nibh quis odio. Donec a porta tellus, sed interdum quam. Nunc finibus consequat ante, eu auctor nulla volutpat ac.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>8</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-23 05:02:29]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-23 05:02:29]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Duis iaculis ultricies lobortis. Vivamus nec pretium nisi. Ut ut pharetra sem. Proin leo elit, aliquet at velit ut, mattis placerat sapien. Maecenas molestie mi tempus purus condimentum mattis. Cras rutrum velit eget dui eleifend varius. Etiam at urna vel elit dignissim luctus sed eget nulla.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>10</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-24 02:51:47]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-24 02:51:47]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[In lobortis est bibendum elit dictum dapibus. Mauris ultrices, leo ac egestas iaculis, arcu ex suscipit lectus, id facilisis mi nibh quis odio. Donec a porta tellus, sed interdum quam. Nunc finibus consequat ante, eu auctor nulla volutpat ac.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Blue | Pastel]]></title>
+		<link>https://total.wpexplorer.com/boomerang/?wpex_color_palette=baby-blue</link>
+		<pubDate>Tue, 16 Mar 2021 21:10:13 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=wpex_color_palette&#038;p=81</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>130</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-24 01:43:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-23 00:38:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 01:43:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 01:43:36]]></wp:post_modified_gmt>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-16 21:10:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-16 21:10:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-24 01:52:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-24 01:52:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:post_name><![CDATA[baby-blue]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpex_color_palette]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[palette-81]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
+		<wp:meta_key><![CDATA[color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ddf6fd]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/boomerang/133/</link>
-		<pubDate>Tue, 23 Mar 2021 00:40:25 +0000</pubDate>
+		<title><![CDATA[Blue]]></title>
+		<link>https://total.wpexplorer.com/boomerang/?wpex_color_palette=blue</link>
+		<pubDate>Tue, 16 Mar 2021 21:10:35 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/133/</guid>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=wpex_color_palette&#038;p=82</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>133</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-24 02:42:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-23 00:40:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 02:42:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 02:42:50]]></wp:post_modified_gmt>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-16 21:10:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-16 21:10:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-16 21:10:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-16 21:10:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[133]]></wp:post_name>
+		<wp:post_name><![CDATA[blue]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpex_color_palette]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-widget-quick-links"><![CDATA[Footer Widget Quick Links]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[palette-82]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#2e80ec]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Purple | Pastel]]></title>
+		<link>https://total.wpexplorer.com/boomerang/?wpex_color_palette=baby-purple</link>
+		<pubDate>Tue, 16 Mar 2021 21:11:11 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=wpex_color_palette&#038;p=83</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-16 21:11:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-16 21:11:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-24 01:52:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-24 01:52:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[baby-purple]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpex_color_palette]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[palette-83]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
+		<wp:meta_key><![CDATA[color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ebdcf9]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2711,67 +2815,6 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/boomerang/195/</link>
-		<pubDate>Tue, 23 Mar 2021 05:37:43 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=195</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>195</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-24 01:43:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-23 05:37:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 01:43:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 01:43:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[195]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Get Started]]></title>
 		<link>https://total.wpexplorer.com/boomerang/get-started/</link>
 		<pubDate>Tue, 23 Mar 2021 05:37:56 +0000</pubDate>
@@ -2831,66 +2874,9 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Get Started]]></title>
-		<link>https://total.wpexplorer.com/boomerang/197/</link>
-		<pubDate>Tue, 23 Mar 2021 05:38:08 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=197</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>197</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-24 01:43:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-23 05:38:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 01:43:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 01:43:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[197]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[196]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-23]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2920,10 +2906,9 @@ Last up is Bluehost. This shared hosting provider isn't fancy, but it is budget 
 <h3>Blog</h3>
 <ul>
  	<li>The main Blog page is setup under <em><strong>Pages &gt; Blog</strong></em> using the page template " Blog - Content Above" so it can also have a custom page title display and the blog category menu inserted.  For this to work the setting under <em><strong>Appearance &gt; Reading</strong></em> for "<strong>Posts Page</strong>" must be left blank.</li>
- 	<li>Blog Archives (categories/tags) are also setup using a template named "<em><strong>Archive – Blog (Category/Tags)</strong></em>" where they have a custom page header and are using the Post Card element to display the entries via the "<a href="https://total.wpexplorer.com/features/cards/blog-6/">Blog 6</a>" card style.</li>
+ 	<li>Blog Archives (categories/tags) are also setup using a "Dynamic Template" named "<em><strong>Archive – Blog (Category/Tags)</strong></em>" where they have a custom page header and are using the Post Card element to display the entries via the "<a href="https://total.wpexplorer.com/features/cards/blog-6/">Blog 6</a>" card style.</li>
  	<li>There is a template named "<em><strong>Menu – Blog Categorie</strong></em>s" which is used for the category menu displayed on the blog before the posts. Which uses a menu created under <em><strong>Appearance &gt; Menu</strong></em>.</li>
- 	<li>The Blog posts are setup using a template which you can find under <em><strong>WPBakery &gt; Templates &gt; Single – Blog Posts. </strong></em>You can either modify this template or switch to using the standard blog by un-selecting the template via the Customizer under <strong><em>Appearance &gt; Customize &gt; Blog &gt; Single Post  &gt; Dynamic Template</em></strong>.</li>
- 	<li>The blog post template uses theme <a href="https://total.wpexplorer.com/css-framework/" target="_blank" rel="noopener">Utility Classes</a> to give the content a smaller width, see below:<br/><img class="alignnone size-full wp-image-220 wpex-my-20" src="https://total.wpexplorer.com/boomerang/wp-content/uploads/sites/59/2021/03/total-row-width.png" alt="" width="3306" height="2058" /></li>
+ 	<li>The Blog posts are setup using a template which you can find under <em><strong>Theme Panel &gt; Dynamic Templates &gt; Single – Blog Posts. </strong></em>You can either modify this template or switch to using the standard blog by un-selecting the template via the Customizer under <strong><em>Appearance &gt; Customize &gt; Blog &gt; Single Post  &gt; Dynamic Template</em></strong>.</li>
  	<li>The blog post template section that displays other posts under "Latest Articles" simply displays the latest posts since the demo doesn't have many posts categorized but this can be altered to display "<strong>related</strong>" posts. <a href="https://wpexplorer-themes.com/total/docs/related-items-dynamic-template/" target="_blank" rel="noopener">Learn more here</a>.</li>
 </ul>
 <h3>Portfolio, Testimonials Staff</h3>
@@ -2963,8 +2948,8 @@ Make sure to reference the <a href="https://wpexplorer-themes.com/total/docs/">T
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-24 00:46:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-24 00:46:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:28:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:28:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 03:54:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 03:54:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[docs]]></wp:post_name>
@@ -3091,199 +3076,6 @@ Make sure to reference the <a href="https://wpexplorer-themes.com/total/docs/">T
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Follow These Steps to Make Money Online]]></title>
-		<link>https://total.wpexplorer.com/boomerang/follow-these-steps-to-make-money-online/</link>
-		<pubDate>Tue, 23 Mar 2021 03:17:12 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[Many people make money online - and you can be one of them. It's easy to get started. And in this post you'll learn how to <a href="https://www.wpexplorer.com/make-money-with-wordpress/">make money online with WordPress</a>.
-<h2>1. Start A Blog</h2>
-The first thing you need to make money online is a blog. When you <a href="https://www.wpexplorer.com/get-started-wordpress-blogging/">start a blog</a> you can create your own content and posts. Choose something you're knowledgeable or passionate about.
-
-One of the most common ways to make money is to add advertisements to your sidebar. Signup for Google Adsense Or you can get paid to write posts (also called sponsored posts). Review products or add them to your articles for a fee.
-
-You can also offer services to other bloggers. Maybe you're great at creating content and want to write for other blogs, or perhaps you have a knack for styling a website with a theme. Create a list or "menu" of your services and add it to your website.
-<h2>2. Become an Affiliate</h2>
-Now that have a blog there you should consider becoming an affiliate for your favorite brands. This way you can make money when people click your links. Many companies offer affiliate programs, you just have to look for the "affiliate" or "partner" program link on their website. However, here are a few more general programs you might be interested in.
-<h3>ShareASale</h3>
-<a href="https://www.shareasale.com/r.cfm?B=70&amp;U=420839&amp;M=47&amp;urllink=" target="_blank" rel="nofollow sponsored noopener noreferrer">ShareASale</a> is a general affiliate marketing platform that many sellers use. This means that you can signup for an account once, then apply to a number of programs using the same account. Many big names participate such as One Kings Lane, StudioPress, ModCloth, Grammarly, Sun Basket, Reebok and more. Similar platforms include CJ affiliate and Impact.
-<h3>Amazon Affiliates</h3>
-<img class="alignnone size-full wp-image-162" src="https://total.wpexplorer.com/boomerang/wp-content/uploads/sites/59/2021/01/azonpress.jpg" alt="" width="1000" height="400" />
-
-When looking at affiliate programs do not forget Amazon. With Amazon you can create custom link to anything on their site - including products, ebooks, memberships and more. And you can even build an entire <a href="https://www.wpexplorer.com/amazon-affiliate-wordpress/">Amazon affiliate WordPress</a> site with the help of a plugin. With amazon the easiest plugin to import Amazon products to your site is <a href="https://wpmanageninja.com/azonpress/?ref=485" target="_blank" rel="nofollow sponsored noopener noreferrer">AzonPress</a>. In 2 minutes you can have AzonPress installed and connected to your Amazon Associate account. From there you can import products, add tables, allow for product comparisons and more.
-<h2>3. Build a WooCommerce Store</h2>
-<img class="alignnone size-full wp-image-163" src="https://total.wpexplorer.com/boomerang/wp-content/uploads/sites/59/2021/01/woocommerce.jpg" alt="" width="1000" height="400" />
-
-Instead of just promoting other peoples products you can sell your own! There are a few popular options when it comes to building a store with WordPress, but by and far <a href="https://woocommerce.com/?aff=5135" target="_blank" rel="nofollow sponsored noopener noreferrer">WooCommerce</a> is the top choice.
-
-This free plugin adds all the e-commerce features you need to your WordPress site. This includes the ability to add products (tangible or digital/downloadable), create coupon codes, add products images and categories, create product variations, accept payments, add taxes, manage shipping (though you might need to look to WooCommerce extensions for this).
-
-And with your a WooCommerce store setup you can even create your own affiliate program for other bloggers to sign up for. Bringing the site monetization full circle!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-23 03:17:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-23 03:17:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:28:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:28:15]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[follow-these-steps-to-make-money-online]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="guides"><![CDATA[Guides]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-01-27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>7</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-03-23 04:20:18]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-03-23 04:20:18]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Praesent mollis est quis felis convallis faucibus. In lobortis est bibendum elit dictum dapibus. Mauris ultrices, leo ac egestas iaculis, arcu ex suscipit lectus, id facilisis mi nibh quis odio. Donec a porta tellus, sed interdum quam. Nunc finibus consequat ante, eu auctor nulla volutpat ac.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>8</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-03-23 05:02:29]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-03-23 05:02:29]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Duis iaculis ultricies lobortis. Vivamus nec pretium nisi. Ut ut pharetra sem. Proin leo elit, aliquet at velit ut, mattis placerat sapien. Maecenas molestie mi tempus purus condimentum mattis. Cras rutrum velit eget dui eleifend varius. Etiam at urna vel elit dignissim luctus sed eget nulla.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>10</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-03-24 02:51:47]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-03-24 02:51:47]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[In lobortis est bibendum elit dictum dapibus. Mauris ultrices, leo ac egestas iaculis, arcu ex suscipit lectus, id facilisis mi nibh quis odio. Donec a porta tellus, sed interdum quam. Nunc finibus consequat ante, eu auctor nulla volutpat ac.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Blue | Pastel]]></title>
-		<link>https://total.wpexplorer.com/boomerang/?wpex_color_palette=baby-blue</link>
-		<pubDate>Tue, 16 Mar 2021 21:10:13 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=wpex_color_palette&#038;p=81</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>81</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-16 21:10:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-16 21:10:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 01:52:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 01:52:15]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[baby-blue]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpex_color_palette]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[palette-81]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ddf6fd]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blue]]></title>
-		<link>https://total.wpexplorer.com/boomerang/?wpex_color_palette=blue</link>
-		<pubDate>Tue, 16 Mar 2021 21:10:35 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=wpex_color_palette&#038;p=82</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-16 21:10:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-16 21:10:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-16 21:10:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-16 21:10:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blue]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpex_color_palette]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[palette-82]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#2e80ec]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Purple | Pastel]]></title>
-		<link>https://total.wpexplorer.com/boomerang/?wpex_color_palette=baby-purple</link>
-		<pubDate>Tue, 16 Mar 2021 21:11:11 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=wpex_color_palette&#038;p=83</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>83</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-16 21:11:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-16 21:11:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 01:52:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 01:52:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[baby-purple]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpex_color_palette]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[palette-83]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#ebdcf9]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3448,64 +3240,80 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 							</item>
 					<item>
 		<title><![CDATA[Archive - Blog (Category/Tags)]]></title>
-		<link>https://total.wpexplorer.com/boomerang/templatera/layout-blog-archives/</link>
+		<link>https://total.wpexplorer.com/boomerang/?wpex_templates=layout-blog-archives</link>
 		<pubDate>Tue, 23 Mar 2021 03:39:24 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=templatera&#038;p=176</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1616472139804{margin-bottom: 40px !important;padding-top: 80px !important;padding-bottom: 60px !important;background-color: #f3fbfe !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}" wpex_bg_position="90% top" wpex_bg_size="50%"][vc_column width="7/12"][vcex_heading source="post_title" tag="h1" font_size="d:54px|pl:36px"][vcex_spacing size="20px"][vcex_term_description][/vc_column][/vc_row][vc_row][vc_column][templatera id="194"][/vc_column][/vc_row][vc_row][vc_column][wpex_post_cards auto_query="true" card_style="blog_6"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" content_placement="middle" remove_bottom_col_margin="true" css=".vc_custom_1616472139804{margin-bottom: 40px !important;padding-top: 80px !important;padding-bottom: 60px !important;background-color: #f3fbfe !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}" wpex_bg_position="90% top" wpex_bg_size="50%"][vc_column width="7/12"][vcex_heading source="post_title" tag="h1" font_size="d:54px|pl:36px"][vcex_spacing size="20px"][vcex_term_description][/vc_column][/vc_row][vc_row][vc_column][wpex_template id="194"][/vc_column][/vc_row][vc_row][vc_column][wpex_post_cards auto_query="true" card_style="blog_6"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-23 03:39:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-23 03:39:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-23 05:18:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-23 05:18:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 03:04:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 03:04:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[layout-blog-archives]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1616472139804{margin-bottom: 40px !important;padding-top: 80px !important;padding-bottom: 60px !important;background-color: #f3fbfe !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[archive]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single - Blog Posts]]></title>
-		<link>https://total.wpexplorer.com/boomerang/templatera/layout-single-blog-post/</link>
+		<link>https://total.wpexplorer.com/boomerang/?wpex_templates=layout-single-blog-post</link>
 		<pubDate>Tue, 23 Mar 2021 04:03:32 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=templatera&#038;p=181</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row css=".vc_custom_1616554268000{margin-top: 60px !important;}" el_class="wpex-lg-w-80 wpex-mx-auto"][vc_column][vcex_heading source="post_title" bottom_margin="20px" font_size="3.2em" font_weight="bold" line_height="normal" font_family="system-ui" tag="h1"][vcex_post_meta sections="%5B%7B%22type%22%3A%22modified_date%22%2C%22label%22%3A%22Last%20updated%20on%22%2C%22icon%22%3A%22ticon%20ticon-calendar-o%22%7D%2C%7B%22type%22%3A%22post_terms%22%2C%22label%22%3A%22Under%22%2C%22taxonomy%22%3A%22category%22%2C%22icon%22%3A%22ticon%20ticon-folder-o%22%7D%5D" bottom_margin="30px"][vcex_post_media bottom_margin="30px"][vcex_post_content font_family="system-ui" font_size="18px"][vcex_spacing size="60px"][vcex_heading text="Latest Articles" style="bottom-border-w-color" bottom_margin="30px" font_size="20px"][wpex_post_cards posts_per_page="3" ignore_sticky_posts="true" exclude_sticky_posts="true" card_style="simple_2" grid_spacing="25"][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-mx-auto" css=".vc_custom_1616554803845{margin-bottom: 10px !important;}"][vc_column css=".vc_custom_1616475889107{padding-top: 50px !important;padding-right: 40px !important;padding-bottom: 50px !important;padding-left: 40px !important;background-color: #f3f7f8 !important;border-radius: 20px !important;}"][vcex_heading text="Subscribe To Our Newsletter" text_align="center"][vcex_spacing size="20px"][vc_column_text text_align="center" width="700px"]Don't get left out of the loop, make sure you subscribe to our newsletter below so you can be notified of our latest insights, tips, tutorials, sales and more![/vc_column_text][vcex_spacing size="25px"][vcex_newsletter_form form_action="https://wpexplorer.us1.list-manage.com/subscribe/post?u=9b7568b7c032f9a6738a9cf4d&amp;id=1e14a70758" input_align="center" fullwidth_mobile="true" input_width="500px" input_border="0px" submit_border_radius="0px 10px 10px 0px" input_border_radius="10px 0 0 10px"][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-mx-auto" css=".vc_custom_1616554201920{margin-bottom: 40px !important;}"][vc_column][vcex_heading text="Discussion" style="bottom-border-w-color" bottom_margin="30px" font_size="20px"][vcex_post_comments][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-mx-auto" css=".vc_custom_1616554282152{margin-bottom: 20px !important;}"][vc_column][vcex_post_next_prev link_format="custom" expand="true" reverse_order="true" previous_link_custom_text="Next Article" next_link_custom_text="Previous Article" button_style="plain-text"][/vc_column][/vc_row]</p>
+		<content:encoded><![CDATA[<p>[vc_row css=".vc_custom_1685071294249{margin-top: 60px !important;}" max_width_custom="900px" max_width_align="center"][vc_column][vcex_heading source="post_title" bottom_margin="20px" font_size="3.2em" font_weight="bold" line_height="normal" font_family="system-ui" tag="h1"][vcex_post_meta sections="%5B%7B%22type%22%3A%22modified_date%22%2C%22label%22%3A%22Last%20updated%20on%22%2C%22icon%22%3A%22ticon%20ticon-calendar-o%22%7D%2C%7B%22type%22%3A%22post_terms%22%2C%22label%22%3A%22Under%22%2C%22taxonomy%22%3A%22category%22%2C%22icon%22%3A%22ticon%20ticon-folder-o%22%7D%5D" bottom_margin="30px"][vcex_post_media bottom_margin="30px"][vcex_post_content font_family="system-ui" font_size="18px"][vcex_spacing size="60px"][vcex_heading text="Latest Articles" style="bottom-border-w-color" bottom_margin="30px" font_size="20px"][wpex_post_cards posts_per_page="3" ignore_sticky_posts="true" exclude_sticky_posts="true" card_style="simple_2" grid_spacing="25"][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-mx-auto" css=".vc_custom_1616554803845{margin-bottom: 10px !important;}"][vc_column css=".vc_custom_1616475889107{padding-top: 50px !important;padding-right: 40px !important;padding-bottom: 50px !important;padding-left: 40px !important;background-color: #f3f7f8 !important;border-radius: 20px !important;}"][vcex_heading text="Subscribe To Our Newsletter" text_align="center"][vcex_spacing size="20px"][vc_column_text text_align="center" width="700px"]Don't get left out of the loop, make sure you subscribe to our newsletter below so you can be notified of our latest insights, tips, tutorials, sales and more![/vc_column_text][vcex_spacing size="25px"][vcex_newsletter_form form_action="https://wpexplorer.us1.list-manage.com/subscribe/post?u=9b7568b7c032f9a6738a9cf4d&amp;id=1e14a70758" input_align="center" fullwidth_mobile="true" input_width="500px" input_border="0px" submit_border_radius="0px 10px 10px 0px" input_border_radius="10px 0 0 10px"][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-mx-auto" css=".vc_custom_1616554201920{margin-bottom: 40px !important;}"][vc_column][vcex_heading text="Discussion" style="bottom-border-w-color" bottom_margin="30px" font_size="20px"][vcex_post_comments][/vc_column][/vc_row][vc_row el_class="wpex-lg-w-80 wpex-mx-auto" css=".vc_custom_1616554282152{margin-bottom: 20px !important;}"][vc_column][vcex_post_next_prev link_format="custom" reverse_order="true" expand="true" button_no_underline="true" previous_link_custom_text="Next Article" next_link_custom_text="Previous Article" button_style="plain-text"][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>181</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-23 04:03:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-23 04:03:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-24 03:00:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-24 03:00:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 03:21:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 03:21:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[layout-single-blog-post]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1616554268000{margin-top: 60px !important;}.vc_custom_1616554803845{margin-bottom: 10px !important;}.vc_custom_1616554201920{margin-bottom: 40px !important;}.vc_custom_1616554282152{margin-bottom: 20px !important;}.vc_custom_1616475889107{padding-top: 50px !important;padding-right: 40px !important;padding-bottom: 50px !important;padding-left: 40px !important;background-color: #f3f7f8 !important;border-radius: 20px !important;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1685071294249{margin-top: 60px !important;}.vc_custom_1616554803845{margin-bottom: 10px !important;}.vc_custom_1616554201920{margin-bottom: 40px !important;}.vc_custom_1616554282152{margin-bottom: 20px !important;}.vc_custom_1616475889107{padding-top: 50px !important;padding-right: 40px !important;padding-bottom: 50px !important;padding-left: 40px !important;background-color: #f3f7f8 !important;border-radius: 20px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Menu - Blog Categories]]></title>
-		<link>https://total.wpexplorer.com/boomerang/templatera/menu-blog-categories/</link>
+		<link>https://total.wpexplorer.com/boomerang/?wpex_templates=menu-blog-categories</link>
 		<pubDate>Tue, 23 Mar 2021 05:18:01 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?post_type=templatera&#038;p=194</guid>
@@ -3515,18 +3323,59 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-23 05:18:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-23 05:18:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-23 06:17:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-23 06:17:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 03:04:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 03:04:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-blog-categories]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[part]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[404]]></title>
+		<link>https://total.wpexplorer.com/boomerang/?wpex_templates=404</link>
+		<pubDate>Fri, 26 May 2023 03:06:22 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/boomerang/?wpex_templates=404</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true" css=".vc_custom_1685070434779{margin-top: 150px !important;margin-bottom: 150px !important;}" max_width_custom="850px" max_width_align="center"][vc_column][vcex_heading text="Page Not Found" bottom_margin="20px" font_size="d:3em|pl:2em"][vc_column_text]Unfortunately the page you were trying to access no longer exists or has never existed. You may want to go back to the <a href="https://total.wpexplorer.com/bryce/">homepage</a> or search below:[/vc_column_text][vcex_spacing size="40px"][vcex_searchbar fullwidth_mobile="true" button_font_size="14px" button_letter_spacing="2px"][/vc_column][/vc_row]</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>221</wp:post_id>
+		<wp:post_date><![CDATA[2023-05-26 03:06:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-05-26 03:06:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 03:07:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 03:07:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[error_404]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1685070434779{margin-top: 150px !important;margin-bottom: 150px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	

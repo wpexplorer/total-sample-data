@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.3" created="2022-05-02 21:50" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-26 01:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Adapt</title>
 	<link>https://total.wpexplorer.com/adapt</link>
-	<description>Just another Total Theme Demo site</description>
-	<pubDate>Mon, 02 May 2022 21:50:37 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Fri, 26 May 2023 01:02:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
@@ -105,7 +105,7 @@
 	<wp:term><wp:term_id>13</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 		<item>
 		<title><![CDATA[photo-1471895302488-5ce150f3a1ba]]></title>
@@ -302,7 +302,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:543;s:4:"file";s:44:"2016/09/photo-1470700619812-368e605ee9d0.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-768x417.jpg";s:5:"width";i:768;s:6:"height";i:417;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_270x240";a:5:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:543;s:4:"file";s:44:"2016/09/photo-1470700619812-368e605ee9d0.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-768x417.jpg";s:5:"width";i:768;s:6:"height";i:417;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_270x240";a:5:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1470700619812-368e605ee9d0-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_270x240@2x";a:5:{s:4:"file";s:47:"photo-1470700619812-368e605ee9d0-270x240@2x.jpg";s:5:"width";i:540;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -335,7 +335,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:653;s:4:"file";s:44:"2016/09/photo-1470768477589-ace565d69b09.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-768x502.jpg";s:5:"width";i:768;s:6:"height";i:502;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_270x240";a:5:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:653;s:4:"file";s:44:"2016/09/photo-1470768477589-ace565d69b09.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-768x502.jpg";s:5:"width";i:768;s:6:"height";i:502;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_270x240";a:5:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1470768477589-ace565d69b09-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_270x240@2x";a:5:{s:4:"file";s:47:"photo-1470768477589-ace565d69b09-270x240@2x.jpg";s:5:"width";i:540;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -368,7 +368,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:44:"2016/09/photo-1432656955862-8455b1049e9c.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:44:"2016/09/photo-1432656955862-8455b1049e9c.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:44:"photo-1432656955862-8455b1049e9c-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_270x240@2x";a:5:{s:4:"file";s:47:"photo-1432656955862-8455b1049e9c-270x240@2x.jpg";s:5:"width";i:540;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -533,7 +533,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2016/08/good.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"good-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"good-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:16:"good-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"good-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:16:"2016/08/good.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:16:"good-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"good-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:16:"good-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"good-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_270x240@2x";a:5:{s:4:"file";s:19:"good-270x240@2x.jpg";s:5:"width";i:540;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -566,7 +566,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:18:"2016/08/flower.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"flower-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:18:"flower-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:18:"flower-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:18:"flower-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:18:"2016/08/flower.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:18:"flower-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:18:"flower-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:18:"flower-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:18:"flower-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_270x240@2x";a:5:{s:4:"file";s:21:"flower-270x240@2x.jpg";s:5:"width";i:540;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -599,7 +599,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:665;s:4:"file";s:16:"2016/08/eyes.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:16:"eyes-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"eyes-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:16:"eyes-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"eyes-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:665;s:4:"file";s:16:"2016/08/eyes.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:16:"eyes-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:15:"portfolio_entry";a:5:{s:4:"file";s:16:"eyes-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"wpex_270x240";a:5:{s:4:"file";s:16:"eyes-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:16:"eyes-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_270x240@2x";a:5:{s:4:"file";s:19:"eyes-270x240@2x.jpg";s:5:"width";i:540;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -632,7 +632,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:665;s:4:"file";s:18:"2016/08/orange.jpg";s:5:"sizes";a:4:{s:12:"medium_large";a:4:{s:4:"file";s:18:"orange-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_270x240";a:5:{s:4:"file";s:18:"orange-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:18:"orange-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:18:"orange-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:665;s:4:"file";s:18:"2016/08/orange.jpg";s:5:"sizes";a:5:{s:12:"medium_large";a:4:{s:4:"file";s:18:"orange-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_270x240";a:5:{s:4:"file";s:18:"orange-270x240.jpg";s:5:"width";i:270;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"portfolio_entry";a:5:{s:4:"file";s:18:"orange-700x450.jpg";s:5:"width";i:700;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:14:"search_results";a:5:{s:4:"file";s:18:"orange-125x125.jpg";s:5:"width";i:125;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"wpex_270x240@2x";a:5:{s:4:"file";s:21:"orange-270x240@2x.jpg";s:5:"width";i:540;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -772,15 +772,16 @@
 		<link>https://total.wpexplorer.com/adapt/</link>
 		<pubDate>Thu, 25 Aug 2016 19:42:47 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?page_id=2</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][vcex_heading text="We Provide Outstanding Web Design Services" text_align="center" css=".vc_custom_1609796364560{border-top-width: 5px !important;border-bottom-width: 5px !important;padding-top: 30px !important;padding-bottom: 30px !important;border-top-color: #444444 !important;border-top-style: solid !important;border-bottom-color: #444444 !important;border-bottom-style: solid !important;}"][/vc_column][/vc_row][vc_row][vc_column][vcex_image_flexslider loop="true" slideshow="false" direction_nav_hover="false" control_thumbs="false" caption="true" image_ids="102,14,103" img_width="980" img_height="400"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vcex_icon_box heading="Quality Code" icon="fa fa-code" icon_size="18px" icon_color="#ffffff" icon_background="#47c0c0" icon_border_radius="50%" icon_width="45px" icon_height="45px" container_left_padding="65px"]Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Responsive" icon="fa fa-expand" icon_size="18px" icon_border_radius="50%" icon_width="45px" icon_height="45px" container_left_padding="65px" icon_color="#ffffff" icon_background="#47c0c0"]Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Advanced Portfolio" icon="fa fa-briefcase" icon_size="18px" icon_border_radius="50%" icon_width="45px" icon_height="45px" icon_color="#ffffff" container_left_padding="65px" icon_background="#47c0c0"]Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas.[/vcex_icon_box][/vc_column][/vc_row][vc_row][vc_column][vcex_heading style="bottom-border-w-color" text="Recent Work" inner_bottom_border_color="#47c0c0" font_size="18px"][vcex_spacing size="20px"][vcex_portfolio_grid posts_per_page="3" featured_video="false" img_size="portfolio_entry" title="false" excerpt="false" read_more="false" overlay_style="title-bottom-see-through" img_hover_style="grow"][/vc_column][/vc_row][vc_row][vc_column][vcex_heading style="bottom-border-w-color" text="Recent News" inner_bottom_border_color="#47c0c0" font_size="18px"][vcex_spacing size="20px"][wpex_post_cards grid_columns="4" thumbnail_size="blog_post" card_style="blog_9" excerpt_length="15"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[<p>[vc_row][vc_column][vcex_heading text="We Provide Outstanding Web Design Services" text_align="center" css=".vc_custom_1609796364560{border-top-width: 5px !important;border-bottom-width: 5px !important;padding-top: 30px !important;padding-bottom: 30px !important;border-top-color: #444444 !important;border-top-style: solid !important;border-bottom-color: #444444 !important;border-bottom-style: solid !important;}"][/vc_column][/vc_row][vc_row][vc_column][vcex_image_flexslider loop="true" slideshow="false" direction_nav_hover="false" control_thumbs="false" caption="true" image_ids="102,14,103" img_width="980" img_height="400"][/vc_column][/vc_row][vc_row][vc_column width="1/3"][vcex_icon_box heading="Quality Code" icon="fa fa-code" icon_size="18px" icon_color="#ffffff" icon_background="#47c0c0" icon_border_radius="50%" icon_width="45px" icon_height="45px" container_left_padding="65px"]Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Responsive" icon="fa fa-expand" icon_size="18px" icon_border_radius="50%" icon_width="45px" icon_height="45px" container_left_padding="65px" icon_color="#ffffff" icon_background="#47c0c0"]Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas.[/vcex_icon_box][/vc_column][vc_column width="1/3"][vcex_icon_box heading="Advanced Portfolio" icon="fa fa-briefcase" icon_size="18px" icon_border_radius="50%" icon_width="45px" icon_height="45px" icon_color="#ffffff" container_left_padding="65px" icon_background="#47c0c0"]Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas.[/vcex_icon_box][/vc_column][/vc_row][vc_row][vc_column][vcex_heading text="Recent Work" style="bottom-border-w-color" inner_bottom_border_color="#47c0c0" font_size="18px"][vcex_spacing size="20px"][wpex_post_cards post_types="portfolio" posts_per_page="3" thumbnail_size="portfolio_post" card_style="image_1" thumbnail_overlay_style="title-bottom-see-through" thumbnail_hover="grow"][/vc_column][/vc_row][vc_row][vc_column][vcex_heading text="Recent News" style="bottom-border-w-color" inner_bottom_border_color="#47c0c0" font_size="18px"][vcex_spacing size="20px"][wpex_post_cards grid_columns="4" thumbnail_size="blog_post" card_style="blog_9" excerpt_length="15"][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-25 19:42:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-25 19:42:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 15:31:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 15:31:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 01:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 01:00:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -806,13 +807,17 @@
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1609796364560{border-top-width: 5px !important;border-bottom-width: 5px !important;padding-top: 30px !important;padding-bottom: 30px !important;border-top-color: #444444 !important;border-top-style: solid !important;border-bottom-color: #444444 !important;border-bottom-style: solid !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
 		<link>https://total.wpexplorer.com/adapt/blog/</link>
 		<pubDate>Thu, 25 Aug 2016 19:57:20 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?page_id=5</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?page_id=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1692,7 +1697,7 @@
 		<link>https://total.wpexplorer.com/adapt/biking-work/</link>
 		<pubDate>Thu, 25 Aug 2016 19:42:47 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?p=1</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget malesuada tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in risus magna. Integer fermentum, lacus in condimentum gravida, elit lectus vestibulum sapien, in pellentesque ligula dolor vitae metus. Quisque ac tristique lorem. Pellentesque vitae fermentum tortor, non ornare sem. In feugiat, dui et blandit auctor, orci mi porttitor nunc, ut dignissim velit velit vel magna. Suspendisse tempor nisi a arcu viverra vehicula. Nunc molestie mi enim, ac tincidunt lacus cursus nec. Maecenas vitae elit tellus. Duis auctor iaculis metus, ac vulputate justo blandit eu.
 
@@ -1780,15 +1785,16 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/portfolio/</link>
 		<pubDate>Sat, 27 Aug 2016 21:40:46 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?page_id=16</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?page_id=16</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][vcex_portfolio_grid posts_per_page="9" pagination="true" filter="true" featured_video="false" img_size="portfolio_entry" title="false" excerpt="false" read_more="false" overlay_style="title-bottom-see-through" img_hover_style="grow"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[<p>[vc_row][vc_column][wpex_post_cards post_types="portfolio" pagination="numbered_ajax" thumbnail_size="portfolio_entry" card_style="image_1" thumbnail_overlay_style="title-bottom-see-through" pagination_top_margin="10px" thumbnail_hover="grow"][/vc_column][/vc_row]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-27 21:40:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-27 21:40:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 15:32:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 15:32:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 01:01:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 01:01:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
@@ -1808,7 +1814,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/contact/</link>
 		<pubDate>Sat, 27 Aug 2016 21:40:55 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?page_id=17</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?page_id=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDYzMDQuODI5OTg2MTMxMjcxJTIxMmQtMTIyLjQ3NDY5NjgwMzMwOTIlMjEzZDM3LjgwMzc0NzUyMTYwNDQzJTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4ODA4NTg2ZTYzMDI2MTVhMSUyNTNBMHg4NmJkMTMwMjUxNzU3YzAwJTIxMnNTdG9yZXklMkJBdmUlMjUyQyUyQlNhbiUyQkZyYW5jaXNjbyUyNTJDJTJCQ0ElMkI5NDEyOSUyMTVlMCUyMTNtMiUyMTFzZW4lMjEyc3VzJTIxNHYxNDM1ODI2NDMyMDUxJTIyJTIwd2lkdGglM0QlMjI2MDAlMjIlMjBoZWlnaHQlM0QlMjI0NTAlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBzdHlsZSUzRCUyMmJvcmRlciUzQTAlMjIlMjBhbGxvd2Z1bGxzY3JlZW4lM0UlM0MlMkZpZnJhbWUlM0U=" size="300px"][/vc_column][/vc_row][vc_row][vc_column][vcex_heading text="Contact Us Today!"][vcex_spacing size="10px"][vc_column_text]Fill out the form below to contact us.
 If you want to request a quote please provide details of your project.[/vc_column_text][vcex_spacing][vcex_contact_form button_fullwidth="false" enable_privacy_check="false" enable_recaptcha="false" enable_required_label="false"][/vc_column][/vc_row]]]></content:encoded>
@@ -1837,7 +1843,7 @@ If you want to request a quote please provide details of your project.[/vc_colum
 		<link>https://total.wpexplorer.com/adapt/services/</link>
 		<pubDate>Sat, 27 Aug 2016 21:43:34 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?page_id=26</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?page_id=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row css=".vc_custom_1472692070248{padding-bottom: 30px !important;}"][vc_column][vc_tta_tour style="total" spacing="10" gap="10" controls_size="sm" active_section="1"][vc_tta_section i_icon_fontawesome="fa fa-paint-brush" add_icon="true" title="Web Design" tab_id="adapt-service-web-design"][vcex_heading text="Web Design Services"][vcex_spacing size="20px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida nulla magna, vitae gravida ex tempus nec. Nulla condimentum justo lacus, non iaculis quam ultrices id. Aliquam in fringilla neque. Donec in semper est, a dignissim mauris. Integer imperdiet augue vestibulum risus consectetur, sed blandit felis consequat. Fusce luctus volutpat ante eu congue. In tristique eu ligula ut ultricies. Proin tempus sem ut tellus fringilla aliquet. Quisque mattis neque non tellus condimentum dignissim. Suspendisse in consectetur tellus. Proin vel sem facilisis, egestas mi tincidunt, euismod sapien. Duis lacinia scelerisque ex, at finibus quam dictum sit amet. Praesent rutrum tellus id rhoncus molestie.[/vc_column_text][/vc_tta_section][vc_tta_section i_icon_fontawesome="fa fa-street-view" add_icon="true" title="SEO Optimization" tab_id="adapt-services-seo"][vcex_heading text="SEO Optimization"][vcex_spacing size="20px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida nulla magna, vitae gravida ex tempus nec. Nulla condimentum justo lacus, non iaculis quam ultrices id. Aliquam in fringilla neque. Donec in semper est, a dignissim mauris. Integer imperdiet augue vestibulum risus consectetur, sed blandit felis consequat. Fusce luctus volutpat ante eu congue. In tristique eu ligula ut ultricies. Proin tempus sem ut tellus fringilla aliquet. Quisque mattis neque non tellus condimentum dignissim. Suspendisse in consectetur tellus. Proin vel sem facilisis, egestas mi tincidunt, euismod sapien. Duis lacinia scelerisque ex, at finibus quam dictum sit amet. Praesent rutrum tellus id rhoncus molestie.[/vc_column_text][/vc_tta_section][vc_tta_section i_icon_fontawesome="fa fa-share-alt" add_icon="true" title="Social Media" tab_id="adapt-services-social-media"][vcex_heading text="Social Media Marketing"][vcex_spacing size="20px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida nulla magna, vitae gravida ex tempus nec. Nulla condimentum justo lacus, non iaculis quam ultrices id. Aliquam in fringilla neque. Donec in semper est, a dignissim mauris. Integer imperdiet augue vestibulum risus consectetur, sed blandit felis consequat. Fusce luctus volutpat ante eu congue. In tristique eu ligula ut ultricies. Proin tempus sem ut tellus fringilla aliquet. Quisque mattis neque non tellus condimentum dignissim. Suspendisse in consectetur tellus. Proin vel sem facilisis, egestas mi tincidunt, euismod sapien. Duis lacinia scelerisque ex, at finibus quam dictum sit amet. Praesent rutrum tellus id rhoncus molestie.[/vc_column_text][/vc_tta_section][vc_tta_section i_icon_fontawesome="fa fa-camera-retro" add_icon="true" title="Photography" tab_id="adapt-services-photography"][vcex_heading text="Photography"][vcex_spacing size="20px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida nulla magna, vitae gravida ex tempus nec. Nulla condimentum justo lacus, non iaculis quam ultrices id. Aliquam in fringilla neque. Donec in semper est, a dignissim mauris. Integer imperdiet augue vestibulum risus consectetur, sed blandit felis consequat. Fusce luctus volutpat ante eu congue. In tristique eu ligula ut ultricies. Proin tempus sem ut tellus fringilla aliquet. Quisque mattis neque non tellus condimentum dignissim. Suspendisse in consectetur tellus. Proin vel sem facilisis, egestas mi tincidunt, euismod sapien. Duis lacinia scelerisque ex, at finibus quam dictum sit amet. Praesent rutrum tellus id rhoncus molestie.[/vc_column_text][/vc_tta_section][/vc_tta_tour][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1871,13 +1877,17 @@ If you want to request a quote please provide details of your project.[/vc_colum
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1472692070248{padding-bottom: 30px !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Mural Urban Design]]></title>
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/mural-urban-design/</link>
 		<pubDate>Sat, 27 Aug 2016 21:50:07 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=29</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=29</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1907,7 +1917,7 @@ If you want to request a quote please provide details of your project.[/vc_colum
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/loveshare-graffiti-art/</link>
 		<pubDate>Tue, 30 Aug 2016 23:52:01 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=46</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1945,7 +1955,7 @@ If you want to request a quote please provide details of your project.[/vc_colum
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/gopro-graffiti-video/</link>
 		<pubDate>Wed, 31 Aug 2016 00:29:26 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=47</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1994,7 +2004,7 @@ If you want to request a quote please provide details of your project.[/vc_colum
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/good-mural-in-orange-county/</link>
 		<pubDate>Wed, 31 Aug 2016 23:55:52 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=48</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2027,7 +2037,7 @@ If you want to request a quote please provide details of your project.[/vc_colum
 		<link>https://total.wpexplorer.com/adapt/the-best-of-classical-ballet/</link>
 		<pubDate>Thu, 01 Sep 2016 19:52:46 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?p=56</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget malesuada tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in risus magna. Integer fermentum, lacus in condimentum gravida, elit lectus vestibulum sapien, in pellentesque ligula dolor vitae metus. Quisque ac tristique lorem. Pellentesque vitae fermentum tortor, non ornare sem. In feugiat, dui et blandit auctor, orci mi porttitor nunc, ut dignissim velit velit vel magna. Suspendisse tempor nisi a arcu viverra vehicula. Nunc molestie mi enim, ac tincidunt lacus cursus nec. Maecenas vitae elit tellus. Duis auctor iaculis metus, ac vulputate justo blandit eu.
 
@@ -2108,7 +2118,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/music-festival-2016/</link>
 		<pubDate>Thu, 01 Sep 2016 20:24:23 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?p=58</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?p=58</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget malesuada tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in risus magna. Integer fermentum, lacus in condimentum gravida, elit lectus vestibulum sapien, in pellentesque ligula dolor vitae metus. Quisque ac tristique lorem. Pellentesque vitae fermentum tortor, non ornare sem. In feugiat, dui et blandit auctor, orci mi porttitor nunc, ut dignissim velit velit vel magna. Suspendisse tempor nisi a arcu viverra vehicula. Nunc molestie mi enim, ac tincidunt lacus cursus nec. Maecenas vitae elit tellus. Duis auctor iaculis metus, ac vulputate justo blandit eu.
 
@@ -2188,7 +2198,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/visiting-a-modern-art-museum/</link>
 		<pubDate>Thu, 01 Sep 2016 20:26:36 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?p=60</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget malesuada tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in risus magna. Integer fermentum, lacus in condimentum gravida, elit lectus vestibulum sapien, in pellentesque ligula dolor vitae metus. Quisque ac tristique lorem. Pellentesque vitae fermentum tortor, non ornare sem. In feugiat, dui et blandit auctor, orci mi porttitor nunc, ut dignissim velit velit vel magna. Suspendisse tempor nisi a arcu viverra vehicula. Nunc molestie mi enim, ac tincidunt lacus cursus nec. Maecenas vitae elit tellus. Duis auctor iaculis metus, ac vulputate justo blandit eu.
 
@@ -2283,7 +2293,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/art-on-every-corner/</link>
 		<pubDate>Thu, 25 Aug 2016 23:17:52 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=66</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2316,7 +2326,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/feelin-the-vibe/</link>
 		<pubDate>Sat, 20 Aug 2016 23:17:55 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=67</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=67</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2345,7 +2355,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/meeting-monroe/</link>
 		<pubDate>Thu, 18 Aug 2016 23:24:05 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=68</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2374,7 +2384,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/highend-graffiti-gallery/</link>
 		<pubDate>Fri, 12 Aug 2016 23:17:59 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=69</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2405,7 +2415,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<link>https://total.wpexplorer.com/adapt/portfolio-item/apps-ea-green-monster/</link>
 		<pubDate>Mon, 15 Aug 2016 23:18:11 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/adapt/?post_type=portfolio&#038;p=70</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/adapt/?post_type=portfolio&#038;p=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula. Nulla sodales, velit id molestie pulvinar, neque leo gravida mauris, non tempus tortor magna ac orci. Suspendisse vitae libero sem. Phasellus placerat, orci ac luctus vulputate, lectus magna dignissim ligula, accumsan sagittis magna lectus vel est.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2452,7 +2462,7 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 							</item>
 					<item>
 		<title><![CDATA[Single - Portfolio]]></title>
-		<link>https://total.wpexplorer.com/adapt/templatera/single-portfolio/</link>
+		<link>https://total.wpexplorer.com/adapt/?wpex_templates=single-portfolio</link>
 		<pubDate>Mon, 04 Jan 2021 21:30:43 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/adapt/?post_type=templatera&#038;p=122</guid>
@@ -2462,18 +2472,22 @@ Cras euismod augue at ultricies maximus. Cras eu neque eget neque malesuada matt
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-04 21:30:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-04 21:30:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-01-19 23:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-01-19 23:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 00:51:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 00:51:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-portfolio]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	

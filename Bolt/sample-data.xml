@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.1" created="2021-11-03 17:26" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-26 00:48" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,14 +28,14 @@
 <channel>
 	<title>Bolt</title>
 	<link>https://total.wpexplorer.com/bolt</link>
-	<description>Just another Your SUPER-powered WP Engine Multisite Install site</description>
-	<pubDate>Wed, 03 Nov 2021 17:26:55 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Fri, 26 May 2023 00:48:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
 	<wp:base_blog_url>https://total.wpexplorer.com/bolt</wp:base_blog_url>
 
-	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -150,7 +150,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -281,7 +281,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:49:"2021/09/aleksandar-jason-2cNPDxcnx0w-unsplash.png";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:49:"2021/09/aleksandar-jason-2cNPDxcnx0w-unsplash.png";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_525x350";a:5:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-525x350.png";s:5:"width";i:525;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -314,7 +314,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:41:"2021/09/mong-bui-NznxEfw9iVI-unsplash.png";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-300x240.png";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-768x614.png";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-600x480.png";s:5:"width";i:600;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"wpex_150x150";a:5:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x700";a:5:{s:4:"file";s:42:"mong-bui-NznxEfw9iVI-unsplash-1000x700.png";s:5:"width";i:1000;s:6:"height";i:700;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_438x350";a:5:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-438x350.png";s:5:"width";i:438;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x750";a:5:{s:4:"file";s:42:"mong-bui-NznxEfw9iVI-unsplash-1000x750.png";s:5:"width";i:1000;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x600";a:5:{s:4:"file";s:42:"mong-bui-NznxEfw9iVI-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:800;s:4:"file";s:41:"2021/09/mong-bui-NznxEfw9iVI-unsplash.png";s:5:"sizes";a:13:{s:6:"medium";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-300x240.png";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-768x614.png";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-600x480.png";s:5:"width";i:600;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"wpex_150x150";a:5:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x700";a:5:{s:4:"file";s:42:"mong-bui-NznxEfw9iVI-unsplash-1000x700.png";s:5:"width";i:1000;s:6:"height";i:700;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_438x350";a:5:{s:4:"file";s:41:"mong-bui-NznxEfw9iVI-unsplash-438x350.png";s:5:"width";i:438;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x750";a:5:{s:4:"file";s:42:"mong-bui-NznxEfw9iVI-unsplash-1000x750.png";s:5:"width";i:1000;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x600";a:5:{s:4:"file";s:42:"mong-bui-NznxEfw9iVI-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_438x350@2x";a:5:{s:4:"file";s:44:"mong-bui-NznxEfw9iVI-unsplash-438x350@2x.png";s:5:"width";i:876;s:6:"height";i:700;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -347,7 +347,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1331;s:4:"file";s:48:"2021/09/lissete-laverde-QFhfUCDx2Mk-unsplash.png";s:5:"sizes";a:13:{s:6:"medium";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-769x1024.png";s:5:"width";i:769;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-768x1022.png";s:5:"width";i:768;s:6:"height";i:1022;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-600x799.png";s:5:"width";i:600;s:6:"height";i:799;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"wpex_150x150";a:5:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x700";a:5:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-1000x700.png";s:5:"width";i:1000;s:6:"height";i:700;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_263x350";a:5:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-263x350.png";s:5:"width";i:263;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x750";a:5:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-1000x750.png";s:5:"width";i:1000;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x600";a:5:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1331;s:4:"file";s:48:"2021/09/lissete-laverde-QFhfUCDx2Mk-unsplash.png";s:5:"sizes";a:14:{s:6:"medium";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-769x1024.png";s:5:"width";i:769;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-768x1022.png";s:5:"width";i:768;s:6:"height";i:1022;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-600x799.png";s:5:"width";i:600;s:6:"height";i:799;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"wpex_150x150";a:5:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x700";a:5:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-1000x700.png";s:5:"width";i:1000;s:6:"height";i:700;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_263x350";a:5:{s:4:"file";s:48:"lissete-laverde-QFhfUCDx2Mk-unsplash-263x350.png";s:5:"width";i:263;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x750";a:5:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-1000x750.png";s:5:"width";i:1000;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:13:"wpex_1000x600";a:5:{s:4:"file";s:49:"lissete-laverde-QFhfUCDx2Mk-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:15:"wpex_263x350@2x";a:5:{s:4:"file";s:51:"lissete-laverde-QFhfUCDx2Mk-unsplash-263x350@2x.png";s:5:"width";i:526;s:6:"height";i:700;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -611,7 +611,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:42:"2021/09/ox-street-8hmOMg4fiXI-unsplash.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:43:"ox-street-8hmOMg4fiXI-unsplash-819x1024.png";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-768x960.png";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-600x750.png";s:5:"width";i:600;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:5:{s:4:"file";s:44:"ox-street-8hmOMg4fiXI-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"shop_catalog";a:5:{s:4:"file";s:44:"ox-street-8hmOMg4fiXI-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:44:"ox-street-8hmOMg4fiXI-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:42:"2021/09/ox-street-8hmOMg4fiXI-unsplash.png";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:43:"ox-street-8hmOMg4fiXI-unsplash-819x1024.png";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-768x960.png";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-600x750.png";s:5:"width";i:600;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:42:"ox-street-8hmOMg4fiXI-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:11:"shop_single";a:5:{s:4:"file";s:44:"ox-street-8hmOMg4fiXI-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"shop_catalog";a:5:{s:4:"file";s:44:"ox-street-8hmOMg4fiXI-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:44:"ox-street-8hmOMg4fiXI-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:44:"ox-street-8hmOMg4fiXI-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -776,7 +776,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:22:"2021/10/bolt-store.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:22:"bolt-store-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"bolt-store-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"bolt-store-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"bolt-store-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:22:"bolt-store-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:22:"bolt-store-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:22:"2021/10/bolt-store.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:22:"bolt-store-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"bolt-store-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"bolt-store-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"bolt-store-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:22:"bolt-store-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:22:"bolt-store-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_233x350";a:5:{s:4:"file";s:22:"bolt-store-233x350.jpg";s:5:"width";i:233;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -813,6 +813,165 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Homepage]]></title>
+		<link>https://total.wpexplorer.com/bolt/</link>
+		<pubDate>Tue, 10 Aug 2021 04:11:40 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=7</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1634604065918{padding-top: 200px !important;padding-bottom: 200px !important;}" el_class="wpex-bg-accent"][vc_column][vc_column_text text_align="center" color="rgba(255,255,255,0.6)" font_size=".7em" text_transform="uppercase" letter_spacing="2px"]Experience Modern Web Design[/vc_column_text][vcex_spacing size="5px"][vcex_heading text="Professional Design No Compromise." align="center" tag="h1" text_align="center" font_size="d:3.6em|pl:2.5em" color="#ffffff" width="600px"][vcex_spacing][vcex_flex_container justify_content="center" flex_wrap="true" flex_direction="row" gap="15px"][vcex_button url="https://total.wpexplorer.com/bolt/store/" style="flat" color="white" align="center"]Visit the Shop[/vcex_button][vcex_button onclick="local_scroll" url="#home-features" style="minimal-border" color="white" align="center" border_radius="9999px" border="1px solid rgba(255,255,255,0.2)" custom_hover_background="#4230dd" custom_hover_color="#ffffff"]Learn More[/vcex_button][/vcex_flex_container][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1634617286468{padding-top: 12% !important;padding-bottom: 12% !important;}" local_scroll_id="home-features"][vc_column][vcex_grid_container gap="80px"][vcex_icon_box heading="Security`{`br`}`Monitoring" style="two" icon_type="material" heading_size="1.5em" heading_type="h2" icon_color="accent" icon_size="50px" icon_material="vc-material vc-material-beenhere"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.</p>
+<p><a href="#">Learn More</a>[/vcex_icon_box][vcex_icon_box heading="Fast`{`br`}`Integrations" style="two" icon_type="material" heading_size="1.5em" heading_type="h2" icon_color="accent" icon_size="50px" icon_material="vc-material vc-material-layers"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.</p>
+<p><a href="#">Learn More</a>[/vcex_icon_box][vcex_icon_box heading="Possibility`{`br`}`Any Direction" style="two" icon_type="material" heading_size="1.5em" heading_type="h2" icon_color="accent" icon_size="45px" icon_material="vc-material vc-material-wifi_tethering"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.</p>
+<p><a href="#">Learn More</a>[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1634604258539{padding-top: 12% !important;padding-bottom: 12% !important;background-color: #e6e6e6 !important;}"][vc_column][vcex_flex_container align_items="center" justify_content="space-between" flex_wrap="true" flex_direction="row"][vcex_heading text="Recent Articles" font_size="35px" tag="h3" font_family="Inter"][vcex_button url="https://total.wpexplorer.com/bolt/blog/" visibility="hidden-phone" text_source="custom_text"]Visit the Blog[/vcex_button][/vcex_flex_container][vcex_spacing size="60px"][wpex_post_cards posts_per_page="6" title_font_size="md" thumbnail_size="wpex_custom" card_style="blog_13" thumbnail_width="1000" thumbnail_height="600" grid_spacing="30" grid_columns_responsive_settings="tp:2|pp:1"][vcex_spacing size="40px"][vcex_button url="https://total.wpexplorer.com/bolt/blog/" visibility="visible-phone" align="center"]Visit The Blog[/vcex_button][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1634604263927{padding-top: 12% !important;padding-bottom: 12% !important;}"][vc_column][vcex_heading text="#E-8_QnVpbGQlMjAlM0NzcGFuJTIwY2xhc3MlM0QlMjJ3cGV4LWZvbnQtc2VtaWJvbGQlMjB3cGV4LXRleHQtYWNjZW50JTIyJTNFcG93ZXJmdWwlM0MlMkZzcGFuJTNFJTIwZGVzaWducyUyQyUyMGZyYW1ld29ya3MlMjBhbmQlMjBleHBlcmllbmNlcyUyMC4=" align="left" float="false" font_size="d:45px|pl:30px" tag="h3" font_family="Inter" width="700px"][vcex_spacing size="60px"][vcex_grid_container columns_md="2" gap="50px"][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][/vcex_grid_container][vcex_spacing size="60px"][vcex_button url="https://total.wpexplorer.com/bolt/contact/"]Request a Quote[/vcex_button][/vc_column][/vc_row]</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-10 04:11:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-10 04:11:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-31 03:43:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-31 03:43:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[homepage]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_overlay_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1634604065918{padding-top: 200px !important;padding-bottom: 200px !important;}.vc_custom_1634617286468{padding-top: 12% !important;padding-bottom: 12% !important;}.vc_custom_1634604258539{padding-top: 12% !important;padding-bottom: 12% !important;background-color: #e6e6e6 !important;}.vc_custom_1634604263927{padding-top: 12% !important;padding-bottom: 12% !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://total.wpexplorer.com/bolt/blog/</link>
+		<pubDate>Tue, 10 Aug 2021 04:11:53 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true" css=".vc_custom_1633039167311{margin-bottom: 100px !important;}"][vc_column][wpex_post_cards grid_style="masonry" grid_columns="2" posts_per_page="4" pagination_loadmore="true" card_style="blog_13" grid_spacing="60"][/vc_column][/vc_row]</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-10 04:11:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-10 04:11:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1633039167311{margin-bottom: 100px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://total.wpexplorer.com/bolt/about/</link>
+		<pubDate>Tue, 10 Aug 2021 04:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=23</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true"][vc_column][vcex_heading text="We design and develop web and mobile applications for startups and small businessess with over 30 years of experience." align="left" tag="h2" width="800px"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true" css=".vc_custom_1678750453621{padding-top: 100px !important;}"][vc_column][wpex_post_cards display_type="flex" hide_scrollbar="true" thumbnail_size="wpex_custom" card_style="image_1" query_type="attachments" attachments="83,89,87,75" thumbnail_width="9999" thumbnail_height="350" grid_spacing="10"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1678750433170{padding-top: 100px !important;padding-bottom: 100px !important;}"][vc_column][vc_column_text text_align="center" font_size="1.5em" color="#212121" font_weight="500"]Voted Best Agency in 2025 by Total Magazine[/vc_column_text][vcex_spacing size="10px"][vc_column_text text_align="center"]Trusted by over <strong class="wpex-text-accent">67K</strong> startups worldwide[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1634086109167{padding-top: 10% !important;padding-bottom: 10% !important;background-color: #eeeeee !important;}"][vc_column][vcex_heading text="Meet the Team" tag="h2" font_size="2.5em"][vcex_spacing size="80px"][vcex_grid_container columns_sm="2" gap="40px"][vcex_teaser heading="Sophie Smith" heading_type="h3" heading_size="1.5em" image="173" img_width="700" img_height="700" heading_margin="bottom:-5px"]Owner &amp; lead developer[/vcex_teaser][vcex_teaser heading="Harry Clarkson" heading_type="h3" heading_size="1.5em" image="174" img_width="700" img_height="700" heading_margin="bottom:-5px"]Product placement[/vcex_teaser][vcex_teaser heading="Anthony King" heading_type="h3" heading_size="1.5em" image="177" img_width="700" img_height="700" heading_margin="bottom:-5px"]Customer support[/vcex_teaser][vcex_teaser heading="Amy Ross" heading_type="h3" heading_size="1.5em" image="213" img_width="700" img_height="700" heading_margin="bottom:-5px"]Marketing &amp; sales[/vcex_teaser][vcex_teaser heading="Nathan Turner" heading_type="h3" heading_size="1.5em" image="176" img_width="700" img_height="700" heading_margin="bottom:-5px" img_crop="center-top"]Chief engineer[/vcex_teaser][/vcex_grid_container][/vc_column][/vc_row]</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-10 04:38:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-10 04:38:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-03-13 23:35:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-13 23:35:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1678750453621{padding-top: 100px !important;}.vc_custom_1678750433170{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1634086109167{padding-top: 10% !important;padding-bottom: 10% !important;background-color: #eeeeee !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://total.wpexplorer.com/bolt/contact/</link>
+		<pubDate>Tue, 10 Aug 2021 04:39:15 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[vc_row content_placement="middle" columns_right="yes"][vc_column width="1/2"][vcex_image align="center" image_id="206" width="500px" border_radius="10px"][/vc_column][vc_column width="1/2"][vcex_heading text="Our information." font_size="1.75em"][vcex_spacing size="20px"][vc_column_text]You can find and reach out to us via our business info below. Or you can send us a private message via <a href="#contact-form" class="local-scroll-link">the form</a>.[/vc_column_text][vcex_divider color="#e0e0e0" margin="top:50px|bottom:50px"][vcex_icon_box heading="Office Location" icon="ticon ticon-map-marker" heading_size="1.125em" heading_bottom_margin="0px" icon_size="20px" icon_color="#3c66ec" icon_background="#e9edfa" icon_border_radius="50%" icon_width="45px" icon_height="45px"]Storey Ave, San Francisco, CA 94129[/vcex_icon_box][vcex_spacing size="40px"][vcex_icon_box heading="Phone Number" icon="ticon ticon-phone" heading_size="1.125em" icon_size="20px" heading_bottom_margin="0px" icon_width="45px" icon_height="45px" icon_background="#e9edfa" icon_border_radius="50%" icon_color="#3c66ec"]1-800-202-555-0119[/vcex_icon_box][vcex_spacing size="40px"][vcex_icon_box heading="Send a Message" icon="ticon ticon-envelope" heading_size="1.125em" icon_size="20px" heading_bottom_margin="0px" icon_color="#3c66ec" icon_background="#e9edfa" icon_border_radius="50%" icon_width="45px" icon_height="45px"]email@example.com[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true"][vc_column][vcex_spacing size="100px"][vcex_divider color="#e0e0e0"][vcex_spacing size="100px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" max_width_custom="800px" max_width_align="center" local_scroll_id="contact-form" css=".vc_custom_1634599548023{margin-top: 40px !important;margin-bottom: 140px !important;}"][vc_column][vcex_heading text="Need to get in touch with us?" font_size="d:2.5em|pl:2em"][vcex_spacing size="20px"][vc_column_text]Send us a message and we'll respond asap.[/vc_column_text][vcex_spacing size="40px"][vcex_contact_form enable_placeholders="true" button_fullwidth="false" enable_privacy_check="false" enable_recaptcha="false" button_text="Send message"][/vc_column][/vc_row]</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-10 04:39:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-10 04:39:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1634599548023{margin-top: 40px !important;margin-bottom: 140px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bolt/26/</link>
 		<pubDate>Tue, 10 Aug 2021 04:39:38 +0000</pubDate>
@@ -822,10 +981,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:39:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[26]]></wp:post_name>
@@ -880,6 +1039,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -891,10 +1054,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:39:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[28]]></wp:post_name>
@@ -949,6 +1112,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -960,10 +1127,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:39:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[29]]></wp:post_name>
@@ -1018,6 +1185,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
@@ -1029,10 +1200,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:39:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1087,6 +1258,38 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Store]]></title>
+		<link>https://total.wpexplorer.com/bolt/store/</link>
+		<pubDate>Thu, 30 Sep 2021 20:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/shop/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2021-09-30 20:51:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-09-30 20:51:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[store]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1098,10 +1301,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-09-30 20:51:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[66]]></wp:post_name>
@@ -1152,6 +1355,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Total]]></title>
@@ -1160,50 +1367,23 @@
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/2021/09/30/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* Remove title bottom border */
-.page-header.wpex-supports-mods {
-	border-bottom: 0;
-}
-
-/* Add extra spacing above footer where needed */
+		<content:encoded><![CDATA[/* Add extra spacing above footer where needed */
 body.page:not(.has-composer) #footer-builder,
 body.single-product #footer-builder,
-body.woocommerce-page #footer-builder {
-	margin-top: 60px;
-}
+body.woocommerce-page #footer-builder { margin-top: 60px; }
 
 /* Tweak blog 13 card date font size */
-.wpex-card-blog_13 .wpex-card-date {
-	font-size: .75em;
-}
-
-/* Tweak the blockquote */
-blockquote {
-    background: none;
-    color: #3624d8;
-    border-left: 2px solid #3624d8;
-    font-size: 0.9375em;
-    padding: 15px 30px;
-    font-style: italic;
-    font-family: inherit;
-}
+.wpex-card-blog_13 .wpex-card-date { font-size: .75em; }
 
 /* Add some spacing above related products */
-.woocommerce .related.products {
-	margin-top: 40px;
-}
+.woocommerce .related.products { margin-top: 40px; }
 
 /* Tweak Tables */
-thead,
-.cart-collaterals .order-total th {
-	background: #fff;
-}
+thead, .cart-collaterals .order-total th { background: #fff; }
 table th { color: #000; }
 
 /* Add underline hover to blog post related articles card style */
-.single-post .custom-singular-template .wpex-card-simple_9 .wpex-card-title a:hover {
-    text-decoration: underline;
-}
+.single-post .custom-singular-template .wpex-card-simple_9 .wpex-card-title a:hover { text-decoration: underline; }
 
 /* Empty cart text */
 .cart-empty {
@@ -1213,8 +1393,8 @@ table th { color: #000; }
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2021-09-30 21:30:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-09-30 21:30:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 04:16:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 04:16:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 00:47:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 00:47:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -1225,66 +1405,6 @@ table th { color: #000; }
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/bolt/?p=91</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=91</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>91</wp:post_id>
-		<wp:post_date><![CDATA[2021-09-30 22:03:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-09-30 22:03:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[61]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1633039419]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bolt/92/</link>
@@ -1412,199 +1532,19 @@ table th { color: #000; }
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/bolt/?p=159</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=159</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>159</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-10 20:50:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-10 20:50:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[64]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1633899057]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/bolt/?p=160</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=160</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>160</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-10 20:50:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-10 20:50:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1633899057]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/bolt/?p=161</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=161</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>161</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-10 20:50:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-10 20:50:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1633899057]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
+		<title><![CDATA[My Account]]></title>
 		<link>https://total.wpexplorer.com/bolt/162/</link>
 		<pubDate>Sun, 10 Oct 2021 20:51:29 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=162</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>162</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-10 20:51:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[162]]></wp:post_name>
@@ -1651,6 +1591,10 @@ table th { color: #000; }
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1662,10 +1606,10 @@ table th { color: #000; }
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>163</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-10 20:51:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[163]]></wp:post_name>
@@ -1712,6 +1656,10 @@ table th { color: #000; }
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[View Cart]]></title>
@@ -1723,10 +1671,10 @@ table th { color: #000; }
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>164</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-10 20:51:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[164]]></wp:post_name>
@@ -1772,6 +1720,10 @@ table th { color: #000; }
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-10-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2052,67 +2004,7 @@ table th { color: #000; }
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://total.wpexplorer.com/bolt/?p=190</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=190</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-13 21:11:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-13 21:11:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1634159462]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Browse products]]></title>
+		<title><![CDATA[Browse Products]]></title>
 		<link>https://total.wpexplorer.com/bolt/shop-all-products/</link>
 		<pubDate>Tue, 19 Oct 2021 01:44:45 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
@@ -2121,10 +2013,10 @@ table th { color: #000; }
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>208</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 01:44:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-04-27 00:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-19 01:44:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 01:44:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-19 01:44:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-27 00:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-27 00:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop-all-products]]></wp:post_name>
@@ -2167,228 +2059,142 @@ table th { color: #000; }
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-10-19]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Homepage]]></title>
-		<link>https://total.wpexplorer.com/bolt/</link>
-		<pubDate>Tue, 10 Aug 2021 04:11:40 +0000</pubDate>
+		<title><![CDATA[Footer]]></title>
+		<link>https://total.wpexplorer.com/bolt/?wpex_templates=footer</link>
+		<pubDate>Tue, 10 Aug 2021 04:13:00 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=7</guid>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=templatera&#038;p=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" full_height="yes" css=".vc_custom_1634604065918{padding-top: 200px !important;padding-bottom: 200px !important;}" el_class="wpex-bg-accent"][vc_column][vc_column_text text_align="center" color="rgba(255,255,255,0.6)" font_size=".7em" text_transform="uppercase" letter_spacing="2px"]Experience Modern Web Design[/vc_column_text][vcex_spacing size="5px"][vcex_heading text="Professional Design No Compromise." align="center" tag="h1" text_align="center" font_size="d:3.6em|pl:2.5em" color="#ffffff" width="600px"][vcex_spacing][vcex_flex_container justify_content="center" flex_wrap="true" flex_direction="row" gap="15px"][vcex_button url="https://total.wpexplorer.com/bolt/store/" style="flat" color="white" align="center"]Visit the Shop[/vcex_button][vcex_button onclick="local_scroll" url="#home-features" style="minimal-border" color="white" align="center" border_radius="9999px" border="1px solid rgba(255,255,255,0.2)" custom_hover_background="#4230dd" custom_hover_color="#ffffff"]Learn More[/vcex_button][/vcex_flex_container][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1634617286468{padding-top: 12% !important;padding-bottom: 12% !important;}" local_scroll_id="home-features"][vc_column][vcex_grid_container gap="80px"][vcex_icon_box heading="Security`{`br`}`Monitoring" css_animation="fadeInUp" style="two" icon_type="material" heading_size="1.5em" heading_type="h2" icon_color="accent" icon_size="50px" icon_material="vc-material vc-material-beenhere"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.</p>
-<p><a href="#">Learn more</a>[/vcex_icon_box][vcex_icon_box heading="Fast`{`br`}`Integrations" css_animation="fadeInUp" style="two" icon_type="material" heading_size="1.5em" heading_type="h2" icon_color="accent" icon_size="50px" icon_material="vc-material vc-material-layers" animation_delay=".1"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.</p>
-<p><a href="#">Learn more</a>[/vcex_icon_box][vcex_icon_box heading="Possibility`{`br`}`Any Direction" css_animation="fadeInUp" style="two" icon_type="material" heading_size="1.5em" heading_type="h2" icon_color="accent" icon_size="45px" icon_material="vc-material vc-material-wifi_tethering" animation_delay=".2"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.</p>
-<p><a href="#">Learn more</a>[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1634604258539{padding-top: 12% !important;padding-bottom: 12% !important;background-color: #e6e6e6 !important;}"][vc_column][vcex_flex_container align_items="center" justify_content="space-between" flex_wrap="true" flex_direction="row"][vcex_heading text="Recent Articles" font_size="35px" tag="h3" font_family="Inter"][vcex_button url="https://total.wpexplorer.com/bolt/blog/" visibility="hidden-phone"]Visit The Blog[/vcex_button][/vcex_flex_container][vcex_spacing size="60px"][wpex_post_cards posts_per_page="6" title_font_size="md" thumbnail_size="wpex_custom" card_style="blog_13" thumbnail_width="1000" thumbnail_height="600" grid_spacing="30" grid_columns_responsive_settings="tp:2|pp:1"][vcex_spacing size="40px"][vcex_button url="https://total.wpexplorer.com/bolt/blog/" visibility="visible-phone" align="center"]Visit The Blog[/vcex_button][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1634604263927{padding-top: 12% !important;padding-bottom: 12% !important;}"][vc_column][vcex_heading text="#E-8_QnVpbGQlMjAlM0NzcGFuJTIwY2xhc3MlM0QlMjJ3cGV4LWZvbnQtc2VtaWJvbGQlMjB3cGV4LXRleHQtYWNjZW50JTIyJTNFcG93ZXJmdWwlM0MlMkZzcGFuJTNFJTIwZGVzaWducyUyQyUyMGZyYW1ld29ya3MlMjBhbmQlMjBleHBlcmllbmNlcyUyMC4=" align="left" float="false" font_size="d:45px|pl:30px" tag="h3" font_family="Inter" width="700px"][vcex_spacing size="60px"][vcex_grid_container columns_md="2" gap="50px"][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][vcex_list_item flex_align="center" icon_type="material" icon_spacing="15px" icon_material="vc-material vc-material-check" icon_size="25px" icon_border_radius="20px" icon_width="40px" icon_height="40px" color="#3c66ec" icon_background="#e9edfa" font_size="16px" font_family="Inter"]Pellentesque iaculis velit at dictum vulputate.[/vcex_list_item][/vcex_grid_container][vcex_spacing size="60px"][vcex_button url="https://total.wpexplorer.com/bolt/contact/"]Request a Quote[/vcex_button][/vc_column][/vc_row]</p>
+		<content:encoded><![CDATA[<p>[vc_section css=".vc_custom_1628569509416{padding-top: 15% !important;padding-bottom: 10% !important;}"][vc_row remove_bottom_col_margin="true"][vc_column][vcex_flex_container align_items="center" justify_content="space-between" flex_wrap="true" flex_direction="row"][vcex_heading text="Storey Ave, San Francisco`{`br`}`CA 94129" color="#ffffff" font_size="2em" tag="div"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22instagram%22%2C%22link%22%3A%22%23%22%7D%5D" padding_x="5px" style="none" size="1.5em" color="#ffffff"][/vcex_flex_container][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1628569542323{padding-top: 80px !important;padding-bottom: 80px !important;}"][vc_column][vcex_divider color="#333333" height="1px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true"][vc_column][vcex_flex_container align_items="center" justify_content="space-between" flex_wrap="true" flex_direction="row"][vc_column_text color="rgba(255,255,255,0.6)" font_size=".9em"]Copyright [current_year] design by <a href="https://total.wpexplorer.com/">Total</a>[/vc_column_text][vcex_navbar button_style="plain-text" link_margin_side="30px" menu="2" color="rgba(255,255,255,0.7)" font_size=".9em" hover_color="#ffffff"][/vcex_flex_container][/vc_column][/vc_row][/vc_section]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-10 04:11:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-10 04:11:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-10 04:13:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-10 04:13:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 00:42:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 00:42:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[homepage]]></wp:post_name>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_overlay_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1634604065918{padding-top: 200px !important;padding-bottom: 200px !important;}.vc_custom_1634617286468{padding-top: 12% !important;padding-bottom: 12% !important;}.vc_custom_1634604258539{padding-top: 12% !important;padding-bottom: 12% !important;background-color: #e6e6e6 !important;}.vc_custom_1634604263927{padding-top: 12% !important;padding-bottom: 12% !important;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1628569509416{padding-top: 15% !important;padding-bottom: 10% !important;}.vc_custom_1628569542323{padding-top: 80px !important;padding-bottom: 80px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[footer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://total.wpexplorer.com/bolt/blog/</link>
-		<pubDate>Tue, 10 Aug 2021 04:11:53 +0000</pubDate>
+		<title><![CDATA[Inter (Body Font)]]></title>
+		<link>https://total.wpexplorer.com/bolt/?wpex_font=inter</link>
+		<pubDate>Tue, 10 Aug 2021 04:45:38 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=8</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true" css=".vc_custom_1633039167311{margin-bottom: 100px !important;}"][vc_column][wpex_post_cards grid_style="masonry" grid_columns="2" posts_per_page="4" pagination_loadmore="true" card_style="blog_13" grid_spacing="60"][/vc_column][/vc_row]</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-10 04:11:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-10 04:11:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1633039167311{margin-bottom: 100px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[About]]></title>
-		<link>https://total.wpexplorer.com/bolt/about/</link>
-		<pubDate>Tue, 10 Aug 2021 04:38:54 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=23</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true"][vc_column][vcex_heading text="We design and develop web and mobile applications for startups and small businessess with over 30 years of experience." align="left" tag="h2" width="800px"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true" css=".vc_custom_1634086713503{padding-top: 100px !important;padding-bottom: 100px !important;}"][vc_column][vcex_image_carousel arrows="false" auto_width="true" image_ids="83,89,87,75" img_width="9999" img_height="350"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1634086293622{padding-bottom: 100px !important;}"][vc_column][vc_column_text text_align="center" font_size="1.5em" color="#212121" font_weight="500"]Voted Best Agency in 2025 by Total Magazine[/vc_column_text][vcex_spacing size="10px"][vc_column_text text_align="center"]Trusted by over <strong class="wpex-text-accent">67K</strong> startups worldwide[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1634086109167{padding-top: 10% !important;padding-bottom: 10% !important;background-color: #eeeeee !important;}"][vc_column][vcex_heading text="Meet the Team" tag="h2" font_size="2.5em"][vcex_spacing size="80px"][vcex_grid_container columns_sm="2" gap="40px"][vcex_teaser heading="Sophie Smith" heading_type="h3" heading_size="1.5em" image="173" img_width="700" img_height="700" heading_margin="bottom:-5px"]Owner &amp; lead developer[/vcex_teaser][vcex_teaser heading="Harry Clarkson" heading_type="h3" heading_size="1.5em" image="174" img_width="700" img_height="700" heading_margin="bottom:-5px"]Product placement[/vcex_teaser][vcex_teaser heading="Anthony King" heading_type="h3" heading_size="1.5em" image="177" img_width="700" img_height="700" heading_margin="bottom:-5px"]Customer support[/vcex_teaser][vcex_teaser heading="Amy Ross" heading_type="h3" heading_size="1.5em" image="213" img_width="700" img_height="700" heading_margin="bottom:-5px"]Marketing &amp; sales[/vcex_teaser][vcex_teaser heading="Nathan Turner" heading_type="h3" heading_size="1.5em" image="176" img_width="700" img_height="700" heading_margin="bottom:-5px" img_crop="center-top"]Chief engineer[/vcex_teaser][/vcex_grid_container][/vc_column][/vc_row]</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-10 04:38:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-10 04:38:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1634086713503{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1634086293622{padding-bottom: 100px !important;}.vc_custom_1634086109167{padding-top: 10% !important;padding-bottom: 10% !important;background-color: #eeeeee !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact]]></title>
-		<link>https://total.wpexplorer.com/bolt/contact/</link>
-		<pubDate>Tue, 10 Aug 2021 04:39:15 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=25</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row content_placement="middle" columns_right="yes"][vc_column width="1/2"][vcex_image align="center" image_id="206" width="500px" border_radius="10px"][/vc_column][vc_column width="1/2"][vcex_heading text="Our information." font_size="1.75em"][vcex_spacing size="20px"][vc_column_text]You can find and reach out to us via our business info below. Or you can send us a private message via <a href="#contact-form" class="local-scroll-link">the form</a>.[/vc_column_text][vcex_divider color="#e0e0e0" margin="top:50px|bottom:50px"][vcex_icon_box heading="Office Location" icon="ticon ticon-map-marker" heading_size="1.125em" heading_bottom_margin="0px" icon_size="20px" icon_color="#3c66ec" icon_background="#e9edfa" icon_border_radius="50%" icon_width="45px" icon_height="45px"]Storey Ave, San Francisco, CA 94129[/vcex_icon_box][vcex_spacing size="40px"][vcex_icon_box heading="Phone Number" icon="ticon ticon-phone" heading_size="1.125em" icon_size="20px" heading_bottom_margin="0px" icon_width="45px" icon_height="45px" icon_background="#e9edfa" icon_border_radius="50%" icon_color="#3c66ec"]1-800-202-555-0119[/vcex_icon_box][vcex_spacing size="40px"][vcex_icon_box heading="Send a Message" icon="ticon ticon-envelope" heading_size="1.125em" icon_size="20px" heading_bottom_margin="0px" icon_color="#3c66ec" icon_background="#e9edfa" icon_border_radius="50%" icon_width="45px" icon_height="45px"]email@example.com[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" remove_bottom_col_margin="true"][vc_column][vcex_spacing size="100px"][vcex_divider color="#e0e0e0"][vcex_spacing size="100px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" max_width_custom="800px" max_width_align="center" local_scroll_id="contact-form" css=".vc_custom_1634599548023{margin-top: 40px !important;margin-bottom: 140px !important;}"][vc_column][vcex_heading text="Need to get in touch with us?" font_size="d:2.5em|pl:2em"][vcex_spacing size="20px"][vc_column_text]Send us a message and we'll respond asap.[/vc_column_text][vcex_spacing size="40px"][vcex_contact_form enable_placeholders="true" button_fullwidth="false" enable_privacy_check="false" enable_recaptcha="false" button_text="Send message"][/vc_column][/vc_row]</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-10 04:39:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-10 04:39:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1634599548023{margin-top: 40px !important;margin-bottom: 140px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Store]]></title>
-		<link>https://total.wpexplorer.com/bolt/store/</link>
-		<pubDate>Thu, 30 Sep 2021 20:51:02 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/shop/</guid>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=wpex_font&#038;p=39</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>61</wp:post_id>
-		<wp:post_date><![CDATA[2021-09-30 20:51:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-09-30 20:51:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:26:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:26:39]]></wp:post_modified_gmt>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-10 04:45:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-10 04:45:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-10 04:46:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-10 04:46:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[store]]></wp:post_name>
+		<wp:post_name><![CDATA[inter]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_font]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_key><![CDATA[type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[google]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Inter]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[swap]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fallback]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sans-serif]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[google_font_weights]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;s:3:"400";i:1;s:3:"500";i:2;s:3:"600";i:3;s:3:"700";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_fonts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;a:4:{s:6:"weight";s:3:"100";s:5:"style";s:6:"normal";s:5:"woff2";s:0:"";s:4:"woff";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Nunito (Logo Font)]]></title>
+		<link>https://total.wpexplorer.com/bolt/?wpex_font=nunito-logo-font</link>
+		<pubDate>Tue, 10 Aug 2021 04:46:14 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=wpex_font&#038;p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-10 04:46:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-10 04:46:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-10 04:46:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-10 04:46:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nunito-logo-font]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpex_font]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[google]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nunito]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[swap]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[fallback]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sans-serif]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[google_font_weights]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:3:"900";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_fonts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;a:4:{s:6:"weight";s:3:"100";s:5:"style";s:6:"normal";s:5:"woff2";s:0:"";s:4:"woff";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2498,32 +2304,12 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[72]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>13</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2537,7 +2323,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>14</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2551,7 +2337,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>15</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2599,32 +2385,12 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[75]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2638,7 +2404,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2652,7 +2418,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>12</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2700,32 +2466,12 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[never-before-seeing-elements-features]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2763,18 +2509,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[why-you-should-only-use-total-for-your-projects]]></wp:meta_value>
 		</wp:postmeta>
@@ -2782,17 +2516,9 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[83]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2806,7 +2532,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>10</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2820,7 +2546,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>11</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2868,18 +2594,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[drive-more-traffic-to-your-website-with-these-three-proven-steps]]></wp:meta_value>
 		</wp:postmeta>
@@ -2887,17 +2601,9 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[87]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2911,7 +2617,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2925,7 +2631,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -2973,18 +2679,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="articles"><![CDATA[Articles]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[89]]></wp:meta_value>
 		</wp:postmeta>
@@ -2992,17 +2686,9 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_oembed_282cda6cfa841a649da3570c7099b45a]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -3016,7 +2702,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -3030,7 +2716,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							</wp:comment>
 					<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
-			<wp:comment_author><![CDATA[Andy Author]]></wp:comment_author>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[71.38.50.46]]></wp:comment_author_IP>
@@ -3069,10 +2755,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[95]]></wp:meta_value>
 		</wp:postmeta>
@@ -3137,10 +2819,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_value><![CDATA[5.5.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[180]]></wp:meta_value>
 		</wp:postmeta>
@@ -3179,10 +2857,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[126]]></wp:meta_value>
 		</wp:postmeta>
@@ -3254,10 +2928,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[175]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[White Shoe]]></title>
@@ -3285,10 +2955,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[125]]></wp:meta_value>
 		</wp:postmeta>
@@ -3357,12 +3023,106 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_value><![CDATA[125]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[129]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Light Gray Shoe]]></title>
+		<link>https://total.wpexplorer.com/bolt/product/light-gray-shoe/</link>
+		<pubDate>Thu, 30 Sep 2021 23:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=136</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula.]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date><![CDATA[2021-09-30 23:25:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-09-30 23:25:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-30 23:25:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-30 23:25:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[light-gray-shoe]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[137]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[99]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.5.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[99]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3391,10 +3151,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[135]]></wp:meta_value>
 		</wp:postmeta>
@@ -3463,16 +3219,110 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_value><![CDATA[135]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[140]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Street Shoe]]></title>
+		<link>https://total.wpexplorer.com/bolt/product/street-shoe/</link>
+		<pubDate>Thu, 30 Sep 2021 23:35:29 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=141</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula.]]></excerpt:encoded>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2021-09-30 23:35:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-09-30 23:35:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-30 23:35:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-30 23:35:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[street-shoe]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[142]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.5.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3593,20 +3443,8 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3634,20 +3472,8 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
@@ -3663,76 +3489,31 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Footer]]></title>
-		<link>https://total.wpexplorer.com/bolt/templatera/footer/</link>
-		<pubDate>Tue, 10 Aug 2021 04:13:00 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=templatera&#038;p=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>[vc_section css=".vc_custom_1628569509416{padding-top: 15% !important;padding-bottom: 10% !important;}"][vc_row remove_bottom_col_margin="true"][vc_column][vcex_flex_container align_items="center" justify_content="space-between" flex_wrap="true" flex_direction="row"][vcex_heading text="Storey Ave, San Francisco`{`br`}`CA 94129" color="#ffffff" font_size="2em" tag="div"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22instagram%22%2C%22link%22%3A%22%23%22%7D%5D" padding_x="5px" style="none" size="1.5em" color="#ffffff"][/vcex_flex_container][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1628569542323{padding-top: 80px !important;padding-bottom: 80px !important;}"][vc_column][vcex_divider color="#333333" height="1px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true"][vc_column][vcex_flex_container align_items="center" justify_content="space-between" flex_wrap="true" flex_direction="row"][vc_column_text color="rgba(255,255,255,0.6)" font_size=".9em"]Copyright [current_year] design by <a href="https://total.wpexplorer.com/">Total</a>[/vc_column_text][vcex_navbar button_style="plain-text" link_margin_side="30px" menu="2" color="rgba(255,255,255,0.7)" font_size=".9em" hover_color="#ffffff"][/vcex_flex_container][/vc_column][/vc_row][/vc_section]</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-10 04:13:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-10 04:13:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-21 20:08:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-21 20:08:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1628569509416{padding-top: 15% !important;padding-bottom: 10% !important;}.vc_custom_1628569542323{padding-top: 80px !important;padding-bottom: 80px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Blog Post]]></title>
-		<link>https://total.wpexplorer.com/bolt/templatera/blog-post/</link>
+		<link>https://total.wpexplorer.com/bolt/?wpex_templates=blog-post</link>
 		<pubDate>Tue, 10 Aug 2021 04:15:08 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=templatera&#038;p=12</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_section full_width="stretch_row" wpex_bg_overlay="dark" wpex_post_thumbnail_bg="true" wpex_bg_overlay_opacity=".6" css=".vc_custom_1634084918662{margin-bottom: 50px !important;padding-top: 30% !important;padding-bottom: 50px !important;background-color: #212121 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_row content_placement="bottom" remove_bottom_col_margin="true" css=".vc_custom_1634084447216{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" max_width_custom="800px" max_width_align="center"][vc_column][vcex_post_terms bottom_margin="15px" button_background="rgba(255,255,255,0.15)" button_color="#ffffff" button_font_size="14px" button_font_weight="normal" button_padding="top:10px|right:25px|bottom:10px|left:25px"][vcex_page_title font_size="d:40px|tl:35px|tp:30px|pl:25px" color="#ffffff" font_weight="bold"][/vc_column][/vc_row][/vc_section][vc_row max_width_custom="800px" max_width_align="center"][vc_column][vcex_post_content][vcex_spacing size="40px"][vcex_post_meta sections="%5B%7B%22type%22%3A%22date%22%2C%22label%22%3A%22Published%20on%22%7D%2C%7B%22type%22%3A%22author%22%2C%22label%22%3A%22Written%20by%22%7D%5D" style="vertical"][vcex_spacing size="80px"][vcex_heading text="Latest articles" bottom_margin="40px" tag="h3" font_size="1.5em"][wpex_post_cards display_type="list" list_spacing="5px" custom_query="true" title_font_size="md" card_style="simple_9" custom_query_args="post_type=post&amp;posts_per_page=3&amp;post__not_in=current_post" excerpt_length="0"][vcex_spacing size="80px"][vcex_heading text="Disccussion" bottom_margin="40px" tag="h3" font_size="1.5em"][vcex_post_comments][vcex_spacing size="80px"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[[vc_section full_width="stretch_row" wpex_bg_overlay="dark" wpex_post_thumbnail_bg="true" wpex_bg_overlay_opacity=".6" css=".vc_custom_1634084918662{margin-bottom: 50px !important;padding-top: 30% !important;padding-bottom: 50px !important;background-color: #212121 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_row content_placement="bottom" remove_bottom_col_margin="true" css=".vc_custom_1634084447216{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" max_width_custom="800px" max_width_align="center"][vc_column][vcex_spacing size="50px" visibility="visible-phone"][vcex_post_terms bottom_margin="15px" button_background="rgba(255,255,255,0.15)" button_color="#ffffff" button_font_size="14px" button_font_weight="normal" button_padding="top:8px|right:24px|bottom:8px|left:24px"][vcex_page_title font_size="d:40px|tl:35px|tp:30px|pl:25px" color="#ffffff" font_weight="bold"][/vc_column][/vc_row][/vc_section][vc_row max_width_custom="800px" max_width_align="center"][vc_column][vcex_post_content][vcex_spacing size="40px"][vcex_post_meta sections="%5B%7B%22type%22%3A%22date%22%2C%22label%22%3A%22Published%20on%22%7D%2C%7B%22type%22%3A%22author%22%2C%22label%22%3A%22Written%20by%22%7D%5D" style="vertical"][vcex_spacing size="80px"][vcex_heading text="Latest articles" bottom_margin="40px" tag="h3" font_size="1.5em"][wpex_post_cards display_type="list" list_spacing="5px" custom_query="true" title_font_size="md" card_style="simple_9" custom_query_args="post_type=post&amp;posts_per_page=3&amp;post__not_in=current_post" excerpt_length="0"][vcex_spacing size="80px"][vcex_heading text="Disccussion" bottom_margin="40px" tag="h3" font_size="1.5em"][vcex_post_comments][vcex_spacing size="80px"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-10 04:15:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:15:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-13 00:33:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-13 00:33:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 00:42:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 00:42:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-post]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_7e17cfce633a214d7253107934321b42]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_282cda6cfa841a649da3570c7099b45a]]></wp:meta_key>
@@ -3742,326 +3523,18 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1634084918662{margin-bottom: 50px !important;padding-top: 30% !important;padding-bottom: 50px !important;background-color: #212121 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1634084447216{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Inter (Body Font)]]></title>
-		<link>https://total.wpexplorer.com/bolt/?wpex_font=inter</link>
-		<pubDate>Tue, 10 Aug 2021 04:45:38 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=wpex_font&#038;p=39</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-10 04:45:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-10 04:45:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-10 04:46:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-10 04:46:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[inter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpex_font]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[google]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Inter]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[display]]></wp:meta_key>
-		<wp:meta_value><![CDATA[swap]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[fallback]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sans-serif]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[google_font_weights]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{i:0;s:3:"400";i:1;s:3:"500";i:2;s:3:"600";i:3;s:3:"700";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[custom_fonts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;a:4:{s:6:"weight";s:3:"100";s:5:"style";s:6:"normal";s:5:"woff2";s:0:"";s:4:"woff";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Nunito (Logo Font)]]></title>
-		<link>https://total.wpexplorer.com/bolt/?wpex_font=nunito-logo-font</link>
-		<pubDate>Tue, 10 Aug 2021 04:46:14 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=wpex_font&#038;p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2021-08-10 04:46:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-08-10 04:46:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-10 04:46:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-10 04:46:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[nunito-logo-font]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpex_font]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[google]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nunito]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[display]]></wp:meta_key>
-		<wp:meta_value><![CDATA[swap]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[fallback]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sans-serif]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[google_font_weights]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:3:"900";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[custom_fonts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;a:4:{s:6:"weight";s:3:"100";s:5:"style";s:6:"normal";s:5:"woff2";s:0:"";s:4:"woff";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Light Gray Shoe]]></title>
-		<link>https://total.wpexplorer.com/bolt/product/light-gray-shoe/</link>
-		<pubDate>Thu, 30 Sep 2021 23:25:00 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=136</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula.]]></excerpt:encoded>
-		<wp:post_id>136</wp:post_id>
-		<wp:post_date><![CDATA[2021-09-30 23:25:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-09-30 23:25:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-09-30 23:25:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-09-30 23:25:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[light-gray-shoe]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[137]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[99]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.5.2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[99]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Street Shoe]]></title>
-		<link>https://total.wpexplorer.com/bolt/product/street-shoe/</link>
-		<pubDate>Thu, 30 Sep 2021 23:35:29 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=141</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula.]]></excerpt:encoded>
-		<wp:post_id>141</wp:post_id>
-		<wp:post_date><![CDATA[2021-09-30 23:35:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-09-30 23:35:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-09-30 23:35:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-09-30 23:35:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[street-shoe]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[142]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[165]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.5.2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[165]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog Archives]]></title>
-		<link>https://total.wpexplorer.com/bolt/templatera/blog-archives/</link>
+		<link>https://total.wpexplorer.com/bolt/?wpex_templates=blog-archives</link>
 		<pubDate>Sat, 09 Oct 2021 20:01:02 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=templatera&#038;p=154</guid>
@@ -4071,28 +3544,61 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2021-10-09 20:01:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-09 20:01:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-09 20:01:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-09 20:01:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 00:42:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 00:42:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-archives]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1633039167311{margin-bottom: 100px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[archive]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Error 404]]></title>
+		<link>https://total.wpexplorer.com/bolt/?wpex_templates=error-404</link>
+		<pubDate>Thu, 25 May 2023 01:08:46 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?wpex_templates=error-404</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[vc_row content_placement="middle" remove_bottom_col_margin="true" max_width_custom="850px" max_width_align="left"][vc_column][vc_column_text]Unfortunately the page you were trying to access no longer exists or has never existed. You may want to go back to the <a href="https://total.wpexplorer.com/biz/">homepage</a> or search below:[/vc_column_text][vcex_spacing size="40px"][vcex_searchbar fullwidth_mobile="true" autofocus="true" button_font_size="14px" button_letter_spacing="2px" button_border_radius="rounded-sm" input_border_radius="rounded-sm"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true"][vc_column][vcex_spacing size="100px"][/vc_column][/vc_row]</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>215</wp:post_id>
+		<wp:post_date><![CDATA[2023-05-25 01:08:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-05-25 01:08:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-05-25 01:30:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-25 01:30:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[error-404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[error_404]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.3" created="2022-05-03 02:07" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-26 04:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Boost</title>
 	<link>https://total.wpexplorer.com/boost</link>
-	<description>Just another Total Theme Demo site</description>
-	<pubDate>Tue, 03 May 2022 02:07:49 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Fri, 26 May 2023 04:00:10 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
@@ -48,7 +48,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 		<item>
 		<title><![CDATA[responsive]]></title>
@@ -312,39 +312,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:800;s:4:"file";s:24:"2016/09/testimonials.jpg";s:5:"sizes";a:1:{s:12:"medium_large";a:4:{s:4:"file";s:24:"testimonials-768x410.jpg";s:5:"width";i:768;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[stars]]></title>
-		<link>https://total.wpexplorer.com/boost/home/stars/</link>
-		<pubDate>Tue, 06 Sep 2016 19:05:54 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/wp-content/uploads/sites/8/2016/09/stars.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2016-09-06 19:05:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-09-06 19:05:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-09-06 19:05:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-09-06 19:05:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[stars]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://total.wpexplorer.com/boost/wp-content/uploads/sites/8/2016/09/stars.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2016/09/stars.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:114;s:6:"height";i:19;s:4:"file";s:17:"2016/09/stars.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -711,22 +678,57 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Total]]></title>
+		<link>https://total.wpexplorer.com/boost/total/</link>
+		<pubDate>Tue, 14 Mar 2017 22:34:38 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/total/</guid>
+		<description></description>
+		<content:encoded><![CDATA[/* Add a little more margin to menu items */
+.navbar-style-one .dropdown-menu > li { margin-left: 30px; }
+
+/* Remove menu button border-radius */
+.navbar-style-one .dropdown-menu > li > a > span.link-inner { border-radius: 0; }
+
+/* Add custom hover to menu button */
+#site-navigation .dropdown-menu > li.menu-button > a > span.link-inner:hover { background: #0baee0; }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date><![CDATA[2017-03-14 22:34:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-03-14 22:34:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2017-03-14 22:34:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2017-03-14 22:34:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[total]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://total.wpexplorer.com/boost/</link>
 		<pubDate>Tue, 06 Sep 2016 17:38:04 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?page_id=2</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" wpex_bg_overlay="dark" css=".vc_custom_1585607937562{padding-top: 120px !important;padding-bottom: 80px !important;background: #0e7a99 url(https://total.wpexplorer.com/boost/wp-content/uploads/sites/8/2016/09/total.png?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" wpex_bg_overlay_opacity="0.55"][vc_column][vc_column_text text_align="center" font_weight="semibold" color="#ffffff" font_size="d:48px|tp:32px" line_height="1.2"]BUILD BETTER WEBSITES<br />
 THE BETTER WAY,<br />
-WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplorer.com/out/total" rel="sponsored" target="blank" title="Boost Your Website Today" align="center" text_transform="uppercase" font_size="d:18px|tp:16px" icon_right="fa fa-angle-double-right" font_padding="10px 16px" text_source="custom_text"]Boost Your Website Today[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1473186237871{padding-top: 60px !important;}"][vc_column][vcex_heading text="PREMIUM THEME FEATURES" text_align="center" font_size="30px" line_height="1.2"][vcex_divider_dots margin_top="20px"][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489952133748{padding-bottom: 45px !important;}"][vc_column width="1/4"][vcex_icon_box heading="Responsive" style="two" heading_transform="uppercase" heading_size="24px" image="6" image_bottom_margin="30px" image_height="80px"]Fully responsive and mobile ready layouts &amp; features.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Powerful" style="two" heading_transform="uppercase" heading_size="24px" image="7" image_bottom_margin="30px" image_height="80px"]Supercharged options for creating your perfect website.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Customizable" style="two" heading_transform="uppercase" heading_size="24px" image="8" image_bottom_margin="30px" image_height="80px"]Choose from unlimited colors, fonts, page layouts &amp; more.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Quality" style="two" heading_transform="uppercase" heading_size="24px" image="9" image_bottom_margin="30px" image_height="80px"]Coded with right way with semantic W3C valid code.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" column_spacing="60" css=".vc_custom_1489951992366{padding-top: 80px !important;padding-bottom: 20px !important;background-color: #e6e6e6 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][vc_column width="1/2"][vcex_heading text="THE ONLY WORDPRESS THEME YOU'LL EVER NEED" font_size="30px" line_height="1.2"][vcex_divider_dots align="left" margin_top="10px" margin_bottom="20px"][vc_column_text]Total really can do it all. Between the front-end Visual Composer drag &amp; drop page builder, the feature rich live theme Customizer, premium Revolution &amp; Layer Sliders, fully customizable header and footer builders and more there’s nothing Total can’t do. Don’t believe us? Checkout our sample demos - all easily imported with the all new Total Demo Importer.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com" target="blank" title="View All Features" text_transform="uppercase" font_size="16px" icon_left="fa fa-cog" font_padding="10px 16px"]View All Features[/vcex_button][/vc_column][vc_column width="1/2"][vc_single_image image="10"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="30" css=".vc_custom_1473810376437{padding-top: 30px !important;background-color: #282828 !important;}"][vc_column][vcex_heading text="AS REVIEWED ON..." text_align="center" font_size="28px" color="#ffffff" line_height="1.2"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1475515076430{padding-top: 80px !important;padding-bottom: 40px !important;background-color: #333333 !important;}"][vc_column][vc_single_image image="64" alignment="center"][/vc_column][/vc_row][vc_row content_placement="middle" column_spacing="60" css=".vc_custom_1489952000251{padding-top: 80px !important;padding-bottom: 20px !important;}"][vc_column width="1/2"][vc_single_image image="27"][/vc_column][vc_column width="1/2"][vcex_heading text="BUILD CUSTOM PAGES WITH THE EASY DRAG &amp; DROP BUILDER" font_size="30px" line_height="1.2"][vcex_divider_dots align="left" margin_top="10px" margin_bottom="20px"][vc_column_text]Build anything you want using Total’s easy Visual Composer drag &amp; drop page builder. With over 90+ builder modules for everything including icons, accordions, headings, portfolio grids, social links, image sliders, bulleted lists, WooCommerce carousels, feature boxes, dividers, pricing tables and much more there’s nothing you can’t create.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com" target="blank" title="View The Builder Modules" text_transform="uppercase" font_size="16px" icon_left="fa fa-cubes" font_padding="10px 16px"]View The Builder Modules[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1585608013656{padding-top: 80px !important;padding-bottom: 80px !important;background: #606060 url(https://total.wpexplorer.com/boost/wp-content/uploads/sites/8/2016/09/testimonials.jpg?id=28) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column css=".vc_custom_1585607769971{border-radius: 30px !important;}"][vcex_heading text="18,000+ HAPPY CUSTOMERS" text_align="center" font_size="30px" line_height="40px" color="#ffffff"][vcex_spacing size="20px"][vc_column_text text_align="center" color="#ffffff" width="700px" font_size="21px"]I have used the Total WordPress theme on a number of different websites due to it's high level of versatility, ease of use and customization. You can really build anything with this theme![/vc_column_text][vcex_spacing size="10px"][vcex_image align="center" overlay_style="" image_id="29"][/vc_column][/vc_row]</p>
+WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplorer.com/out/total" rel="sponsored" target="blank" title="Boost Your Website Today" align="center" text_transform="uppercase" font_size="d:18px|tp:16px" icon_right="fa fa-angle-double-right" font_padding="10px 16px" text_source="custom_text"]Boost Your Website Today[/vcex_button][/vc_column][/vc_row][vc_row css=".vc_custom_1473186237871{padding-top: 60px !important;}"][vc_column][vcex_heading text="PREMIUM THEME FEATURES" text_align="center" font_size="30px" line_height="1.2"][vcex_divider_dots margin_top="20px"][/vc_column][/vc_row][vc_row column_spacing="50" css=".vc_custom_1489952133748{padding-bottom: 45px !important;}"][vc_column width="1/4"][vcex_icon_box heading="Responsive" style="two" heading_transform="uppercase" heading_size="24px" image="6" image_bottom_margin="30px" image_height="80px"]Fully responsive and mobile ready layouts &amp; features.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Powerful" style="two" heading_transform="uppercase" heading_size="24px" image="7" image_bottom_margin="30px" image_height="80px"]Supercharged options for creating your perfect website.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Customizable" style="two" heading_transform="uppercase" heading_size="24px" image="8" image_bottom_margin="30px" image_height="80px"]Choose from unlimited colors, fonts, page layouts &amp; more.[/vcex_icon_box][/vc_column][vc_column width="1/4"][vcex_icon_box heading="Quality" style="two" heading_transform="uppercase" heading_size="24px" image="9" image_bottom_margin="30px" image_height="80px"]Coded with right way with semantic W3C valid code.[/vcex_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" column_spacing="60" css=".vc_custom_1489951992366{padding-top: 80px !important;padding-bottom: 20px !important;background-color: #e6e6e6 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][vc_column width="1/2"][vcex_heading text="THE ONLY WORDPRESS THEME YOU'LL EVER NEED" font_size="30px" line_height="1.2"][vcex_divider_dots align="left" margin_top="10px" margin_bottom="20px"][vc_column_text]Total really can do it all. Between the front-end Visual Composer drag &amp; drop page builder, the feature rich live theme Customizer, premium Revolution &amp; Layer Sliders, fully customizable header and footer builders and more there’s nothing Total can’t do. Don’t believe us? Checkout our sample demos - all easily imported with the all new Total Demo Importer.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com" target="blank" title="View All Features" text_transform="uppercase" font_size="16px" icon_left="fa fa-cog" font_padding="10px 16px"]View All Features[/vcex_button][/vc_column][vc_column width="1/2"][vc_single_image image="10"][/vc_column][/vc_row][vc_row full_width="stretch_row" column_spacing="30" css=".vc_custom_1473810376437{padding-top: 30px !important;background-color: #282828 !important;}"][vc_column][vcex_heading text="AS REVIEWED ON..." text_align="center" font_size="28px" color="#ffffff" line_height="1.2"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1475515076430{padding-top: 80px !important;padding-bottom: 40px !important;background-color: #333333 !important;}"][vc_column][vc_single_image image="64" alignment="center"][/vc_column][/vc_row][vc_row content_placement="middle" column_spacing="60" css=".vc_custom_1489952000251{padding-top: 80px !important;padding-bottom: 20px !important;}"][vc_column width="1/2"][vc_single_image image="27"][/vc_column][vc_column width="1/2"][vcex_heading text="BUILD CUSTOM PAGES WITH THE EASY DRAG &amp; DROP BUILDER" font_size="30px" line_height="1.2"][vcex_divider_dots align="left" margin_top="10px" margin_bottom="20px"][vc_column_text]Build anything you want using Total’s easy Visual Composer drag &amp; drop page builder. With over 90+ builder modules for everything including icons, accordions, headings, portfolio grids, social links, image sliders, bulleted lists, WooCommerce carousels, feature boxes, dividers, pricing tables and much more there’s nothing you can’t create.[/vc_column_text][vcex_spacing][vcex_button url="https://total.wpexplorer.com" target="blank" title="View The Builder Modules" text_transform="uppercase" font_size="16px" icon_left="fa fa-cubes" font_padding="10px 16px"]View The Builder Modules[/vcex_button][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1585608013656{padding-top: 80px !important;padding-bottom: 80px !important;background: #606060 url(https://total.wpexplorer.com/boost/wp-content/uploads/sites/8/2016/09/testimonials.jpg?id=28) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column css=".vc_custom_1585607769971{border-radius: 30px !important;}"][vcex_heading text="18,000+ HAPPY CUSTOMERS" text_align="center" font_size="30px" line_height="40px" color="#ffffff"][vcex_spacing size="20px"][vc_column_text text_align="center" color="#ffffff" width="700px" font_size="21px"]I have used the Total WordPress theme on a number of different websites due to it's high level of versatility, ease of use and customization. You can really build anything with this theme![/vc_column_text][vcex_spacing size="10px"][vcex_spacing size="15px"][vcex_star_rating scale="0-5" value="5" star_color="accent" align="center" icon_font_size="25px"][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2016-09-06 17:38:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-09-06 17:38:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-04-28 23:38:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-04-28 23:38:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 03:58:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 03:58:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -756,13 +758,17 @@ WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplore
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1585607937562{padding-top: 120px !important;padding-bottom: 80px !important;background: #0e7a99 url(https://total.wpexplorer.com/boost/wp-content/uploads/sites/8/2016/09/total.png?id=36) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1473186237871{padding-top: 60px !important;}.vc_custom_1489952133748{padding-bottom: 45px !important;}.vc_custom_1489951992366{padding-top: 80px !important;padding-bottom: 20px !important;background-color: #e6e6e6 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1473810376437{padding-top: 30px !important;background-color: #282828 !important;}.vc_custom_1475515076430{padding-top: 80px !important;padding-bottom: 40px !important;background-color: #333333 !important;}.vc_custom_1489952000251{padding-top: 80px !important;padding-bottom: 20px !important;}.vc_custom_1585608013656{padding-top: 80px !important;padding-bottom: 80px !important;background: #606060 url(https://total.wpexplorer.com/boost/wp-content/uploads/sites/8/2016/09/testimonials.jpg?id=28) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1585607769971{border-radius: 30px !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Reviews]]></title>
 		<link>https://total.wpexplorer.com/boost/reviews/</link>
 		<pubDate>Tue, 06 Sep 2016 18:43:14 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?page_id=18</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?page_id=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row full_width="stretch_row" css=".vc_custom_1473198634243{background-color: #0e7a99 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][vc_column css=".vc_custom_1473198613187{margin-bottom: 0px !important;}"][vc_single_image image="43" alignment="center"][/vc_column][/vc_row][vc_row css=".vc_custom_1473204340449{padding-top: 60px !important;}"][vc_column][vcex_testimonials_grid grid_style="masonry" order="ASC" columns_gap="30"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -796,13 +802,17 @@ WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplore
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1473198634243{background-color: #0e7a99 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1473204340449{padding-top: 60px !important;}.vc_custom_1473198613187{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Press]]></title>
 		<link>https://total.wpexplorer.com/boost/press/</link>
 		<pubDate>Tue, 06 Sep 2016 18:43:23 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?page_id=19</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?page_id=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1635961549753{margin-bottom: 40px !important;background-color: #0e7a99 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][vc_column css=".vc_custom_1473198504589{margin-bottom: 0px !important;}"][vc_single_image image="41" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][vcex_grid_container columns_lg="" columns_md="2" gap="30px"][vcex_icon_box heading="Total Theme Review – WPExplorer’s Multi-Purpose WordPress Theme" style="two" url_wrap="true" url_target="_blank" heading_transform="uppercase" font_color="#f7f7f7" heading_color="#ffffff" image="30" css=".vc_custom_1474332650915{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #333333 !important;}" url="http://winningwp.com/total-wordpress-theme-by-wpexplorer-review/" hover_background="#444444"]<em>Created by WordPress veterans WPExplorer at the end of 2013, Total is a highly versatile multipurpose WordPress theme currently boasting more than 11,000 sales on ThemeForest...</em>[/vcex_icon_box][vcex_icon_box heading="Theme Review: Insight Into The World Of Total WordPress Theme" style="two" url_wrap="true" url_target="_blank" heading_transform="uppercase" font_color="#f7f7f7" heading_color="#ffffff" image="31" css=".vc_custom_1474332657991{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #555555 !important;}" url="https://www.cloudways.com/blog/total-wordpress-theme-review/" hover_background="#666666"]<em>WordPress community is quite big, and when I say big, I mean really big. For starters, it caters to more than 25% of the internet. One can find tons of users, writers, designers and...</em>[/vcex_icon_box][vcex_icon_box heading="Total Theme Review: The Best WordPress Multi-Purpose Theme?" style="two" url_wrap="true" url_target="_blank" heading_transform="uppercase" font_color="#f7f7f7" heading_color="#ffffff" image="32" css=".vc_custom_1542694755162{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #777777 !important;}" url="http://wplift.com/total-theme-review" hover_background="#888888"]<em>Today we are looking at the Total Theme, created by AJ Clark from WPExplorer this is his flag-ship multi-purpose WordPress theme which boasts over 35k sales on ThemeForest and...</em>[/vcex_icon_box][vcex_icon_box heading="Detailed Total WordPress Theme Review – Ultimate Drag &amp; Drop WordPress Theme" style="two" url_wrap="true" url_target="_blank" heading_transform="uppercase" font_color="#f7f7f7" heading_color="#ffffff" image="33" css=".vc_custom_1474332672912{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #333333 !important;}" url="http://www.narrowem.com/wordpress-themes/total-wordpress-theme-review/" hover_background="#444444"]<em>Let’s face it: Not all WordPress themes are created equally. In the digital space, the only way to measure the effectiveness of your own website is in the number of shares, email subscribers...</em>[/vcex_icon_box][vcex_icon_box heading="30 Beautiful Websites Using WPExplorer’s Flag Ship Theme – Total" style="two" url_wrap="true" url_target="_blank" heading_transform="uppercase" font_color="#f7f7f7" heading_color="#ffffff" image="34" css=".vc_custom_1474332677802{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #555555 !important;}" url="https://colorlib.com/wp/total-theme-examples/" hover_background="#666666"]<em>WPExplorer claims that the WordPress theme authored by them is called Total for a reason. Let us take a close look at this Fully Responsive Multipurpose Theme and check out if...</em>[/vcex_icon_box][vcex_icon_box heading="Complete Review of the Total Theme From WPExplorer" style="two" url_wrap="true" url_target="_blank" heading_transform="uppercase" font_color="#f7f7f7" heading_color="#ffffff" image="40" css=".vc_custom_1474332683335{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #777777 !important;}" url="https://wpcaddy.com/total-theme-review/" hover_background="#888888"]<em>With so many different types of suit out there, each with its own needs and styles, the market for multi-purpose WordPress themes has grown and grown in recent times. More developers...</em>[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row]</p>
 ]]></content:encoded>
@@ -837,13 +847,17 @@ WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplore
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1635961549753{margin-bottom: 40px !important;background-color: #0e7a99 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1473198504589{margin-bottom: 0px !important;}.vc_custom_1474332650915{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #333333 !important;}.vc_custom_1474332657991{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #555555 !important;}.vc_custom_1542694755162{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #777777 !important;}.vc_custom_1474332672912{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #333333 !important;}.vc_custom_1474332677802{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #555555 !important;}.vc_custom_1474332683335{padding-top: 30px !important;padding-right: 20px !important;padding-bottom: 30px !important;padding-left: 20px !important;background-color: #777777 !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Features]]></title>
 		<link>https://total.wpexplorer.com/boost/features/</link>
 		<pubDate>Tue, 06 Sep 2016 18:43:34 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?page_id=20</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?page_id=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1635961875207{margin-bottom: 80px !important;background-color: #0e7a99 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][vc_column css=".vc_custom_1473198584128{margin-bottom: 0px !important;}"][vc_single_image image="42" alignment="center"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1635961880404{margin-bottom: 80px !important;}"][vc_column][vcex_grid_container columns_md="2" gap="60px 30px"][vcex_icon_box heading="Responsive Design" icon="fa fa-object-group" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Your site will look great on desktops, tablets and mobile devices.[/vcex_icon_box][vcex_icon_box heading="Drag &amp; Drop" icon="fa fa-arrows" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Create a beautiful site with customizable page modules.[/vcex_icon_box][vcex_icon_box heading="Live Customizer" icon="fa fa-paint-brush" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Customizing your site is easy with hundreds of options &amp; live preview.[/vcex_icon_box][vcex_icon_box heading="eCommerce" icon="fa fa-shopping-cart" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Total is WooCommerce compatible, so you can start selling today.[/vcex_icon_box][vcex_icon_box heading="Unlimited Colors" icon="fa fa-eyedropper" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Choose any color in the rainbow with the built-in color pickers.[/vcex_icon_box][vcex_icon_box heading="Premium Sliders" icon="fa fa-picture-o" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Use Slider Revolution or the Layer Slider to make a big impact.[/vcex_icon_box][vcex_icon_box heading="Boxed &amp; Full Layout" icon="fa fa-toggle-on" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Choose a boxed or full layout, as well as left, right or no sidebar.[/vcex_icon_box][vcex_icon_box heading="Custom Fonts" icon="fa fa-text-width" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Choose from 779+ Google fonts, or load your own custom font.[/vcex_icon_box][vcex_icon_box heading="Mega Menu" icon="fa fa-th" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Use Total's Symple mega menu to create large &amp; easy menus.[/vcex_icon_box][vcex_icon_box heading="Header &amp; Footer" icon="fa fa-cogs" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Use our custom header &amp; footer builders to create a unique design.[/vcex_icon_box][vcex_icon_box heading="Custom Post Types" icon="fa fa-pencil-square-o" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Add portfolios, staff and testimonials is easily with custom post types.[/vcex_icon_box][vcex_icon_box heading="Translation Ready" icon="fa fa-globe" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Translate Total with your plugin of choice using included .po/.mo files.[/vcex_icon_box][vcex_icon_box heading="Child Theme Ready" icon="fa fa-user-plus" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Design a truly custom site with the included starter child theme.[/vcex_icon_box][vcex_icon_box heading="Crossbrowser Tested" icon="fa fa-flask" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Total has been tested on major browsers to ensure compatibility.[/vcex_icon_box][vcex_icon_box heading="SEO Best Practices" icon="fa fa-trophy" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Semantic valid HTML &amp; W3C valid code make Total SEO friendly.[/vcex_icon_box][vcex_icon_box heading="Google Page Speed" icon="fa fa-tachometer" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Squeaky clean &amp; parred down code keeps Total (and your site) fast.[/vcex_icon_box][vcex_icon_box heading="Auto Updates" icon="fa fa-refresh" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Update Total automatically with the Envato Toolkit or Envato Market plugin.[/vcex_icon_box][vcex_icon_box heading="Support &amp; Docs" icon="fa fa-life-ring" heading_transform="uppercase" icon_size="36px" heading_size="18px" container_left_padding="60px" icon_color="#666666"]Online documentation and ticketed support make it easy to get help.[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row css=".vc_custom_1635961904859{margin-bottom: 40px !important;}"][vc_column][vcex_button url="https://total.wpexplorer.com" target="blank" title="View More Total Theme Features" style="outline" align="center" color="grey" text_transform="uppercase" font_size="18px" custom_color="#666666" custom_hover_background="#666666" custom_hover_color="#ffffff" width="60%"]View More Total Theme Features[/vcex_button][/vc_column][/vc_row]</p>
 ]]></content:encoded>
@@ -878,13 +892,17 @@ WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplore
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1635961875207{margin-bottom: 80px !important;background-color: #0e7a99 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1635961880404{margin-bottom: 80px !important;}.vc_custom_1635961904859{margin-bottom: 40px !important;}.vc_custom_1473198584128{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Testimonial 1]]></title>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-1/</link>
 		<pubDate>Tue, 06 Sep 2016 23:25:06 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=44</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[By far the best theme I've ever bought, I return to it time and again for various different projects and it is consistently adaptable and useable. Great Customer support from a team that always go the extra mile to help. Thanks for creating such a great theme.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -920,7 +938,7 @@ WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplore
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-2/</link>
 		<pubDate>Tue, 06 Sep 2016 23:27:09 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=45</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[To be honest, I think this is the only theme anyone would ever need. It comes with everything and so easy to work with. Not to mention that if you ever do have a question, the support team is right there behind you.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -952,7 +970,7 @@ WITH TOTAL[/vc_column_text][vcex_spacing][vcex_button url="https://www.wpexplore
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-3/</link>
 		<pubDate>Tue, 06 Sep 2016 23:36:49 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=46</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[I wish I could multiple select reasons, but Total has been awesome for two different sites I developed with this theme (thatbrewery.com and blog.ptvermont.org), and it offers so much variety you would now guess they were the same.
 
@@ -986,7 +1004,7 @@ The support too has been top notch.]]></content:encoded>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-4/</link>
 		<pubDate>Tue, 06 Sep 2016 23:37:16 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=47</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[This theme is the full package – flexible, robust and beautifully designed. Plus, the developers were super helpful and quick to respond to some issues I had. I highly recommend this developer and theme.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1007,6 +1025,39 @@ The support too has been top notch.]]></content:encoded>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Flexibility]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_post_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Testimonial 5]]></title>
+		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-5/</link>
+		<pubDate>Tue, 06 Sep 2016 23:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[I’ve never seen a theme so well code designed, so well graphic designed, so well human maintained… I really love to use this theme, AJ is a great programmer, but first of all, he is a great listener… So It is easy to get the support you need from this team.
+I’ve never seen a support like this in a lot of time…]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2016-09-06 23:38:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-09-06 23:38:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-11-03 17:52:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-03 17:52:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonial-5]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Code Quality]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_rating]]></wp:meta_key>
@@ -1641,79 +1692,11 @@ The support too has been top notch.]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Total]]></title>
-		<link>https://total.wpexplorer.com/boost/total/</link>
-		<pubDate>Tue, 14 Mar 2017 22:34:38 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/total/</guid>
-		<description></description>
-		<content:encoded><![CDATA[/* Add a little more margin to menu items */
-.navbar-style-one .dropdown-menu > li { margin-left: 30px; }
-
-/* Remove menu button border-radius */
-.navbar-style-one .dropdown-menu > li > a > span.link-inner { border-radius: 0; }
-
-/* Add custom hover to menu button */
-#site-navigation .dropdown-menu > li.menu-button > a > span.link-inner:hover { background: #0baee0; }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>76</wp:post_id>
-		<wp:post_date><![CDATA[2017-03-14 22:34:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-03-14 22:34:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-03-14 22:34:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-03-14 22:34:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[total]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Testimonial 5]]></title>
-		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-5/</link>
-		<pubDate>Tue, 06 Sep 2016 23:38:53 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[I’ve never seen a theme so well code designed, so well graphic designed, so well human maintained… I really love to use this theme, AJ is a great programmer, but first of all, he is a great listener… So It is easy to get the support you need from this team.
-I’ve never seen a support like this in a lot of time…]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2016-09-06 23:38:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-09-06 23:38:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 17:52:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 17:52:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[testimonial-5]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_testimonial_author]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Code Quality]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_post_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Testimonial 6]]></title>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-6/</link>
 		<pubDate>Tue, 06 Sep 2016 23:39:39 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=49</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p class="t-body h-my1">best-rated themes, I’m glad to have chosen TOTAL which I consider superior in as key aspects as :</p>
 <p class="t-body h-my1">– Features
@@ -1751,7 +1734,7 @@ Michel (Paris, France)</p>]]></content:encoded>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-7/</link>
 		<pubDate>Tue, 06 Sep 2016 23:40:25 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=50</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lets just say that: flexibility, feature availability, documentation, code quality, customer support and design are truly great!!! Highly recommended.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1783,7 +1766,7 @@ Michel (Paris, France)</p>]]></content:encoded>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-8/</link>
 		<pubDate>Tue, 06 Sep 2016 23:40:48 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=52</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[After some experiences with bloated themes, it was a huge relief working with Total. It’s so fast and easy that it actually gets fun (as it always should be). It has great designed skins right out of the box, and the admin structure it’s beautifully crafted: you flip when you see that almost everything you need is there. On top of that is a superb customer support, that even gives you snippets to get the work done as your client needs it. Totally recommended. Keep the good work guys!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1815,7 +1798,7 @@ Michel (Paris, France)</p>]]></content:encoded>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-9/</link>
 		<pubDate>Tue, 06 Sep 2016 23:51:18 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=53</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[This WordPress theme is the best when you need to create a custom WordPress theme, because it really allows you to do almost everything you want with every elements of your website, using php code or css.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1847,7 +1830,7 @@ Michel (Paris, France)</p>]]></content:encoded>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-10/</link>
 		<pubDate>Tue, 06 Sep 2016 23:51:42 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=54</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=54</guid>
 		<description></description>
 		<content:encoded><![CDATA[Very satisfied with the Total theme. It’s a user-friendly theme with good documentation on the side. But, above all, customer support is fast, friendly and goes the extra mile for you. I would recommend this theme to everybody.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1879,7 +1862,7 @@ Michel (Paris, France)</p>]]></content:encoded>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-11/</link>
 		<pubDate>Tue, 06 Sep 2016 23:52:04 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=55</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[I’ve tried a lot of themes . But I want to say that Total theme is really number one. It is a tremendous theme of each subject. High-level technical support, easy to control , extensive functionality , a lot of beautiful plugins and etc. I want to say, you must try it. Show me any site, I can make it in total theme. It is amazing!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1911,7 +1894,7 @@ Michel (Paris, France)</p>]]></content:encoded>
 		<link>https://total.wpexplorer.com/boost/testimonial/testimonial-12/</link>
 		<pubDate>Tue, 06 Sep 2016 23:52:45 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/boost/?post_type=testimonials&#038;p=56</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/boost/?post_type=testimonials&#038;p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[The theme is SEO friendly and is really easy to customise. I love it. Thanks!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>

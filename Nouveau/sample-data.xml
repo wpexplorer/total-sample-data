@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.3" created="2022-05-04 22:12" -->
+	<!-- generator="WordPress/6.1.1" created="2023-01-24 03:00" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Nou·veau</title>
 	<link>https://total.wpexplorer.com/nouveau</link>
-	<description>Just another Total Theme Demo site</description>
-	<pubDate>Wed, 04 May 2022 22:12:37 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Tue, 24 Jan 2023 03:00:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
@@ -120,7 +120,7 @@
 			<wp:term><wp:term_id>14</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
 		<title><![CDATA[fern]]></title>
@@ -1443,7 +1443,7 @@
 		<link>https://total.wpexplorer.com/nouveau/?post_type=portfolio&#038;p=7</link>
 		<pubDate>Fri, 16 Jan 2015 21:25:39 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=7</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nunc laoreet elit vitae risus pulvinar, id tempus libero fringilla. Mauris congue velit at dui egestas, nec venenatis neque posuere. Mauris sollicitudin ultricies velit, aliquam vulputate magna posuere vitae. Mauris auctor quam sit amet lectus tincidunt, sodales malesuada arcu imperdiet. Nullam nunc orci, ultrices vel magna a, euismod imperdiet mi. Etiam porttitor dolor vitae ullamcorper elementum. Maecenas in ligula commodo, congue lacus non, imperdiet velit.
 
@@ -1477,16 +1477,16 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/portfolio/</link>
 		<pubDate>Fri, 16 Jan 2015 21:43:09 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?page_id=40</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=40</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row margin_bottom="0px" padding_bottom="0px"][vc_column][vcex_portfolio_grid posts_per_page="12" pagination_loadmore="true" order="DESC" filter="true" center_filter="yes" masonry_layout_mode="fitRows" img_size="full" title="false" excerpt="false" read_more="false" orderby="date" overlay_style="hover-button" columns_gap="30" overlay_button_text="view project"][/vc_column][/vc_row]</p>
+		<content:encoded><![CDATA[<p>[vc_row margin_bottom="0px" padding_bottom="0px"][vc_column][vcex_navbar filter_layout_mode="ajax" term_count="true" bottom_margin="20px" menu="dynamic_terms" taxonomy="portfolio_category" filter_menu="portfolio-grid" align="center"][wpex_post_cards post_types="portfolio" pagination="loadmore" card_style="image_1" thumbnail_overlay_style="hover-button" thumbnail_overlay_button_text="View Project" unique_id="portfolio-grid"][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-16 21:43:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-16 21:43:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-03 15:16:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-03 15:16:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-01-24 02:59:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-01-24 02:59:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
@@ -1534,7 +1534,7 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/blog/</link>
 		<pubDate>Fri, 16 Jan 2015 22:01:16 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?page_id=42</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=42</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1582,7 +1582,7 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/</link>
 		<pubDate>Fri, 16 Jan 2015 22:02:10 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?page_id=43</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true" css=".vc_custom_1627946686857{padding-top: 60px !important;padding-bottom: 60px !important;}"][vc_column][vcex_heading text="Welcome to nou·veau." text_align="center" tag="h1" font_weight="900"][vcex_spacing size="20px"][vc_column_text width="700px" text_align="center" font_size="24px"]We are an innovative and creative agency that makes things. Keep reading to learn about what we can do for your business.[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1627946599627{padding-top: 70px !important;padding-bottom: 80px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_heading text="Recent Projects" tag="h2" font_weight="normal" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]We are creative people making incredible things.[/vc_column_text][vcex_spacing size="40px"][vcex_portfolio_carousel thumbnail_link="lightbox" img_size="full" title="false" excerpt="false" arrows="false" dots="true" items="3" items_margin="30" overlay_style="plus-hover"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1627946804583{padding-top: 10% !important;padding-bottom: 10% !important;}"][vc_column][vcex_heading text="Our Services" tag="h2" font_weight="normal" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]High quality web design and social media marketing.[/vc_column_text][vcex_divider color="accent" width="50px" height="2px" margin="top:30px|bottom:60px"][vcex_grid_container columns_sm="2" gap="60px"][vcex_icon_box heading="Powerful Options" style="two" icon="ticon ticon-superpowers" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px"]The Total theme includes tons of powerful options to help you build a perfect website for your business.[/vcex_icon_box][vcex_icon_box heading="Useful Tools" style="two" icon="ticon ticon-database" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px"]Stacked with useful tools such as a page builder making websites has never been so easy as it is with Total.[/vcex_icon_box][vcex_icon_box heading="Quality Support" style="two" icon="ticon ticon-life-ring" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px"]We pride ourselves in providing unmatched support oftentimes going out of our way to help with customizations.[/vcex_icon_box][vcex_icon_box heading="Expert Code" style="two" icon="ticon ticon-code" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px"]Coded to the highest standards, Total delivers not only a fast but bug free experience you will surely love.[/vcex_icon_box][vcex_icon_box heading="Flexible Features" style="two" icon="ticon ticon-plug" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px"]Almost everything is fully customizable via the backend and powerful filters and hooks provide added developer support.[/vcex_icon_box][vcex_icon_box heading="Translation Ready" style="two" icon="ticon ticon-globe" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px"]Localized and even translated into various popular languages create a multi-language site for your visitors.[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1546656192135{margin-bottom: 80px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-image: url(https://total.wpexplorer.com/nouveau/wp-content/uploads/sites/7/2015/01/rocks.jpg?id=76) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="bg-fixed"][vc_column margin_bottom="0px"][vc_column_text text_align="center" color="#ffffff" font_size="24" width="760px" font_family="Georgia, serif"]The price of success is hard work, dedication to the job at hand, applied the best of ourselves to the task at hand.[/vc_column_text][vcex_spacing size="20px"][vc_column_text italic="true" text_align="center" color="#ffffff" font_size="18px"]- Vince Lombardi[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1489787065719{margin-bottom: 20px !important;}"][vc_column][vcex_heading text="Recent News" tag="h2" font_weight="400" text_align="center" font_size="32px"][vc_column_text el_class="limit-text-width" text_align="center"]The latest news and events from the nou·veau team.[/vc_column_text][vcex_spacing size="40px"][vcex_blog_grid grid_style="fit_columns" columns="3" posts_per_page="3" order="DESC" excerpt_length="18" read_more="false" orderby="date" columns_gap="30" img_hover_style="opacity" img_width="600" img_height="320" custom_excerpt_trim="true" content_border="none" content_padding="20px 0 0"][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" bg_style="stretch" css=".vc_custom_1517699237330{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_heading text="Get Total today to make your own site like this." tag="h3" font_weight="400" text_align="center" font_size="24px"][vcex_spacing][vcex_button url="http://themeforest.net/item/total-responsive-multipurpose-wordpress-theme/6339019?ref=wpexplorer" rel="nofollow" target="blank" hover_animation="float-shadow" style="flat" align="center" color="black" text_transform="uppercase" font_weight="normal" font_size="14px" letter_spacing="2px" font_padding="15px 25px" custom_hover_background="accent"]Get Total Today[/vcex_button][/vc_column][/vc_row]</p>
 ]]></content:encoded>
@@ -1635,7 +1635,7 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/services/</link>
 		<pubDate>Fri, 16 Jan 2015 23:15:14 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?page_id=62</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true" css=".vc_custom_1627947700052{padding-top: 60px !important;padding-bottom: 60px !important;}"][vc_column][vcex_grid_container columns_lg="" columns_md="3" gap="30px"][vcex_icon_box heading="Powerful Options" style="two" icon="ticon ticon-sliders" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px" css=".vc_custom_1627947551369{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #f7f7f7 !important;}"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][vcex_icon_box heading="Quality Support" style="two" icon="ticon ticon-life-ring" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px" css=".vc_custom_1627948400556{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #f7f7f7 !important;}"]Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo. Vivamus eros at.[/vcex_icon_box][vcex_icon_box heading="Useful Tools" style="two" icon="ticon ticon-plug" heading_type="h2" heading_size="18px" icon_color="accent" icon_size="32px" css=".vc_custom_1627947537319{padding-top: 30px !important;padding-right: 30px !important;padding-bottom: 30px !important;padding-left: 30px !important;background-color: #f7f7f7 !important;}"]Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet sed.[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row full_width="stretch_row" remove_bottom_col_margin="true" css=".vc_custom_1627947811451{padding-top: 60px !important;padding-bottom: 60px !important;background-color: #f5f5f5 !important;}"][vc_column][vcex_grid_container columns_lg="" columns_md="2" gap="50px"][vcex_pricing cost="$29" button_text="Get Started" plan_weight="bold" button_style="flat" plan_border="0px" plan_background="accent" cost_background="#f7f7f7" button_url="url:https%3A%2F%2Ftotal.wpexplorer.com%2Fnouveau%2Fcontact%2F|title:Get%20A%20Quote|target:%20_blank|" button_letter_spacing="1px" button_padding="15px 30px" per="/month" per_color="#888888" plan_letter_spacing="1px" plan_color="#000000" per_size="16px" button_wrap_padding="25px" button_size="16px" plan_size="24px" cost_color="#444444" button_transform="uppercase"]</p>
 <ul class="check-list">
@@ -1716,7 +1716,7 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/contact/</link>
 		<pubDate>Fri, 16 Jan 2015 23:15:21 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?page_id=63</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true" css=".vc_custom_1627940403958{margin-bottom: 40px !important;border-bottom-width: 1px !important;padding-bottom: 40px !important;border-bottom-color: #ededed !important;border-bottom-style: solid !important;}"][vc_column][vc_column_text responsive_text="true" text_align="center" font_size="24px" width="700px"]Send us a message, but don't forget to add your contact info. We'd love to help your business reach its goals![/vc_column_text][/vc_column][/vc_row][vc_row content_placement="middle" column_spacing="50" css=".vc_custom_1627940346811{margin-bottom: 40px !important;}"][vc_column width="1/2"][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDYzMDQuODI5OTg2MTMxMjcxJTIxMmQtMTIyLjQ3NDY5NjgwMzMwOTIlMjEzZDM3LjgwMzc0NzUyMTYwNDQzJTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4ODA4NTg2ZTYzMDI2MTVhMSUyNTNBMHg4NmJkMTMwMjUxNzU3YzAwJTIxMnNTdG9yZXklMkJBdmUlMjUyQyUyQlNhbiUyQkZyYW5jaXNjbyUyNTJDJTJCQ0ElMkI5NDEyOSUyMTVlMCUyMTNtMiUyMTFzZW4lMjEyc3VzJTIxNHYxNDM1ODI2NDMyMDUxJTIyJTIwd2lkdGglM0QlMjI2MDAlMjIlMjBoZWlnaHQlM0QlMjI0NTAlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBzdHlsZSUzRCUyMmJvcmRlciUzQTAlMjIlMjBhbGxvd2Z1bGxzY3JlZW4lM0UlM0MlMkZpZnJhbWUlM0U=" size="600px"][/vc_column][vc_column width="1/2"][vcex_heading text="Send us a message" bottom_margin="10px" font_size="20px" font_weight="bold"][vc_column_text]Fill out the form below to send us a message and we'll get back to you asap. Make sure to include all crucial details.[/vc_column_text][vcex_spacing][vcex_contact_form enable_placeholders="true" enable_privacy_check="false" enable_required_label="false" label_message="Your message here..."][/vc_column][/vc_row]</p>
 ]]></content:encoded>
@@ -1777,7 +1777,7 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/our-team/</link>
 		<pubDate>Fri, 16 Jan 2015 23:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?page_id=73</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?page_id=73</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row][vc_column][vcex_staff_grid columns_gap="30" posts_per_page="12" order="DESC" orderby="date" thumb_link="nowhere" title_link="nowhere" position="true" social_links="true" social_links_style="none" read_more="false" img_width="9999" img_height="9999" excerpt_length="23" content_heading_size="21px" social_links_size="16px"][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1837,20 +1837,31 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/total/</link>
 		<pubDate>Tue, 14 Mar 2017 22:24:15 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/nouveau/total/</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/nouveau/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* Remove margin from menu social icons and search */
-.menu-social-item,
-.search-toggle-li {
-	--wpex-main-nav-gutter: 0;
-	--wpex-main-nav-icon-margin: 0;
+		<content:encoded><![CDATA[/* Add a little extra spacing to menu items */
+.navbar-style-one .dropdown-menu > li { margin-left: 8px }
+
+/* Remove margin from menu social icons and search */
+#site-navigation .dropdown-menu li.social-item,
+#site-navigation .dropdown-menu li.wpex-menu-extra { margin-left: 0; }
+#site-navigation .dropdown-menu li.social-item .fa { margin-right: 0; }
+
+/* Add background to centered minimal page header */
+.page-header.centered-minimal-page-header {
+  background: #f7f7f7;
+}
+
+/* Hide Social Icons From Mobile Menu */
+.sidr-class-social-item {
+  display: none;
 }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-14 22:24:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-14 22:24:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-05-04 22:10:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-05-04 22:10:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-15 00:57:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-15 00:57:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -2558,7 +2569,7 @@ Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/fern-gully/</link>
 		<pubDate>Fri, 16 Jan 2015 21:21:00 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=5</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[Morbi nec dolor diam. Proin eu mi tempor, pulvinar magna ac, pharetra nisi. Suspendisse potenti. Etiam et massa vitae dolor lobortis aliquet vel at eros. Proin cursus augue sit amet urna imperdiet lacinia. Sed vel risus ac orci posuere tristique at id diam. Nulla ut ligula ante. Donec eget massa ut metus pretium sodales. Etiam id sagittis ante. Morbi nunc ipsum, finibus porttitor interdum eu, auctor sit amet leo. Vivamus in molestie nisl. Praesent condimentum non nisi eu luctus. Aliquam volutpat enim vitae placerat congue.
 
@@ -2593,7 +2604,7 @@ Phasellus ornare sit amet sem vitae dapibus. Sed viverra ipsum nunc, nec tincidu
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/sparkles/</link>
 		<pubDate>Fri, 16 Jan 2015 21:33:19 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=9</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[Maecenas vitae nulla nec mauris iaculis pharetra sit amet sed augue. Vivamus tincidunt, eros at viverra ornare, leo nunc fermentum erat, eget fringilla magna sem cursus tortor. Suspendisse erat nibh, dapibus quis ultrices placerat, facilisis eget arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pharetra suscipit eros, a tristique turpis rutrum eu. Nullam cursus metus eget lorem ultrices, at auctor purus commodo. Sed ac dui scelerisque, rutrum urna in, suscipit quam. Maecenas congue condimentum arcu, a pulvinar sapien fringilla tempus. In aliquam leo quis massa egestas, quis finibus mi tincidunt. Morbi sodales tincidunt dui, at volutpat odio suscipit id. Donec nisl velit, consectetur sed dolor a, scelerisque convallis nulla. Etiam convallis ullamcorper metus ac iaculis. In in pretium massa. Nam a odio vel enim volutpat ultricies quis et diam. Aenean euismod purus tortor, ut luctus sapien blandit sit amet. Maecenas efficitur metus vel nulla egestas, non bibendum nulla dictum.
 
@@ -2624,7 +2635,7 @@ Sed sit amet lorem neque. Cras ut consequat augue. Sed elementum dignissim nulla
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/branded/</link>
 		<pubDate>Fri, 16 Jan 2015 21:34:09 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=14</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[Fusce convallis erat et turpis luctus, sed vehicula mauris gravida. Etiam eu mattis mi, ut porta tellus. Nulla vestibulum pretium bibendum. Mauris tincidunt massa nec bibendum euismod. In elementum est sit amet augue maximus iaculis. Pellentesque aliquam nibh egestas eros volutpat, efficitur semper mauris sollicitudin. Donec rhoncus vulputate orci, faucibus interdum dui. Nam luctus pulvinar mi, in vestibulum tortor ultricies eget. Suspendisse molestie velit eget dolor venenatis, vitae sollicitudin neque iaculis. Vestibulum id volutpat lorem. Nullam id nisl at purus pharetra sagittis. Curabitur sem felis, eleifend ut finibus ac, pharetra sit amet elit. Integer venenatis maximus lectus et iaculis. Donec dignissim euismod imperdiet. Duis condimentum nisl dui, eget pulvinar nibh consectetur eu.
 
@@ -2658,7 +2669,7 @@ In vel arcu at nisi vehicula mollis. Lorem ipsum dolor sit amet, consectetur adi
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/canoeing-basics/</link>
 		<pubDate>Fri, 16 Jan 2015 21:35:32 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=16</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=16</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quisque malesuada lectus quam, in molestie risus ultrices quis. Etiam maximus, augue et ornare commodo, ante velit rutrum erat, ut suscipit elit sapien vel dui. Sed mattis felis eu nibh fringilla, sit amet vulputate leo fringilla. Nulla laoreet convallis velit, eu lacinia augue ornare nec.
 
@@ -2691,7 +2702,7 @@ Aenean non ultricies elit. Cras pellentesque pretium efficitur. Quisque vulputat
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/hot-air-balloon/</link>
 		<pubDate>Fri, 16 Jan 2015 21:36:17 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=18</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quisque sed urna eu risus feugiat rhoncus vel quis purus. Quisque sed risus nec ante cursus faucibus. Morbi nisl metus, semper eu ante in, sollicitudin blandit sapien. Quisque non mollis sapien, quis aliquam sem. Ut dolor nulla, consectetur non ultricies sit amet, vulputate quis justo. Donec ultricies lorem quis mi aliquet, in volutpat augue dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam non dictum lorem, quis pharetra dui.
 
@@ -2724,7 +2735,7 @@ Mauris sollicitudin vestibulum mollis. Duis vel urna id massa accumsan iaculis. 
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/coffee-shop/</link>
 		<pubDate>Fri, 16 Jan 2015 21:36:52 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=20</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam eu mi vitae nisi auctor eleifend. Nulla sodales neque enim. Donec mollis vulputate mauris, eget varius ex tristique vitae. Donec aliquam pharetra massa, in facilisis nunc porttitor in. Phasellus consequat finibus diam rhoncus ornare. Nullam convallis gravida lorem. Nulla facilisi. Donec molestie felis sit amet lacus molestie scelerisque. Morbi sed turpis nibh. Duis velit dolor, scelerisque eu auctor at, dictum at ipsum. Vestibulum in elit non nibh commodo efficitur et varius odio. Fusce auctor sodales hendrerit. Nullam luctus, lacus quis iaculis ullamcorper, eros nulla dignissim dolor, sed ornare dolor dui vitae metus.
 
@@ -2755,7 +2766,7 @@ Aliquam a lacus lacus. Quisque volutpat vel nibh sit amet facilisis. Sed ultrici
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/barrel-cactus/</link>
 		<pubDate>Fri, 16 Jan 2015 21:37:58 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=22</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam eu mi vitae nisi auctor eleifend. Nulla sodales neque enim. Donec mollis vulputate mauris, eget varius ex tristique vitae. Donec aliquam pharetra massa, in facilisis nunc porttitor in. Phasellus consequat finibus diam rhoncus ornare. Nullam convallis gravida lorem. Nulla facilisi. Donec molestie felis sit amet lacus molestie scelerisque. Morbi sed turpis nibh. Duis velit dolor, scelerisque eu auctor at, dictum at ipsum. Vestibulum in elit non nibh commodo efficitur et varius odio. Fusce auctor sodales hendrerit. Nullam luctus, lacus quis iaculis ullamcorper, eros nulla dignissim dolor, sed ornare dolor dui vitae metus.
 
@@ -2787,7 +2798,7 @@ Aliquam a lacus lacus. Quisque volutpat vel nibh sit amet facilisis. Sed ultrici
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/stationary/</link>
 		<pubDate>Fri, 16 Jan 2015 21:38:26 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=24</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[Fusce elementum enim felis, in tincidunt dolor condimentum id. Curabitur sit amet aliquet mauris. Pellentesque augue libero, imperdiet ac ante lacinia, facilisis condimentum quam. Proin vestibulum felis quam, non suscipit ipsum porta nec. Nunc consequat, diam et porttitor feugiat, leo eros facilisis nibh, porttitor luctus ex enim tristique quam. Maecenas consequat mauris ut enim tempor tincidunt. Praesent semper ac nisi interdum consequat. Nunc ac quam sodales, hendrerit leo non, egestas eros. Vivamus aliquam metus eu tellus semper pretium. Nunc maximus nunc augue, non luctus nisl posuere at. Phasellus eu porttitor leo. Quisque ac felis finibus dui suscipit tincidunt lobortis pretium lorem. Fusce pharetra lacinia euismod. Vestibulum lorem mauris, eleifend id orci vitae, aliquam pellentesque urna. Proin aliquam et turpis quis laoreet.
 
@@ -2822,7 +2833,7 @@ Vivamus gravida quis dolor nec fringilla. Maecenas diam nisi, sollicitudin gravi
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/grizzly-bear/</link>
 		<pubDate>Fri, 16 Jan 2015 21:38:53 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=26</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[Proin pharetra est magna, eu vestibulum augue vehicula eget. Integer non lorem vitae ligula laoreet vestibulum. Nulla facilisi. In hac habitasse platea dictumst. Quisque nulla lorem, viverra ornare euismod sed, condimentum eu justo. Morbi elit felis, accumsan vitae lacus ac, sagittis porta justo. Suspendisse magna lectus, rutrum sed lorem sit amet, suscipit tincidunt tortor. Nulla sodales erat eu augue tempus convallis. Mauris et urna vel erat faucibus tristique a ac risus. Sed dictum justo eu ante tempus finibus. Donec rhoncus, nunc blandit maximus viverra, elit lacus efficitur leo, quis ultricies eros velit at nulla. Sed ut lectus pulvinar, sagittis massa sit amet, porta turpis. Proin blandit, urna ac ullamcorper aliquet, turpis mi faucibus nisi, eu tristique sapien erat sit amet lorem. Integer eleifend tellus ac eros rhoncus, interdum dictum eros malesuada.
 
@@ -2854,7 +2865,7 @@ Nam cursus turpis in risus pretium, ac convallis sem convallis. Morbi eu faucibu
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/everyone-on-deck/</link>
 		<pubDate>Fri, 16 Jan 2015 21:39:21 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=28</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vivamus ut aliquet leo. In nec tellus tempor, lobortis justo non, vulputate risus. Praesent iaculis convallis feugiat. Donec ac congue nisl. Etiam vulputate ex quis lorem ullamcorper convallis. Aliquam vitae metus risus. Sed eleifend tempor enim quis euismod.
 
@@ -2887,7 +2898,7 @@ Maecenas blandit pulvinar tempus. Mauris fermentum nisl venenatis quam gravida, 
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/busy-cafe/</link>
 		<pubDate>Fri, 16 Jan 2015 21:39:41 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=30</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[Etiam et est sit amet enim euismod pharetra. Curabitur eleifend commodo magna nec malesuada. Duis vel mi a mi laoreet iaculis et sed orci. Donec luctus bibendum dolor, eu fringilla lectus volutpat eu. Phasellus sed turpis venenatis, accumsan nisl non, fermentum ante. Nam sodales commodo luctus. Etiam lacinia purus vitae bibendum semper. Ut at odio in est fermentum consectetur. Quisque consequat vehicula turpis, id blandit elit placerat et.
 
@@ -2921,7 +2932,7 @@ Suspendisse non egestas sem. Cras commodo ante nulla, et tempor mauris placerat 
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/italian-scooter/</link>
 		<pubDate>Fri, 16 Jan 2015 21:40:14 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=32</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[Aenean commodo, erat non efficitur fermentum, mauris urna convallis elit, et venenatis nulla nulla sed justo. Ut pretium aliquet leo eget mollis. Phasellus vitae turpis non neque euismod semper eu ut tortor. In vitae magna eu ligula cursus laoreet. Vivamus vehicula elementum varius. Mauris id feugiat diam, eget venenatis sem. Fusce eu convallis est, nec hendrerit sapien. Phasellus est purus, posuere vel lobortis at, vulputate quis erat. Suspendisse sollicitudin suscipit diam et mattis. Sed ex sapien, placerat ac libero ac, faucibus elementum leo. Ut aliquet dolor vitae lectus vulputate tincidunt. Donec mollis imperdiet neque, in porta augue. Nam porta, lectus quis vestibulum luctus, odio tortor accumsan risus, sit amet imperdiet mauris libero et neque. Cras auctor finibus augue, in egestas arcu condimentum ut. Proin at tortor quis purus accumsan accumsan in et massa. Phasellus tempor, leo nec consequat viverra, lacus eros egestas est, vitae dignissim purus tortor eget enim.
 
@@ -2953,7 +2964,7 @@ Fusce eget tincidunt ante. Maecenas egestas velit sed leo finibus, vel imperdiet
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/empire-state/</link>
 		<pubDate>Fri, 16 Jan 2015 21:41:02 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=34</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[Morbi rutrum erat id metus tempus, in pharetra mi pharetra. Fusce pulvinar nisl sit amet enim dignissim lacinia. Etiam at placerat felis. Integer vitae egestas nunc, et dictum turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi accumsan mollis lorem, ac gravida elit. Donec congue lacus vitae felis eleifend, quis commodo erat rhoncus. Maecenas dapibus aliquet ipsum a tincidunt. Ut cursus pretium tempor. Curabitur ac convallis sapien, ut sagittis massa. Pellentesque massa lorem, posuere id imperdiet in, mollis quis purus. Integer vitae lectus tristique, gravida urna eget, finibus risus. Ut ac ante id nibh molestie fringilla.
 
@@ -2984,7 +2995,7 @@ Donec eu mauris urna. Vivamus eu finibus sapien, in lacinia massa. Aenean semper
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/orange-chair/</link>
 		<pubDate>Fri, 16 Jan 2015 21:41:39 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=36</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=36</guid>
 		<description></description>
 		<content:encoded><![CDATA[Suspendisse eget efficitur ligula. Maecenas bibendum fermentum mauris ac posuere. Aliquam rhoncus erat ut nisi pharetra, quis vehicula justo pulvinar. Praesent a mi et nisi pellentesque iaculis. Suspendisse volutpat, lacus a dapibus malesuada, dui elit rhoncus lorem, eu tincidunt nisl nibh at augue. Donec a aliquet sem. Nulla dictum tempus mi luctus ornare. Fusce auctor, odio sit amet malesuada cursus, odio mauris aliquet mi, non ornare sapien tellus at ex. Donec quis posuere erat. Mauris risus risus, cursus vel congue ac, bibendum sit amet leo. Nam mattis id lorem id tempus.
 
@@ -3017,7 +3028,7 @@ Nullam est quam, hendrerit in dapibus vitae, maximus nec magna. Nullam at iaculi
 		<link>https://total.wpexplorer.com/nouveau/portfolio-item/into-the-woods/</link>
 		<pubDate>Fri, 16 Jan 2015 21:42:24 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=portfolio&#038;p=38</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=portfolio&#038;p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nullam elementum felis nisi, ac vehicula quam ornare nec. Suspendisse vitae urna in ligula maximus cursus. Morbi et sem sed diam commodo laoreet. Aenean accumsan enim ut erat fermentum viverra. Etiam pulvinar tempus nulla, eu ullamcorper dui tempor non. Curabitur tempor sagittis velit, ac blandit mi euismod vitae. Donec malesuada eget sem in feugiat. Aenean consectetur, eros id scelerisque congue, sapien augue scelerisque tellus, sit amet blandit sapien nulla sed massa. Vivamus convallis nibh felis, in lacinia diam eleifend in. Quisque quis libero vitae enim cursus malesuada.
 
@@ -3050,7 +3061,7 @@ Donec scelerisque placerat purus, sed scelerisque neque lobortis a. Mauris a nul
 		<link>https://total.wpexplorer.com/nouveau/close-your-eyes-make-a-wish/</link>
 		<pubDate>Fri, 16 Jan 2015 22:09:00 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?p=44</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[Donec imperdiet imperdiet odio, non scelerisque ante finibus at. Phasellus lacinia mi quis vestibulum interdum. Mauris ac velit eu turpis egestas pellentesque et nec libero. Duis enim tortor, pellentesque sit amet scelerisque ut, euismod laoreet ante. Nulla in sem eget diam mollis posuere vel id neque. Nunc quis mauris nunc.
 
@@ -3134,7 +3145,7 @@ Maecenas turpis risus, pretium non lorem et, ullamcorper malesuada nunc. Fusce a
 		<link>https://total.wpexplorer.com/nouveau/red-bridge-to-oakland/</link>
 		<pubDate>Fri, 16 Jan 2015 22:07:40 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?p=45</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[Donec non ligula in sapien tincidunt eleifend. Nullam porta metus est, at pharetra mauris venenatis et. Praesent non eros erat. Quisque eget odio efficitur, suscipit dui a, faucibus sapien. Vestibulum tempus congue sem, ac sagittis elit cursus vel. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam ultrices enim tortor, ut accumsan tellus fringilla eget.
 
@@ -3171,7 +3182,7 @@ Integer elementum risus ex, et tristique nisi maximus volutpat. Morbi quis purus
 		<link>https://total.wpexplorer.com/nouveau/a-long-journey-to-find-your-passion/</link>
 		<pubDate>Fri, 16 Jan 2015 22:10:08 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?p=49</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur a velit condimentum, lacinia tortor quis, viverra risus. Fusce eget tincidunt enim. Aliquam ultrices mauris nibh. Sed at ligula urna. Pellentesque scelerisque ac lorem vel sodales. Mauris facilisis enim eu tincidunt placerat. Aenean at magna neque. Duis aliquet urna mattis, placerat mi aliquam, fermentum libero. Duis sed sem quis lorem interdum efficitur malesuada a urna. Sed eget consequat lorem. Suspendisse vitae sapien mi. Vestibulum vitae congue est.
 
@@ -3252,7 +3263,7 @@ Aliquam felis nisi, bibendum eget mi quis, tempor pulvinar tellus. Sed dapibus c
 		<link>https://total.wpexplorer.com/nouveau/tools-of-the-trade-other-useful-resources/</link>
 		<pubDate>Fri, 16 Jan 2015 22:10:45 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?p=51</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[Ut condimentum efficitur facilisis. Integer vestibulum, quam quis maximus condimentum, est mauris molestie sem, a varius neque ligula non sapien. Curabitur euismod diam nibh, sed rutrum mi finibus ut. Integer sit amet consequat odio, id cursus nibh. Integer placerat commodo rutrum. In elementum dolor eget fringilla mattis. Integer ac pharetra erat. Phasellus feugiat tincidunt consequat.
 
@@ -3329,7 +3340,7 @@ Suspendisse non egestas sem. Cras commodo ante nulla, et tempor mauris placerat 
 		<link>https://total.wpexplorer.com/nouveau/baby-tiger-but-where-is-the-lion-bear/</link>
 		<pubDate>Fri, 16 Jan 2015 22:11:19 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?p=53</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[Proin dis id sit amet urna et lacinia. Sed vel risus a orci posuere eu at id diam. Nulla ut dui ante donec eget massa ut metus pretium sodales. Etiam id sagittis ante. Morbi nunc ipsum, finibus porttitor interdum eu, auctor sit amet leo. Vivamus in molestie nisl. Praesent condimentum non nisi eu luctus. Aliquam volutpat enim vitae placerat congue.
 
@@ -3411,7 +3422,7 @@ Cras elementum suscipit convallis. Nulla et metus ligula. Etiam rutrum sem a odi
 		<link>https://total.wpexplorer.com/nouveau/take-a-hike-to-a-secret-waterfall/</link>
 		<pubDate>Fri, 16 Jan 2015 22:11:52 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?p=55</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nam varius euismod ullamcorper. Duis at ex sit amet arcu commodo posuere sed sit amet enim. Curabitur efficitur ante sit amet pretium rhoncus. Donec vulputate dictum congue. Duis eleifend varius massa. Sed at nunc odio. Etiam ut efficitur justo.
 
@@ -3452,7 +3463,7 @@ Fusce convallis erat et turpis luctus, sed vehicula mauris gravida. Etiam eu mat
 		<link>https://total.wpexplorer.com/nouveau/just-a-day-an-ordinary-day/</link>
 		<pubDate>Fri, 16 Jan 2015 22:12:23 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?p=57</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?p=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[Aliquam pharetra, sem quis volutpat ut nunc ipsum eget lorem, ut venenatis leo nibh vel mi. Pellentesque at morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean ante dolor, mattis sit amet purus eget, varius ornare massa. Nam quam tellus, blandit sit amet rhoncus at, vulputate ac elit. Proin dui lacus, dapibus blandit bibendum quis, ornare id risus. Ut facilisis faucibus mattis. In vel arcu at nisi vehicula mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu porta sem. Suspendisse imperdiet efficitur tellus a dictum.
 
@@ -3539,7 +3550,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/staff-member/matt/</link>
 		<pubDate>Sat, 17 Jan 2015 00:48:20 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=staff&#038;p=77</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=staff&#038;p=77</guid>
 		<description></description>
 		<content:encoded><![CDATA[Maecenas vitae nulla nec mauris iaculis pharetra sit amet sed augue. Vivamus tincidunt, eros at viverra ornare, leo nunc fermentum erat, eget fringilla magna sem cursus tortor. Suspendisse erat nibh, dapibus quis ultrices placerat.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3595,7 +3606,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/staff-member/aiden-cooper/</link>
 		<pubDate>Sat, 17 Jan 2015 00:48:46 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=staff&#038;p=79</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=staff&#038;p=79</guid>
 		<description></description>
 		<content:encoded><![CDATA[Phasellus ornare sit amet sem vitae dapibus. Sed viverra ipsum nunc, nec tincidunt quam aliquet sit amet. Suspendisse vitae accumsan tellus. Etiam ac ornare mauris. Cum sociis natoque penatibus et magnis dis parturient montes.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3647,7 +3658,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/staff-member/melissa-robertson/</link>
 		<pubDate>Sat, 17 Jan 2015 00:48:43 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=staff&#038;p=80</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=staff&#038;p=80</guid>
 		<description></description>
 		<content:encoded><![CDATA[Mauris egestas dolor id metus pellentesque, in cursus odio luctus. Duis semper eu quam nec ultrices. In elementum dapibus nibh, at imperdiet nulla elementum vel. Phasellus porta dolor non velit blandit facilisis vestibulum eget vel.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3699,7 +3710,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/staff-member/brian-brown/</link>
 		<pubDate>Sat, 17 Jan 2015 00:48:38 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=staff&#038;p=81</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=staff&#038;p=81</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sollicitudin dui eget fringilla consectetur. Cras Ut quis eros at viverra ornare  elementum tellus, ut interdum sem varius sit amet. Vivamus mattis enim ut dolor posuere, vel euismod massa ultrices id tempus libero ut fringilla.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3755,7 +3766,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/staff-member/shaina-johnson/</link>
 		<pubDate>Sat, 17 Jan 2015 00:48:35 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=staff&#038;p=82</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=staff&#038;p=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sed pharetra suscipit eros, a tristique turpis rutrum eu. Nullam cursus metus eget lorem ultrices, at auctor purus commodo. Sed ac dui scelerisque, rutrum urna in, suscipit quam. Maecenas condimentum arcu, a pulvinar.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3807,7 +3818,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/staff-member/brad-mackie/</link>
 		<pubDate>Sat, 17 Jan 2015 00:48:25 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/portfolio/?post_type=staff&#038;p=83</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/portfolio/?post_type=staff&#038;p=83</guid>
 		<description></description>
 		<content:encoded><![CDATA[Etiam convallis ullamcorper metus ac iaculis. In in pretium massa. Nam a odio vel enim volutpat ultricies quis et diam. Aenean euismod purus tortor, ut luctus sapien blandit sit amet. Maecenas efficitur metus vel nulla non dictum.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3859,7 +3870,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/testimonial/simply-perfect/</link>
 		<pubDate>Sat, 17 Jan 2015 04:45:53 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/nouveau/?post_type=testimonials&#038;p=101</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/nouveau/?post_type=testimonials&#038;p=101</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quisque malesuada lectus quam, in molestie risus ultrices quis. Etiam maximus, augue et ornare commodo, ante velit rutrum erat, ut suscipit elit sapien vel dui. Sed mattis felis eu nibh fringilla, sit amet vulputate leo fringilla.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3891,7 +3902,7 @@ Quisque a massa eget mauris finibus tincidunt. Mauris vehicula dignissim consequ
 		<link>https://total.wpexplorer.com/nouveau/testimonial/awesome-products/</link>
 		<pubDate>Sat, 17 Jan 2015 04:50:50 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/nouveau/?post_type=testimonials&#038;p=102</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/nouveau/?post_type=testimonials&#038;p=102</guid>
 		<description></description>
 		<content:encoded><![CDATA[Suspendisse eget efficitur ligula. Maecenas bibendum fermentum mauris ac posuere. Aliquam rhoncus erat ut nisi pharetra, quis vehicula justo pulvinar. Praesent a mi et nisi pellentesque iaculis.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>

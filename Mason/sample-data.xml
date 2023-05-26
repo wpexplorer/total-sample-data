@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.3" created="2022-05-04 21:23" -->
+	<!-- generator="WordPress/6.0" created="2022-07-03 19:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Mason</title>
 	<link>https://total.wpexplorer.com/mason</link>
-	<description>Just another Total Theme Demo site</description>
-	<pubDate>Wed, 04 May 2022 21:23:24 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Sun, 03 Jul 2022 19:51:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
@@ -126,7 +126,7 @@
 				<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 
 		<item>
 		<title><![CDATA[mello-yello]]></title>
@@ -884,7 +884,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2012/09/beach-1.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"beach-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"beach-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"beach-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"beach-1-825x550.jpg";s:5:"width";i:825;s:6:"height";i:550;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:19:"beach-1-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:30:"beach-1-center-top-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:19:"2012/09/beach-1.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"beach-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"beach-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"beach-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"beach-1-825x550.jpg";s:5:"width";i:825;s:6:"height";i:550;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:19:"beach-1-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:30:"beach-1-center-top-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"thumbnail@2x";a:5:{s:4:"file";s:22:"beach-1-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1016,7 +1016,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:21:"2012/09/labor-day.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"labor-day-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"labor-day-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"labor-day-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:21:"labor-day-825x550.jpg";s:5:"width";i:825;s:6:"height";i:550;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:32:"labor-day-center-top-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:21:"2012/09/labor-day.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"labor-day-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"labor-day-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"labor-day-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:21:"labor-day-825x550.jpg";s:5:"width";i:825;s:6:"height";i:550;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:32:"labor-day-center-top-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"thumbnail@2x";a:5:{s:4:"file";s:24:"labor-day-150x150@2x.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1546,6 +1546,206 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[My Boss is a B!@$#]]></title>
+		<link>https://total.wpexplorer.com/mason/my-boss-is-a-b/</link>
+		<pubDate>Tue, 18 Sep 2012 05:40:02 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=26</guid>
+		<description></description>
+		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
+
+In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
+<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
+Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
+
+Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
+
+Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2012-09-18 05:40:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-09-18 05:40:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2012-09-18 05:40:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2012-09-18 05:40:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[my-boss-is-a-b]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="advice"><![CDATA[Advice]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[478]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>10</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 19:08:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 19:08:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>11</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 19:08:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 19:08:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[The Art of Posing]]></title>
+		<link>https://total.wpexplorer.com/mason/cute-girl-posing/</link>
+		<pubDate>Tue, 18 Sep 2012 04:38:58 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
+
+In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
+<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
+Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
+
+Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
+
+Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>366</wp:post_id>
+		<wp:post_date><![CDATA[2012-09-18 04:38:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-09-18 04:38:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2012-09-18 04:38:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2012-09-18 04:38:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[cute-girl-posing]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="celebs"><![CDATA[Celebs]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[473]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>5</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:24:01]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:01]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>6</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:24:15]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:15]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>7</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:24:22]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:22]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>8</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:24:34]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:34]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>7</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>9</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:24:42]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:42]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
 		<title><![CDATA[contact]]></title>
 		<link>https://total.wpexplorer.com/mason/contact-2/</link>
 		<pubDate>Tue, 29 Mar 2016 20:51:28 +0000</pubDate>
@@ -1921,7 +2121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 		<link>https://total.wpexplorer.com/mason/</link>
 		<pubDate>Sun, 10 Apr 2016 02:07:14 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/mason/?page_id=494</guid>
+		<guid isPermaLink="false">http://totaltheme.wpengine.com/mason/?page_id=494</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2016,132 +2216,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1279;s:4:"file";s:27:"2012/09/photoshoot-girl.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"photoshoot-girl-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"photoshoot-girl-235x300.jpg";s:5:"width";i:235;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"photoshoot-girl-768x982.jpg";s:5:"width";i:768;s:6:"height";i:982;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:28:"photoshoot-girl-801x1024.jpg";s:5:"width";i:801;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:28:"photoshoot-girl-825x1055.jpg";s:5:"width";i:825;s:6:"height";i:1055;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:38:"photoshoot-girl-center-top-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Purchase]]></title>
-		<link>https://total.wpexplorer.com/mason/purchase/</link>
-		<pubDate>Thu, 13 Dec 2018 03:12:15 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/mason/2018/12/13/purchase/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>500</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-14 22:12:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-13 03:12:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-14 22:12:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-14 22:12:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[purchase]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[500]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.wpexplorer.com/out/total]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-12-13]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Features]]></title>
-		<link>https://total.wpexplorer.com/mason/features/</link>
-		<pubDate>Thu, 13 Dec 2018 03:12:15 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://total.wpexplorer.com/mason/2018/12/13/features/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>501</wp:post_id>
-		<wp:post_date><![CDATA[2021-07-30 04:12:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-13 03:12:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-07-30 04:12:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-07-30 04:12:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[features]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[Main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[501]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://total.wpexplorer.com/features/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-12-13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-06-14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2273,7 +2347,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:19:"2012/09/music-1.jpg";s:5:"sizes";a:7:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"music-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"music-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"music-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"music-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"music-1-825x550.jpg";s:5:"width";i:825;s:6:"height";i:550;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:19:"music-1-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"blog_entry@2x";a:5:{s:4:"file";s:22:"music-1-825x550@2x.jpg";s:5:"width";i:1650;s:6:"height";i:1100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:19:"2012/09/music-1.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"music-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"music-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"music-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:20:"music-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:10:"blog_entry";a:5:{s:4:"file";s:19:"music-1-825x550.jpg";s:5:"width";i:825;s:6:"height";i:550;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:19:"music-1-825x500.jpg";s:5:"width";i:825;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:13:"blog_entry@2x";a:5:{s:4:"file";s:22:"music-1-825x550@2x.jpg";s:5:"width";i:1650;s:6:"height";i:1100;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:15:"blog_related@2x";a:5:{s:4:"file";s:22:"music-1-825x500@2x.jpg";s:5:"width";i:1650;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2281,15 +2355,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 		<link>https://total.wpexplorer.com/mason/total/</link>
 		<pubDate>Tue, 14 Mar 2017 22:23:05 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/mason/total/</guid>
+		<guid isPermaLink="false">https://totaltheme.wpengine.com/mason/total/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>510</wp:post_id>
 		<wp:post_date><![CDATA[2017-03-14 22:23:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-03-14 22:23:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-14 22:11:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-14 22:11:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-15 01:00:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-15 01:00:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -2394,85 +2468,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:250;s:4:"file";s:30:"2020/07/wpengine-300x250-1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpengine-300x250-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[My Boss is a B!@$#]]></title>
-		<link>https://total.wpexplorer.com/mason/my-boss-is-a-b/</link>
-		<pubDate>Tue, 18 Sep 2012 05:40:02 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=26</guid>
-		<description></description>
-		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
-
-In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
-<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
-Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
-
-Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
-
-Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2012-09-18 05:40:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2012-09-18 05:40:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2012-09-18 05:40:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2012-09-18 05:40:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-boss-is-a-b]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="advice"><![CDATA[Advice]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[478]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>10</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 19:08:20]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 19:08:20]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>11</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 19:08:27]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 19:08:27]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
 					<item>
 		<title><![CDATA[Posing In A Cute Dress]]></title>
 		<link>https://total.wpexplorer.com/mason/posing-in-a-cute-dress/</link>
@@ -3927,6 +3922,120 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[Ace your Casting Call]]></title>
+		<link>https://total.wpexplorer.com/mason/ace-your-casting-call/</link>
+		<pubDate>Tue, 18 Sep 2012 07:12:02 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=126</guid>
+		<description></description>
+		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
+
+In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
+<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
+Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
+
+Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
+
+Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>126</wp:post_id>
+		<wp:post_date><![CDATA[2012-09-18 07:12:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-09-18 07:12:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2012-09-18 07:12:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2012-09-18 07:12:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ace-your-casting-call]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="advice"><![CDATA[Advice]]></category>
+		<category domain="post_tag" nicename="art"><![CDATA[art]]></category>
+		<category domain="post_tag" nicename="fashion-2"><![CDATA[fashion]]></category>
+		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
+		<category domain="post_tag" nicename="make-up"><![CDATA[make up]]></category>
+		<category domain="post_tag" nicename="models"><![CDATA[models]]></category>
+		<category domain="post_tag" nicename="music"><![CDATA[music]]></category>
+		<category domain="post_tag" nicename="photos"><![CDATA[photos]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[444]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>81</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:52:32]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:32]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>82</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:52:39]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:39]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>83</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:52:46]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:46]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>84</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:52:55]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:55]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>82</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
 		<title><![CDATA[Pre-Prom Ritual]]></title>
 		<link>https://total.wpexplorer.com/mason/pre-prom-ritual/</link>
 		<pubDate>Tue, 18 Sep 2012 07:09:53 +0000</pubDate>
@@ -4040,6 +4149,123 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[Shopping Is Good For The Heart]]></title>
+		<link>https://total.wpexplorer.com/mason/shopping-is-good-for-the-heart/</link>
+		<pubDate>Tue, 18 Sep 2012 07:11:48 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=142</guid>
+		<description></description>
+		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
+
+In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
+<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
+Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
+
+Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
+
+Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2012-09-18 07:11:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-09-18 07:11:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2012-09-18 07:11:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2012-09-18 07:11:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[shopping-is-good-for-the-heart]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="art"><![CDATA[art]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion-2"><![CDATA[fashion]]></category>
+		<category domain="post_tag" nicename="make-up"><![CDATA[make up]]></category>
+		<category domain="post_tag" nicename="models"><![CDATA[models]]></category>
+		<category domain="post_tag" nicename="music"><![CDATA[music]]></category>
+		<category domain="post_tag" nicename="photos"><![CDATA[photos]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[445]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[feathers-and-fur]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>92</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:54:42]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:54:42]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>93</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:54:52]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:54:52]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>94</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:54:58]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:54:58]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>95</wp:comment_id>
+			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-10 18:55:06]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-10 18:55:06]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>93</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
 		<title><![CDATA[Your First Photoshoot]]></title>
 		<link>https://total.wpexplorer.com/mason/your-first-photoshoot/</link>
 		<pubDate>Tue, 18 Sep 2012 06:26:13 +0000</pubDate>
@@ -4127,127 +4353,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 			<wp:comment_date><![CDATA[2016-04-10 19:14:01]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2016-04-10 19:14:01]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[The Art of Posing]]></title>
-		<link>https://total.wpexplorer.com/mason/cute-girl-posing/</link>
-		<pubDate>Tue, 18 Sep 2012 04:38:58 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=4</guid>
-		<description></description>
-		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
-
-In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
-<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
-Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
-
-Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
-
-Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>366</wp:post_id>
-		<wp:post_date><![CDATA[2012-09-18 04:38:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2012-09-18 04:38:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2012-09-18 04:38:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2012-09-18 04:38:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[cute-girl-posing]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="celebs"><![CDATA[Celebs]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[473]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>5</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:24:01]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:01]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:24:15]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:15]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>7</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:24:22]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:22]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>8</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:24:34]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:34]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>7</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>9</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:24:42]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:24:42]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -5117,120 +5222,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Ace your Casting Call]]></title>
-		<link>https://total.wpexplorer.com/mason/ace-your-casting-call/</link>
-		<pubDate>Tue, 18 Sep 2012 07:12:02 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=126</guid>
-		<description></description>
-		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
-
-In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
-<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
-Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
-
-Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
-
-Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>126</wp:post_id>
-		<wp:post_date><![CDATA[2012-09-18 07:12:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2012-09-18 07:12:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2012-09-18 07:12:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2012-09-18 07:12:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[ace-your-casting-call]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="advice"><![CDATA[Advice]]></category>
-		<category domain="post_tag" nicename="art"><![CDATA[art]]></category>
-		<category domain="post_tag" nicename="fashion-2"><![CDATA[fashion]]></category>
-		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
-		<category domain="post_tag" nicename="make-up"><![CDATA[make up]]></category>
-		<category domain="post_tag" nicename="models"><![CDATA[models]]></category>
-		<category domain="post_tag" nicename="music"><![CDATA[music]]></category>
-		<category domain="post_tag" nicename="photos"><![CDATA[photos]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[444]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>81</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:52:32]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:32]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>82</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:52:39]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:39]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>83</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:52:46]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:46]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>84</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:52:55]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:52:55]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>82</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title><![CDATA[15% Off Surfwear (link)]]></title>
 		<link>https://total.wpexplorer.com/mason/15-off-surfwear/</link>
 		<pubDate>Tue, 18 Sep 2012 07:46:23 +0000</pubDate>
@@ -5388,123 +5379,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>89</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Shopping Is Good For The Heart]]></title>
-		<link>https://total.wpexplorer.com/mason/shopping-is-good-for-the-heart/</link>
-		<pubDate>Tue, 18 Sep 2012 07:11:48 +0000</pubDate>
-		<dc:creator><![CDATA[andyauthor]]></dc:creator>
-		<guid isPermaLink="false">http://www.wpexplorer.me/premium/fashionista/?p=142</guid>
-		<description></description>
-		<content:encoded><![CDATA[Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. <a href="#">Sample Link</a> sit amet mauris dignissim egestas sed ut dui.
-
-In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.
-<blockquote>Nam sit amet odio eu mauris ornare dapibus. Morbi pellentesque vehicula nisi id viverra. Nam enim felis, sagittis in sodales at, dapibus eget tortor. Cras consectetur augue sed massa auctor vel posuere dolor vehicula.</blockquote>
-Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.
-
-Integer vitae mauris vel ligula suscipit auctor. Mauris orci nibh, laoreet nec dictum auctor, pulvinar eget ligula. Proin id purus nec neque pharetra tincidunt a quis lacus. Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.
-
-Vivamus porta turpis ac urna posuere dignissim dapibus felis facilisis. Suspendisse congue ligula non quam dictum dignissim. Nunc pretium, odio nec rhoncus vehicula, ligula tellus tristique tortor, at ultricies dui dui et sem. Phasellus venenatis scelerisque facilisis. Sed et magna id elit dapibus iaculis quis vitae risus. Curabitur condimentum, lorem nec cursus aliquam, ante tellus semper ante, ut aliquam dui sapien vel mi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate egestas sem, eu cursus ligula ullamcorper non. Curabitur tristique velit eu mauris venenatis egestas. Phasellus bibendum placerat metus, sed molestie magna semper eget. Sed sit amet dui felis, tempus porttitor justo. Nam a urna massa, a tempus dui. Pellentesque a neque vitae arcu sollicitudin mattis ut nec massa. Quisque consectetur leo sit amet mauris dignissim egestas sed ut dui. In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>142</wp:post_id>
-		<wp:post_date><![CDATA[2012-09-18 07:11:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2012-09-18 07:11:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2012-09-18 07:11:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2012-09-18 07:11:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[shopping-is-good-for-the-heart]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="art"><![CDATA[art]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="post_tag" nicename="fashion-2"><![CDATA[fashion]]></category>
-		<category domain="post_tag" nicename="make-up"><![CDATA[make up]]></category>
-		<category domain="post_tag" nicename="models"><![CDATA[models]]></category>
-		<category domain="post_tag" nicename="music"><![CDATA[music]]></category>
-		<category domain="post_tag" nicename="photos"><![CDATA[photos]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[41]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[445]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_zilla_likes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[41]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[feathers-and-fur]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>92</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:54:42]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:54:42]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Aliquam molestie ligula vitae nunc lobortis dictum varius tellus porttitor. Suspendisse vehicula diam a ligula malesuada a pellentesque turpis facilisis. Vestibulum a urna elit. Nulla bibendum dolor suscipit tortor euismod eu laoreet odio facilisis. Praesent rhoncus metus non tortor venenatis dignissim. Nullam a leo erat. Nam in orci et magna porttitor aliquam et sed metus.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>93</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:54:52]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:54:52]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Cras fermentum risus a lectus feugiat laoreet. Nam lobortis pellentesque leo non scelerisque. Morbi fringilla feugiat lacus et consectetur. Vestibulum mollis est sit amet massa vehicula rhoncus id at ligula. Etiam dignissim tortor a lorem iaculis vel rhoncus ligula interdum. Proin non odio eu massa feugiat pellentesque.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>94</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:54:58]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:54:58]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>95</wp:comment_id>
-			<wp:comment_author><![CDATA[AJ Clarke]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[demo@wpexplorer.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2016-04-10 18:55:06]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2016-04-10 18:55:06]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[In condimentum neque id eros tincidunt egestas. Nunc venenatis gravida congue. Fusce porta, elit id ultrices bibendum, lectus velit tristique massa, nec bibendum felis ante et metus. Vestibulum ultrices adipiscing turpis quis feugiat. Cras sed mauris nec diam aliquet ultrices vitae sit amet justo. Nam tortor enim, ultrices vehicula ultricies non, pellentesque at justo.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>93</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>

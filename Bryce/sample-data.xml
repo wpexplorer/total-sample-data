@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-01-25 01:03" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-26 00:32" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,14 +28,14 @@
 <channel>
 	<title>Bryce</title>
 	<link>https://total.wpexplorer.com/bryce</link>
-	<description>Just another Your SUPER-powered WP Engine Multisite Install site</description>
-	<pubDate>Tue, 25 Jan 2022 01:03:31 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Fri, 26 May 2023 00:32:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
 	<wp:base_blog_url>https://total.wpexplorer.com/bryce</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[totalthememain]]></wp:author_login><wp:author_email><![CDATA[sympleworkz@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AJ Clarke]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[andyauthor]]></wp:author_login><wp:author_email><![CDATA[AndyAuthor@wpexplorer.com]]></wp:author_email><wp:author_display_name><![CDATA[Andy Author]]></wp:author_display_name><wp:author_first_name><![CDATA[Andy]]></wp:author_first_name><wp:author_last_name><![CDATA[Author]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>16</wp:term_id>
@@ -156,13 +156,13 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://total.wpexplorer.com/bryce/woocommerce-placeholder-2/</link>
 		<pubDate>Thu, 30 Sep 2021 20:49:12 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -195,7 +195,7 @@
 		<title><![CDATA[alesia-kazantceva-VWcPlbHglYc-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/design-faster-smarter-with-the-total-framework/alesia-kazantceva-vwcplbhglyc-unsplash/</link>
 		<pubDate>Thu, 30 Sep 2021 21:30:13 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/alesia-kazantceva-VWcPlbHglYc-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -221,14 +221,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:50:"2021/09/alesia-kazantceva-VWcPlbHglYc-unsplash.png";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:51:"alesia-kazantceva-VWcPlbHglYc-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:51:"alesia-kazantceva-VWcPlbHglYc-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:50:"2021/09/alesia-kazantceva-VWcPlbHglYc-unsplash.png";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:50:"alesia-kazantceva-VWcPlbHglYc-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:51:"alesia-kazantceva-VWcPlbHglYc-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:51:"alesia-kazantceva-VWcPlbHglYc-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:51:"alesia-kazantceva-VWcPlbHglYc-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[hillshire-farm-U0BzBTt-5so-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/build-pages-faster-with-the-exclusive-section-templates/hillshire-farm-u0bzbtt-5so-unsplash/</link>
 		<pubDate>Thu, 30 Sep 2021 21:40:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/hillshire-farm-U0BzBTt-5so-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -254,14 +254,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:47:"2021/09/hillshire-farm-U0BzBTt-5so-unsplash.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:48:"hillshire-farm-U0BzBTt-5so-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_525x350";a:5:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-525x350.png";s:5:"width";i:525;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:48:"hillshire-farm-U0BzBTt-5so-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:48:"hillshire-farm-U0BzBTt-5so-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:47:"2021/09/hillshire-farm-U0BzBTt-5so-unsplash.png";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:48:"hillshire-farm-U0BzBTt-5so-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"wpex_525x350";a:5:{s:4:"file";s:47:"hillshire-farm-U0BzBTt-5so-unsplash-525x350.png";s:5:"width";i:525;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:48:"hillshire-farm-U0BzBTt-5so-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:48:"hillshire-farm-U0BzBTt-5so-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:48:"hillshire-farm-U0BzBTt-5so-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[aleksandar-jason-2cNPDxcnx0w-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/never-before-seeing-creative-elements-features/aleksandar-jason-2cnpdxcnx0w-unsplash/</link>
 		<pubDate>Thu, 30 Sep 2021 21:45:41 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/aleksandar-jason-2cNPDxcnx0w-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -287,14 +287,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:49:"2021/09/aleksandar-jason-2cNPDxcnx0w-unsplash.png";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:667;s:4:"file";s:49:"2021/09/aleksandar-jason-2cNPDxcnx0w-unsplash.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-768x512.png";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-600x400.png";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:49:"aleksandar-jason-2cNPDxcnx0w-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:13:"wpex_1000x600";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x600.png";s:5:"width";i:1000;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:12:"blog_related";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:9:"blog_post";a:5:{s:4:"file";s:50:"aleksandar-jason-2cNPDxcnx0w-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[mong-bui-NznxEfw9iVI-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/10-reasons-why-you-should-be-creating-sites-with-total/mong-bui-nznxefw9ivi-unsplash/</link>
 		<pubDate>Thu, 30 Sep 2021 21:49:43 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/mong-bui-NznxEfw9iVI-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -327,7 +327,7 @@
 		<title><![CDATA[lissete-laverde-QFhfUCDx2Mk-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/drive-more-traffic-to-your-website-with-these-four-proven-steps/lissete-laverde-qfhfucdx2mk-unsplash/</link>
 		<pubDate>Thu, 30 Sep 2021 21:56:28 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/lissete-laverde-QFhfUCDx2Mk-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -360,7 +360,7 @@
 		<title><![CDATA[aira-ferrer-67SdFX28BWk-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/why-over-50000-people-choose-love-using-total-for-their-websites/aira-ferrer-67sdfx28bwk-unsplash/</link>
 		<pubDate>Thu, 30 Sep 2021 22:01:03 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/aira-ferrer-67SdFX28BWk-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -393,7 +393,7 @@
 		<title><![CDATA[andres-jasso-PqbL_mxmaUE-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/?attachment_id=95</link>
 		<pubDate>Thu, 30 Sep 2021 22:18:55 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/andres-jasso-PqbL_mxmaUE-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -426,7 +426,7 @@
 		<title><![CDATA[irene-kredenets-dwKiHoqqxk8-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/?attachment_id=126</link>
 		<pubDate>Thu, 30 Sep 2021 22:59:51 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/irene-kredenets-dwKiHoqqxk8-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -452,14 +452,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1251;s:4:"file";s:48:"2021/09/irene-kredenets-dwKiHoqqxk8-unsplash.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:49:"irene-kredenets-dwKiHoqqxk8-unsplash-819x1024.png";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-768x961.png";s:5:"width";i:768;s:6:"height";i:961;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-600x751.png";s:5:"width";i:600;s:6:"height";i:751;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:50:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:50:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:49:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1251;s:4:"file";s:48:"2021/09/irene-kredenets-dwKiHoqqxk8-unsplash.png";s:5:"sizes";a:13:{s:6:"medium";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:49:"irene-kredenets-dwKiHoqqxk8-unsplash-819x1024.png";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-768x961.png";s:5:"width";i:768;s:6:"height";i:961;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-600x751.png";s:5:"width";i:600;s:6:"height";i:751;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:48:"irene-kredenets-dwKiHoqqxk8-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:50:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:50:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:49:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:50:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:50:"irene-kredenets-dwKiHoqqxk8-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[jeff-tumale-SD9Jyl1xNQ4-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/?attachment_id=129</link>
 		<pubDate>Thu, 30 Sep 2021 23:01:36 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/jeff-tumale-SD9Jyl1xNQ4-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -485,14 +485,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:44:"2021/09/jeff-tumale-SD9Jyl1xNQ4-unsplash.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:45:"jeff-tumale-SD9Jyl1xNQ4-unsplash-819x1024.png";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-768x960.png";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-600x750.png";s:5:"width";i:600;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:46:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:46:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:45:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:44:"2021/09/jeff-tumale-SD9Jyl1xNQ4-unsplash.png";s:5:"sizes";a:13:{s:6:"medium";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:45:"jeff-tumale-SD9Jyl1xNQ4-unsplash-819x1024.png";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-768x960.png";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-600x750.png";s:5:"width";i:600;s:6:"height";i:750;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"jeff-tumale-SD9Jyl1xNQ4-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:46:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:46:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:45:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:46:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:46:"jeff-tumale-SD9Jyl1xNQ4-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[andres-jasso-u4unYsXQHnE-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/?attachment_id=132</link>
 		<pubDate>Thu, 30 Sep 2021 23:03:46 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/andres-jasso-u4unYsXQHnE-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -518,14 +518,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1400;s:4:"file";s:45:"2021/09/andres-jasso-u4unYsXQHnE-unsplash.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-214x300.png";s:5:"width";i:214;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:46:"andres-jasso-u4unYsXQHnE-unsplash-731x1024.png";s:5:"width";i:731;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:46:"andres-jasso-u4unYsXQHnE-unsplash-768x1075.png";s:5:"width";i:768;s:6:"height";i:1075;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-600x840.png";s:5:"width";i:600;s:6:"height";i:840;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:47:"andres-jasso-u4unYsXQHnE-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:47:"andres-jasso-u4unYsXQHnE-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:47:"andres-jasso-u4unYsXQHnE-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1400;s:4:"file";s:45:"2021/09/andres-jasso-u4unYsXQHnE-unsplash.png";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-214x300.png";s:5:"width";i:214;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:46:"andres-jasso-u4unYsXQHnE-unsplash-731x1024.png";s:5:"width";i:731;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:46:"andres-jasso-u4unYsXQHnE-unsplash-768x1075.png";s:5:"width";i:768;s:6:"height";i:1075;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-600x840.png";s:5:"width";i:600;s:6:"height";i:840;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"andres-jasso-u4unYsXQHnE-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:47:"andres-jasso-u4unYsXQHnE-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:47:"andres-jasso-u4unYsXQHnE-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:47:"andres-jasso-u4unYsXQHnE-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:47:"andres-jasso-u4unYsXQHnE-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[klim-musalimov-CMGKxMmZcRk-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/?attachment_id=137</link>
 		<pubDate>Thu, 30 Sep 2021 23:24:49 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/klim-musalimov-CMGKxMmZcRk-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -551,14 +551,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:47:"2021/09/klim-musalimov-CMGKxMmZcRk-unsplash.png";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-200x300.png";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:48:"klim-musalimov-CMGKxMmZcRk-unsplash-683x1024.png";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:48:"klim-musalimov-CMGKxMmZcRk-unsplash-768x1152.png";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-600x900.png";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:49:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:49:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:48:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:47:"2021/09/klim-musalimov-CMGKxMmZcRk-unsplash.png";s:5:"sizes";a:13:{s:6:"medium";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-200x300.png";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:48:"klim-musalimov-CMGKxMmZcRk-unsplash-683x1024.png";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:48:"klim-musalimov-CMGKxMmZcRk-unsplash-768x1152.png";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-600x900.png";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:47:"klim-musalimov-CMGKxMmZcRk-unsplash-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:12:"shop_catalog";a:5:{s:4:"file";s:49:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:49:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:10:"blog_entry";a:5:{s:4:"file";s:48:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x500.png";s:5:"width";i:1000;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:21:"shop_single_thumbnail";a:5:{s:4:"file";s:49:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:49:"klim-musalimov-CMGKxMmZcRk-unsplash-1000x1000.png";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[branislav-belko-6ozpKOzZwlQ-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/?attachment_id=140</link>
 		<pubDate>Thu, 30 Sep 2021 23:30:56 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/branislav-belko-6ozpKOzZwlQ-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -591,7 +591,7 @@
 		<title><![CDATA[ox-street-8hmOMg4fiXI-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/?attachment_id=142</link>
 		<pubDate>Thu, 30 Sep 2021 23:35:13 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/09/ox-street-8hmOMg4fiXI-unsplash.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -624,7 +624,7 @@
 		<title><![CDATA[thought-catalog-F3Y8BfZn4jo-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/thought-catalog-f3y8bfzn4jo-unsplash/</link>
 		<pubDate>Wed, 13 Oct 2021 01:02:06 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/10/thought-catalog-F3Y8BfZn4jo-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -650,14 +650,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1499;s:4:"file";s:48:"2021/10/thought-catalog-F3Y8BfZn4jo-unsplash.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"thought-catalog-F3Y8BfZn4jo-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:49:"thought-catalog-F3Y8BfZn4jo-unsplash-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-600x899.jpg";s:5:"width";i:600;s:6:"height";i:899;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1499;s:4:"file";s:48:"2021/10/thought-catalog-F3Y8BfZn4jo-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"thought-catalog-F3Y8BfZn4jo-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:49:"thought-catalog-F3Y8BfZn4jo-unsplash-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-600x899.jpg";s:5:"width";i:600;s:6:"height";i:899;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:48:"thought-catalog-F3Y8BfZn4jo-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:50:"thought-catalog-F3Y8BfZn4jo-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:50:"thought-catalog-F3Y8BfZn4jo-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[grabstar-io-7o1_uv5C8xk-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/grabstar-io-7o1_uv5c8xk-unsplash/</link>
 		<pubDate>Wed, 13 Oct 2021 01:07:41 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/10/grabstar-io-7o1_uv5C8xk-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -683,14 +683,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:44:"2021/10/grabstar-io-7o1_uv5C8xk-unsplash.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"grabstar-io-7o1_uv5C8xk-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"grabstar-io-7o1_uv5C8xk-unsplash-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:44:"2021/10/grabstar-io-7o1_uv5C8xk-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"grabstar-io-7o1_uv5C8xk-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"grabstar-io-7o1_uv5C8xk-unsplash-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:44:"grabstar-io-7o1_uv5C8xk-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:46:"grabstar-io-7o1_uv5C8xk-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:46:"grabstar-io-7o1_uv5C8xk-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[vince-fleming-j3lf-Jn6deo-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/vince-fleming-j3lf-jn6deo-unsplash/</link>
 		<pubDate>Wed, 13 Oct 2021 01:12:34 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/10/vince-fleming-j3lf-Jn6deo-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -716,14 +716,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:46:"2021/10/vince-fleming-j3lf-Jn6deo-unsplash.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"vince-fleming-j3lf-Jn6deo-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:47:"vince-fleming-j3lf-Jn6deo-unsplash-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:23:"wpex_center-top-700x700";a:5:{s:4:"file";s:57:"vince-fleming-j3lf-Jn6deo-unsplash-center-top-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:46:"2021/10/vince-fleming-j3lf-Jn6deo-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"vince-fleming-j3lf-Jn6deo-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:47:"vince-fleming-j3lf-Jn6deo-unsplash-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:46:"vince-fleming-j3lf-Jn6deo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:23:"wpex_center-top-700x700";a:5:{s:4:"file";s:57:"vince-fleming-j3lf-Jn6deo-unsplash-center-top-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:48:"vince-fleming-j3lf-Jn6deo-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:48:"vince-fleming-j3lf-Jn6deo-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[ian-dooley-d1UPkiFd04A-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/ian-dooley-d1upkifd04a-unsplash/</link>
 		<pubDate>Wed, 13 Oct 2021 01:12:35 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/10/ian-dooley-d1UPkiFd04A-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -749,14 +749,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:43:"2021/10/ian-dooley-d1UPkiFd04A-unsplash.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"ian-dooley-d1UPkiFd04A-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"ian-dooley-d1UPkiFd04A-unsplash-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:43:"2021/10/ian-dooley-d1UPkiFd04A-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"ian-dooley-d1UPkiFd04A-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"ian-dooley-d1UPkiFd04A-unsplash-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:43:"ian-dooley-d1UPkiFd04A-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:45:"ian-dooley-d1UPkiFd04A-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:45:"ian-dooley-d1UPkiFd04A-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[bolt-store]]></title>
 		<link>https://total.wpexplorer.com/bryce/contact/bolt-store/</link>
 		<pubDate>Mon, 18 Oct 2021 23:24:47 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/10/bolt-store.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -782,14 +782,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:22:"2021/10/bolt-store.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:22:"bolt-store-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"bolt-store-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"bolt-store-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"bolt-store-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:22:"bolt-store-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:22:"bolt-store-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:22:"2021/10/bolt-store.jpg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:22:"bolt-store-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"bolt-store-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"bolt-store-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"bolt-store-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:22:"bolt-store-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:22:"bolt-store-600x900.jpg";s:5:"width";i:600;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:22:"bolt-store-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:24:"bolt-store-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:24:"bolt-store-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[alex-starnes-PK_t0Lrh7MM-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/alex-starnes-pk_t0lrh7mm-unsplash/</link>
 		<pubDate>Thu, 21 Oct 2021 00:50:30 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/10/alex-starnes-PK_t0Lrh7MM-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -815,14 +815,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:45:"2021/10/alex-starnes-PK_t0Lrh7MM-unsplash.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-240x300.jpg";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"alex-starnes-PK_t0Lrh7MM-unsplash-819x1024.jpg";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-768x960.jpg";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-600x750.jpg";s:5:"width";i:600;s:6:"height";i:750;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1250;s:4:"file";s:45:"2021/10/alex-starnes-PK_t0Lrh7MM-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-240x300.jpg";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"alex-starnes-PK_t0Lrh7MM-unsplash-819x1024.jpg";s:5:"width";i:819;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-768x960.jpg";s:5:"width";i:768;s:6:"height";i:960;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-600x750.jpg";s:5:"width";i:600;s:6:"height";i:750;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"wpex_700x700";a:5:{s:4:"file";s:45:"alex-starnes-PK_t0Lrh7MM-unsplash-700x700.jpg";s:5:"width";i:700;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:47:"alex-starnes-PK_t0Lrh7MM-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:47:"alex-starnes-PK_t0Lrh7MM-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://total.wpexplorer.com/bryce/woocommerce-placeholder/</link>
 		<pubDate>Fri, 21 Jan 2022 23:33:42 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2022/01/woocommerce-placeholder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -855,7 +855,7 @@
 		<title><![CDATA[Homepage]]></title>
 		<link>https://total.wpexplorer.com/bryce/</link>
 		<pubDate>Tue, 10 Aug 2021 04:11:40 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>[vc_row full_width="stretch_row" full_height="yes" wpex_bg_overlay="dark" wpex_fixed_bg="fixed" css=".vc_custom_1643064084605{padding-top: 200px !important;padding-bottom: 200px !important;background: #222222 url(https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2022/01/austin-distel-wD1LRb9OeEo-unsplash.jpg?id=346) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="wpex-bg-accent" wpex_bg_overlay_opacity="78%"][vc_column][vc_column_text text_align="center" color="#ffffff" font_size=".9em" text_transform="uppercase" letter_spacing="2px" font_weight="800"]Only one payment of $59[/vc_column_text][vcex_spacing size="20px"][vcex_heading text="Build Your Custom Website Like a Total Pro" tag="h1" text_align="center" font_size="d:3.8em|pl:2.5em" color="#ffffff" width="750px" font_weight="200" line_height="1.2"][vcex_spacing][vcex_multi_buttons buttons="%5B%7B%22text%22%3A%22Get%20Started%22%2C%22link%22%3A%22url%3A%23%22%2C%22style%22%3A%22flat%22%2C%22local_scroll%22%3A%22false%22%2C%22download_attribute%22%3A%22false%22%2C%22css_animation%22%3A%22none%22%7D%2C%7B%22text%22%3A%22Learn%20More%22%2C%22link%22%3A%22url%3Ahttps%253A%252F%252Ftotal.wpexplorer.com%252Fbryce%252F%2523overview%22%2C%22style%22%3A%22outline%22%2C%22color%22%3A%22white%22%2C%22local_scroll%22%3A%22true%22%2C%22download_attribute%22%3A%22false%22%2C%22css_animation%22%3A%22none%22%7D%5D" spacing="20px" font_size="14px" letter_spacing="2px" border_width="2px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1642812135675{padding-top: 100px !important;padding-bottom: 100px !important;}" local_scroll_id="overview"][vc_column][vcex_heading text="Blazing Fast, Easy to Use And Optimized Theme" bottom_margin="25px" align="center" text_align="center" font_size="42px" width="600px"][vc_column_text text_align="center" align="center" width="700px"]Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc euismod consequat erat in scelerisque. Maecenas molestie vitae quam eu commodo.[/vc_column_text][vcex_divider color="#ededed" margin="top:70px|bottom:70px"][vcex_grid_container gap="80px"][vcex_icon_box heading="Exclusive Blocks" style="two" icon="ticon ticon-cubes" icon_shadow="shadow-lg" heading_size="1.4em" heading_type="h3" icon_color="#ffffff" icon_size="25px" icon_background="accent" icon_border_radius="9999px" icon_width="60px" icon_height="60px" heading_weight="400"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.[/vcex_icon_box][vcex_icon_box heading="Highly Optimized" style="two" icon="ticon ticon-tachometer" icon_shadow="shadow-lg" heading_size="1.4em" heading_type="h3" icon_color="#ffffff" icon_size="25px" icon_background="accent" icon_border_radius="9999px" icon_width="60px" icon_height="60px" heading_weight="400"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.[/vcex_icon_box][vcex_icon_box heading="5 Star Rating" style="two" icon="ticon ticon-star" icon_shadow="shadow-lg" heading_size="1.4em" heading_type="h3" icon_color="#ffffff" icon_size="25px" icon_background="accent" icon_border_radius="9999px" icon_width="60px" icon_height="60px" heading_weight="400"]Leverage agile frameworks to provide a robust synopsis for high level overviews approaches to corporate strategy.[/vcex_icon_box][/vcex_grid_container][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" equal_height="yes" remove_bottom_col_margin="true" css=".vc_custom_1642812131548{background-color: #f6f6f6 !important;}" local_scroll_id="features"][vc_column width="1/2" css=".vc_custom_1642811337756{padding: 8vw !important;}"][vcex_heading text="Blazing Fast, Easy to Use And Optimized Theme" bottom_margin="25px" text_align="left" font_size="36px"][vc_column_text]Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc euismod consequat erat in scelerisque. Maecenas molestie vitae quam eu commodo.[/vc_column_text][vcex_spacing][vcex_bullets icon_type="ticons" icon="ticon ticon-check" alignment="vertical" icon_color="accent"]</p>
@@ -891,24 +891,12 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1643064084605{padding-top: 200px !important;padding-bottom: 200px !important;background: #222222 url(https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2022/01/austin-distel-wD1LRb9OeEo-unsplash.jpg?id=346) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1642812135675{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1642812131548{background-color: #f6f6f6 !important;}.vc_custom_1642895159345{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1642900628557{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #f6f6f6 !important;}.vc_custom_1642971014732{padding-top: 100px !important;padding-bottom: 100px !important;background-image: url(https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2022/01/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg?id=342) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1642811337756{padding: 8vw !important;}.vc_custom_1642900122715{background-image: url(https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2021/10/thought-catalog-F3Y8BfZn4jo-unsplash.jpg?id=173) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1642900647849{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_overlay_header]]></wp:meta_key>
@@ -918,12 +906,16 @@
 		<wp:meta_key><![CDATA[wpex_logo_scroll_top]]></wp:meta_key>
 		<wp:meta_value><![CDATA[enable]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
 		<link>https://total.wpexplorer.com/bryce/blog/</link>
 		<pubDate>Tue, 10 Aug 2021 04:11:53 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -946,34 +938,22 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
 		<link>https://total.wpexplorer.com/bryce/contact/</link>
 		<pubDate>Tue, 10 Aug 2021 04:39:15 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=25</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row max_width_custom="800px" max_width_align="center" local_scroll_id="contact-form"][vc_column][vcex_spacing size="20px"][vc_column_text text_align="center"]Fill out the form below and we'll get back to you as soon as possible, please wait at least 48 hours.[/vc_column_text][vcex_spacing size="40px"][vcex_contact_form stack_fields="true" button_fullwidth="false" enable_privacy_check="false" enable_recaptcha="false" button_text="Send message"][/vc_column][/vc_row]</p>
+		<content:encoded><![CDATA[<p>[vc_row max_width_custom="800px" max_width_align="center" local_scroll_id="contact-form"][vc_column][vc_column_text text_align="center"]Fill out the form below and we'll get back to you as soon as possible, please wait at least 48 hours.[/vc_column_text][vcex_spacing size="40px"][vcex_contact_form enable_privacy_check="false" enable_recaptcha="false" stack_fields="true" button_fullwidth="false" button_text="Send message"][/vc_column][/vc_row]</p>
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-10 04:39:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:39:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-23 02:10:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-23 02:10:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 00:24:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 00:24:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -987,54 +967,64 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Total]]></title>
 		<link>https://total.wpexplorer.com/bryce/total/</link>
 		<pubDate>Thu, 30 Sep 2021 21:30:46 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/2021/09/30/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* Add border to header when overlay is enabled */
-body.has-overlay-header .not-sticky #site-header-inner { border-bottom: 1px solid rgba(255,255,255,.4); }
+		<content:encoded><![CDATA[/* Make buttons a little smaller */
+:root {
+	--wpex-btn-font-size: 13px;
+}
+
+/* Add border to header when overlay is enabled */
+body.has-overlay-header #site-header.dyn-styles #site-header-inner {
+	border-bottom: 1px solid rgba(255,255,255,.4);
+}
 
 /* Add offset for mobile menu to hide the overlay header border */
-body.has-overlay-header .mobile-toggle-nav.wpex-togglep-absolute { margin-top: -1px; }
-
-/* Set theme-button default font-size */
-.theme-button { font-size: 14px; }
+body.has-overlay-header .mobile-toggle-nav.wpex-togglep-absolute {
+	margin-top: -1px;
+}
 
 /* Custom footer links color (target text block only) */
-#footer-builder .wpb_text_column a { color: #fff; }
+#footer-builder .wpb_text_column a {
+	color: #fff;
+}
 
 /* Tweak shop and archives button size */
 .entries .theme-button,
 .woocommerce .button,
-.woocommerce .added_to_cart { font-size: 12px; }
+.woocommerce .added_to_cart {
+	font-size: 12px;
+}
 
 /* Product entry price size */
-.products .product .price { font-size: 18px; }
+.products .product .price {
+	font-size: 18px;
+}
 
 /* Product entry price weight */
 .products .product .price,
-.woocommerce .product .summary .price { font-weight: 700; }
+.woocommerce .product .summary .price {
+	font-weight: 700;
+}
 
 /* Tweak related cards style */
-.bryce-related-posts .wpex-card-blog_7 .wpex-card-footer { display: none; }
+.bryce-related-posts .wpex-card-blog_7 .wpex-card-footer {
+	display: none;
+}
 
 /* Add a little extra spacing before footer on some pages */
 body.page-id-25 #footer-builder,
 body.page:not(.has-composer) #footer-builder,
 body.single-product #footer-builder,
-body.woocommerce-page #footer-builder { margin-top: 50px; }
+body.woocommerce-page #footer-builder {
+	margin-top: 50px;
+}
 
 /* Some tweaks for small devices */
 @media only screen and (max-width: 600px) {
@@ -1049,8 +1039,8 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2021-09-30 21:30:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-09-30 21:30:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-25 00:59:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-25 00:59:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-15 01:16:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-15 01:16:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -1065,7 +1055,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Refund and Returns Policy]]></title>
 		<link>https://total.wpexplorer.com/bryce/?page_id=169</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=169</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1228,7 +1218,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Top]]></title>
 		<link>https://total.wpexplorer.com/bryce/top/</link>
 		<pubDate>Fri, 21 Jan 2022 23:34:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/top/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1285,7 +1275,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bryce/215/</link>
 		<pubDate>Fri, 21 Jan 2022 23:34:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/215/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1346,7 +1336,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bryce/217/</link>
 		<pubDate>Fri, 21 Jan 2022 23:34:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/217/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1407,7 +1397,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bryce/219/</link>
 		<pubDate>Fri, 21 Jan 2022 23:34:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/219/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1468,7 +1458,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bryce/221/</link>
 		<pubDate>Fri, 21 Jan 2022 23:34:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/221/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1529,7 +1519,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bryce/222/</link>
 		<pubDate>Fri, 21 Jan 2022 23:34:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/222/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1590,7 +1580,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[View Cart]]></title>
 		<link>https://total.wpexplorer.com/bryce/view-cart/</link>
 		<pubDate>Fri, 21 Jan 2022 23:34:59 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/view-cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1651,7 +1641,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[]]></title>
 		<link>https://total.wpexplorer.com/bryce/224/</link>
 		<pubDate>Fri, 21 Jan 2022 23:35:00 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/224/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1708,7 +1698,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Products]]></title>
 		<link>https://total.wpexplorer.com/bryce/browse-products/</link>
 		<pubDate>Fri, 21 Jan 2022 23:35:00 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/21/browse-products/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1769,7 +1759,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Overview]]></title>
 		<link>https://total.wpexplorer.com/bryce/overview/</link>
 		<pubDate>Sat, 22 Jan 2022 00:21:06 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/?p=264</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1826,7 +1816,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Features]]></title>
 		<link>https://total.wpexplorer.com/bryce/features/</link>
 		<pubDate>Sat, 22 Jan 2022 00:42:46 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/2022/01/22/features/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1883,7 +1873,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Team]]></title>
 		<link>https://total.wpexplorer.com/bryce/pricing/</link>
 		<pubDate>Sat, 22 Jan 2022 00:44:13 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/?p=277</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1940,7 +1930,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[brooke-cagle-g1Kr4Ozfoac-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/homepage/brooke-cagle-g1kr4ozfoac-unsplash/</link>
 		<pubDate>Sun, 23 Jan 2022 20:50:12 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2022/01/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1966,14 +1956,14 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:45:"2022/01/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"brooke-cagle-g1Kr4Ozfoac-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:800;s:4:"file";s:45:"2022/01/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"brooke-cagle-g1Kr4Ozfoac-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"brooke-cagle-g1Kr4Ozfoac-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:46:"brooke-cagle-g1Kr4Ozfoac-unsplash-1000x800.jpg";s:5:"width";i:1000;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:46:"brooke-cagle-g1Kr4Ozfoac-unsplash-1000x800.jpg";s:5:"width";i:1000;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[austin-distel-wD1LRb9OeEo-unsplash]]></title>
 		<link>https://total.wpexplorer.com/bryce/homepage/austin-distel-wd1lrb9oeeo-unsplash/</link>
 		<pubDate>Mon, 24 Jan 2022 22:40:42 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/wp-content/uploads/sites/66/2022/01/austin-distel-wD1LRb9OeEo-unsplash.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1999,55 +1989,56 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:46:"2022/01/austin-distel-wD1LRb9OeEo-unsplash.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"austin-distel-wD1LRb9OeEo-unsplash-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:48:"austin-distel-wD1LRb9OeEo-unsplash-1536x1152.jpg";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1500;s:4:"file";s:46:"2022/01/austin-distel-wD1LRb9OeEo-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"austin-distel-wD1LRb9OeEo-unsplash-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:48:"austin-distel-wD1LRb9OeEo-unsplash-1536x1152.jpg";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:19:"shop_thumbnail_cart";a:5:{s:4:"file";s:48:"austin-distel-wD1LRb9OeEo-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}s:11:"shop_single";a:5:{s:4:"file";s:48:"austin-distel-wD1LRb9OeEo-unsplash-1000x1000.jpg";s:5:"width";i:1000;s:6:"height";i:1000;s:9:"mime-type";s:10:"image/jpeg";s:12:"wpex_dynamic";b:1;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>https://total.wpexplorer.com/bryce/templatera/footer/</link>
+		<link>https://total.wpexplorer.com/bryce/?wpex_templates=footer</link>
 		<pubDate>Tue, 10 Aug 2021 04:13:00 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=templatera&#038;p=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_section css=".vc_custom_1642899544160{padding-top: 50px !important;padding-bottom: 20px !important;}" el_class="wpex-text-gray-500 wpex-text-sm"][vc_row content_placement="middle" remove_bottom_col_margin="true"][vc_column width="1/3"][vcex_heading text="Bryce." bottom_margin="15px" color="#ffffff" font_size="1.5em" tag="div" font_weight="800" text_transform="uppercase" letter_spacing="2px"][vc_column_text]This is a sample demo for the Total WordPress theme by WPExplorer, create your site today.[/vc_column_text][vcex_spacing size="20px"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22discord%22%2C%22link%22%3A%22%23%22%7D%5D" spacing="10px" style="flat-color-round" hover_color="#ffffff"][/vc_column][vc_column width="1/3"][vcex_list_item icon="ticon ticon-phone" font_color="#ffffff" classes="wpex-md-text-center"](506) 123-456-7891[/vcex_list_item][vcex_list_item icon="ticon ticon-envelope-o" font_color="#ffffff" classes="wpex-md-text-center"]hello@brycedemo.com[/vcex_list_item][/vc_column][vc_column width="1/3"][vc_column_text el_class="wpex-md-text-center"]<a href="#">Privacy Policy</a>
-<a href="https://total.wpexplorer.com/bryce/contact">Contact Us</a>[/vc_column_text][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1642891476386{padding-top: 50px !important;padding-bottom: 50px !important;}"][vc_column][vcex_divider color="#333333" height="1px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true"][vc_column][vc_column_text color="rgba(255,255,255,0.6)" text_align="center"]Copyright [current_year] design by <a href="https://www.wpexplorer.com/">WPExplorer</a> powered by <a href="https://total.wpexplorer.com/">Total</a>[/vc_column_text][/vc_column][/vc_row][/vc_section]]]></content:encoded>
+		<content:encoded><![CDATA[<p>[vc_section css=".vc_custom_1642899544160{padding-top: 50px !important;padding-bottom: 20px !important;}" el_class="wpex-text-gray-500 wpex-text-sm"][vc_row content_placement="middle"][vc_column width="1/3"][vcex_heading text="Bryce." bottom_margin="15px" color="#ffffff" font_size="1.5em" tag="div" font_weight="800" text_transform="uppercase" letter_spacing="2px"][vc_column_text]This is a sample demo for the Total WordPress theme by WPExplorer, create your site today.[/vc_column_text][vcex_spacing size="20px"][vcex_social_links social_links="%5B%7B%22site%22%3A%22twitter%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22facebook%22%2C%22link%22%3A%22%23%22%7D%2C%7B%22site%22%3A%22discord%22%2C%22link%22%3A%22%23%22%7D%5D" spacing="10px" style="flat-color-round" hover_color="#ffffff"][/vc_column][vc_column width="1/3"][vcex_list_item icon="ticon ticon-phone" font_color="#ffffff" classes="wpex-md-text-center"](506) 123-456-7891[/vcex_list_item][vcex_list_item icon="ticon ticon-envelope-o" font_color="#ffffff" classes="wpex-md-text-center"]hello@brycedemo.com[/vcex_list_item][/vc_column][vc_column width="1/3"][vc_column_text el_class="wpex-md-text-center"]<a href="#">Privacy Policy</a><br />
+<a href="https://total.wpexplorer.com/bryce/contact">Contact Us</a>[/vc_column_text][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true" css=".vc_custom_1685057000513{padding-top: 20px !important;padding-bottom: 50px !important;}"][vc_column][vcex_divider color="#333333" height="1px"][/vc_column][/vc_row][vc_row remove_bottom_col_margin="true"][vc_column][vc_column_text color="rgba(255,255,255,0.6)" text_align="center"]Copyright [current_year] design by <a href="https://www.wpexplorer.com/">WPExplorer</a> powered by <a href="https://total.wpexplorer.com/">Total</a>[/vc_column_text][/vc_column][/vc_row][/vc_section]</p>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-10 04:13:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:13:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-23 00:59:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-23 00:59:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-25 23:23:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-25 23:23:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1642899544160{padding-top: 50px !important;padding-bottom: 20px !important;}.vc_custom_1642891476386{padding-top: 50px !important;padding-bottom: 50px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1642899544160{padding-top: 50px !important;padding-bottom: 20px !important;}.vc_custom_1685057000513{padding-top: 20px !important;padding-bottom: 50px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1642899544160{padding-top: 50px !important;padding-bottom: 20px !important;}.vc_custom_1642891476386{padding-top: 50px !important;padding-bottom: 50px !important;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1642899544160{padding-top: 50px !important;padding-bottom: 20px !important;}.vc_custom_1685057000513{padding-top: 20px !important;padding-bottom: 50px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[footer]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog Post]]></title>
-		<link>https://total.wpexplorer.com/bryce/templatera/blog-post/</link>
+		<link>https://total.wpexplorer.com/bryce/?wpex_templates=blog-post</link>
 		<pubDate>Tue, 10 Aug 2021 04:15:08 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=templatera&#038;p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row max_width_custom="850px" max_width_align="center"][vc_column css=".vc_custom_1642902809172{padding-right: 0px !important;padding-left: 0px !important;}"][vcex_spacing size="60px"][vcex_post_terms button_align="center" button_font_size="11px" button_padding="top:8px|right:16px|bottom:8px|left:16px"][vcex_spacing size="15px"][vcex_page_title bottom_margin="15px" font_size="d:2.4em|pl:2em|pp:1.6em" text_align="center"][vcex_post_meta sections="%5B%7B%22type%22%3A%22author%22%2C%22avatar_size%22%3A%2230%22%2C%22has_link%22%3A%22false%22%7D%2C%7B%22type%22%3A%22date%22%2C%22has_link%22%3A%22false%22%7D%2C%7B%22type%22%3A%22comments%22%2C%22has_link%22%3A%22true%22%7D%5D" separator="forward_slash" align="center" el_class="wpex-text-center"][vcex_spacing size="40px"][vcex_post_media img_size="blog_post"][vcex_spacing size="40px"][vcex_post_content font_size="18px"][vcex_spacing size="40px"][vcex_post_meta sections="%5B%7B%22type%22%3A%22date%22%2C%22label%22%3A%22Published%20on%22%7D%2C%7B%22type%22%3A%22author%22%2C%22label%22%3A%22Written%20by%22%7D%5D" style="vertical"][vcex_spacing size="50px"][vcex_heading text="Related Articles" style="bottom-border" bottom_margin="25px" tag="h3" font_size="1.5em"][wpex_post_cards custom_query="true" title_font_size="lg" thumbnail_size="blog_related" card_style="blog_7" grid_spacing="25" custom_query_args="post_type=post&amp;posts_per_page=3&amp;related=1" excerpt_length="0" el_class="bryce-related-posts"][vcex_spacing size="25px"][vcex_heading text="Disccussion" style="bottom-border" bottom_margin="25px" tag="h3" font_size="1.5em"][vcex_post_comments][vcex_spacing size="80px"][/vc_column][/vc_row]]]></content:encoded>
@@ -2055,15 +2046,15 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-10 04:15:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-10 04:15:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-25 01:01:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-25 01:01:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-25 23:21:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-25 23:21:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-post]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -2071,27 +2062,27 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_282cda6cfa841a649da3570c7099b45a]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1642902809172{padding-right: 0px !important;padding-left: 0px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Store]]></title>
 		<link>https://total.wpexplorer.com/bryce/store/</link>
 		<pubDate>Thu, 30 Sep 2021 20:51:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/shop/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2119,7 +2110,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Cart]]></title>
 		<link>https://total.wpexplorer.com/bryce/cart/</link>
 		<pubDate>Thu, 30 Sep 2021 20:51:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
@@ -2143,7 +2134,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Checkout]]></title>
 		<link>https://total.wpexplorer.com/bryce/checkout/</link>
 		<pubDate>Thu, 30 Sep 2021 20:51:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
@@ -2167,7 +2158,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[My account]]></title>
 		<link>https://total.wpexplorer.com/bryce/my-account/</link>
 		<pubDate>Thu, 30 Sep 2021 20:51:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
@@ -2191,7 +2182,7 @@ body.woocommerce-page #footer-builder { margin-top: 50px; }
 		<title><![CDATA[Design Faster & Smarter with the Total Framework and WordPress]]></title>
 		<link>https://total.wpexplorer.com/bryce/design-faster-smarter-with-the-total-framework/</link>
 		<pubDate>Thu, 30 Sep 2021 21:23:32 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam ex, cursus quis libero nec, pretium fringilla nisi. Nam massa ex, viverra non ullamcorper et, iaculis sit amet dui. Quisque vehicula, ex in malesuada sollicitudin, quam sapien volutpat diam, semper bibendum dolor purus aliquam risus. Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula. Suspendisse a dapibus augue.
@@ -2222,14 +2213,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="category"><![CDATA[Category]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[72]]></wp:meta_value>
 		</wp:postmeta>
@@ -2280,7 +2263,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Build Pages Faster with the Exclusive Section Templates]]></title>
 		<link>https://total.wpexplorer.com/bryce/build-pages-faster-with-the-exclusive-section-templates/</link>
 		<pubDate>Thu, 30 Sep 2021 21:37:31 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=74</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam ex, cursus quis libero nec, pretium fringilla nisi. Nam massa ex, viverra non ullamcorper et, iaculis sit amet dui. Quisque vehicula, ex in malesuada sollicitudin, quam sapien volutpat diam, semper bibendum dolor purus aliquam risus. Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula. Suspendisse a dapibus augue.
@@ -2311,14 +2294,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="category"><![CDATA[Category]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[75]]></wp:meta_value>
 		</wp:postmeta>
@@ -2369,7 +2344,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Never Before Seeing Creative Elements & Features]]></title>
 		<link>https://total.wpexplorer.com/bryce/never-before-seeing-creative-elements-features/</link>
 		<pubDate>Thu, 30 Sep 2021 21:44:18 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=80</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam ex, cursus quis libero nec, pretium fringilla nisi. Nam massa ex, viverra non ullamcorper et, iaculis sit amet dui. Quisque vehicula, ex in malesuada sollicitudin, quam sapien volutpat diam, semper bibendum dolor purus aliquam risus. Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula. Suspendisse a dapibus augue.
@@ -2400,14 +2375,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="category"><![CDATA[Category]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
@@ -2420,7 +2387,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[10 Reasons Why You Should Be Creating Sites With The Total Theme for WordPress]]></title>
 		<link>https://total.wpexplorer.com/bryce/10-reasons-why-you-should-be-creating-sites-with-total/</link>
 		<pubDate>Thu, 30 Sep 2021 21:47:16 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam ex, cursus quis libero nec, pretium fringilla nisi. Nam massa ex, viverra non ullamcorper et, iaculis sit amet dui. Quisque vehicula, ex in malesuada sollicitudin, quam sapien volutpat diam, semper bibendum dolor purus aliquam risus. Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula. Suspendisse a dapibus augue.
@@ -2451,14 +2418,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="category"><![CDATA[Category]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[why-you-should-only-use-total-for-your-projects]]></wp:meta_value>
 		</wp:postmeta>
@@ -2513,7 +2472,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Drive More Traffic To your Website With These Four Proven Steps]]></title>
 		<link>https://total.wpexplorer.com/bryce/drive-more-traffic-to-your-website-with-these-four-proven-steps/</link>
 		<pubDate>Thu, 30 Sep 2021 21:51:41 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=86</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam ex, cursus quis libero nec, pretium fringilla nisi. Nam massa ex, viverra non ullamcorper et, iaculis sit amet dui. Quisque vehicula, ex in malesuada sollicitudin, quam sapien volutpat diam, semper bibendum dolor purus aliquam risus. Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula. Suspendisse a dapibus augue.
@@ -2544,14 +2503,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="category"><![CDATA[Category]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[drive-more-traffic-to-your-website-with-these-three-proven-steps]]></wp:meta_value>
 		</wp:postmeta>
@@ -2606,7 +2557,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Why over 50,000 People Choose & Love Using Total for Their Websites]]></title>
 		<link>https://total.wpexplorer.com/bryce/why-over-50000-people-choose-love-using-total-for-their-websites/</link>
 		<pubDate>Thu, 30 Sep 2021 21:57:46 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?p=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In diam ex, cursus quis libero nec, pretium fringilla nisi. Nam massa ex, viverra non ullamcorper et, iaculis sit amet dui. Quisque vehicula, ex in malesuada sollicitudin, quam sapien volutpat diam, semper bibendum dolor purus aliquam risus. Curabitur eu metus orci. Morbi ultricies cursus lorem, quis blandit justo vestibulum sed. Vestibulum tincidunt neque vel ex hendrerit luctus. Vivamus quis congue ligula. Suspendisse a dapibus augue.
@@ -2637,24 +2588,12 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="category"><![CDATA[Category]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[89]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_282cda6cfa841a649da3570c7099b45a]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>14</wp:comment_id>
@@ -2703,7 +2642,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Black Shoe]]></title>
 		<link>https://total.wpexplorer.com/bryce/product/black-shoe/</link>
 		<pubDate>Thu, 30 Sep 2021 22:19:04 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=94</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2789,10 +2728,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_value><![CDATA[5.5.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[180]]></wp:meta_value>
 		</wp:postmeta>
@@ -2809,7 +2744,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Trendy Shoe]]></title>
 		<link>https://total.wpexplorer.com/bryce/product/trendy-shoe/</link>
 		<pubDate>Thu, 30 Sep 2021 23:00:10 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2902,16 +2837,12 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[175]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[White Shoe]]></title>
 		<link>https://total.wpexplorer.com/bryce/product/white-shoe/</link>
 		<pubDate>Thu, 30 Sep 2021 23:01:45 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=128</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3001,10 +2932,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_value><![CDATA[125]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[129]]></wp:meta_value>
 		</wp:postmeta>
@@ -3013,7 +2940,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Light Gray Shoe]]></title>
 		<link>https://total.wpexplorer.com/bryce/product/light-gray-shoe/</link>
 		<pubDate>Thu, 30 Sep 2021 23:25:00 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=136</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3106,16 +3033,12 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[99]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Red & Black Shoe]]></title>
 		<link>https://total.wpexplorer.com/bryce/product/138/</link>
 		<pubDate>Sat, 25 Sep 2021 23:25:29 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=138</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3205,10 +3128,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_value><![CDATA[135]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[140]]></wp:meta_value>
 		</wp:postmeta>
@@ -3221,7 +3140,7 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<title><![CDATA[Street Shoe]]></title>
 		<link>https://total.wpexplorer.com/bryce/product/street-shoe/</link>
 		<pubDate>Thu, 30 Sep 2021 23:35:29 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=product&#038;p=141</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3314,16 +3233,12 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog Archives]]></title>
-		<link>https://total.wpexplorer.com/bryce/templatera/blog-archives/</link>
+		<link>https://total.wpexplorer.com/bryce/?wpex_templates=blog-archives</link>
 		<pubDate>Sat, 09 Oct 2021 20:01:02 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?post_type=templatera&#038;p=154</guid>
 		<description></description>
 		<content:encoded><![CDATA[[vc_row remove_bottom_col_margin="true" css=".vc_custom_1642902559608{margin-bottom: 100px !important;}" max_width_custom="850px"][vc_column css=".vc_custom_1642902779755{padding-right: 0px !important;padding-left: 0px !important;}"][wpex_post_cards display_type="list" list_spacing="50px" list_divider="solid" auto_query="true" pagination_loadmore="true" title_font_size="4xl" thumbnail_size="blog_entry" card_style="blog_10" excerpt_length="50"][/vc_column][/vc_row]]]></content:encoded>
@@ -3331,15 +3246,15 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2021-10-09 20:01:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-10-09 20:01:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-23 01:53:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-23 01:53:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-25 23:21:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-25 23:21:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-archives]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -3347,72 +3262,23 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:meta_value><![CDATA[.vc_custom_1642902559608{margin-bottom: 100px !important;}.vc_custom_1642902779755{padding-right: 0px !important;padding-left: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1642902559608{margin-bottom: 100px !important;}.vc_custom_1642902779755{padding-right: 0px !important;padding-left: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[404 Page]]></title>
-		<link>https://total.wpexplorer.com/bryce/404-page/</link>
-		<pubDate>Tue, 19 Oct 2021 04:28:58 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
-		<guid isPermaLink="false">https://total.wpexplorer.com/bolt/?page_id=211</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row remove_bottom_col_margin="true" css=".vc_custom_1642967034499{margin-top: 100px !important;margin-bottom: 100px !important;}" max_width_custom="850px" max_width_align="center"][vc_column][vcex_heading text="Page Not Found" bottom_margin="20px" font_size="d:4em|pl:2.5em"][vc_column_text]Unfortunately the page you were trying to access no longer exists or has never existed. You may want to go back to the <a href="https://total.wpexplorer.com/bryce/">homepage</a> or search below:[/vc_column_text][vcex_spacing size="40px"][vcex_searchbar button_font_size="14px" button_letter_spacing="2px"][/vc_column][/vc_row]</p>
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>211</wp:post_id>
-		<wp:post_date><![CDATA[2021-10-19 04:28:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-10-19 04:28:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-01-23 19:45:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-01-23 19:45:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[404-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1642967034499{margin-top: 100px !important;margin-bottom: 100px !important;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[archive]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Mukta (Body Font)]]></title>
 		<link>https://total.wpexplorer.com/bryce/?wpex_font=muhkta-body-font</link>
 		<pubDate>Fri, 21 Jan 2022 23:40:37 +0000</pubDate>
-		<dc:creator><![CDATA[totalthememain]]></dc:creator>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/?post_type=wpex_font&#038;p=233</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3432,10 +3298,6 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[google]]></wp:meta_value>
 		</wp:postmeta>
@@ -3458,6 +3320,42 @@ Suspendisse elementum magna augue, sed laoreet nunc elementum vitae. Etiam bland
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[google_font_weights]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{i:0;s:3:"200";i:1;s:3:"300";i:2;s:3:"400";i:3;s:3:"700";i:4;s:3:"800";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[404]]></title>
+		<link>https://total.wpexplorer.com/bryce/?wpex_templates=404</link>
+		<pubDate>Fri, 26 May 2023 00:25:50 +0000</pubDate>
+		<dc:creator><![CDATA[andyauthor]]></dc:creator>
+		<guid isPermaLink="false">https://total.wpexplorer.com/bryce/?post_type=wpex_templates&#038;p=348</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row remove_bottom_col_margin="true" css=".vc_custom_1642967034499{margin-top: 100px !important;margin-bottom: 100px !important;}" max_width_custom="850px" max_width_align="center"][vc_column][vcex_heading text="Page Not Found" bottom_margin="20px" font_size="d:4em|pl:2.5em"][vc_column_text]Unfortunately the page you were trying to access no longer exists or has never existed. You may want to go back to the <a href="https://total.wpexplorer.com/bryce/">homepage</a> or search below:[/vc_column_text][vcex_spacing size="40px"][vcex_searchbar button_font_size="14px" button_letter_spacing="2px"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>348</wp:post_id>
+		<wp:post_date><![CDATA[2023-05-26 00:25:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-05-26 00:25:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-05-26 00:25:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-26 00:25:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[.vc_custom_1642967034499{margin-top: 100px !important;margin-bottom: 100px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[error_404]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
