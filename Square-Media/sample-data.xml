@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.3" created="2022-05-05 22:42" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-28 23:48" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Square Media</title>
 	<link>https://total.wpexplorer.com/square-media</link>
-	<description>Better Web Design</description>
-	<pubDate>Thu, 05 May 2022 22:42:41 +0000</pubDate>
+	<description>Total Theme Demo</description>
+	<pubDate>Sun, 28 May 2023 23:48:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://total.wpexplorer.com/</wp:base_site_url>
@@ -69,7 +69,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[Main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 		<item>
 		<title><![CDATA[best-hosting]]></title>
@@ -942,25 +942,36 @@
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/total/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* Copyright Link Edits */
+		<content:encoded><![CDATA[/* Underline certain links */
+.navbar-style-one .dropdown-menu > li.menu-item > a:hover > .link-inner,
+.vcex-post-meta a,
+a.theme-txt-link,
+.sqm-copyright a,
+.single .vcex-post-content-c a,
+.vcex-icon-box-content a,
+.author-bio-title a { text-decoration: underline; }
+
+/* Copyright Link Edits */
 .square-media-copyright a { color: inherit; }
 
-/* Remove hover opacity on mobile menu */
-.full-screen-overlay-nav.black a {
-	opacity: 1;
+/* Slim down hamburger mobile menu */
+.wpex-bars { width: 30px; }
+.wpex-bars > span,
+.wpex-bars > span::before,
+.wpex-bars > span::after {
+	height: 1px;
 }
 
-/* Remove breadcrumbs underline on links */
-.vcex-breadcrumbs {
-	--wpex-link-text-decoration: none;
-	--wpex-hover-link-text-decoration: none;
+/* Make mobile menu links white */
+.full-screen-overlay-nav.black a {
+	opacity: 1;
 }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:48:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:48:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-04-26 23:13:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-04-26 23:13:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-15 01:17:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-15 01:17:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[total]]></wp:post_name>
@@ -1708,6 +1719,10 @@
 		<wp:meta_key><![CDATA[wpex_disable_title]]></wp:meta_key>
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
@@ -1810,6 +1825,10 @@
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Professional Services at Affordable Prices.]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Work]]></title>
@@ -1845,6 +1864,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wpex_post_subheading]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Oh, the wonderful things Mr. Brown can do.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2820,8 +2843,8 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Layout - Footer]]></title>
-		<link>https://total.wpexplorer.com/square-media/templatera/layout-footer/</link>
+		<title><![CDATA[Footer]]></title>
+		<link>https://total.wpexplorer.com/square-media/?wpex_templates=layout-footer</link>
 		<pubDate>Tue, 19 Jan 2021 23:19:45 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=15</guid>
@@ -2831,25 +2854,33 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 23:19:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 23:19:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-01-21 22:32:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-01-21 22:32:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-28 23:41:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-28 23:41:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[layout-footer]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1611204714922{margin-top: 40px !important;margin-bottom: 100px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #0a0a0a !important;}.vc_custom_1611194755451{margin-bottom: 20px !important;}.vc_custom_1611108779669{margin-right: 20px !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[footer]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Single - Blog Posts]]></title>
-		<link>https://total.wpexplorer.com/square-media/templatera/single-blog-posts/</link>
+		<title><![CDATA[Blog Post]]></title>
+		<link>https://total.wpexplorer.com/square-media/?wpex_templates=single-blog-posts</link>
 		<pubDate>Wed, 20 Jan 2021 01:08:32 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=71</guid>
@@ -2860,25 +2891,33 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 01:08:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 01:08:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-16 21:28:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-16 21:28:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-28 23:41:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-28 23:41:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-blog-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1611198813282{padding-top: 15px !important;padding-bottom: 15px !important;background-color: #f4f4f4 !important;}.vc_custom_1611198786756{margin-top: 60px !important;}.vc_custom_1611194295044{margin-bottom: 60px !important;}.vc_custom_1611105860768{margin-bottom: 60px !important;padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f4f4f4 !important;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Single - Staff]]></title>
-		<link>https://total.wpexplorer.com/square-media/templatera/single-staff/</link>
+		<title><![CDATA[Staff Post]]></title>
+		<link>https://total.wpexplorer.com/square-media/?wpex_templates=single-staff</link>
 		<pubDate>Wed, 20 Jan 2021 19:03:10 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=131</guid>
@@ -2888,21 +2927,25 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 19:03:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 19:03:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-01-20 19:39:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-01-20 19:39:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-28 23:41:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-28 23:41:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-staff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title><![CDATA[Archive - Search Results]]></title>
-		<link>https://total.wpexplorer.com/square-media/templatera/archive-search-results/</link>
+		<title><![CDATA[Search Results]]></title>
+		<link>https://total.wpexplorer.com/square-media/?wpex_templates=archive-search-results</link>
 		<pubDate>Thu, 21 Jan 2021 01:42:21 +0000</pubDate>
 		<dc:creator><![CDATA[andyauthor]]></dc:creator>
 		<guid isPermaLink="false">https://total.wpexplorer.com/square-media/?post_type=templatera&#038;p=173</guid>
@@ -2912,20 +2955,28 @@ And with your a WooCommerce store setup you can even create your own affiliate p
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 01:42:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 01:42:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-01-21 22:31:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-01-21 22:31:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-28 23:41:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-28 23:41:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive-search-results]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[templatera]]></wp:post_type>
+		<wp:post_type><![CDATA[wpex_templates]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[.vc_custom_1611193734297{margin-bottom: 30px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css_updated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[wpex_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[archive]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
